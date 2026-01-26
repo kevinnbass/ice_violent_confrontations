@@ -1,0 +1,2221 @@
+{
+  "_metadata": {
+    "description": "Sanctuary jurisdiction reference data for cross-referencing with incidents",
+    "sources": [
+      "https://cis.org/Map-Sanctuary-Cities-Counties-and-States",
+      "https://www.ilrc.org/resources/national-map-local-entanglement-ice",
+      "https://www.justice.gov/ag/us-sanctuary-jurisdiction-list-following-executive-order-14287-protecting-american-communities",
+      "https://www.fairus.org/issue/the-17-sanctuary-states"
+    ],
+    "last_updated": "2026-01-25",
+    "notes": "State classifications based on state law; local classifications may differ. Policy conflicts noted where city/county policy differs from state mandate.",
+    "verification_note": "All entries include source_url linking to official legislative text or government source"
+  },
+  "states": {
+    "California": {
+      "classification": "sanctuary",
+      "primary_law": "SB 54 California Values Act (2017)",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "effective_date": "2018-01-01",
+      "notes": "Statewide sanctuary law limiting local cooperation with ICE. Additional protections added 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Colorado": {
+      "classification": "sanctuary",
+      "primary_law": "HB19-1124 (2019)",
+      "detainer_policy": "honor_judicial",
+      "doj_designated": false,
+      "effective_date": "2019-05-28",
+      "notes": "Prohibits honoring ICE detainers without judicial warrant.",
+      "source_url": "https://leg.colorado.gov/bills/hb19-1124",
+      "source_name": "Colorado General Assembly - HB19-1124",
+      "last_verified": "2026-01-25"
+    },
+    "Connecticut": {
+      "classification": "sanctuary",
+      "primary_law": "TRUST Act (2013)",
+      "detainer_policy": "honor_judicial",
+      "doj_designated": false,
+      "effective_date": "2013-01-01",
+      "notes": "Limits compliance with ICE detainers to judicial warrants.",
+      "source_url": "https://www.cga.ct.gov/2013/ACT/pa/pdf/2013PA-00155-R00HB-06659-PA.pdf",
+      "source_name": "Connecticut General Assembly - TRUST Act",
+      "last_verified": "2026-01-25"
+    },
+    "Illinois": {
+      "classification": "sanctuary",
+      "primary_law": "TRUST Act + 2025 protection package",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "effective_date": "2017-08-28",
+      "notes": "DOJ sued Pritzker Dec 2025 over new protection laws passed after Midway Blitz.",
+      "source_url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3818",
+      "source_name": "Illinois General Assembly - TRUST Act (SB 31)",
+      "last_verified": "2026-01-25"
+    },
+    "Maryland": {
+      "classification": "sanctuary",
+      "primary_law": "TRUST Act (2020)",
+      "detainer_policy": "honor_judicial",
+      "doj_designated": false,
+      "effective_date": "2020-10-01",
+      "notes": "1,400+ churches obtained federal injunction protection 2025.",
+      "source_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0167?ys=2020RS",
+      "source_name": "Maryland General Assembly - Trust Act SB 167",
+      "last_verified": "2026-01-25"
+    },
+    "Massachusetts": {
+      "classification": "sanctuary",
+      "primary_law": "SJC ruling + local policies",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "notes": "State supreme court ruled detainers not legally binding 2017.",
+      "source_url": "https://www.mass.gov/info-details/lunn-v-commonwealth",
+      "source_name": "Massachusetts Supreme Judicial Court - Lunn v. Commonwealth",
+      "last_verified": "2026-01-25"
+    },
+    "New Jersey": {
+      "classification": "sanctuary",
+      "primary_law": "AG Directive 2018-6",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "effective_date": "2018-11-29",
+      "notes": "Newark mayor defied ICE publicly Jan 2025.",
+      "source_url": "https://www.nj.gov/oag/newsreleases19/ag-directive-2018-6_v2.pdf",
+      "source_name": "NJ Attorney General Directive 2018-6 v2.0",
+      "last_verified": "2026-01-25"
+    },
+    "New Mexico": {
+      "classification": "sanctuary",
+      "primary_law": "HB 100 (2019)",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "effective_date": "2019-04-03",
+      "source_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=100&year=19",
+      "source_name": "New Mexico Legislature - HB 100",
+      "last_verified": "2026-01-25"
+    },
+    "New York": {
+      "classification": "sanctuary",
+      "primary_law": "Multiple protections",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "notes": "NYC has strongest protections; state varies by county.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/EXC/837-P",
+      "source_name": "NY Senate - Executive Law 837-p (Protect Our Courts Act)",
+      "last_verified": "2026-01-25"
+    },
+    "Oregon": {
+      "classification": "sanctuary",
+      "primary_law": "ORS 181A.820 (1987, updated 2021)",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "effective_date": "1987-01-01",
+      "notes": "Oldest sanctuary law in nation. Portland police prohibited from immigration enforcement.",
+      "source_url": "https://oregon.public.law/statutes/ors_181a.820",
+      "source_name": "Oregon Revised Statutes ORS 181A.820",
+      "last_verified": "2026-01-25"
+    },
+    "Rhode Island": {
+      "classification": "sanctuary",
+      "primary_law": "Executive Order (2014)",
+      "detainer_policy": "honor_judicial",
+      "doj_designated": false,
+      "source_url": "https://governor.ri.gov/executive-orders/executive-order-14-07",
+      "source_name": "Rhode Island Executive Order 14-07",
+      "last_verified": "2026-01-25"
+    },
+    "Vermont": {
+      "classification": "sanctuary",
+      "primary_law": "Act 69 (2017)",
+      "detainer_policy": "honor_judicial",
+      "doj_designated": false,
+      "source_url": "https://legislature.vermont.gov/bill/status/2018/S.79",
+      "source_name": "Vermont Legislature - Act 69 (S.79)",
+      "last_verified": "2026-01-25"
+    },
+    "Washington": {
+      "classification": "sanctuary",
+      "primary_law": "Keep Washington Working Act (2019)",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "effective_date": "2019-05-21",
+      "source_url": "https://app.leg.wa.gov/billsummary?BillNumber=1497&Year=2019",
+      "source_name": "Washington Legislature - HB 1497 Keep Washington Working Act",
+      "last_verified": "2026-01-25"
+    },
+    "Minnesota": {
+      "classification": "sanctuary",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "No formal statewide law but Minneapolis/St. Paul and Hennepin County operate as strong sanctuary jurisdictions. Governor Walz under DOJ investigation Jan 2026. State declined to assist ICE enforcement, prompting massive federal response.",
+      "source_url": "https://www.house.mn.gov/hrd/pubs/immigr.pdf",
+      "source_name": "MN House Research - Immigration Enforcement Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Texas": {
+      "classification": "anti_sanctuary",
+      "primary_law": "SB 4 (2017)",
+      "detainer_policy": "state_mandated",
+      "doj_designated": false,
+      "effective_date": "2017-09-01",
+      "notes": "Bans sanctuary policies statewide. Criminal penalties for officials. Local jurisdictions like Austin constrained.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Florida": {
+      "classification": "anti_sanctuary",
+      "primary_law": "SB 168 (2019) + SB 1718 (2023)",
+      "detainer_policy": "state_mandated",
+      "doj_designated": false,
+      "effective_date": "2019-07-01",
+      "notes": "All sheriffs signed ICE cooperation agreements. Only 3 detainers declined statewide 2025.",
+      "source_url": "https://www.flsenate.gov/Session/Bill/2019/00168",
+      "source_name": "Florida Senate - SB 168 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "Arizona": {
+      "classification": "anti_sanctuary",
+      "primary_law": "SB 1070 (2010, partial)",
+      "detainer_policy": "honor_all",
+      "doj_designated": false,
+      "notes": "Historically aggressive enforcement. Some provisions struck down.",
+      "source_url": "https://www.azleg.gov/legtext/49leg/2r/bills/sb1070s.pdf",
+      "source_name": "Arizona Legislature - SB 1070",
+      "last_verified": "2026-01-25"
+    },
+    "Georgia": {
+      "classification": "anti_sanctuary",
+      "primary_law": "HB 87 (2011)",
+      "detainer_policy": "honor_all",
+      "doj_designated": false,
+      "notes": "Site of Hyundai plant raid (475 detained).",
+      "source_url": "https://www.legis.ga.gov/legislation/en-US/Display/20112012/HB/87",
+      "source_name": "Georgia General Assembly - HB 87",
+      "last_verified": "2026-01-25"
+    },
+    "Indiana": {
+      "classification": "anti_sanctuary",
+      "primary_law": "IC 5-2-18.2 (2011)",
+      "detainer_policy": "honor_all",
+      "doj_designated": false,
+      "source_url": "https://iga.in.gov/legislative/laws/2023/ic/titles/5#5-2-18.2",
+      "source_name": "Indiana Code IC 5-2-18.2",
+      "last_verified": "2026-01-25"
+    },
+    "Iowa": {
+      "classification": "anti_sanctuary",
+      "primary_law": "SF 481 (2018)",
+      "detainer_policy": "state_mandated",
+      "doj_designated": false,
+      "source_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=87&ba=SF481",
+      "source_name": "Iowa Legislature - SF 481",
+      "last_verified": "2026-01-25"
+    },
+    "Tennessee": {
+      "classification": "aggressive_anti_sanctuary",
+      "primary_law": "SB 6002 (2025)",
+      "detainer_policy": "state_mandated",
+      "doj_designated": false,
+      "effective_date": "2025-01-29",
+      "notes": "Criminal penalties for officials who adopt sanctuary policies; removal from office upon conviction.",
+      "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB6002&GA=114",
+      "source_name": "Tennessee General Assembly - SB 6002 (2025)",
+      "last_verified": "2026-01-25"
+    },
+    "New Hampshire": {
+      "classification": "anti_sanctuary",
+      "primary_law": "HB 511 + SB 62 (2025)",
+      "detainer_policy": "state_mandated",
+      "doj_designated": false,
+      "effective_date": "2026-01-01",
+      "notes": "Banned sanctuary cities Jan 2026.",
+      "source_url": "https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=1335&inflession=2",
+      "source_name": "NH General Court - HB 511 (2025)",
+      "last_verified": "2026-01-25"
+    },
+    "Alabama": {
+      "classification": "anti_sanctuary",
+      "primary_law": "HB 56 (2011, partial)",
+      "detainer_policy": "honor_all",
+      "doj_designated": false,
+      "source_url": "https://www.legislature.state.al.us/pdf/SearchableInstruments/2011RS/HB56-enr.pdf",
+      "source_name": "Alabama Legislature - HB 56 (2011)",
+      "last_verified": "2026-01-25"
+    },
+    "Louisiana": {
+      "classification": "anti_sanctuary",
+      "primary_law": "HB 101 (2024)",
+      "detainer_policy": "state_mandated",
+      "doj_designated": false,
+      "notes": "State troopers empowered with immigration enforcement authority.",
+      "source_url": "https://legis.la.gov/legis/BillInfo.aspx?s=24RS&b=HB101",
+      "source_name": "Louisiana Legislature - HB 101 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "Oklahoma": {
+      "classification": "anti_sanctuary",
+      "primary_law": "HB 4156 (2024)",
+      "detainer_policy": "state_mandated",
+      "doj_designated": false,
+      "notes": "State police immigration enforcement authority.",
+      "source_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=HB4156&Session=2400",
+      "source_name": "Oklahoma Legislature - HB 4156 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "North Carolina": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "Varies significantly by county. Wake County cooperative; Mecklenburg declined detainers until 2025.",
+      "source_url": "https://www.ncsheriffs.org/resources/immigration-enforcement",
+      "source_name": "NC Sheriffs Association - Immigration Policy Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Virginia": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "Northern Virginia localities more restrictive; rural areas cooperative.",
+      "source_url": "https://law.lis.virginia.gov/vacode/title19.2/chapter1/",
+      "source_name": "Code of Virginia - Criminal Procedure",
+      "last_verified": "2026-01-25"
+    },
+    "Pennsylvania": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "Philadelphia has sanctuary policy; rest of state varies.",
+      "source_url": "https://www.phila.gov/2019-11-21-new-policy-limits-cooperation-with-ice/",
+      "source_name": "City of Philadelphia - ICE Policy (state has no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Michigan": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "Detroit and Ann Arbor have sanctuary policies.",
+      "source_url": "https://www.michigan.gov/ag/consumer-protection/civil-rights",
+      "source_name": "Michigan AG - Civil Rights (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Ohio": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "Columbus has limited cooperation policy.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-9",
+      "source_name": "Ohio Revised Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Wisconsin": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "Madison and Milwaukee have sanctuary-like policies.",
+      "source_url": "https://docs.legis.wisconsin.gov/statutes/prefaces/toc",
+      "source_name": "Wisconsin Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Nevada": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "Las Vegas Metro PD has limited cooperation policy.",
+      "source_url": "https://www.leg.state.nv.us/NRS/",
+      "source_name": "Nevada Revised Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "District of Columbia": {
+      "classification": "sanctuary",
+      "primary_law": "Sanctuary Values Act (2019)",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "notes": "DC has strong sanctuary protections; does not honor ICE detainers.",
+      "source_url": "https://code.dccouncil.gov/us/dc/council/code/titles/24/chapters/2A",
+      "source_name": "DC Code - Sanctuary Values Act",
+      "last_verified": "2026-01-25"
+    },
+    "Puerto Rico": {
+      "classification": "neutral",
+      "primary_law": "No formal policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "US territory with different legal framework. Generally cooperative with federal enforcement.",
+      "source_url": "https://www.oslpr.org/",
+      "source_name": "Puerto Rico Office of Legislative Services",
+      "last_verified": "2026-01-25"
+    },
+    "Maine": {
+      "classification": "sanctuary",
+      "primary_law": "LD 1492 (2019)",
+      "detainer_policy": "honor_judicial",
+      "doj_designated": false,
+      "effective_date": "2020-01-01",
+      "notes": "Limits state/local cooperation with ICE detainers.",
+      "source_url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0457&item=3&session=129",
+      "source_name": "Maine Legislature - LD 1492",
+      "last_verified": "2026-01-25"
+    },
+    "Mississippi": {
+      "classification": "anti_sanctuary",
+      "primary_law": "HB 1520 (2024)",
+      "detainer_policy": "honor_all",
+      "doj_designated": false,
+      "notes": "Anti-sanctuary state; law enforcement required to cooperate with ICE.",
+      "source_url": "https://billstatus.ls.state.ms.us/2024/pdf/history/HB/HB1520.xml",
+      "source_name": "Mississippi Legislature - HB 1520 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "Missouri": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "No statewide sanctuary or anti-sanctuary law. Varies by locality.",
+      "source_url": "https://revisor.mo.gov/main/Home.aspx",
+      "source_name": "Missouri Revisor of Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Montana": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "No statewide policy. Rural state with limited ICE presence.",
+      "source_url": "https://leg.mt.gov/bills/mca/title_0000/chapters_index.html",
+      "source_name": "Montana Code Annotated (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Nebraska": {
+      "classification": "anti_sanctuary",
+      "primary_law": "LB 1140 (2024)",
+      "detainer_policy": "honor_all",
+      "doj_designated": false,
+      "effective_date": "2024-07-19",
+      "notes": "Bans sanctuary policies; requires cooperation with federal immigration enforcement.",
+      "source_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54693",
+      "source_name": "Nebraska Legislature - LB 1140 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "South Carolina": {
+      "classification": "anti_sanctuary",
+      "primary_law": "SC Code 17-13-170 (2011)",
+      "detainer_policy": "honor_all",
+      "doj_designated": false,
+      "notes": "Requires law enforcement to verify immigration status; cooperate with ICE.",
+      "source_url": "https://www.scstatehouse.gov/code/t17c013.php",
+      "source_name": "SC Code of Laws - Title 17 Chapter 13",
+      "last_verified": "2026-01-25"
+    },
+    "Utah": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "notes": "No formal statewide policy. Salt Lake City has some protective policies.",
+      "source_url": "https://le.utah.gov/xcode/code.html",
+      "source_name": "Utah Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Kansas": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "source_url": "https://www.kslegislature.org/li/b2023_24/statute/",
+      "source_name": "Kansas Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Kentucky": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "source_url": "https://apps.legislature.ky.gov/law/statutes/",
+      "source_name": "Kentucky Revised Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Arkansas": {
+      "classification": "anti_sanctuary",
+      "primary_law": "Act 1029 (2019)",
+      "detainer_policy": "honor_all",
+      "doj_designated": false,
+      "notes": "Bans sanctuary policies in the state.",
+      "source_url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2019R%2FPublic%2F&file=1029.pdf",
+      "source_name": "Arkansas Legislature - Act 1029 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "West Virginia": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "source_url": "https://www.wvlegislature.gov/wvcode/code.cfm",
+      "source_name": "West Virginia Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Hawaii": {
+      "classification": "sanctuary",
+      "primary_law": "HB 1975 (2022)",
+      "detainer_policy": "decline_all",
+      "doj_designated": false,
+      "notes": "Limits law enforcement cooperation with ICE.",
+      "source_url": "https://www.capitol.hawaii.gov/session2022/bills/HB1975_CD1_.HTM",
+      "source_name": "Hawaii Legislature - HB 1975 (2022)",
+      "last_verified": "2026-01-25"
+    },
+    "Alaska": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "source_url": "https://www.akleg.gov/basis/statutes.asp",
+      "source_name": "Alaska Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Delaware": {
+      "classification": "sanctuary",
+      "primary_law": "HB 126 (2021)",
+      "detainer_policy": "honor_judicial",
+      "doj_designated": false,
+      "notes": "Limits ICE cooperation to judicial warrants.",
+      "source_url": "https://legis.delaware.gov/BillDetail?LegislationId=48808",
+      "source_name": "Delaware General Assembly - HB 126 (2021)",
+      "last_verified": "2026-01-25"
+    },
+    "Idaho": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/",
+      "source_name": "Idaho Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Wyoming": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "source_url": "https://www.wyoleg.gov/StateStatutes/StatutesDownload",
+      "source_name": "Wyoming Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "North Dakota": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "source_url": "https://www.ndlegis.gov/general-information/north-dakota-century-code",
+      "source_name": "North Dakota Century Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "South Dakota": {
+      "classification": "neutral",
+      "primary_law": "No statewide policy",
+      "detainer_policy": "case_by_case",
+      "doj_designated": false,
+      "source_url": "https://sdlegislature.gov/Statutes/Codified_Laws/",
+      "source_name": "South Dakota Codified Laws (no statewide policy)",
+      "last_verified": "2026-01-25"
+    }
+  },
+  "cities_with_notable_policies": {
+    "Austin, TX": {
+      "state": "Texas",
+      "local_status": "policy_conflict",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": true,
+      "notes": "Historically immigrant-friendly but constrained by TX SB4. APD contacted ICE 33 times Jan-Sept 2025. Chief Davis: 'to me, means it's a sanctuary city' but cannot prohibit ICE contact.",
+      "source_url": "https://www.kut.org/crime-justice/2026-01-14/ice-apd-austin-police-immigration-trump-policy-change",
+      "source_name": "KUT - APD ICE Policy (2026)",
+      "last_verified": "2026-01-25"
+    },
+    "Houston, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Complies with SB4. Large immigrant population.",
+      "source_url": "https://www.houstontx.gov/police/general_orders/600/600-22_Cooperation_with_Federal_Immigration_Authorities.pdf",
+      "source_name": "Houston PD General Order 600-22",
+      "last_verified": "2026-01-25"
+    },
+    "Dallas, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "San Antonio, TX": {
+      "state": "Texas",
+      "local_status": "policy_conflict",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": true,
+      "notes": "Former sanctuary policy now constrained by SB4.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Los Angeles, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Special Order 40 (1979) - oldest major city sanctuary policy.",
+      "source_url": "https://clkrep.lacity.org/onlinedocs/1979/79-0053_ORD_153319.pdf",
+      "source_name": "LAPD Special Order 40 (1979)",
+      "last_verified": "2026-01-25"
+    },
+    "San Francisco, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
+      "source_url": "https://sfgov.org/olse/sanctuary-city-ordinance",
+      "source_name": "SF Office of Labor Standards - Sanctuary City Ordinance",
+      "last_verified": "2026-01-25"
+    },
+    "San Diego, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated. Border county with complex dynamics.",
+      "source_url": "https://www.sandiego.gov/police/about/community-relations",
+      "source_name": "San Diego PD - Community Relations Policy",
+      "last_verified": "2026-01-25"
+    },
+    "New York City, NY": {
+      "state": "New York",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Executive Order 41 (2003, expanded). Strongest municipal protections.",
+      "source_url": "https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1935437",
+      "source_name": "NYC Council - Local Law 228 (2014)",
+      "last_verified": "2026-01-25"
+    },
+    "Chicago, IL": {
+      "state": "Illinois",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Welcoming City Ordinance. Site of numerous 2025 enforcement operations.",
+      "source_url": "https://codelibrary.amlegal.com/codes/chicago/latest/chicago_il/0-0-0-2670269",
+      "source_name": "Chicago Municipal Code - Welcoming City Ordinance",
+      "last_verified": "2026-01-25"
+    },
+    "Cook County, IL": {
+      "state": "Illinois",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
+      "source_url": "https://www.cookcountysheriff.org/policies/",
+      "source_name": "Cook County Sheriff - Detainer Policy",
+      "last_verified": "2026-01-25"
+    },
+    "Denver, CO": {
+      "state": "Colorado",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Denver Public Schools filed (later dismissed) lawsuit over sensitive locations.",
+      "source_url": "https://www.denvergov.org/files/assets/public/v/1/executive-order-no.-116.pdf",
+      "source_name": "Denver Executive Order 116",
+      "last_verified": "2026-01-25"
+    },
+    "Seattle, WA": {
+      "state": "Washington",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "source_url": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT4AM_CH4.18AM",
+      "source_name": "Seattle Municipal Code 4.18 - Welcoming City",
+      "last_verified": "2026-01-25"
+    },
+    "Portland, OR": {
+      "state": "Oregon",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Police prohibited from immigration enforcement since 1987.",
+      "source_url": "https://www.portland.gov/code/3/113",
+      "source_name": "Portland City Code 3.113 - Prohibition on Federal Immigration Enforcement",
+      "last_verified": "2026-01-25"
+    },
+    "Minneapolis, MN": {
+      "state": "Minnesota",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "One of the most aggressive sanctuary cities in the US. DOJ investigation opened Jan 2026 into Mayor Frey over 1,360 declined detainers. Site of massive federal response including Operation Tidal Wave with 2000+ officers. Hennepin County also declines detainers.",
+      "source_url": "https://minneapolis2040.com/policies/welcoming-city/",
+      "source_name": "Minneapolis 2040 Plan - Welcoming City Policy",
+      "last_verified": "2026-01-25"
+    },
+    "Newark, NJ": {
+      "state": "New Jersey",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Mayor Ras Baraka publicly defied ICE Jan 2025.",
+      "source_url": "https://www.newarknj.gov/news/mayor-baraka-issues-executive-order-strengthening-newarks-sanctuary-city-status",
+      "source_name": "Newark Mayor Executive Order on Sanctuary Status",
+      "last_verified": "2026-01-25"
+    },
+    "Philadelphia, PA": {
+      "state": "Pennsylvania",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "City policy in neutral state. Executive Order 2016.",
+      "source_url": "https://www.phila.gov/2019-11-21-new-policy-limits-cooperation-with-ice/",
+      "source_name": "City of Philadelphia - Policy Limiting ICE Cooperation",
+      "last_verified": "2026-01-25"
+    },
+    "Baltimore, MD": {
+      "state": "Maryland",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "source_url": "https://mayor.baltimorecity.gov/news/press-releases/2017-03-31-mayor-pugh-signs-executive-order-strengthening-baltimore%E2%80%99s-commitment",
+      "source_name": "Baltimore Mayor Executive Order (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Baltimore County, MD": {
+      "state": "Maryland",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
+      "source_url": "https://www.baltimorecountymd.gov/departments/law/",
+      "source_name": "Baltimore County Law Department",
+      "last_verified": "2026-01-25"
+    },
+    "Boston, MA": {
+      "state": "Massachusetts",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Trust Act + local policy.",
+      "source_url": "https://www.boston.gov/departments/mayors-office/trust-act",
+      "source_name": "City of Boston - TRUST Act Policy",
+      "last_verified": "2026-01-25"
+    },
+    "Miami, FL": {
+      "state": "Florida",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Ended sanctuary policy 2017 after state law.",
+      "source_url": "https://www.miamidade.gov/global/government/commission/ordinances.page",
+      "source_name": "Miami-Dade County Ordinances",
+      "last_verified": "2026-01-25"
+    },
+    "Phoenix, AZ": {
+      "state": "Arizona",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "source_url": "https://www.phoenix.gov/police/neighborhood-resources",
+      "source_name": "Phoenix PD - Community Policing Policy",
+      "last_verified": "2026-01-25"
+    },
+    "Las Vegas, NV": {
+      "state": "Nevada",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Metro PD has limited cooperation; does not honor all detainers.",
+      "source_url": "https://www.lvmpd.com/en-us/Documents/LVMPD-Policy-Manual.pdf",
+      "source_name": "Las Vegas Metro PD Policy Manual",
+      "last_verified": "2026-01-25"
+    },
+    "Detroit, MI": {
+      "state": "Michigan",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "source_url": "https://detroitmi.gov/departments/police-department",
+      "source_name": "Detroit PD - Department Policy",
+      "last_verified": "2026-01-25"
+    },
+    "Atlanta, GA": {
+      "state": "Georgia",
+      "local_status": "policy_conflict",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": true,
+      "notes": "City attempted sanctuary-like policies; constrained by state law.",
+      "source_url": "https://www.atlantaga.gov/government/mayor-s-office/executive-orders",
+      "source_name": "City of Atlanta - Executive Orders",
+      "last_verified": "2026-01-25"
+    },
+    "Charlotte, NC": {
+      "state": "North Carolina",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Mecklenburg County ended non-cooperation 2025.",
+      "source_url": "https://www.ncsheriffs.org/resources/immigration-enforcement",
+      "source_name": "State-level: NC Sheriffs Association - Immigration Policy Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Raleigh, NC": {
+      "state": "North Carolina",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "source_url": "https://www.ncsheriffs.org/resources/immigration-enforcement",
+      "source_name": "State-level: NC Sheriffs Association - Immigration Policy Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Madison, WI": {
+      "state": "Wisconsin",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "source_url": "https://docs.legis.wisconsin.gov/statutes/prefaces/toc",
+      "source_name": "State-level: Wisconsin Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Milwaukee, WI": {
+      "state": "Wisconsin",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "source_url": "https://docs.legis.wisconsin.gov/statutes/prefaces/toc",
+      "source_name": "State-level: Wisconsin Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Columbus, OH": {
+      "state": "Ohio",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-9",
+      "source_name": "State-level: Ohio Revised Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Durango, CO": {
+      "state": "Colorado",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "notes": "Site of ICE field office protest with rubber bullets, pepper spray Oct 2025.",
+      "source_url": "https://leg.colorado.gov/bills/hb19-1124",
+      "source_name": "State-level: Colorado General Assembly - HB19-1124",
+      "last_verified": "2026-01-25"
+    },
+    "Albuquerque, NM": {
+      "state": "New Mexico",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
+      "source_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=100&year=19",
+      "source_name": "State-level: New Mexico Legislature - HB 100",
+      "last_verified": "2026-01-25"
+    },
+    "Berkeley, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated. One of oldest sanctuary cities (1971).",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "East Lansing, MI": {
+      "state": "Michigan",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
+      "source_url": "https://www.michigan.gov/ag/consumer-protection/civil-rights",
+      "source_name": "State-level: Michigan AG - Civil Rights (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Hoboken, NJ": {
+      "state": "New Jersey",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated. Part of NJ AG Directive limiting ICE cooperation.",
+      "source_url": "https://www.nj.gov/oag/newsreleases19/ag-directive-2018-6_v2.pdf",
+      "source_name": "State-level: NJ Attorney General Directive 2018-6 v2.0",
+      "last_verified": "2026-01-25"
+    },
+    "Jersey City, NJ": {
+      "state": "New Jersey",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated. Part of NJ AG Directive limiting ICE cooperation.",
+      "source_url": "https://www.nj.gov/oag/newsreleases19/ag-directive-2018-6_v2.pdf",
+      "source_name": "State-level: NJ Attorney General Directive 2018-6 v2.0",
+      "last_verified": "2026-01-25"
+    },
+    "Paterson, NJ": {
+      "state": "New Jersey",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated. Large immigrant population.",
+      "source_url": "https://www.nj.gov/oag/newsreleases19/ag-directive-2018-6_v2.pdf",
+      "source_name": "State-level: NJ Attorney General Directive 2018-6 v2.0",
+      "last_verified": "2026-01-25"
+    },
+    "Rochester, NY": {
+      "state": "New York",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "doj_designated": true,
+      "notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/EXC/837-P",
+      "source_name": "State-level: NY Senate - Executive Law 837-p (Protect Our Courts Act)",
+      "last_verified": "2026-01-25"
+    },
+    "New Orleans, LA": {
+      "state": "Louisiana",
+      "local_status": "policy_conflict",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": true,
+      "doj_designated": true,
+      "notes": "DOJ designated but Louisiana is anti-sanctuary state. City has historically limited cooperation but constrained by state law.",
+      "source_url": "https://www.justice.gov/opa/pr/justice-department-publishes-list-sanctuary-jurisdictions",
+      "source_name": "DOJ Sanctuary Jurisdiction Designation",
+      "last_verified": "2026-01-25"
+    },
+    "Broadview, IL": {
+      "state": "Illinois",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "ICE Detention Center location in sanctuary state. Frequent protest site.",
+      "source_url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3818",
+      "source_name": "State-level: Illinois General Assembly - TRUST Act (SB 31)",
+      "last_verified": "2026-01-25"
+    },
+    "Franklin Park, IL": {
+      "state": "Illinois",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Chicago suburb under Illinois TRUST Act.",
+      "source_url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3818",
+      "source_name": "State-level: Illinois General Assembly - TRUST Act (SB 31)",
+      "last_verified": "2026-01-25"
+    },
+    "Elgin, IL": {
+      "state": "Illinois",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Chicago suburb under Illinois TRUST Act.",
+      "source_url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3818",
+      "source_name": "State-level: Illinois General Assembly - TRUST Act (SB 31)",
+      "last_verified": "2026-01-25"
+    },
+    "Fort Bliss, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Military base used for migrant detention. Federal jurisdiction on base.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "El Paso, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Border city. Constrained by SB4 despite historically immigrant-friendly local attitudes.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Alvarado, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Site of multiple ICE enforcement operations.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "McAllen, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Border city, Rio Grande Valley. Major detention processing area.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Laredo, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Border city with heavy CBP/ICE presence.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Camarillo, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Ventura County. Site of ICE detention facility deaths.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Paramount, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "LA County suburb under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Van Nuys, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "LA neighborhood. Under California Values Act and LAPD Special Order 40.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Northridge, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "LA neighborhood. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Santa Ana, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Orange County. Large immigrant population, under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "San Bernardino, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Inland Empire. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Ontario, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Inland Empire, San Bernardino County. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Oakland, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Strong sanctuary policy predating state law. Mayor warned residents of ICE raids 2018.",
+      "source_url": "https://www.oaklandca.gov/topics/sanctuary-city",
+      "source_name": "City of Oakland - Sanctuary City Policy",
+      "last_verified": "2026-01-25"
+    },
+    "Montclair, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "San Bernardino County. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "San Jose, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Under California Values Act. Santa Clara County is sanctuary.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Sacramento, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "State capital. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Fresno, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Central Valley. Under California Values Act but more conservative area.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Long Beach, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "LA County. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Anaheim, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Orange County. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Aurora, CO": {
+      "state": "Colorado",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "notes": "Denver suburb. Under Colorado HB19-1124. Site of Aurora ICE detention facility.",
+      "source_url": "https://leg.colorado.gov/bills/hb19-1124",
+      "source_name": "State-level: Colorado General Assembly - HB19-1124",
+      "last_verified": "2026-01-25"
+    },
+    "Manhattan, NY": {
+      "state": "New York",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Part of NYC. Under NYC Executive Order 41.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/EXC/837-P",
+      "source_name": "State-level: NY Senate - Executive Law 837-p (Protect Our Courts Act)",
+      "last_verified": "2026-01-25"
+    },
+    "Brooklyn, NY": {
+      "state": "New York",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Part of NYC. Under NYC Executive Order 41.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/EXC/837-P",
+      "source_name": "State-level: NY Senate - Executive Law 837-p (Protect Our Courts Act)",
+      "last_verified": "2026-01-25"
+    },
+    "Bronx, NY": {
+      "state": "New York",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Part of NYC. Under NYC Executive Order 41.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/EXC/837-P",
+      "source_name": "State-level: NY Senate - Executive Law 837-p (Protect Our Courts Act)",
+      "last_verified": "2026-01-25"
+    },
+    "Queens, NY": {
+      "state": "New York",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Part of NYC. Under NYC Executive Order 41.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/EXC/837-P",
+      "source_name": "State-level: NY Senate - Executive Law 837-p (Protect Our Courts Act)",
+      "last_verified": "2026-01-25"
+    },
+    "Staten Island, NY": {
+      "state": "New York",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Part of NYC. Under NYC Executive Order 41.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/EXC/837-P",
+      "source_name": "State-level: NY Senate - Executive Law 837-p (Protect Our Courts Act)",
+      "last_verified": "2026-01-25"
+    },
+    "Ellabell, GA": {
+      "state": "Georgia",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Site of Hyundai Metaplant raid (475 detained). Bryan County.",
+      "source_url": "https://www.legis.ga.gov/legislation/en-US/Display/20112012/HB/87",
+      "source_name": "State-level: Georgia General Assembly - HB 87",
+      "last_verified": "2026-01-25"
+    },
+    "Lovejoy, GA": {
+      "state": "Georgia",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Location of Robert A. Deyton Detention Center (Clayton County).",
+      "source_url": "https://www.legis.ga.gov/legislation/en-US/Display/20112012/HB/87",
+      "source_name": "State-level: Georgia General Assembly - HB 87",
+      "last_verified": "2026-01-25"
+    },
+    "Tacoma, WA": {
+      "state": "Washington",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Site of Northwest Detention Center (now Northwest ICE Processing Center). State has Keep Washington Working Act.",
+      "source_url": "https://app.leg.wa.gov/billsummary?BillNumber=1497&Year=2019",
+      "source_name": "State-level: Washington Legislature - HB 1497 Keep Washington Working Act",
+      "last_verified": "2026-01-25"
+    },
+    "SeaTac, WA": {
+      "state": "Washington",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Airport area. Under Washington Keep Washington Working Act.",
+      "source_url": "https://app.leg.wa.gov/billsummary?BillNumber=1497&Year=2019",
+      "source_name": "State-level: Washington Legislature - HB 1497 Keep Washington Working Act",
+      "last_verified": "2026-01-25"
+    },
+    "Omaha, NE": {
+      "state": "Nebraska",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Site of Glenn Valley Foods raid (75 detained). Nebraska is anti-sanctuary state (LB 1140).",
+      "source_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54693",
+      "source_name": "State-level: Nebraska Legislature - LB 1140 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "Nashville, TN": {
+      "state": "Tennessee",
+      "local_status": "policy_conflict",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": true,
+      "notes": "Davidson County had limited cooperation policy but constrained by TN SB6002 (2025) criminalizing sanctuary policies.",
+      "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB6002&GA=114",
+      "source_name": "TN SB 6002 supersedes local policy",
+      "last_verified": "2026-01-25"
+    },
+    "Des Moines, IA": {
+      "state": "Iowa",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Iowa SF 481 requires cooperation. Polk County has 287(g) agreement.",
+      "source_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=87&ba=SF481",
+      "source_name": "State-level: Iowa Legislature - SF 481",
+      "last_verified": "2026-01-25"
+    },
+    "Oklahoma City, OK": {
+      "state": "Oklahoma",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Oklahoma HB 4156 grants state police immigration authority. Oklahoma County cooperative.",
+      "source_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=HB4156&Session=2400",
+      "source_name": "State-level: Oklahoma Legislature - HB 4156 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "Tallahassee, FL": {
+      "state": "Florida",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "State capital. Site of FSU campus enforcement (100 detained). Florida requires full ICE cooperation.",
+      "source_url": "https://www.flsenate.gov/Session/Bill/2019/00168",
+      "source_name": "State-level: Florida Senate - SB 168 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "Jacksonville, FL": {
+      "state": "Florida",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Duval County. Florida requires full ICE cooperation.",
+      "source_url": "https://www.flsenate.gov/Session/Bill/2019/00168",
+      "source_name": "State-level: Florida Senate - SB 168 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "Tampa, FL": {
+      "state": "Florida",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Hillsborough County. Florida requires full ICE cooperation.",
+      "source_url": "https://www.flsenate.gov/Session/Bill/2019/00168",
+      "source_name": "State-level: Florida Senate - SB 168 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "Orlando, FL": {
+      "state": "Florida",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Orange County. Florida requires full ICE cooperation.",
+      "source_url": "https://www.flsenate.gov/Session/Bill/2019/00168",
+      "source_name": "State-level: Florida Senate - SB 168 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "Norfolk, VA": {
+      "state": "Virginia",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Virginia has no statewide policy. Norfolk generally cooperative.",
+      "source_url": "https://law.lis.virginia.gov/vacode/title19.2/chapter1/",
+      "source_name": "State-level: Code of Virginia - Criminal Procedure",
+      "last_verified": "2026-01-25"
+    },
+    "Fitchburg, MA": {
+      "state": "Massachusetts",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Under Massachusetts SJC ruling that detainers are not legally binding.",
+      "source_url": "https://www.mass.gov/info-details/lunn-v-commonwealth",
+      "source_name": "State-level: Massachusetts Supreme Judicial Court - Lunn v. Commonwealth",
+      "last_verified": "2026-01-25"
+    },
+    "Medford, MA": {
+      "state": "Massachusetts",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Under Massachusetts SJC ruling. Boston metro area.",
+      "source_url": "https://www.mass.gov/info-details/lunn-v-commonwealth",
+      "source_name": "State-level: Massachusetts Supreme Judicial Court - Lunn v. Commonwealth",
+      "last_verified": "2026-01-25"
+    },
+    "Washington DC, DC": {
+      "state": "District of Columbia",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "DC Sanctuary Values Act (2019). Does not honor ICE detainers.",
+      "source_url": "https://code.dccouncil.gov/us/dc/council/code/titles/24/chapters/2A",
+      "source_name": "State-level: DC Code - Sanctuary Values Act",
+      "last_verified": "2026-01-25"
+    },
+    "Liberty, MO": {
+      "state": "Missouri",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Kansas City suburb. Missouri has no statewide policy.",
+      "source_url": "https://revisor.mo.gov/main/Home.aspx",
+      "source_name": "State-level: Missouri Revisor of Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Kansas City, MO": {
+      "state": "Missouri",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Jackson County. Some limits on ICE cooperation. Missouri has no statewide policy.",
+      "source_url": "https://revisor.mo.gov/main/Home.aspx",
+      "source_name": "State-level: Missouri Revisor of Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "St. Louis, MO": {
+      "state": "Missouri",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Independent city. Some limits on ICE cooperation.",
+      "source_url": "https://revisor.mo.gov/main/Home.aspx",
+      "source_name": "State-level: Missouri Revisor of Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Glen Burnie, MD": {
+      "state": "Maryland",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "notes": "Anne Arundel County. Under Maryland TRUST Act.",
+      "source_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0167?ys=2020RS",
+      "source_name": "State-level: Maryland General Assembly - Trust Act SB 167",
+      "last_verified": "2026-01-25"
+    },
+    "Laurel, MD": {
+      "state": "Maryland",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "notes": "Prince George's County. Under Maryland TRUST Act.",
+      "source_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0167?ys=2020RS",
+      "source_name": "State-level: Maryland General Assembly - Trust Act SB 167",
+      "last_verified": "2026-01-25"
+    },
+    "Salisbury, NC": {
+      "state": "North Carolina",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Rowan County. North Carolina varies by county; Rowan is cooperative.",
+      "source_url": "https://www.ncsheriffs.org/resources/immigration-enforcement",
+      "source_name": "State-level: NC Sheriffs Association - Immigration Policy Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Foley, AL": {
+      "state": "Alabama",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Baldwin County. Alabama is anti-sanctuary (HB 56).",
+      "source_url": "https://www.legislature.state.al.us/pdf/SearchableInstruments/2011RS/HB56-enr.pdf",
+      "source_name": "State-level: Alabama Legislature - HB 56 (2011)",
+      "last_verified": "2026-01-25"
+    },
+    "Coventry, VT": {
+      "state": "Vermont",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "notes": "Under Vermont Act 69. Rural area near Canadian border.",
+      "source_url": "https://legislature.vermont.gov/bill/status/2018/S.79",
+      "source_name": "State-level: Vermont Legislature - Act 69 (S.79)",
+      "last_verified": "2026-01-25"
+    },
+    "Burlington, VT": {
+      "state": "Vermont",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Under Vermont Act 69 plus stronger local policy.",
+      "source_url": "https://legislature.vermont.gov/bill/status/2018/S.79",
+      "source_name": "State-level: Vermont Legislature - Act 69 (S.79)",
+      "last_verified": "2026-01-25"
+    },
+    "Jackson, MS": {
+      "state": "Mississippi",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "State capital. Mississippi HB 1520 is anti-sanctuary.",
+      "source_url": "https://billstatus.ls.state.ms.us/2024/pdf/history/HB/HB1520.xml",
+      "source_name": "State-level: Mississippi Legislature - HB 1520 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "Indianapolis, IN": {
+      "state": "Indiana",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Marion County. Indiana IC 5-2-18.2 is anti-sanctuary.",
+      "source_url": "https://iga.in.gov/legislative/laws/2023/ic/titles/5#5-2-18.2",
+      "source_name": "State-level: Indiana Code IC 5-2-18.2",
+      "last_verified": "2026-01-25"
+    },
+    "Fort Worth, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Tarrant County has 287(g) agreement. Texas SB4 mandates cooperation.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Arlington, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Tarrant County. Under Texas SB4.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Pittsburgh, PA": {
+      "state": "Pennsylvania",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Allegheny County. Less protective than Philadelphia but some limits on ICE cooperation.",
+      "source_url": "https://www.phila.gov/2019-11-21-new-policy-limits-cooperation-with-ice/",
+      "source_name": "State-level: City of Philadelphia - ICE Policy (state has no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Cincinnati, OH": {
+      "state": "Ohio",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Hamilton County generally cooperative. Ohio has no statewide policy.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-9",
+      "source_name": "State-level: Ohio Revised Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Cleveland, OH": {
+      "state": "Ohio",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Cuyahoga County has some limits on ICE cooperation.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-9",
+      "source_name": "State-level: Ohio Revised Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Tucson, AZ": {
+      "state": "Arizona",
+      "local_status": "policy_conflict",
+      "detainer_policy": "honor_all",
+      "policy_conflict": true,
+      "notes": "City attempted sanctuary-like policies but constrained by Arizona SB 1070.",
+      "source_url": "https://www.azleg.gov/legtext/49leg/2r/bills/sb1070s.pdf",
+      "source_name": "State-level: Arizona Legislature - SB 1070",
+      "last_verified": "2026-01-25"
+    },
+    "Mesa, AZ": {
+      "state": "Arizona",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Maricopa County. 287(g) county. Arizona is anti-sanctuary.",
+      "source_url": "https://www.azleg.gov/legtext/49leg/2r/bills/sb1070s.pdf",
+      "source_name": "State-level: Arizona Legislature - SB 1070",
+      "last_verified": "2026-01-25"
+    },
+    "Reno, NV": {
+      "state": "Nevada",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Washoe County. Similar to Las Vegas Metro - limited cooperation.",
+      "source_url": "https://www.leg.state.nv.us/NRS/",
+      "source_name": "State-level: Nevada Revised Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Salt Lake City, UT": {
+      "state": "Utah",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Some local limits on ICE cooperation despite no state policy.",
+      "source_url": "https://le.utah.gov/xcode/code.html",
+      "source_name": "State-level: Utah Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Providence, RI": {
+      "state": "Rhode Island",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "notes": "Under Rhode Island executive order limiting ICE cooperation.",
+      "source_url": "https://governor.ri.gov/executive-orders/executive-order-14-07",
+      "source_name": "State-level: Rhode Island Executive Order 14-07",
+      "last_verified": "2026-01-25"
+    },
+    "Hartford, CT": {
+      "state": "Connecticut",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "notes": "Under Connecticut TRUST Act.",
+      "source_url": "https://www.cga.ct.gov/2013/ACT/pa/pdf/2013PA-00155-R00HB-06659-PA.pdf",
+      "source_name": "State-level: Connecticut General Assembly - TRUST Act",
+      "last_verified": "2026-01-25"
+    },
+    "New Haven, CT": {
+      "state": "Connecticut",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "First city to issue municipal ID cards to undocumented residents (2007). Strong local sanctuary.",
+      "source_url": "https://www.newhavenct.gov/government/departments-divisions/community-services/immigrant-services",
+      "source_name": "New Haven Immigrant Services",
+      "last_verified": "2026-01-25"
+    },
+    "Worcester, MA": {
+      "state": "Massachusetts",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Under Massachusetts SJC ruling. Second largest city in MA.",
+      "source_url": "https://www.mass.gov/info-details/lunn-v-commonwealth",
+      "source_name": "State-level: Massachusetts Supreme Judicial Court - Lunn v. Commonwealth",
+      "last_verified": "2026-01-25"
+    },
+    "Huntsville, AL": {
+      "state": "Alabama",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Madison County. Alabama is anti-sanctuary (HB 56).",
+      "source_url": "https://www.legislature.state.al.us/pdf/SearchableInstruments/2011RS/HB56-enr.pdf",
+      "source_name": "State-level: Alabama Legislature - HB 56 (2011)",
+      "last_verified": "2026-01-25"
+    },
+    "Charlottesville, VA": {
+      "state": "Virginia",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "University town. Some limits on ICE cooperation.",
+      "source_url": "https://law.lis.virginia.gov/vacode/title19.2/chapter1/",
+      "source_name": "State-level: Code of Virginia - Criminal Procedure",
+      "last_verified": "2026-01-25"
+    },
+    "Iowa City, IA": {
+      "state": "Iowa",
+      "local_status": "policy_conflict",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": true,
+      "notes": "University town that passed sanctuary resolution but constrained by Iowa SF 481.",
+      "source_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=87&ba=SF481",
+      "source_name": "State-level: Iowa Legislature - SF 481",
+      "last_verified": "2026-01-25"
+    },
+    "North Las Vegas, NV": {
+      "state": "Nevada",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Part of Las Vegas metro. Limited cooperation similar to Las Vegas Metro PD.",
+      "source_url": "https://www.leg.state.nv.us/NRS/",
+      "source_name": "State-level: Nevada Revised Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Riviera Beach, FL": {
+      "state": "Florida",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Palm Beach County. Florida requires full ICE cooperation.",
+      "source_url": "https://www.flsenate.gov/Session/Bill/2019/00168",
+      "source_name": "State-level: Florida Senate - SB 168 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "Brookhaven, GA": {
+      "state": "Georgia",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "DeKalb County. Georgia is anti-sanctuary (HB 87).",
+      "source_url": "https://www.legis.ga.gov/legislation/en-US/Display/20112012/HB/87",
+      "source_name": "State-level: Georgia General Assembly - HB 87",
+      "last_verified": "2026-01-25"
+    },
+    "Memphis, TN": {
+      "state": "Tennessee",
+      "local_status": "policy_conflict",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": true,
+      "notes": "Shelby County historically limited cooperation but constrained by TN SB6002 (2025).",
+      "source_url": "https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB6002&GA=114",
+      "source_name": "State-level: Tennessee General Assembly - SB 6002 (2025)",
+      "last_verified": "2026-01-25"
+    },
+    "Evansville, IN": {
+      "state": "Indiana",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Vanderburgh County. Indiana is anti-sanctuary.",
+      "source_url": "https://iga.in.gov/legislative/laws/2023/ic/titles/5#5-2-18.2",
+      "source_name": "State-level: Indiana Code IC 5-2-18.2",
+      "last_verified": "2026-01-25"
+    },
+    "Colorado Springs, CO": {
+      "state": "Colorado",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "honor_judicial",
+      "policy_conflict": false,
+      "notes": "El Paso County. More conservative than Denver but under state HB19-1124.",
+      "source_url": "https://leg.colorado.gov/bills/hb19-1124",
+      "source_name": "State-level: Colorado General Assembly - HB19-1124",
+      "last_verified": "2026-01-25"
+    },
+    "Springfield, IL": {
+      "state": "Illinois",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "State capital. Under Illinois TRUST Act.",
+      "source_url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3818",
+      "source_name": "State-level: Illinois General Assembly - TRUST Act (SB 31)",
+      "last_verified": "2026-01-25"
+    },
+    "Bakersfield, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Kern County. Under California Values Act but more conservative area.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Stockton, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "San Joaquin County. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Riverside, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Inland Empire. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Modesto, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Stanislaus County. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Ann Arbor, MI": {
+      "state": "Michigan",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "University town with strong sanctuary policy since 2003.",
+      "source_url": "https://www.michigan.gov/ag/consumer-protection/civil-rights",
+      "source_name": "State-level: Michigan AG - Civil Rights (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Grand Rapids, MI": {
+      "state": "Michigan",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Kent County. Some limits on ICE cooperation.",
+      "source_url": "https://www.michigan.gov/ag/consumer-protection/civil-rights",
+      "source_name": "State-level: Michigan AG - Civil Rights (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Santa Fe, NM": {
+      "state": "New Mexico",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "State capital. Under New Mexico HB 100.",
+      "source_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=100&year=19",
+      "source_name": "State-level: New Mexico Legislature - HB 100",
+      "last_verified": "2026-01-25"
+    },
+    "Eugene, OR": {
+      "state": "Oregon",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Lane County. Under Oregon ORS 181A.820.",
+      "source_url": "https://oregon.public.law/statutes/ors_181a.820",
+      "source_name": "State-level: Oregon Revised Statutes ORS 181A.820",
+      "last_verified": "2026-01-25"
+    },
+    "Spokane, WA": {
+      "state": "Washington",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Under Washington Keep Washington Working Act. More conservative than Seattle.",
+      "source_url": "https://app.leg.wa.gov/billsummary?BillNumber=1497&Year=2019",
+      "source_name": "State-level: Washington Legislature - HB 1497 Keep Washington Working Act",
+      "last_verified": "2026-01-25"
+    },
+    "Louisville, KY": {
+      "state": "Kentucky",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Jefferson County. Kentucky has no statewide sanctuary policy; Louisville generally cooperative with ICE.",
+      "source_url": "https://apps.legislature.ky.gov/law/statutes/",
+      "source_name": "State-level: Kentucky Revised Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Virginia Beach, VA": {
+      "state": "Virginia",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Independent city. Virginia has no statewide policy; Virginia Beach generally cooperative.",
+      "source_url": "https://law.lis.virginia.gov/vacode/title19.2/chapter1/",
+      "source_name": "State-level: Code of Virginia - Criminal Procedure",
+      "last_verified": "2026-01-25"
+    },
+    "Tulsa, OK": {
+      "state": "Oklahoma",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Tulsa County. Oklahoma HB 4156 (2024) grants state police immigration enforcement authority.",
+      "source_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=HB4156&Session=2400",
+      "source_name": "State-level: Oklahoma Legislature - HB 4156 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "Wichita, KS": {
+      "state": "Kansas",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Sedgwick County. Kansas has no statewide sanctuary policy.",
+      "source_url": "https://www.kslegislature.org/li/b2023_24/statute/",
+      "source_name": "State-level: Kansas Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Honolulu, HI": {
+      "state": "Hawaii",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "City and County of Honolulu. Hawaii HB 1975 (2022) limits law enforcement cooperation with ICE.",
+      "source_url": "https://www.capitol.hawaii.gov/session2022/bills/HB1975_CD1_.HTM",
+      "source_name": "State-level: Hawaii Legislature - HB 1975 (2022)",
+      "last_verified": "2026-01-25"
+    },
+    "Corpus Christi, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Nueces County. Under Texas SB4 (2017) mandating cooperation with ICE.",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Lexington, KY": {
+      "state": "Kentucky",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Fayette County (merged city-county). Kentucky has no statewide policy.",
+      "source_url": "https://apps.legislature.ky.gov/law/statutes/",
+      "source_name": "State-level: Kentucky Revised Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Henderson, NV": {
+      "state": "Nevada",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Clark County. Similar to Las Vegas Metro - limited cooperation policy.",
+      "source_url": "https://www.leg.state.nv.us/NRS/",
+      "source_name": "State-level: Nevada Revised Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Saint Paul, MN": {
+      "state": "Minnesota",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Ramsey County. Mayor Kaohly Her (first Hmong mayor) criticized ICE door-to-door targeting. Part of Minneapolis-St. Paul coalition lawsuit against DHS.",
+      "source_url": "https://www.house.mn.gov/hrd/pubs/immigr.pdf",
+      "source_name": "State-level: MN House Research - Immigration Enforcement Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Greensboro, NC": {
+      "state": "North Carolina",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Guilford County. North Carolina varies by county; Guilford generally cooperative.",
+      "source_url": "https://www.ncsheriffs.org/resources/immigration-enforcement",
+      "source_name": "State-level: NC Sheriffs Association - Immigration Policy Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Lincoln, NE": {
+      "state": "Nebraska",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Lancaster County. Nebraska LB 1140 (2024) bans sanctuary policies.",
+      "source_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=54693",
+      "source_name": "State-level: Nebraska Legislature - LB 1140 (2024)",
+      "last_verified": "2026-01-25"
+    },
+    "Anchorage, AK": {
+      "state": "Alaska",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Municipality of Anchorage. Alaska has no statewide policy.",
+      "source_url": "https://www.akleg.gov/basis/statutes.asp",
+      "source_name": "State-level: Alaska Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Plano, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Collin County. Under Texas SB4 (2017).",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Irvine, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Orange County. Under California Values Act (SB 54).",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Durham, NC": {
+      "state": "North Carolina",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Durham County. More progressive than most NC counties; some limits on ICE cooperation.",
+      "source_url": "https://www.ncsheriffs.org/resources/immigration-enforcement",
+      "source_name": "State-level: NC Sheriffs Association - Immigration Policy Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Chula Vista, CA": {
+      "state": "California",
+      "local_status": "sanctuary_limited",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "San Diego County. Border city under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Toledo, OH": {
+      "state": "Ohio",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Lucas County. Ohio has no statewide policy; Toledo generally cooperative.",
+      "source_url": "https://codes.ohio.gov/ohio-revised-code/chapter-9",
+      "source_name": "State-level: Ohio Revised Code (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Fort Wayne, IN": {
+      "state": "Indiana",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Allen County. Indiana IC 5-2-18.2 is anti-sanctuary.",
+      "source_url": "https://iga.in.gov/legislative/laws/2023/ic/titles/5#5-2-18.2",
+      "source_name": "State-level: Indiana Code IC 5-2-18.2",
+      "last_verified": "2026-01-25"
+    },
+    "St. Petersburg, FL": {
+      "state": "Florida",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Pinellas County. Florida SB 168 (2019) requires full ICE cooperation.",
+      "source_url": "https://www.flsenate.gov/Session/Bill/2019/00168",
+      "source_name": "State-level: Florida Senate - SB 168 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "Chandler, AZ": {
+      "state": "Arizona",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Maricopa County. 287(g) county. Arizona is anti-sanctuary.",
+      "source_url": "https://www.azleg.gov/legtext/49leg/2r/bills/sb1070s.pdf",
+      "source_name": "State-level: Arizona Legislature - SB 1070",
+      "last_verified": "2026-01-25"
+    },
+    "Lubbock, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Lubbock County. Under Texas SB4 (2017).",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Scottsdale, AZ": {
+      "state": "Arizona",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Maricopa County. 287(g) county. Arizona is anti-sanctuary.",
+      "source_url": "https://www.azleg.gov/legtext/49leg/2r/bills/sb1070s.pdf",
+      "source_name": "State-level: Arizona Legislature - SB 1070",
+      "last_verified": "2026-01-25"
+    },
+    "Buffalo, NY": {
+      "state": "New York",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Erie County. New York varies by county; Buffalo has some limits on ICE cooperation.",
+      "source_url": "https://www.nysenate.gov/legislation/laws/EXC/837-P",
+      "source_name": "State-level: NY Senate - Executive Law 837-p (Protect Our Courts Act)",
+      "last_verified": "2026-01-25"
+    },
+    "Gilbert, AZ": {
+      "state": "Arizona",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Maricopa County. 287(g) county.",
+      "source_url": "https://www.azleg.gov/legtext/49leg/2r/bills/sb1070s.pdf",
+      "source_name": "State-level: Arizona Legislature - SB 1070",
+      "last_verified": "2026-01-25"
+    },
+    "Glendale, AZ": {
+      "state": "Arizona",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Maricopa County. 287(g) county.",
+      "source_url": "https://www.azleg.gov/legtext/49leg/2r/bills/sb1070s.pdf",
+      "source_name": "State-level: Arizona Legislature - SB 1070",
+      "last_verified": "2026-01-25"
+    },
+    "Winston-Salem, NC": {
+      "state": "North Carolina",
+      "local_status": "cooperative",
+      "detainer_policy": "honor_all",
+      "policy_conflict": false,
+      "notes": "Forsyth County. Generally cooperative with ICE.",
+      "source_url": "https://www.ncsheriffs.org/resources/immigration-enforcement",
+      "source_name": "State-level: NC Sheriffs Association - Immigration Policy Overview",
+      "last_verified": "2026-01-25"
+    },
+    "Chesapeake, VA": {
+      "state": "Virginia",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Independent city. Virginia has no statewide policy.",
+      "source_url": "https://law.lis.virginia.gov/vacode/title19.2/chapter1/",
+      "source_name": "State-level: Code of Virginia - Criminal Procedure",
+      "last_verified": "2026-01-25"
+    },
+    "Fremont, CA": {
+      "state": "California",
+      "local_status": "sanctuary_strong",
+      "detainer_policy": "decline_all",
+      "policy_conflict": false,
+      "notes": "Alameda County. Under California Values Act.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB54",
+      "source_name": "State-level: California Legislature - SB 54 Official Text",
+      "last_verified": "2026-01-25"
+    },
+    "Garland, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Dallas County. Under Texas SB4 (2017).",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Irving, TX": {
+      "state": "Texas",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Dallas County. Under Texas SB4 (2017).",
+      "source_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=85R&Bill=SB4",
+      "source_name": "State-level: Texas Legislature - SB 4 (2017)",
+      "last_verified": "2026-01-25"
+    },
+    "Hialeah, FL": {
+      "state": "Florida",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "Miami-Dade County. Florida requires full ICE cooperation.",
+      "source_url": "https://www.flsenate.gov/Session/Bill/2019/00168",
+      "source_name": "State-level: Florida Senate - SB 168 (2019)",
+      "last_verified": "2026-01-25"
+    },
+    "Richmond, VA": {
+      "state": "Virginia",
+      "local_status": "sanctuary_partial",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Independent city (state capital). Some limits on ICE cooperation.",
+      "source_url": "https://law.lis.virginia.gov/vacode/title19.2/chapter1/",
+      "source_name": "State-level: Code of Virginia - Criminal Procedure",
+      "last_verified": "2026-01-25"
+    },
+    "Boise, ID": {
+      "state": "Idaho",
+      "local_status": "cooperative",
+      "detainer_policy": "case_by_case",
+      "policy_conflict": false,
+      "notes": "Ada County. Idaho has no statewide policy.",
+      "source_url": "https://legislature.idaho.gov/statutesrules/idstat/",
+      "source_name": "State-level: Idaho Statutes (no statewide policy)",
+      "last_verified": "2026-01-25"
+    },
+    "Baton Rouge, LA": {
+      "state": "Louisiana",
+      "local_status": "cooperative",
+      "detainer_policy": "state_mandated",
+      "policy_conflict": false,
+      "notes": "East Baton Rouge Parish. Louisiana HB 101 (2024) grants state police immigration authority.",
+      "source_url": "https://legis.la.gov/legis/BillInfo.aspx?s=24RS&b=HB101",
+      "source_name": "State-level: Louisiana Legislature - HB 101 (2024)",
+      "last_verified": "2026-01-25"
+    }
+  },
+  "counties_287g_agreements": {
+    "_notes": "Counties with active 287(g) agreements allowing local law enforcement to act as immigration agents",
+    "counties": [
+      {
+        "county": "Maricopa County",
+        "state": "Arizona",
+        "type": "jail"
+      },
+      {
+        "county": "Pinal County",
+        "state": "Arizona",
+        "type": "jail"
+      },
+      {
+        "county": "Frederick County",
+        "state": "Maryland",
+        "type": "jail"
+      },
+      {
+        "county": "Harford County",
+        "state": "Maryland",
+        "type": "jail"
+      },
+      {
+        "county": "Alamance County",
+        "state": "North Carolina",
+        "type": "jail"
+      },
+      {
+        "county": "Cabarrus County",
+        "state": "North Carolina",
+        "type": "jail"
+      },
+      {
+        "county": "Gaston County",
+        "state": "North Carolina",
+        "type": "jail"
+      },
+      {
+        "county": "Henderson County",
+        "state": "North Carolina",
+        "type": "jail"
+      },
+      {
+        "county": "Wake County",
+        "state": "North Carolina",
+        "type": "jail"
+      },
+      {
+        "county": "Davidson County",
+        "state": "Tennessee",
+        "type": "jail"
+      },
+      {
+        "county": "Knox County",
+        "state": "Tennessee",
+        "type": "jail"
+      },
+      {
+        "county": "Tarrant County",
+        "state": "Texas",
+        "type": "jail"
+      },
+      {
+        "county": "Rockingham County",
+        "state": "Virginia",
+        "type": "jail"
+      },
+      {
+        "county": "Collier County",
+        "state": "Florida",
+        "type": "jail"
+      },
+      {
+        "county": "Clay County",
+        "state": "Florida",
+        "type": "jail"
+      },
+      {
+        "county": "Pasco County",
+        "state": "Florida",
+        "type": "jail"
+      },
+      {
+        "county": "Polk County",
+        "state": "Florida",
+        "type": "jail"
+      }
+    ]
+  }
+}

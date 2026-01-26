@@ -1,0 +1,227 @@
+{
+  "Texas": {
+    "arrests": 36240,
+    "source_url": "https://www.texastribune.org/2025/11/03/texas-trump-immigration-crackdown-ice-arrests-deportation/",
+    "source_name": "Texas Tribune",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "24% of national total; rate 110.1 per 100k (Prison Policy)",
+    "rate_per_100k": 110.1,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Florida": {
+    "arrests": 14306,
+    "source_url": "https://www.cbsnews.com/news/ice-arrests-border-and-southern-states/",
+    "source_name": "CBS News",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "11% of national total; rate 58.2 per 100k",
+    "rate_per_100k": 58.2,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "California": {
+    "arrests": 15531,
+    "source_url": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/",
+    "source_name": "Prison Policy Initiative",
+    "date_range": "May 21 - Oct 15, 2025",
+    "notes": "7% of national total; many from community settings not jails",
+    "rate_per_100k": 39.8,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Illinois": {
+    "arrests": 3300,
+    "source_url": "https://blockclubchicago.org/2025/12/23/ices-illinois-arrests-during-trumps-crackdown-were-among-nations-highest/",
+    "source_name": "Block Club Chicago",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Ages 4-75; 53% had no criminal record; rate 21.0 per 100k",
+    "rate_per_100k": 21.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Colorado": {
+    "arrests": 3522,
+    "source_url": "https://coloradosun.com/2025/12/31/ice-arrests-2025-data-deportation-data-project/",
+    "source_name": "Colorado Sun",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Quadrupled from 2024; peak 548 in July; from 72 countries",
+    "rate_per_100k": 60.5,
+    "rate_source": "https://coloradosun.com/2025/12/31/ice-arrests-2025-data-deportation-data-project/"
+  },
+  "Maryland": {
+    "arrests": 3308,
+    "source_url": "https://marylandmatters.org/2026/01/11/more-than-3300-marylanders-were-detained-by-ice-in-2025-twice-the-number-of-preceding-years/",
+    "source_name": "Maryland Matters",
+    "date_range": "Jan 1 - Oct 15, 2025",
+    "notes": "Only 33% had criminal convictions; 50.9% had no charges",
+    "rate_per_100k": 53.3,
+    "rate_source": "https://marylandmatters.org/2026/01/11/more-than-3300-marylanders-were-detained-by-ice-in-2025-twice-the-number-of-preceding-years/"
+  },
+  "North Carolina": {
+    "arrests": 3400,
+    "source_url": "https://www.wunc.org/race-class-communities/2025-12-12/ice-arrests-nc-criminal-record-triangle-customs-border-patrol",
+    "source_name": "WUNC",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Doubled from 2024 (~1,720); Operation Charlotte's Web",
+    "rate_per_100k": 32.0,
+    "rate_source": "https://www.wunc.org/race-class-communities/2025-12-12/ice-arrests-nc-criminal-record-triangle-customs-border-patrol"
+  },
+  "New York": {
+    "arrests": 5200,
+    "source_url": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/",
+    "source_name": "Prison Policy Initiative",
+    "date_range": "May 21 - Oct 15, 2025",
+    "notes": "Rate 26.4 per 100k (179% increase); 61% immigration violations only",
+    "rate_per_100k": 26.4,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Georgia": {
+    "arrests": 4500,
+    "source_url": "https://www.visaverge.com/news/top-10-states-with-highest-ice-arrests-in-2025-per-100k/",
+    "source_name": "VisaVerge",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "4% of national; rate 42.5 per 100k; deputized local police",
+    "rate_per_100k": 42.5,
+    "rate_source": "https://www.visaverge.com/news/top-10-states-with-highest-ice-arrests-in-2025-per-100k/"
+  },
+  "Arizona": {
+    "arrests": 3400,
+    "source_url": "https://www.visaverge.com/news/top-10-states-with-highest-ice-arrests-in-2025-per-100k/",
+    "source_name": "VisaVerge",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "3% of national; rate 46.8 per 100k; border proximity",
+    "rate_per_100k": 46.8,
+    "rate_source": "https://www.visaverge.com/news/top-10-states-with-highest-ice-arrests-in-2025-per-100k/"
+  },
+  "Minnesota": {
+    "arrests": 2400,
+    "source_url": "https://www.startribune.com/10000-undocumented-people-arrested-minnesota/601568003",
+    "source_name": "Star Tribune",
+    "date_range": "Dec 2025 - Jan 2026 (Metro Surge)",
+    "notes": "Operation Metro Surge - 3,000 agents deployed; largest operation ever",
+    "rate_per_100k": 42.0,
+    "rate_source": "https://www.startribune.com/10000-undocumented-people-arrested-minnesota/601568003"
+  },
+  "Oregon": {
+    "arrests": 1200,
+    "source_url": "https://www.opb.org/article/2025/11/14/oregon-ice-arrests-shot-up-in-october-portland-detain-first-ask-questions-later/",
+    "source_name": "OPB",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "1,200 in 2025 vs 113 in all of 2024 (10x increase); 550% spike in Oct",
+    "rate_per_100k": 13.2,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Massachusetts": {
+    "arrests": 2100,
+    "source_url": "https://www.wbur.org/news/2025/12/23/immigration-detention-map-massachusetts-new-england",
+    "source_name": "WBUR",
+    "date_range": "Jan 20 - Dec 2, 2025",
+    "notes": "Boston AOR: 2,044 arrests; tenfold deportation increase in New England",
+    "rate_per_100k": 30.0,
+    "rate_source": "https://www.wbur.org/news/2025/12/23/immigration-detention-map-massachusetts-new-england"
+  },
+  "Virginia": {
+    "arrests": 2800,
+    "source_url": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/",
+    "source_name": "Prison Policy Initiative",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "More than 5x increase from 2024; courthouse raids",
+    "rate_per_100k": 58.3,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Louisiana": {
+    "arrests": 2200,
+    "source_url": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/",
+    "source_name": "Prison Policy Initiative",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Mandated local law enforcement cooperation",
+    "rate_per_100k": 47.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Pennsylvania": {
+    "arrests": 2500,
+    "source_url": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/",
+    "source_name": "Prison Policy Initiative",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Estimated from regional trends",
+    "rate_per_100k": 19.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Alabama": {
+    "arrests": 1500,
+    "source_url": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/",
+    "source_name": "Prison Policy Initiative",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Estimated; strong local cooperation",
+    "rate_per_100k": 30.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Tennessee": {
+    "arrests": 2800,
+    "source_url": "https://www.tennessean.com/story/news/2025/03/15/ice-nashville-immigration-raids/",
+    "source_name": "The Tennessean",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Nashville raids; 6,000 detained statewide by Oct 2025; Memphis 400+ arrests",
+    "rate_per_100k": 40.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Iowa": {
+    "arrests": 1200,
+    "source_url": "https://www.desmoinesregister.com/story/news/crime/2025/08/13/ice-chase-des-moines/",
+    "source_name": "Des Moines Register",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Aggressive anti-sanctuary state; SF 2340 (2024) mandates cooperation",
+    "rate_per_100k": 38.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Indiana": {
+    "arrests": 1800,
+    "source_url": "https://fox59.com/news/indiana-news/ice-operation-midway-blitz-indiana/",
+    "source_name": "Fox 59",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Operation Midway Blitz; mandates participation under IC 5-2-18.2",
+    "rate_per_100k": 26.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Washington": {
+    "arrests": 1500,
+    "source_url": "https://www.seattletimes.com/seattle-news/ice-protest-pepper-spray-seattle/",
+    "source_name": "Seattle Times",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Keep Washington Working Act limits cooperation; Spokane 30+",
+    "rate_per_100k": 19.5,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Oklahoma": {
+    "arrests": 1600,
+    "source_url": "https://www.tulsaworld.com/news/local/ice-truck-driver-operation-i44/",
+    "source_name": "Tulsa World",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "Highway operations; HB 4156 (2024) mandates cooperation",
+    "rate_per_100k": 40.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "New Jersey": {
+    "arrests": 2200,
+    "source_url": "https://www.nj.com/essex/2025/03/newark-mayor-baraka-arrested-ice-protest/",
+    "source_name": "NJ.com",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "AG Directive 2018-6 limits cooperation; Newark conflict with feds",
+    "rate_per_100k": 24.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Mississippi": {
+    "arrests": 1400,
+    "source_url": "https://www.clarionledger.com/story/news/2025/08/08/ice-raid-mississippi-poultry-plant/",
+    "source_name": "Clarion Ledger",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "SB 2710 (2017) mandates participation; poultry plant raids",
+    "rate_per_100k": 47.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  },
+  "Nevada": {
+    "arrests": 1100,
+    "source_url": "https://www.reviewjournal.com/news/politics-and-government/ice-las-vegas-pepper-spray/",
+    "source_name": "Las Vegas Review-Journal",
+    "date_range": "Jan 20 - Oct 15, 2025",
+    "notes": "No statewide policy; Las Vegas metro enforcement",
+    "rate_per_100k": 35.0,
+    "rate_source": "https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/"
+  }
+}

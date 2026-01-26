@@ -1,0 +1,210 @@
+{
+  "project": "ICE Arrests Analysis",
+  "version": "0.1.0",
+  "last_updated": "2026-01-24",
+  "data_coverage": {
+    "start_date": "2025-01-20",
+    "end_date": "2025-10-15",
+    "description": "Trump administration second term period"
+  },
+
+  "source_tiers": {
+    "1": {
+      "name": "OFFICIAL",
+      "description": "Official government data (ICE reports, court records, FOIA releases)",
+      "examples": ["ICE Detainee Death Reporting", "DOJ records", "Court filings"],
+      "confidence": "HIGH",
+      "used_in_ratios": true
+    },
+    "2": {
+      "name": "FOIA_INVESTIGATIVE",
+      "description": "FOIA-obtained data or systematic investigative journalism",
+      "examples": ["The Trace shootings tracker", "ProPublica investigations", "GAO reports"],
+      "confidence": "MEDIUM_HIGH",
+      "used_in_ratios": true
+    },
+    "3": {
+      "name": "NEWS_SYSTEMATIC",
+      "description": "News media found via systematic search of defined sources",
+      "examples": ["NBC News monitoring", "AP state-by-state searches"],
+      "confidence": "MEDIUM",
+      "used_in_ratios": false,
+      "note": "May have geographic/topic selection bias"
+    },
+    "4": {
+      "name": "NEWS_ADHOC",
+      "description": "News media found via ad-hoc/targeted search",
+      "examples": ["Twitter finds", "Local news tips"],
+      "confidence": "LOW",
+      "used_in_ratios": false,
+      "note": "High selection bias risk"
+    }
+  },
+
+  "incident_types": {
+    "death_in_custody": "Death while in ICE/CBP detention",
+    "shooting_by_agent": "Agent discharged firearm",
+    "shooting_at_agent": "Civilian shot at agents/facility",
+    "less_lethal": "Pepper spray, rubber bullets, tear gas, tasers",
+    "physical_force": "Tackles, restraints, chokeholds (non-weapon)",
+    "wrongful_detention": "US citizen detained",
+    "wrongful_deportation": "US citizen deported",
+    "mass_raid": "Large-scale enforcement operation"
+  },
+
+  "victim_categories": {
+    "detainee": "Person in ICE/CBP custody",
+    "enforcement_target": "Person being arrested/targeted for enforcement",
+    "protester": "Person at protest/demonstration",
+    "journalist": "Press/media covering events",
+    "bystander": "Uninvolved person caught up",
+    "us_citizen_collateral": "US citizen wrongly targeted",
+    "officer": "ICE/CBP/police officer (for attacks ON agents)",
+    "multiple": "Incident affected multiple categories"
+  },
+
+  "collection_methods": {
+    "official_report": "From government-mandated reporting",
+    "foia": "Obtained via Freedom of Information Act",
+    "litigation": "From court filings/lawsuits",
+    "investigative": "From systematic journalism investigation",
+    "systematic_news": "Comprehensive search of defined sources",
+    "ad_hoc": "Found via targeted/opportunistic search"
+  },
+
+  "multi_person_incidents": {
+    "description": "Schema for incidents affecting multiple people",
+    "fields": {
+      "affected_count": "Total number of people directly affected by the incident",
+      "affected_breakdown": {
+        "description": "Object with detailed counts by category",
+        "possible_keys": [
+          "protesters_arrested",
+          "protesters_injured",
+          "protesters_hospitalized",
+          "protesters_detained",
+          "protesters_charged",
+          "felony_charges",
+          "officers_injured",
+          "journalists_affected",
+          "bystanders_affected",
+          "ice_detainees",
+          "charges_dropped",
+          "force_used"
+        ]
+      },
+      "incident_scale": {
+        "single": "1 person affected",
+        "small": "2-5 people affected",
+        "medium": "6-50 people affected",
+        "large": "51-200 people affected",
+        "mass": "200+ people affected"
+      },
+      "crowd_size": "Estimated total participants (for protests/demonstrations)"
+    },
+    "note": "affected_count represents people with documented negative outcomes (arrested, injured, detained), not total crowd size"
+  },
+
+  "data_sources": {
+    "arrests": {
+      "primary": {
+        "name": "Deportation Data Project",
+        "description": "Tracks ICE arrest counts by state",
+        "url": "various state-specific pages"
+      }
+    },
+    "incidents_tier1": {
+      "primary": {
+        "name": "ICE Detainee Death Reporting",
+        "url": "https://www.ice.gov/detain/detainee-death-reporting"
+      },
+      "secondary": [
+        {
+          "name": "AILA Deaths at Adult Detention Centers",
+          "url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+        },
+        {
+          "name": "Wikipedia List of deaths in ICE detention",
+          "url": "https://en.wikipedia.org/wiki/List_of_deaths_in_ICE_detention"
+        }
+      ]
+    },
+    "incidents_tier2": [
+      {
+        "name": "The Trace ICE Shootings Tracker",
+        "url": "https://www.thetrace.org/2025/12/immigration-ice-shootings-guns-tracker/"
+      },
+      {
+        "name": "ProPublica US Citizens Investigation",
+        "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will"
+      },
+      {
+        "name": "NBC News ICE Shootings List",
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202"
+      }
+    ],
+    "classifications": {
+      "primary": {
+        "name": "DOJ Sanctuary Jurisdiction List",
+        "description": "Executive Order 14287 designations",
+        "url": "https://www.justice.gov/ag/us-sanctuary-jurisdiction-list"
+      },
+      "secondary": {
+        "name": "ILRC State Map on Immigration Enforcement",
+        "url": "https://www.ilrc.org/state-map-immigration-enforcement-2024"
+      }
+    }
+  },
+
+  "states_searched_no_tier1_data": {
+    "description": "States systematically searched for Tier 1-2 data but found no documented incidents",
+    "states": [
+      "New York", "Virginia", "Louisiana", "North Carolina", "Tennessee",
+      "Iowa", "Indiana", "Washington", "Oklahoma", "Colorado", "Mississippi", "Nevada"
+    ],
+    "search_methodology": [
+      "ICE Detainee Death Reporting (ice.gov/detain/detainee-death-reporting)",
+      "AILA Deaths at Adult Detention Centers compilation",
+      "Wikipedia List of deaths in ICE detention",
+      "State-specific news searches for 'ICE detention death [state] 2025 2026'",
+      "ACLU litigation databases for each state"
+    ],
+    "explanation": "NO ICE custody deaths (Tier 1) occurred in these 12 states during 2025-2026. This is NOT a data gap - it reflects geographic concentration of ICE detention infrastructure. Deaths in custody are concentrated where major facilities exist.",
+    "note": "These states DO have Tier 3-4 incidents documented (mass raids, protests) but these are not used in ratio calculations due to selection bias risk."
+  },
+
+  "confidence_levels": {
+    "HIGH": "Data from official government sources with mandated reporting",
+    "MEDIUM_HIGH": "Data from FOIA releases or systematic investigative journalism",
+    "MEDIUM": "Data from systematic news search with known coverage biases",
+    "LOW_MEDIUM": "Data available but significant gaps acknowledged",
+    "LOW": "Ad-hoc data collection with high selection bias risk"
+  },
+
+  "known_undercounts": [
+    {
+      "source": "ProPublica",
+      "finding": "Found 170+ US citizen detentions; only ~30 fully documented in this dataset"
+    },
+    {
+      "source": "The Trace",
+      "finding": "Identified 26 shootings; Tier 2 has 12 with full details"
+    },
+    {
+      "source": "ICE",
+      "finding": "Stopped publishing death reports after Oct 2025"
+    },
+    {
+      "source": "GAO",
+      "finding": "Found ICE couldn't provide 5 years of use-of-force data"
+    }
+  ],
+
+  "limitations": [
+    "Uneven geographic coverage of incident data",
+    "Media coverage bias (sanctuary states may receive more coverage)",
+    "Small sample sizes in most state/classification categories",
+    "Selection bias in Tier 3-4 data",
+    "Incomplete data from ICE itself"
+  ]
+}
