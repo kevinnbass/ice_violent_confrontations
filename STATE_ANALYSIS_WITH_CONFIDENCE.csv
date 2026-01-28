@@ -1,0 +1,26 @@
+state,arrests,total_high_confidence_incidents,deaths_tier1,violence_ratio_per_1000,death_ratio_per_10000,confidence_level,enforcement_classification
+California,15531,11,2,0.708,1.288,MEDIUM_HIGH,sanctuary
+Texas,36240,10,6,0.276,1.656,MEDIUM_HIGH,aggressive_anti_sanctuary
+Illinois,3300,10,0,3.03,,MEDIUM,sanctuary
+Florida,14306,5,5,0.35,3.495,MEDIUM_HIGH,aggressive_anti_sanctuary
+Minnesota,2400,5,0,2.083,,MEDIUM,sanctuary
+Arizona,3400,4,3,1.176,8.824,MEDIUM_HIGH,anti_sanctuary
+Oregon,1200,3,0,2.5,,MEDIUM,sanctuary
+Pennsylvania,2500,3,3,1.2,12.0,MEDIUM,neutral
+Georgia,4500,2,2,0.444,4.444,MEDIUM,aggressive_anti_sanctuary
+New Jersey,2200,1,1,0.455,4.545,MEDIUM,sanctuary
+Alabama,1500,1,0,0.667,,MEDIUM,anti_sanctuary
+Massachusetts,2100,1,0,0.476,,MEDIUM,neutral
+Maryland,3308,1,0,0.302,,MEDIUM,sanctuary
+New York,5200,0,0,,,LOW,sanctuary
+Virginia,2800,0,0,,,LOW,neutral
+Louisiana,2200,0,0,,,LOW,anti_sanctuary
+North Carolina,3400,0,0,,,LOW,anti_sanctuary
+Tennessee,2800,0,0,,,LOW,anti_sanctuary
+Iowa,1200,0,0,,,LOW,aggressive_anti_sanctuary
+Indiana,1800,0,0,,,LOW,anti_sanctuary
+Washington,1500,0,0,,,LOW,sanctuary
+Oklahoma,1600,0,0,,,LOW,anti_sanctuary
+Colorado,3522,0,0,,,LOW,sanctuary
+Mississippi,1400,0,0,,,LOW,anti_sanctuary
+Nevada,1100,0,0,,,LOW,neutral

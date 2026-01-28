@@ -1,0 +1,742 @@
+{
+  "metadata": {
+    "title": "Children Affected by ICE Enforcement Actions 2025-2026",
+    "date_compiled": "2026-01-25",
+    "data_coverage_period": "January 2025 - January 2026",
+    "categories": [
+      "US citizen children deported with parents",
+      "Children separated from parents during raids",
+      "Children present during violent enforcement",
+      "School-related ICE incidents",
+      "Child welfare impacts of parental detention"
+    ],
+    "sources_count": 50
+  },
+  "summary_statistics": {
+    "us_citizen_children_stranded": {
+      "count": "100+",
+      "source": "CNN investigation September 2025",
+      "source_url": "https://www.cnn.com/2025/09/23/politics/us-citizen-children-separated-parents-deported-ice-invs"
+    },
+    "children_in_ice_detention_2025": {
+      "count": "3,800+",
+      "detained_over_20_days": "1,300+",
+      "source": "The Marshall Project December 2025",
+      "source_url": "https://www.themarshallproject.org/2025/12/17/children-immigration-detention-dilley-ice"
+    },
+    "us_citizen_children_deported": {
+      "count": "7+ confirmed",
+      "source": "PBS News",
+      "source_url": "https://www.pbs.org/newshour/show/children-who-are-u-s-citizens-deported-along-with-foreign-born-mothers-attorneys-say"
+    },
+    "children_at_risk_nationally": {
+      "undocumented_children": "1,500,000",
+      "us_citizen_children_with_undocumented_parent": "4,400,000",
+      "source": "American Immigration Council",
+      "source_url": "https://www.americanimmigrationcouncil.org/fact-sheet/us-citizen-children-impacted-immigration-enforcement/"
+    }
+  },
+  "documented_incidents": [
+    {
+      "incident_id": "LA-2025-001",
+      "category": "US citizen children deported with parents",
+      "date": "2025-04-24 to 2025-04-25",
+      "location": {
+        "city": "New Orleans area",
+        "state": "Louisiana",
+        "country": "USA",
+        "detention_location": "Alexandria, Louisiana",
+        "deportation_destination": "Honduras"
+      },
+      "children_affected": [
+        {
+          "name": "Romeo",
+          "age": 4,
+          "citizenship": "US citizen",
+          "special_circumstances": "Stage 4 kidney cancer (metastatic to lungs), was receiving treatment at Manning Family Children's Hospital in New Orleans",
+          "outcome": "Deported to Honduras without medication or access to treating physicians"
+        },
+        {
+          "name": "Ruby",
+          "age": 7,
+          "citizenship": "US citizen",
+          "special_circumstances": null,
+          "outcome": "Deported to Honduras with mother and sibling"
+        }
+      ],
+      "parent_details": {
+        "name": "Rosario",
+        "age": 25,
+        "nationality": "Honduran",
+        "circumstances": "Detained during routine ISAP check-in, instructed to bring children and passports"
+      },
+      "enforcement_details": {
+        "agency": "ICE",
+        "trigger": "Routine Intensive Supervision Appearance Program (ISAP) check-in",
+        "time_from_detention_to_deportation": "Approximately 12 hours",
+        "deportation_time": "6:00 AM on April 25, 2025",
+        "due_process_concerns": "Family woken at 2:00 AM, forced into van, deported without counsel access"
+      },
+      "legal_actions": {
+        "lawsuit_filed": true,
+        "case_name": "J.L.V. v. Acuna",
+        "allegations": "Unlawful deportation without due process, violation of federal law",
+        "court": "U.S. District Court, Middle District of Louisiana"
+      },
+      "sources": [
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/ice-deport-us-citizen-kids-stage-4-cancer-honduras-rcna224501"
+        },
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2025/04/27/us/children-us-citizens-deported-honduras"
+        },
+        {
+          "outlet": "Louisiana Illuminator",
+          "url": "https://lailluminator.com/2025/08/21/children-deport/"
+        },
+        {
+          "outlet": "NIPNLG",
+          "url": "https://nipnlg.org/news/press-releases/lawsuit-filed-after-ice-deports-three-us-citizen-children-without-consent"
+        }
+      ]
+    },
+    {
+      "incident_id": "LA-2025-002",
+      "category": "US citizen children deported with parents",
+      "date": "2025-04-24 to 2025-04-25",
+      "location": {
+        "city": "Baton Rouge area",
+        "state": "Louisiana",
+        "country": "USA",
+        "deportation_destination": "Honduras"
+      },
+      "children_affected": [
+        {
+          "name": "Jade",
+          "age": 2,
+          "citizenship": "US citizen",
+          "special_circumstances": null,
+          "outcome": "Deported to Honduras with mother"
+        },
+        {
+          "name": "Janelle",
+          "age": 11,
+          "citizenship": "Honduran citizen",
+          "special_circumstances": null,
+          "outcome": "Deported to Honduras with mother"
+        }
+      ],
+      "parent_details": {
+        "name": "Julia",
+        "age": 30,
+        "nationality": "Honduran",
+        "partner": "Jacob (father of children)",
+        "circumstances": "Detained during routine ISAP check-in"
+      },
+      "enforcement_details": {
+        "agency": "ICE",
+        "coercion_alleged": "Mother signed document only after agents allegedly threatened foster care placement for 2-year-old",
+        "due_process_concerns": "Prohibited from contacting counsel or family"
+      },
+      "legal_actions": {
+        "court_hearing": "May 16, 2025",
+        "judge_concerns": "Federal judge questioned whether government proved deportation was done properly"
+      },
+      "sources": [
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2025/04/27/us/children-us-citizens-deported-honduras"
+        },
+        {
+          "outlet": "Fox8 Live",
+          "url": "https://www.fox8live.com/2025/04/29/unimaginable-stress-trauma-louisiana-family-deported-without-due-process-child-battling-cancer/"
+        }
+      ]
+    },
+    {
+      "incident_id": "TX-2026-001",
+      "category": "US citizen children deported with parents",
+      "date": "2026-01-05 to 2026-01-11",
+      "location": {
+        "city": "Austin",
+        "state": "Texas",
+        "country": "USA",
+        "detention_location": "San Antonio hotel (incommunicado)",
+        "deportation_destination": "Honduras"
+      },
+      "children_affected": [
+        {
+          "name": "Genesis Ester Gutierrez Castellanos",
+          "age": 5,
+          "citizenship": "US citizen",
+          "special_circumstances": null,
+          "outcome": "Deported to Honduras on January 11, 2026"
+        }
+      ],
+      "parent_details": {
+        "name": "Karen",
+        "nationality": "Honduran",
+        "circumstances": "Arrested after Austin Police responded to 911 call and discovered ICE administrative warrant"
+      },
+      "enforcement_details": {
+        "agency": "ICE with Austin Police Department cooperation",
+        "trigger": "911 call response, no disturbance found, background check revealed ICE warrant",
+        "detention_conditions": "Held incommunicado in San Antonio hotel, pressured not to disclose location",
+        "time_from_detention_to_deportation": "Less than one week",
+        "due_process_concerns": "No opportunity to speak with attorney, appear before judge, or arrange care for US citizen child"
+      },
+      "policy_response": {
+        "austin_pd_policy_change": "APD Chief Lisa Davis announced new general orders for cooperation with ICE on immigration warrants"
+      },
+      "sources": [
+        {
+          "outlet": "KXAN Austin",
+          "url": "https://www.kxan.com/news/local/austin/austin-mom-5-year-old-u-s-citizen-deported-to-honduras-in-secret-advocates-say/"
+        },
+        {
+          "outlet": "KUT",
+          "url": "https://www.kut.org/crime-justice/2026-01-14/ice-apd-austin-police-immigration-trump-policy-change"
+        },
+        {
+          "outlet": "Children's Defense Fund",
+          "url": "https://www.childrensdefense.org/blog/tell-city-officials-in-austin-protect-and-support-families/"
+        }
+      ]
+    },
+    {
+      "incident_id": "IL-2025-001",
+      "category": "Children separated from parents during raids",
+      "subcategory": "Children present during violent enforcement",
+      "date": "2025-09-30",
+      "location": {
+        "neighborhood": "South Shore",
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "USA",
+        "building_type": "Five-story residential apartment building"
+      },
+      "children_affected": [
+        {
+          "count": 4,
+          "citizenship": "US citizens (children of undocumented parents)",
+          "ages": "Not specified but included young children",
+          "outcome": "Taken into custody, later placed with safe guardians or state"
+        }
+      ],
+      "raid_details": {
+        "time": "Approximately 1:00 AM",
+        "agents_involved": "Approximately 300 federal agents",
+        "tactics": [
+          "Agents rappelled from helicopters onto roof",
+          "Black Hawk helicopter used",
+          "Flash bang grenades deployed",
+          "Doors kicked down",
+          "Military-style vehicles deployed"
+        ],
+        "total_arrests": 37,
+        "nationalities_arrested": ["Venezuelan", "Mexican", "Nigerian", "Colombian"],
+        "justification": "Building allegedly frequented by Tren de Aragua gang members"
+      },
+      "witness_accounts": {
+        "children_treatment": [
+          "Children zip-tied",
+          "Children dragged out without clothes",
+          "Children separated from mothers",
+          "Children detained in dark vans for hours",
+          "Children loaded into Budget rental trucks"
+        ],
+        "witness_names": ["Ebony Sweets Watson"]
+      },
+      "political_response": {
+        "governor_statement": "Illinois Governor J.B. Pritzker: 'Military-style tactics should never be used on children in a functioning democracy. This didn't happen in a country with an authoritarian regime – it happened here in Chicago.'"
+      },
+      "sources": [
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2025/10/03/us/chicago-apartment-ice-raid"
+        },
+        {
+          "outlet": "TIME",
+          "url": "https://time.com/7323334/ice-raid-chicago-pritzker-trump/"
+        },
+        {
+          "outlet": "Block Club Chicago",
+          "url": "https://blockclubchicago.org/2025/10/03/feds-detained-4-children-who-are-us-citizens-during-controversial-ice-raid/"
+        },
+        {
+          "outlet": "Newsweek",
+          "url": "https://www.newsweek.com/ice-agents-dragged-naked-children-out-homes-chicago-raid-10823150"
+        },
+        {
+          "outlet": "Amnesty International USA",
+          "url": "https://www.amnestyusa.org/press-releases/pre-dawn-ice-raid-in-chicago-is-attack-on-human-rights-spreads-fear-and-intimidation/"
+        }
+      ]
+    },
+    {
+      "incident_id": "MN-2026-001",
+      "category": "Children present during enforcement",
+      "subcategory": "School-related ICE incidents",
+      "date": "2026-01-20",
+      "location": {
+        "city": "Columbia Heights",
+        "state": "Minnesota",
+        "country": "USA",
+        "specific_location": "Family driveway, child returning from preschool"
+      },
+      "children_affected": [
+        {
+          "name": "Liam Conejo Ramos",
+          "age": 5,
+          "citizenship": "Ecuadorian (pending asylum case)",
+          "circumstances": "Just arrived home from preschool",
+          "outcome": "Detained with father, transferred to Dilley, Texas detention facility",
+          "current_status": "Held at South Texas Family Detention Center"
+        }
+      ],
+      "parent_details": {
+        "name": "Adrian Alexander Conejo Arias",
+        "nationality": "Ecuadorian",
+        "immigration_status": "Pending asylum case, no deportation order"
+      },
+      "enforcement_details": {
+        "agency": "ICE",
+        "tactics": {
+          "child_used_as_bait": true,
+          "description": "Agent took child from running vehicle, directed him to knock on door to see if others were inside"
+        },
+        "witness_intervention_denied": "Another adult begged agents to let them care for the child but was refused"
+      },
+      "dhs_response": {
+        "official_statement": "ICE did NOT target a child. The child was ABANDONED.",
+        "claim": "Father fled federal agents, leaving the child"
+      },
+      "school_district_response": {
+        "superintendent": "Zena Stenvik",
+        "statement": "We had an ICE vehicle drive onto our school property just two hours ago. ICE agents have been roaming our neighborhoods, circling our schools, following our buses, coming into our parking lots and taking our children."
+      },
+      "sources": [
+        {
+          "outlet": "Washington Post",
+          "url": "https://www.washingtonpost.com/immigration/2026/01/22/minnesota-ice-columbia-heights-school/"
+        },
+        {
+          "outlet": "PBS News",
+          "url": "https://www.pbs.org/newshour/nation/federal-officers-detain-5-year-old-boy-who-a-minnesota-school-official-says-was-used-as-bait"
+        },
+        {
+          "outlet": "MPR News",
+          "url": "https://www.mprnews.org/story/2026/01/21/ice-detains-5year-old-minnesota-boy-lawyer-says-agents-used-him-as-bait"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/1/23/us-officers-detain-5-year-old-boy-as-minnesota-immigration-raids-continue"
+        },
+        {
+          "outlet": "CBS Minnesota",
+          "url": "https://www.cbsnews.com/minnesota/news/minnesota-school-children-ice-arrests-columbia-heights/"
+        }
+      ]
+    },
+    {
+      "incident_id": "MN-2026-002",
+      "category": "School-related ICE incidents",
+      "date": "2026-01-20",
+      "location": {
+        "city": "Columbia Heights",
+        "state": "Minnesota",
+        "country": "USA",
+        "specific_location": "En route to school"
+      },
+      "children_affected": [
+        {
+          "age": 17,
+          "citizenship": "Not specified",
+          "school": "Columbia Heights High School",
+          "circumstances": "Taken by armed and masked agents while traveling to school alone, no parents present",
+          "outcome": "Detained"
+        }
+      ],
+      "enforcement_details": {
+        "tactics": "Armed and masked agents removed student from vehicle"
+      },
+      "sources": [
+        {
+          "outlet": "Washington Post",
+          "url": "https://www.washingtonpost.com/immigration/2026/01/22/minnesota-ice-columbia-heights-school/"
+        },
+        {
+          "outlet": "Fox 9",
+          "url": "https://www.fox9.com/news/ice-agents-detaining-teens-toddlers-minnesota-jan-2026"
+        }
+      ]
+    },
+    {
+      "incident_id": "MN-2026-003",
+      "category": "School-related ICE incidents",
+      "date": "2026-01 (two weeks before January 20)",
+      "location": {
+        "city": "Columbia Heights",
+        "state": "Minnesota",
+        "country": "USA",
+        "specific_location": "En route to elementary school"
+      },
+      "children_affected": [
+        {
+          "age": 10,
+          "grade": "Fourth grade",
+          "citizenship": "Not specified",
+          "circumstances": "Detained with mother on way to school",
+          "outcome": "Detained, transferred to Texas"
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Bring Me The News",
+          "url": "https://bringmethenews.com/minnesota-news/ice-detains-4-columbia-heights-students-including-5-and-10-year-olds-sent-to-texas"
+        }
+      ]
+    },
+    {
+      "incident_id": "MN-2026-004",
+      "category": "Children separated from parents during raids",
+      "date": "2026-01-23",
+      "location": {
+        "city": "Minneapolis (south)",
+        "state": "Minnesota",
+        "country": "USA",
+        "specific_location": "Traffic stop, returning from grocery store"
+      },
+      "children_affected": [
+        {
+          "name": "Chloe Renata Tipan Villacis (C.R.T.V. in court documents)",
+          "age": 2,
+          "citizenship": "Ecuadorian (has lived in US since newborn, pending asylum application)",
+          "outcome": "Detained with father, ordered released by judge, but flown to Texas before order executed, returned to Minnesota next day"
+        }
+      ],
+      "parent_details": {
+        "name": "Elvis Joel Tipan-Echeverria",
+        "nationality": "Ecuadorian"
+      },
+      "legal_developments": {
+        "court_order": "Judge ordered immediate release at 8:11 PM",
+        "violation": "Father and child on commercial flight to Texas by 8:30 PM despite order",
+        "resolution": "Child released and returned to Minnesota the following afternoon"
+      },
+      "sources": [
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/2-year-old-girl-father-taken-ice-minneapolis-immigration-rcna255603"
+        },
+        {
+          "outlet": "KTVU Fox 2",
+          "url": "https://www.ktvu.com/news/toddler-ice-order-jan-23-2026"
+        },
+        {
+          "outlet": "KRDO",
+          "url": "https://krdo.com/news/2026/01/24/toddler-taken-into-ice-custody-with-father-and-flown-from-minnesota-to-texas-before-returned-to-mother-next-day-lawyer-says/"
+        }
+      ]
+    },
+    {
+      "incident_id": "MN-2026-005",
+      "category": "School-related ICE incidents",
+      "date": "2026-01 (specific date not confirmed)",
+      "location": {
+        "city": "Crystal (Minneapolis suburb)",
+        "state": "Minnesota",
+        "country": "USA",
+        "specific_location": "School bus stop"
+      },
+      "children_affected": [
+        {
+          "school": "Northport Elementary School",
+          "citizenship": "Not specified",
+          "circumstances": "Parent detained at bus stop while waiting with child",
+          "trauma_exposure": "Students at bus stop and on bus witnessed the arrest",
+          "outcome": "Child safely boarded school bus and arrived at school"
+        }
+      ],
+      "school_district_response": {
+        "district": "Robbinsdale Area Schools",
+        "superintendent": "Teri Staloch",
+        "support_provided": "Psychologists, social workers, and other support staff made available"
+      },
+      "political_response": {
+        "rep_cedrick_frazier_statement": "Waiting for the school bus is a fundamental, mundane part of American parenthood...Targeting parents as they perform the basic duty of getting their children to school is abhorrent and un-American...A parent was detained in front of their child and a bus full of minor children."
+      },
+      "sources": [
+        {
+          "outlet": "Bring Me The News",
+          "url": "https://bringmethenews.com/minnesota-news/robbinsdale-schools-parent-detained-by-ice-while-waiting-with-child-at-bus-stop"
+        },
+        {
+          "outlet": "Fox 9",
+          "url": "https://www.fox9.com/news/ice-detains-parent-robbinsdale-bus-stop-jan-15"
+        },
+        {
+          "outlet": "CCX Media",
+          "url": "https://ccxmedia.org/news/robbinsdale-schools-northport-parent-detained-by-ice-at-bus-stop/"
+        }
+      ]
+    },
+    {
+      "incident_id": "MN-2026-006",
+      "category": "Children separated from parents during raids",
+      "date": "2026-01-11",
+      "location": {
+        "city": "St. Paul",
+        "state": "Minnesota",
+        "country": "USA"
+      },
+      "children_affected": [
+        {
+          "count": 2,
+          "ages": "Under 15 years old",
+          "citizenship": "Not specified",
+          "circumstances": "Parents detained, children left behind",
+          "outcome": "Neighbor took children in, took nearly a week for out-of-state relative to pick them up"
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Spokesman-Review",
+          "url": "https://www.spokesman.com/stories/2026/jan/25/fearing-ice-parents-make-plans-for-their-childrens/"
+        }
+      ]
+    },
+    {
+      "incident_id": "MN-2026-007",
+      "category": "Children present during enforcement",
+      "date": "2026-01 (specific date not confirmed)",
+      "location": {
+        "city": "Minnesota (location not specified)",
+        "state": "Minnesota",
+        "country": "USA",
+        "specific_location": "At home"
+      },
+      "children_affected": [
+        {
+          "age": 12,
+          "nationality": "Venezuelan",
+          "circumstances": "Detained at home",
+          "outcome": "Detained"
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Fox 9",
+          "url": "https://www.fox9.com/news/ice-agents-detaining-teens-toddlers-minnesota-jan-2026"
+        }
+      ]
+    },
+    {
+      "incident_id": "WA-2026-001",
+      "category": "School-related ICE incidents",
+      "date": "2026-01-20",
+      "location": {
+        "city": "Seattle (South)",
+        "state": "Washington",
+        "country": "USA"
+      },
+      "children_affected": [
+        {
+          "count": "Multiple schools affected",
+          "schools": [
+            "Mercer International Middle School",
+            "Aki Kurose Middle School",
+            "Cleveland STEM High School",
+            "Maple Elementary School",
+            "Dearborn Park International Elementary"
+          ],
+          "outcome": "Shelter-in-place protocols enacted due to unconfirmed ICE activity reports"
+        }
+      ],
+      "incident_details": {
+        "ice_confirmed_on_campus": false,
+        "response": "Six schools enacted shelter-in-place protocols"
+      },
+      "sources": [
+        {
+          "outlet": "KOMO News",
+          "url": "https://komonews.com/news/local/south-seattle-schools-resume-normal-operations-after-ice-scare-seattle-public-schools-ice-arrest-police-lockdown-city-of-seattles-immigrant-and-refugee-affairs-rapid-response"
+        },
+        {
+          "outlet": "Fox 13 Seattle",
+          "url": "https://www.fox13seattle.com/news/ice-activity-lockdown-seattle-schools"
+        }
+      ]
+    }
+  ],
+  "child_welfare_impacts": {
+    "policy_changes_2025": {
+      "directive": "ICE Directive 11064.4",
+      "title": "Detention and Removal of Alien Parents and Legal Guardians of Minor Children",
+      "date_issued": "2025-07-02",
+      "key_changes": [
+        "Rescinded 2022 Biden-era Parental Interest Directive",
+        "Weakened protections for noncitizen parents",
+        "Reduced ICE obligations to facilitate parental participation in child proceedings",
+        "Eliminated application to incapacitated adults"
+      ],
+      "sources": [
+        {
+          "outlet": "ICE Official",
+          "url": "https://www.ice.gov/detain/parental-interest"
+        },
+        {
+          "outlet": "Women's Refugee Commission",
+          "url": "https://www.womensrefugeecommission.org/research-resources/checklist-for-the-2025-ice-directive-detention-and-removal-of-alien-parents-and-legal-guardians-of-minor-children/"
+        }
+      ]
+    },
+    "sensitive_locations_policy": {
+      "status": "Revoked January 20, 2025",
+      "previous_policy": "Obama-era memorandum preventing ICE enforcement near schools, hospitals, and places of worship",
+      "current_status": "ICE can now enter sensitive locations for enforcement"
+    },
+    "research_findings": {
+      "trauma_indicators": {
+        "percentage_showing_trauma": "45%",
+        "population": "U.S.-born children of immigrants when parent is detained",
+        "source": "American Immigration Council"
+      },
+      "mental_health_impact": {
+        "depression_anxiety_increase": "5x more likely to develop clinical depression or anxiety",
+        "behavioral_changes": "Majority experience at least four adverse behavioral changes in six months following arrest",
+        "specific_changes": [
+          "Crying or fear more often",
+          "Changed eating or sleeping habits",
+          "Increased anxiety",
+          "Withdrawal",
+          "Clinginess",
+          "Anger",
+          "Aggression"
+        ]
+      },
+      "children_in_foster_care_with_detained_parent": {
+        "count": "5,000 (2011 estimate)",
+        "source": "National study cited by Center for Migration Studies"
+      }
+    },
+    "detention_conditions_reported": {
+      "facility": "South Texas Family Detention Center (Dilley, Texas)",
+      "operator": "CoreCivic (private company)",
+      "reopened": "2024 (after closing in 2021 under Biden)",
+      "conditions_reported": [
+        "Food with worms",
+        "Constant illness",
+        "Insufficient medical access",
+        "Children hitting their own faces due to psychological stress",
+        "Potty-trained children wetting themselves",
+        "Children losing weight",
+        "Children fainting",
+        "Inadequate treatment for medical conditions (e.g., ear infection leading to hearing loss)"
+      ],
+      "sources": [
+        {
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2025/12/09/politics/migrant-families-ice-detention-facility-texas"
+        },
+        {
+          "outlet": "PBS News",
+          "url": "https://www.pbs.org/newshour/show/migrant-families-allege-children-held-by-ice-face-unsafe-and-unsanitary-conditions"
+        }
+      ]
+    }
+  },
+  "community_and_school_responses": {
+    "school_attendance_impacts": {
+      "minneapolis_public_schools": {
+        "action": "Cancelled in-person school for entire district",
+        "alternative": "Remote learning options for several weeks"
+      },
+      "general_impact": "Soaring absenteeism in affected areas"
+    },
+    "community_protection_efforts": {
+      "volunteer_patrols": {
+        "locations": ["Minneapolis", "Oakland"],
+        "methods": ["Walkie-talkies", "Signal group chats", "Whistles"],
+        "model": "National Day Laborer Organizing Network 'Adopt a Corner' program"
+      }
+    },
+    "parental_preparedness": {
+      "actions_taken": "Parents legally transferring parental authority to teachers, co-workers, fellow parishioners, and neighbors in case of detention"
+    },
+    "legislative_responses": {
+      "california": {
+        "law": "Requires ICE agents to obtain judicial warrant to enter schools",
+        "notification": "Schools must notify parents, staff, and students if ICE agents are on campus"
+      },
+      "california_pending": {
+        "bill": "Assembly Bill 495 (Family Preparedness Plan Act of 2025)",
+        "purpose": "Strengthen family stability and protect parental rights during deportation"
+      }
+    }
+  },
+  "federal_enforcement_context": {
+    "operation_metro_surge": {
+      "location": "Minneapolis-St. Paul, Minnesota",
+      "agents_deployed": "3,000+",
+      "arrests_since_december": "3,000+",
+      "start_date": "December 2025"
+    },
+    "nationwide_statistics": {
+      "total_removals_since_jan_2025": "670,000+",
+      "ice_detainee_population_june_2025": 57861,
+      "ice_detainee_population_june_2024": 38265,
+      "increase_percentage": "51%",
+      "capacity_status": "Nearly 45% above capacity"
+    }
+  },
+  "dhs_official_positions": {
+    "on_citizen_children_deportation": {
+      "statement": "DHS is NOT Deporting American Children",
+      "spokesperson": "Tricia McLaughlin, DHS Assistant Secretary",
+      "explanation": "Parents are asked if they want to be removed with their children, or if they would like ICE to place the children with a safe person the parent designates",
+      "source_url": "https://www.dhs.gov/news/2025/04/29/fact-check-dhs-not-deporting-american-children"
+    },
+    "on_schools": {
+      "statement": "ICE is not conducting enforcement operations at, or 'raiding,' schools. ICE is not going to schools to make arrests of children.",
+      "source_url": "https://www.dhs.gov/news/2025/09/09/dhs-sets-record-straight-ice-does-not-raid-schools"
+    },
+    "on_family_separation": {
+      "statement": "ICE does not separate families",
+      "policy": "Parents asked whether they want to be removed with their children or place them with a designated person"
+    }
+  },
+  "advocacy_and_legal_responses": {
+    "lawsuits_filed": [
+      {
+        "case": "J.L.V. v. Acuna",
+        "court": "U.S. District Court, Middle District of Louisiana",
+        "date_filed": "July 2025",
+        "plaintiffs": "Mothers and US citizen children deported to Honduras",
+        "allegations": [
+          "Unlawful deportation without due process",
+          "Violation of federal law",
+          "Detention in hotels",
+          "Denial of access to counsel",
+          "Rapid deportations violating ICE policies"
+        ]
+      }
+    ],
+    "advocacy_statements": {
+      "aclu": {
+        "statement": "It is illegal and unconstitutional to deport, detain for deportation, or recommend deportation of a U.S. citizen",
+        "source": "ACLU press release citing 2012 deportation case"
+      },
+      "national_immigration_project": {
+        "spokesperson": "Sirine Shebaya, Executive Director",
+        "statement": "That is willfully misleading. They did not request their children to be deported with them. One of these children is 4 and has cancer and is undergoing treatment. Neither of the moms felt like they had any choice in the matter."
+      },
+      "national_immigration_law_center": {
+        "spokesperson": "Heidi Altman, Vice President of Policy",
+        "statement": "This ICE is not using their discretion. The checks and balances that used to exist are gone."
+      }
+    }
+  }
+}

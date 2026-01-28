@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "title": "Significant Court Rulings and Legal Challenges to ICE Enforcement 2025-2026",
+    "date_compiled": "2026-01-25",
+    "description": "Federal court injunctions, habeas corpus rulings, class action lawsuits, constitutional challenges, and consent decree violations",
+    "total_rulings": 12,
+    "exclusions": ["J.G.G. v. Trump CECOT case"]
+  },
+  "court_rulings": [
+    {
+      "id": "CR-2025-001",
+      "date": "2025-10-07",
+      "state": "Illinois",
+      "city": "Chicago",
+      "incident_type": "consent_decree_violation",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Castanon Nava v. Department of Homeland Security",
+      "case_number": "1:18-cv-03757",
+      "judge_name": "Jeffrey Cummings",
+      "court": "U.S. District Court, Northern District of Illinois",
+      "affected_count": 3000,
+      "outcome": "Consent decree extended; ICE found in violation",
+      "outcome_detail": "Court ruled ICE violated the 2022 consent decree by conducting at least 22 out of 26 warrantless arrests without probable cause. ICE agents were found to carry blank warrant forms (I-200 warrants) and fill them out at the scene of arrests, explicitly designed to circumvent probable cause requirements. Consent decree extended 118 days until February 2, 2026.",
+      "outcome_category": "injunction_granted",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: The original 2022 consent decree stemmed from allegations of improper ICE arrests during the first Trump administration. The consent decree imposed obligations on ICE related to arrests without a warrant for civil violations within ICE's Chicago Area of Responsibility (IL, IN, WI, MO, KY, KS). Key constitutional issue: Fourth Amendment prohibition against unreasonable seizures requires warrants based on probable cause. The court found ICE's practice of using blank warrant forms violated both the consent decree and constitutional requirements. On November 13, 2025, the judge ordered release of 13 individuals arrested unlawfully, plus up to 615 additional people on $1,500 bond by November 21. The government appealed both orders. On December 11, 2025, the 7th Circuit issued a mixed ruling allowing the consent decree extension but taking a narrower view of 'warrantless' arrests. The appeals court rejected the Trump administration's interpretation that all undocumented immigrants are subject to mandatory detention, calling it an interpretation that 'upends decades of practice.' Over 3,000 people were arrested during 'Operation Midway Blitz' and are subject to review under this consent decree.",
+      "source_url": "https://immigrantjustice.org/press-release/federal-judge-extends-consent-decree-prohibiting-ice-from-arresting-people-without-warrants-or-probable-cause/",
+      "source_name": "National Immigrant Justice Center",
+      "additional_sources": [
+        "https://www.foxnews.com/politics/federal-judge-limits-ice-arrests-without-warrant-probable-cause",
+        "https://www.cbsnews.com/chicago/news/judge-consent-decree-ice-arrests-chicago/"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-002",
+      "date": "2025-11-14",
+      "state": "California",
+      "city": "Los Angeles",
+      "incident_type": "denial_of_counsel",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Vazquez Perdomo v. Noem",
+      "case_number": "2:25-cv-05605",
+      "judge_name": "District Court Judge (Central District of California)",
+      "court": "U.S. District Court, Central District of California",
+      "affected_count": 500,
+      "outcome": "Preliminary injunction granted protecting right to counsel",
+      "outcome_detail": "Federal court granted preliminary injunction against DHS and ICE, finding agencies likely violated the Fifth Amendment by denying detained immigrants lawful access to attorneys. Decision stems from evidence that individuals at B-18 holding facility in downtown Los Angeles were detained for extended periods in conditions preventing meaningful communication with counsel.",
+      "outcome_category": "injunction_granted",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: The lawsuit was filed July 2, 2025 by Public Counsel and partners challenging DHS's stop-and-arrest practices. B-18 is a holding site in the basement of the federal building in downtown LA. Detainees reported being denied phone access, turned away from in-person meetings with attorneys, and pressured to sign legal documents before speaking with lawyers. The court firmly rejected the government's position, finding multiple ongoing violations warranting continued oversight. The ruling extended protections first secured under a July 2025 TRO. The court also approved expedited discovery on Fourth Amendment claims, allowing plaintiffs to obtain documents and testimony concerning alleged unlawful stops, racial profiling during ICE operations. This marks the first immigration-raid case under Secretary Noem to proceed to discovery. Earlier, on September 8, 2025, the Supreme Court granted the administration's emergency request and stayed the July 11 TRO regarding Fourth Amendment claims (6-3 decision), but did not halt further proceedings. Justice Kavanaugh wrote a troubling concurrence suggesting 'apparent ethnicity' could be used as a 'relevant factor' in determining reasonable suspicion. The Fifth Amendment injunction protecting attorney access remains in place.",
+      "source_url": "https://publiccounsel.org/press-releases/federal-court-grants-preliminary-injunction-against-trump-administration-in-major-los-angeles-immigration-raids-case/",
+      "source_name": "Public Counsel",
+      "additional_sources": [
+        "https://www.aclusocal.org/en/press-releases/us-supreme-court-grants-stay-la-raids-case",
+        "https://calmatters.org/justice/2025/07/la-immigration-raids-lawsuit/"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-003",
+      "date": "2025-12-18",
+      "state": "California",
+      "city": "Riverside",
+      "incident_type": "mandatory_detention_policy",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Maldonado Bautista v. Santacruz (DHS/Noem)",
+      "case_number": "5:25-cv-01873",
+      "judge_name": "Sunshine Suzanne Sykes",
+      "court": "U.S. District Court, Central District of California",
+      "affected_count": 36000,
+      "outcome": "Final judgment vacating DHS mandatory detention policy; nationwide class certified",
+      "outcome_detail": "Court declared that DHS's July 2025 mandatory detention policy was unlawful, unconstitutional, and contrary to the plain language of the Immigration and Nationality Act. Final judgment entered December 18, 2025 on behalf of nationwide class, vacating DHS's July 8, 2025 'Interim Guidance Regarding Detention Authority for Applicants for Admission.' Class members entitled to bond hearings before immigration judges.",
+      "outcome_category": "released",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: This case challenged DHS's July 2025 policy shift that reinterpreted decades-old immigration law to classify virtually all undocumented immigrants as 'applicants for admission' subject to mandatory detention under INA Section 235(b)(2)(A). For 30 years, this provision applied primarily to people apprehended at the border shortly after entry. The new interpretation extended it to anyone present illegally. On July 28, 2025, Judge Sykes issued a TRO barring continued detention of four named petitioners. On November 25, 2025, the court rejected Matter of Yajure Hurtado and ICE's policy, certifying a nationwide 'Bond Eligible Class.' The December 18 final judgment: (1) Declared class detained under INA Section 236(a), not Section 235(b)(2); (2) Declared class entitled to bond consideration by immigration officers and custody hearings before IJs; (3) Vacated the July 8, 2025 DHS interim guidance under the APA. Judge Sykes issued clarifying orders after finding evidence the government specifically directed immigration judges to ignore her orders. The ACLU estimates this impacts 36,000+ immigrant cases nationwide. The certified class includes all noncitizens who entered without inspection, were not apprehended upon arrival, and are not subject to other mandatory detention grounds. DOJ reportedly instructed immigration judges outside the 9th Circuit to ignore the declaratory judgment and follow Matter of Yajure Hurtado instead.",
+      "source_url": "https://www.aclu.org/press-releases/federal-court-affirms-nationwide-class-has-right-to-bond-hearings",
+      "source_name": "ACLU",
+      "additional_sources": [
+        "https://abcnews.go.com/Politics/thousands-immigrants-eligible-bond-hearings-striking-dhs-policy/story",
+        "https://www.immigrationissues.com/a-final-ruling-in-the-maldonado-bautista-case-opens-a-nationwide-path-back-to-immigration-bond-hearings-for-many-ewi-detainees/"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-004",
+      "date": "2025-12-03",
+      "state": "District of Columbia",
+      "city": "Washington",
+      "incident_type": "warrantless_arrests",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "CASA v. Department of Homeland Security",
+      "judge_name": "Beryl Howell",
+      "court": "U.S. District Court, District of Columbia",
+      "affected_count": 1000,
+      "outcome": "Preliminary injunction blocking warrantless arrests without flight risk determination",
+      "outcome_detail": "Judge Howell blocked the Trump administration from making widespread immigration arrests in D.C. without warrants or probable cause that the person is an imminent flight risk. Ordered documentation requirements for any warrantless civil immigration arrest, including specific particularized facts supporting pre-arrest probable cause.",
+      "outcome_category": "injunction_granted",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: The lawsuit was filed September 25, 2025 by four D.C. community members and CASA (national immigration organization) alleging a pattern of unlawful immigration arrests since August 2025. ACLU and plaintiffs' attorneys argued federal officers were frequently patrolling and setting up checkpoints in D.C. neighborhoods with large Latino immigrant populations, stopping and arresting people indiscriminately. They provided sworn declarations from people arrested without warrants or required flight risk assessment. Judge Howell (Obama appointee) found plaintiffs 'established a substantial likelihood of an unlawful policy and practice by defendants of conducting warrantless civil immigration arrests without probable cause.' The injunction requires: (1) No warrantless arrests unless officer has probable cause person is illegally present AND likely to escape before warrant obtained; (2) Documentation of specific, particularized facts supporting flight risk conclusion; (3) Documentation made available to plaintiffs' attorneys and the court. DHS denied having such a policy. Assistant Secretary Tricia McLaughlin stated: 'What makes someone a target for immigration enforcement is if they are illegally in the U.S.--NOT their skin color, race, or ethnicity.' This ruling is similar to ACLU victories in Colorado and California.",
+      "source_url": "https://www.acludc.org/press-releases/federal-judge-blocks-unlawful-immigration-arrests-in-washington-d-c/",
+      "source_name": "ACLU of DC",
+      "additional_sources": [
+        "https://www.pbs.org/newshour/politics/judge-restricts-immigration-arrests-in-nations-capital-with-preliminary-injunction",
+        "https://www.nbcnews.com/news/us-news/judge-issues-injunction-restricting-immigration-arrests-nations-capita-rcna247249"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-005",
+      "date": "2025-11-25",
+      "state": "Colorado",
+      "city": "Denver",
+      "incident_type": "warrantless_arrests",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Colorado ICE Warrantless Arrests Case",
+      "judge_name": "R. Brooke Jackson",
+      "court": "U.S. District Court, District of Colorado",
+      "affected_count": 169000,
+      "outcome": "Preliminary injunction requiring flight risk determination before warrantless arrests",
+      "outcome_detail": "66-page ruling comprehensively rejected ICE's warrantless arrest tactics. Ordered immigration agents to stop making warrantless arrests without first determining flight risk. Required extensive documentation for each warrantless arrest. Preliminarily certified class action encompassing 'all persons' arrested by immigration authorities in Colorado without flight risk determination.",
+      "outcome_category": "injunction_granted",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: Judge Jackson found plaintiffs showed defendants 'likely have a policy, pattern, and/or practice of violating' federal law 'by effecting warrantless arrests without individualized probable cause of flight risk.' The ruling is a comprehensive rejection of tactics regularly used by ICE to meet Trump administration quotas. Key requirements: (1) No warrantless arrests unless pre-arrest probable cause of illegal presence AND likelihood of escape before warrant obtained; (2) 'Mere presence within the United States in violation of United States immigration law is not, by itself, sufficient to conclude that a person is likely to escape'; (3) Documentation must include 'specific, particularized facts supporting the conclusion that the person was likely to escape before a warrant could be obtained'; (4) Documentation available for regular inspection by plaintiffs and court. Class preliminarily certified to include approximately 169,000 people. Relief includes restoring plaintiffs to pre-arrest status (bond refunds, termination of electronic monitoring). The ACLU has won similar suits in Illinois, California, and D.C. The Trump administration appealed the Illinois ruling but no appeals filed in Colorado as of early December 2025.",
+      "source_url": "https://coloradosun.com/2025/11/25/federal-court-rules-against-ice-arrests-colorado/",
+      "source_name": "Colorado Sun",
+      "additional_sources": [
+        "https://www.aclu-co.org/press-releases/federal-judge-prohibits-ice-from-making-warrantless-arrests-in-colorado/",
+        "https://www.npr.org/2025/12/05/nx-s1-5627491/colorado-judge-rules-that-immigration-agents-must-stop-warrantless-arrests"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-006",
+      "date": "2025-09-17",
+      "state": "New York",
+      "city": "New York City",
+      "incident_type": "detention_conditions",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "26 Federal Plaza Detention Conditions Case",
+      "judge_name": "Lewis A. Kaplan",
+      "court": "U.S. District Court, Southern District of New York",
+      "affected_count": 596,
+      "outcome": "Preliminary injunction requiring humane detention conditions and attorney access",
+      "outcome_detail": "Extended capacity restrictions at ICE holding area at 26 Federal Plaza. Required 50 square feet per person, three meals daily, sanitary products, sleeping mats, fresh bedding, and ability to make confidential calls to lawyers within 24 hours of detention. Granted class certification.",
+      "outcome_category": "injunction_granted",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: 26 Federal Plaza houses immigration court, FBI's NY field office, and other federal offices. Following June 2025 ICE guideline changes, holding rooms intended for short-term use (hours) began holding hundreds for days. Lawsuit alleged: dozens crowded into small rooms with single toilet/sink; no beds or sleeping mats; only two meals per day. Data showed 415 people detained over 2 days during May-June; 81 detained 4+ days. Average stay increased from 29 hours to 58 hours by September, with 596 detained 2+ days and 253 detained 4+ days. August 12, 2025 TRO required: capacity of 50 sq ft/person (largest room reduced from 40+ to ~15 people); three daily cleanings; adequate soap, towels, toilet paper, toothbrushes, toothpaste, feminine products; accommodations for confidential, unmonitored legal calls. September 17 preliminary injunction extended these requirements. Judge Kaplan stated: 'Whatever the merits of the Administration's determination to deport illegal aliens--and the Court expresses no view of that issue--we must remember that this is the United States of America. We aspire to treat all Americans--and those among us--with humanity.' NY Attorney General Letitia James also filed action to stop inhumane conditions.",
+      "source_url": "https://www.aclu.org/press-releases/district-court-grants-order-prohibiting-ice-from-detaining-immigrants-in-abusive-conditions-at-26-federal-plaza",
+      "source_name": "ACLU",
+      "additional_sources": [
+        "https://www.thecity.nyc/2025/09/17/ice-overcrowding-conditions-judge-injunction-26-federal-plaza/",
+        "https://www.cnn.com/2025/08/13/us/ice-nyc-immigration-facility-conditions-order"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-007",
+      "date": "2025-12-12",
+      "state": "District of Columbia",
+      "city": "Washington",
+      "incident_type": "unaccompanied_minors",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Garcia Ramirez v. ICE",
+      "judge_name": "Rudolph Contreras",
+      "court": "U.S. District Court, District of Columbia",
+      "affected_count": 500,
+      "outcome": "Enforcement of 2021 permanent injunction; blocked automatic adult detention of aging-out minors",
+      "outcome_detail": "Court blocked new Trump administration ICE policy to automatically transfer unaccompanied children who turn 18 into adult detention. Enforced 2021 permanent injunction requiring ICE to consider least restrictive setting available and make all age-outs eligible for alternatives to detention.",
+      "outcome_category": "injunction_granted",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: This nationwide class-action lawsuit challenges DHS and ICE for transferring unaccompanied minors who reach 18th birthday to adult detention facilities without considering less restrictive placements. The settlement follows 4+ years of litigation in which Judge Contreras found ICE flagrantly violated immigration laws. In October 2025, ICE began implementing new policy to detain all young people aging out of ORR custody, despite the existing judgment and permanent injunction requiring compliance with TVPRA age-out provisions. Under October 1, 2025 policy, ICE told shelters and attorneys that all unaccompanied children turning 18 would be transferred to adult detention, even if they have a safe home or sponsor waiting. Plaintiffs filed Motion for TRO on October 4, 2025 (granted). Motion to Enforce Final Judgment filed October 27, 2025. December 12, 2025 ruling enforced the 2021 permanent injunction, requiring ICE to: (1) comply with statutory obligations by considering least restrictive setting for every child turning 18; (2) make all age-outs eligible for alternatives to detention. The court found it against the law to automatically send teenagers to adult detention without considering safer, age-appropriate alternatives.",
+      "source_url": "https://immigrantjustice.org/for-attorneys/cases/garcia-ramirez-et-al-v-ice-et-al/",
+      "source_name": "National Immigrant Justice Center",
+      "additional_sources": [
+        "https://www.americanimmigrationcouncil.org/press-release/court-blocks-ice-unlawful-detention-immigrant-teens-turn-18/",
+        "https://www.americanimmigrationcouncil.org/news/ice-unlawfully-detains-immigrant-youth-federal-court-ruling"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-008",
+      "date": "2025-12-19",
+      "state": "Massachusetts",
+      "city": "Boston",
+      "incident_type": "bond_hearing_denial",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Guerrero Orellana v. Hyde (Moniz)",
+      "judge_name": "Federal District Court Judge",
+      "court": "U.S. District Court, District of Massachusetts",
+      "affected_count": 5000,
+      "outcome": "Partial summary judgment declaring bond hearing denials unlawful",
+      "outcome_detail": "Court ruled Trump administration unlawfully denying bond hearings to potentially thousands in New England arrested and detained by ICE. Declared it unlawful for government to deny bond hearings to class members who were misclassified from Section 1226 (allows bond) to Section 1225 (no-bond detention).",
+      "outcome_category": "released",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: Filed September 2025 by ACLU of Massachusetts, ACLU Immigrants' Rights Project, ACLU of New Hampshire, ACLU of Maine, Araujo and Fisher, Foley Hoag, and Harvard Immigration and Refugee Clinic. The complaint alleges DHS and DOJ recently and abruptly began misclassifying people arrested by ICE inside the U.S. They are systematically reclassifying people from 8 U.S.C. Section 1226 (usually allows bond requests during removal proceedings) to no-bond detention provisions of Section 1225 (which does not apply to interior arrests). On September 5, 2025, the Board of Immigration Appeals issued a precedential decision (Matter of Yajure Hurtado) purporting to require all IJs to misclassify people this way. Named plaintiff Jose Arnulfo Guerrero Orellana has lived in U.S. for over a decade, was arrested in Massachusetts September 18 during a traffic stop (he was not the subject of the stop), has no criminal record, is a married father of a U.S. citizen daughter, and was detained without bond hearing since arrest. Legal arguments: (1) Government's new policy violates constitutional and statutory due process rights; (2) Violates Administrative Procedure Act. 'ICE's current refusal to provide bond hearings for detained clients violates due process and upends nearly 30 years of established practice.'",
+      "source_url": "https://www.aclum.org/press-releases/federal-court-declares-trump-administrations-denial-of-bond-hearings-to-new-england-ice-detainees-is-unlawful/",
+      "source_name": "ACLU of Massachusetts",
+      "additional_sources": [
+        "https://www.aclu.org/press-releases/new-class-action-lawsuit-challenges-widespread-denial-of-due-process-in-immigration-courts",
+        "https://foleyhoag.com/news-and-insights/news/2025/december/federal-court-declares-denial-of-bond-hearings-to-new-england-ice-detainees-is-unlawful/"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2026-001",
+      "date": "2026-01-16",
+      "state": "Minnesota",
+      "city": "Minneapolis",
+      "incident_type": "first_amendment_retaliation",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Tincher v. Noem",
+      "case_number": "0:25-cv-04669",
+      "judge_name": "Katherine M. Menendez",
+      "court": "U.S. District Court, District of Minnesota",
+      "affected_count": 100,
+      "outcome": "Preliminary injunction barring ICE retaliation against peaceful protesters",
+      "outcome_detail": "Court granted in part Motion for Preliminary Injunction. Barred federal agents from retaliating against individuals engaged in peaceful, unobstructive protest activity. Prohibited arrests or detention of people protesting peacefully if no reasonable suspicion of crime or interference. Banned use of pepper spray, tear gas, or crowd-control munitions against peaceful demonstrators.",
+      "outcome_category": "injunction_granted",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: Filed December 17, 2025 by ACLU of Minnesota on behalf of six community members whose constitutional rights were violated by ICE during Operation Metro Surge. Claims allege: First Amendment violations (rights to free speech, press, assembly); unlawful retaliation for protected activities; Fourth Amendment violations (seizure and arrests without probable cause, unreasonable termination of movement, excessive force); civil conspiracy. Evidence showed ICE agents: followed peaceful protesters to homes; used chemical irritants and rubber bullets; arrested people for standing on public sidewalks observing them. The January 16, 2026 order specified: people cannot be detained for following ICE vehicles at appropriate distance if not interfering; 'The act of safely following Covered Federal Agents at an appropriate distance does not, by itself, create reasonable suspicion to justify a vehicle stop.' Injunction remains in effect until Operation Metro Surge concludes. Context: On January 7, 2026, ICE agent Jonathan Ross shot and killed Renee Nicole Good, a 37-year-old U.S. citizen and mother of three who was acting as a legal observer. Death ruled homicide by medical examiner January 23, 2026. On January 21, 2026, the 8th Circuit temporarily suspended the injunction while weighing longer-term stay, giving the Trump administration a short-term win.",
+      "source_url": "https://www.aclu-mn.org/cases/tincher-v-noem/",
+      "source_name": "ACLU of Minnesota",
+      "additional_sources": [
+        "https://www.commondreams.org/news/judge-ice-minnesota",
+        "https://clearinghouse.net/case/47520/"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2026-002",
+      "date": "2026-01-15",
+      "state": "Minnesota",
+      "city": "Minneapolis",
+      "incident_type": "racial_profiling",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Hussen v. Noem",
+      "case_number": "0:26-cv-00324",
+      "judge_name": "Pending assignment",
+      "court": "U.S. District Court, District of Minnesota",
+      "affected_count": 500,
+      "outcome": "Class action filed; case pending",
+      "outcome_detail": "Class-action lawsuit filed against Trump administration challenging ICE and CBP's policy of racially profiling, unlawfully seizing, and arresting people without warrant or probable cause, particularly targeting Somali and Latino communities during Operation Metro Surge.",
+      "outcome_category": "pending",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: Filed January 15, 2026 by ACLU, ACLU of Minnesota, Covington & Burling LLP, Greene Espel PLLP, and Robins Kaplan LLP. Constitutional violations alleged: Fourth Amendment (unreasonable search and seizure); Fifth Amendment (equal protection); Fourteenth Amendment (racial discrimination). Named plaintiff Mubashir Khalif Hussen is a 20-year-old U.S. CITIZEN. On December 10, 2025, while walking to lunch in Cedar-Riverside neighborhood, he was stopped by multiple masked ICE agents. Despite repeatedly stating 'I'm a citizen,' agents refused to look at his ID. They put him in an SUV, drove him to the Whipple building in south Minneapolis, shackled and fingerprinted him. Only after showing a photo of his passport card was he released. The lawsuit alleges masked federal agents in military gear ignored basic human rights, especially targeting Somali and Latino communities through Operation Metro Surge. This case is companion to Tincher v. Noem (protester rights). Operation Metro Surge began December 2025 with approximately 3,000 agents deployed to Twin Cities to conduct 'militarized raids and carry out dangerous, illegal, and unconstitutional stops and arrests.'",
+      "source_url": "https://www.aclu.org/cases/hussen-v-noem",
+      "source_name": "ACLU",
+      "additional_sources": [
+        "https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans",
+        "https://www.startribune.com/class-action-lawsuit-filed-against-federal-operation-targeting-minnesotas-legal-refugees/601570032"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-009",
+      "date": "2025-11-21",
+      "state": "Massachusetts",
+      "city": "Boston",
+      "incident_type": "excessive_fines",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "Nancy M. v. DHS (Civil Fines Class Action)",
+      "judge_name": "Pending",
+      "court": "U.S. District Court, District of Massachusetts",
+      "affected_count": 21500,
+      "outcome": "Class action filed challenging $998/day civil fines",
+      "outcome_detail": "Federal class action lawsuit filed challenging ICE civil penalty scheme that fines immigrants up to $998 per day for remaining in the U.S. without status. Seeks nationwide class certification; if granted, could freeze collections pending litigation. Total fines issued exceed $6 billion to 21,500+ people since January 2025.",
+      "outcome_category": "pending",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: Filed November 21, 2025 by Public Justice and partners. The Trump Administration revived a long-dormant provision of immigration law to issue fines of up to $998 per day. Since February 2025, ICE has issued more than 21,500 Notices of Intention to Fine, totaling approximately $6 billion to undocumented migrants previously released under orders of supervision. Lead plaintiff 'Nancy M.' is a Nicaraguan mother of two who received a $1.8 million bill despite regular check-ins with ICE while pursuing asylum. Legal arguments: (1) Fines violate Eighth Amendment prohibition on excessive penalties; (2) Recipients deprived of due process safeguards including ability-to-pay determinations and timely hearings. The lawsuit seeks to: vacate the rule authorizing mass issuance of civil fines; declare penalties unlawful and unconstitutional; permanently enjoin government from assessing or collecting them. DHS response: 'The plaintiffs in this case are here illegally and are suing so they can remain in the country illegally without any consequence or penalty--contrary to decades-old federal law.' Constitutional issue: Eighth Amendment's Excessive Fines Clause applies to civil penalties, and fines must bear some relationship to the gravity of the offense--$1.8 million fines for civil immigration violations far exceed any reasonable measure of gravity.",
+      "source_url": "https://www.publicjustice.net/lawsuit-immigration-civil-fines-ice-homeland-security-department-of-justice/",
+      "source_name": "Public Justice",
+      "additional_sources": [
+        "https://www.nbcnews.com/news/us-news/lawsuit-filed-behalf-immigrants-fined-18-million-remaining-country-rcna245153",
+        "https://abcnews.go.com/US/wireStory/lawsuit-filed-behalf-immigrants-fined-18-million-remaining-127729600"
+      ],
+      "verified": true
+    },
+    {
+      "id": "CR-2025-010",
+      "date": "2025-06-23",
+      "state": "Massachusetts",
+      "city": "Boston",
+      "incident_type": "third_country_removal",
+      "enforcement_granularity": "court_ruling",
+      "case_name": "D.V.D. v. Department of Homeland Security",
+      "judge_name": "District Court Judge (D. Mass.); Supreme Court (shadow docket)",
+      "court": "U.S. District Court, District of Massachusetts; U.S. Supreme Court",
+      "affected_count": 1000,
+      "outcome": "Nationwide class certified; TRO and preliminary injunction granted; Supreme Court stayed injunction",
+      "outcome_detail": "District court issued TRO on March 28, 2025 blocking third-country removals without notice and meaningful opportunity to seek CAT protection. Class certified April 18, 2025. On June 23, 2025, Supreme Court granted government's stay request in brief, unreasoned shadow docket order, allowing third-country removals to resume. Case dismissed June 30, 2025.",
+      "outcome_category": "injunction_granted",
+      "victim_category": "detainee",
+      "notes": "EXHAUSTIVE: Filed March 23, 2025 by Human Rights First, NILA, and NWIRP challenging DHS policy of deporting noncitizens to countries never previously raised as possible countries of removal, without notice or opportunity to contest removal due to fear of persecution, torture, or death. Challenge targeted February 18, 2025 ICE directive encouraging increased use of third-country removals against individuals with withholding of removal or CAT protection. The directive stated these are 'country-specific protections' that don't prevent removal to third countries. On March 28, district court entered TRO blocking removals without notice and meaningful opportunity to seek CAT protection. Nationwide class certified April 18, 2025 covering all with final removal orders whom DHS has/will deport to countries not previously designated and not identified in prior proceedings. ALLEGED VIOLATIONS: On March 31, at least 6 class members removed from Guantanamo to El Salvador, allegedly violating TRO. On June 6, DHS confirmed men it tried to deport to South Sudan on May 20--in violation of court order--were still being held in a converted shipping container at U.S. naval base in Djibouti. SUPREME COURT: On June 23, 2025, Court granted government's stay in brief, unreasoned shadow docket order. Dissent by Justice Sotomayor (joined by Kagan, Jackson) called it 'gross abuse' of equitable discretion enabling ongoing due process violations. Following the stay, ICE Director Lyons issued notice that immigrants can be deported with no advance notice to countries providing 'diplomatic assurances'; 24 hours notice (or 6 hours in 'exigent' circumstances) otherwise.",
+      "source_url": "https://humanrightsfirst.org/dvd-v-dhs/",
+      "source_name": "Human Rights First",
+      "additional_sources": [
+        "https://en.wikipedia.org/wiki/D.V.D._v._Department_of_Homeland_Security",
+        "https://www.cliniclegal.org/resources/removal-proceedings/updates-third-country-removals-and-dvd-litigation"
+      ],
+      "verified": true
+    }
+  ],
+  "summary_statistics": {
+    "total_rulings_documented": 12,
+    "injunctions_granted": 9,
+    "pending_cases": 2,
+    "supreme_court_interventions": 2,
+    "affected_individuals_total": "220,000+",
+    "constitutional_amendments_at_issue": {
+      "First_Amendment": 2,
+      "Fourth_Amendment": 7,
+      "Fifth_Amendment": 5,
+      "Eighth_Amendment": 1
+    },
+    "geographic_distribution": {
+      "California": 2,
+      "Colorado": 1,
+      "District_of_Columbia": 2,
+      "Illinois": 1,
+      "Massachusetts": 3,
+      "Minnesota": 2,
+      "New_York": 1
+    },
+    "case_types": {
+      "consent_decree_violation": 1,
+      "warrantless_arrests": 2,
+      "mandatory_detention_policy": 1,
+      "bond_hearing_denial": 2,
+      "detention_conditions": 1,
+      "unaccompanied_minors": 1,
+      "first_amendment_retaliation": 1,
+      "racial_profiling": 1,
+      "excessive_fines": 1,
+      "third_country_removal": 1
+    }
+  },
+  "key_legal_precedents": [
+    {
+      "issue": "Mandatory Detention Policy",
+      "finding": "Federal courts have systematically rejected Trump administration's interpretation that all undocumented immigrants are subject to mandatory detention. Judge Sykes: policy 'upends decades of practice.' In 350 of 362 habeas cases in federal district courts, noncitizens have won.",
+      "cases": ["Maldonado Bautista v. Santacruz", "Guerrero Orellana v. Hyde"]
+    },
+    {
+      "issue": "Warrantless Arrests",
+      "finding": "Multiple federal courts have ruled ICE cannot conduct warrantless arrests without individualized probable cause of flight risk. 'Mere presence within the United States in violation of immigration law is not, by itself, sufficient to conclude that a person is likely to escape.'",
+      "cases": ["Castanon Nava v. DHS", "CASA v. DHS (D.C.)", "Colorado Warrantless Arrests Case"]
+    },
+    {
+      "issue": "Access to Counsel",
+      "finding": "Fifth Amendment right to counsel extends to immigration detention. Government cannot cut detainees off from attorneys or pressure signing documents without legal advice.",
+      "cases": ["Vazquez Perdomo v. Noem"]
+    },
+    {
+      "issue": "First Amendment Protections",
+      "finding": "Peaceful protesters and legal observers cannot be detained or retaliated against for exercising First Amendment rights, even during immigration enforcement operations.",
+      "cases": ["Tincher v. Noem"]
+    }
+  ],
+  "habeas_corpus_surge": {
+    "filings_2024": 222,
+    "filings_2025": 8000,
+    "filings_december_2025": 3000,
+    "win_rate_for_noncitizens": "96.7%",
+    "explanation": "The surge in habeas filings isn't about detainees bypassing immigration court; it's about immigration courts no longer having authority to conduct bond hearings. When bond is taken off the table, federal court becomes the only place left to argue for release."
+  }
+}

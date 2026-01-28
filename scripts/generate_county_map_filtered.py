@@ -67,7 +67,7 @@ total_mapped = 0
 for filepath in incident_files:
     if not os.path.exists(filepath):
         continue
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='utf-8') as f:
         incidents = json.load(f)
 
     for inc in incidents:
@@ -310,7 +310,9 @@ cbar = fig.colorbar(sm, ax=ax, orientation='horizontal', fraction=0.03, pad=0.12
 cbar.set_label('Number of Incidents', fontsize=11)
 
 # Add bottom caption between map and colorbar
-fig.text(0.35, 0.20, '63% of all violent confrontations\nwith ICE happen in these 9 counties',
+# Calculate actual percentage
+percentage = int(round(100 * incidents_shown / total_mapped)) if total_mapped > 0 else 0
+fig.text(0.35, 0.20, f'{percentage}% of all violent confrontations\nwith ICE happen in these {counties_shown} counties',
          fontsize=48, fontweight='bold', ha='center', va='center', color='black')
 
 plt.tight_layout()

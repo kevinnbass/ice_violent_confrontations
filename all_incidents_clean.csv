@@ -1,0 +1,65 @@
+id,date,state,city,type,outcome,perpetrator,us_citizen,protest,victim
+1,2025-09-12,Illinois,Franklin Park,shooting,death,agent,False,False,Silverio Villegas González
+2,2025-10-04,Illinois,Chicago,shooting,injury,agent,True,False,Marimar Martinez
+3,2025-10-21,California,Los Angeles,shooting,injury,agent,False,False,Carlitos Ricardo Parias
+4,2025-10-29,Arizona,Phoenix,shooting,injury,agent,False,False,Jose Garcia-Sorto
+5,2025-10-30,California,Ontario,shooting,injury,agent,True,False,Carlos Jimenez
+6,2025-12-11,Texas,Starr County,shooting,death,agent,False,False,Isaias Sanchez Barboza
+7,2025-12-24,Maryland,Glen Burnie,shooting,injury,agent,False,False,Tiago Alexandre Sousa-Martins
+8,2026-01-07,Minnesota,Minneapolis,shooting,death,agent,True,False,Renee Good
+9,2026-01-08,Oregon,Portland,shooting,injury,agent,False,False,Luis David Nino Moncada
+10,2026-01-08,Oregon,Portland,shooting,injury,agent,False,False,Yorlenys Betzabeth Zambrano-Contreras
+11,2026-01-14,Minnesota,Minneapolis,shooting,injury,agent,False,False,Julio Cesar Sosa-Celis
+12,2026-01-25,Minnesota,Minneapolis,shooting,injury,agent,True,False,Alex Jeffrey Pretti
+23,2025-06-10,California,Los Angeles,shooting,injury,agent,False,True,Australian cameraman
+13,2025-09-19,Illinois,Broadview,less_lethal,injury,agent,True,True,Curtis Evans
+14,2025-09-21,Illinois,Broadview,less_lethal,injury,agent,False,True,multiple
+15,2025-09-26,Illinois,Broadview,less_lethal,injury,agent,False,True,Brian Rivera
+16,2025-09-26,Illinois,Broadview,less_lethal,injury,agent,False,True,Joselyn Walsh
+17,2025-09-26,Illinois,Broadview,less_lethal,injury,agent,False,True,Levi Rolles
+18,2025-09-26,Illinois,Broadview,less_lethal,injury,agent,True,True,Bushra Amiwala
+25,2025-07-08,Illinois,Broadview,less_lethal,injury,agent,False,True,multiple
+19,2025-10-27,Colorado,Durango,less_lethal,injury,agent,False,True,multiple
+20,2025-10-27,Colorado,Durango,less_lethal,injury,agent,False,True,unnamed
+21,2025-06-07,California,Los Angeles,less_lethal,injury,agent,False,True,multiple
+22,2025-06-10,California,Los Angeles,less_lethal,injury,agent,False,True,Australian journalist
+24,2025-06-15,California,Los Angeles,less_lethal,no_injury,agent,True,False,Christian Damian Cerno-Camacho
+26,2025-10-02,Oregon,Portland,less_lethal,injury,agent,False,True,Leilani Payne
+27,2025-12-11,Oregon,Portland,less_lethal,injury,agent,False,False,bystanders
+28,2025-09-24,Oregon,Eugene,less_lethal,injury,agent,False,True,multiple
+29,2025-10-15,New York,Manhattan,less_lethal,injury,agent,False,True,multiple
+30,2025-11-29,New York,Manhattan,less_lethal,injury,agent,False,True,multiple
+31,2025-09-15,New York,Manhattan,physical_force,no_injury,agent,False,False,Monica Moreta-Galarza
+32,2025-06-10,Georgia,Brookhaven,less_lethal,injury,agent,False,True,multiple
+33,2025-09-04,Georgia,Ellabell,mass_raid,no_injury,agent,False,False,475 workers
+34,2025-05-15,Florida,Tallahassee,mass_raid,no_injury,agent,False,False,100+ workers
+35,2025-05-10,Massachusetts,Worcester,physical_force,injury,agent,False,False,multiple
+36,2025-11-06,Massachusetts,Fitchburg,physical_force,injury,agent,False,False,family with toddler
+37,2025-05-20,Massachusetts,Nantucket,mass_raid,no_injury,agent,False,False,40 immigrants
+38,2025-08-15,Massachusetts,Saugus,physical_force,no_injury,agent,False,False,3 landscapers
+39,2025-12-10,Minnesota,Minneapolis,wrongful_detention,no_injury,agent,True,False,Mubashir Khalif Hussen
+47,2025-06-01,Alabama,coastal,wrongful_detention,no_injury,agent,True,False,Leonardo Garcia Venegas
+48,2025-07-15,California,Camarillo,wrongful_detention,injury,agent,True,False,George Retes
+49,2025-07-01,California,Van Nuys,physical_force,injury,agent,True,False,Daniel Montenegro
+50,2025-06-20,California,Los Angeles,wrongful_detention,no_injury,agent,True,False,Andrea Velez
+51,2025-08-01,California,unknown,physical_force,injury,agent,True,False,Rafie Ollah Shouhed
+52,2025-10-10,Illinois,Chicago,wrongful_detention,injury,agent,True,False,Debbie Brockman
+53,2025-05-15,Florida,unknown,wrongful_detention,no_injury,agent,True,False,Juan Carlos Lopez Gomez
+54,2025-06-15,California,unknown,wrongful_detention,injury,agent,True,False,Adrian Andrew Martinez
+55,2025-06-18,Louisiana,Angola,wrongful_deportation,no_injury,agent,True,False,Chanthila Souvannarath
+40,2025-11-15,North Carolina,Charlotte,physical_force,no_injury,civilian,False,False,agents (vehicle assault)
+41,2025-04-20,Virginia,Charlottesville,courthouse_raid,no_injury,agent,False,False,2 men
+42,2025-07-04,Texas,Alvarado,facility_attack,injury,civilian,True,False,1 police officer
+43,2025-09-24,Texas,Dallas,facility_attack,death,civilian,False,False,2 detainees killed
+44,2025-07-07,Texas,McAllen,facility_attack,injury,civilian,True,False,3 Border Patrol agents
+45,2025-07-20,California,Camarillo,shooting_at_agents,no_injury,civilian,False,True,none
+46,2025-11-10,Illinois,Chicago,shooting_at_agents,no_injury,civilian,False,False,none
+56,2025-10-15,Oregon,Gresham,physical_force,injury,agent,False,False,mother and baby
+57,2025-10-28,Oregon,Woodburn,mass_raid,no_injury,agent,False,False,30+ farm workers
+58,2025-01-29,Arizona,Phoenix,death_in_custody,death,detention,False,False,Serawit Gezahegn Dejene
+59,2025-08-31,Arizona,Mesa,death_in_custody,death,detention,False,False,Lorenzo Antonio Batrez Vargas
+60,2025-01-23,Florida,Hialeah,death_in_custody,death,detention,False,False,Genry Donaldo Ruiz-Guillen
+61,2025-06-07,Georgia,Americus,death_in_custody,death,detention,False,False,Jesus Molina-Veya
+62,2025-08-05,Pennsylvania,Philipsburg,death_in_custody,death,detention,False,False,Chaofeng Ge
+63,2025-01-05,Texas,Conroe,death_in_custody,death,detention,False,False,Luis Gustavo Nunez Caceres
+64,2025-01-06,California,Calexico,death_in_custody,death,detention,False,False,Luis Beltran Yanez-Cruz

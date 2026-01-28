@@ -1,0 +1,655 @@
+{
+  "metadata": {
+    "description": "ICE Immigration Enforcement Operations 2025-2026",
+    "generated_date": "2026-01-25",
+    "data_sources": [
+      "DHS.gov press releases",
+      "ICE.gov official statements",
+      "News reports from major outlets",
+      "Wikipedia documentation",
+      "Court filings and legal documents"
+    ]
+  },
+  "operations": [
+    {
+      "operation_id": "OP-2025-001",
+      "operation_name": "Operation Aurora",
+      "date_range": {
+        "start_date": "2025-01-21",
+        "end_date": null,
+        "status": "ongoing"
+      },
+      "location": {
+        "states": ["Colorado"],
+        "cities": ["Aurora", "Denver", "Colorado Springs"],
+        "metro_areas": ["Denver Metro Area"]
+      },
+      "statistics": {
+        "total_detained": 3500,
+        "with_criminal_records": 1260,
+        "without_criminal_records": 1260,
+        "pending_charges": 910,
+        "busiest_day_arrests": 72,
+        "busiest_day_date": "2025-04-13"
+      },
+      "target_groups": ["Tren de Aragua gang members", "Venezuelan nationals", "Individuals with deportation orders"],
+      "notable_incidents": [
+        "Named after Aurora, Colorado by President Trump during visit",
+        "Originally planned large-scale raid cancelled due to media leaks in February 2025",
+        "Pre-dawn raids on Aurora and Denver apartment buildings",
+        "Colorado Springs nightclub raid resulted in dozens of arrests",
+        "Only 36% of those arrested had criminal records"
+      ],
+      "agencies_involved": ["ICE", "U.S. Marshals Service", "ATF", "DEA", "FBI"],
+      "source_urls": [
+        "https://coloradonewsline.com/2025/12/30/what-data-shows-about-ice-arrests-in-colorado-in-2025/",
+        "https://coloradosun.com/2025/12/31/ice-arrests-2025-data-deportation-data-project/",
+        "https://www.cpr.org/2025/02/06/colorado-immigration-raids-rattle-advocates-authorities/"
+      ]
+    },
+    {
+      "operation_id": "OP-2025-002",
+      "operation_name": "Operation Patriot",
+      "date_range": {
+        "start_date": "2025-05-01",
+        "end_date": "2025-05-31",
+        "status": "completed"
+      },
+      "location": {
+        "states": ["Massachusetts"],
+        "cities": ["Boston", "New Bedford"],
+        "metro_areas": ["Greater Boston Area"]
+      },
+      "statistics": {
+        "total_detained": null,
+        "notes": "Thousands arrested statewide, majority without violent criminal convictions"
+      },
+      "target_groups": ["Criminal aliens", "Individuals with deportation orders"],
+      "notable_incidents": [
+        "Preceded Operation Patriot 2.0",
+        "Vast majority of detainees in New Bedford had no violent criminal convictions"
+      ],
+      "agencies_involved": ["ICE ERO Boston"],
+      "source_urls": [
+        "https://newbedfordlight.org/2025-in-review-ice-sows-fear-angst-in-citys-immigrant-community/"
+      ]
+    },
+    {
+      "operation_id": "OP-2025-003",
+      "operation_name": "Operation Patriot 2.0",
+      "date_range": {
+        "start_date": "2025-09-04",
+        "end_date": "2025-09-30",
+        "status": "completed"
+      },
+      "location": {
+        "states": ["Massachusetts"],
+        "cities": ["Boston", "New Bedford"],
+        "metro_areas": ["Greater Boston Area", "Statewide Massachusetts"]
+      },
+      "statistics": {
+        "total_detained": 1406,
+        "with_criminal_convictions_or_pending_charges": 600,
+        "notes": "More than 600 had significant criminal convictions or pending charges"
+      },
+      "target_groups": [
+        "Transnational criminal organizations",
+        "Gang members",
+        "Egregious criminal alien offenders",
+        "Foreign fugitives"
+      ],
+      "notable_incidents": [
+        "Multi-agency surge operation lasting nearly a month",
+        "Targeted criminals including rapists, child abusers, drug traffickers",
+        "Named follow-up to successful Operation Patriot in May"
+      ],
+      "agencies_involved": ["ICE ERO Boston", "ICE HSI New England", "FBI", "CBP", "ATF", "DEA", "U.S. Marshals Service"],
+      "source_urls": [
+        "https://www.dhs.gov/news/2025/09/09/ice-arrests-worst-worst-including-rapists-child-abusers-drug-traffickers-and-other",
+        "https://www.ice.gov/news/releases/ice-federal-partners-arrest-more-1400-illegal-aliens-massachusetts-during-patriot-20"
+      ]
+    },
+    {
+      "operation_id": "OP-2025-004",
+      "operation_name": "Operation Metro Surge",
+      "date_range": {
+        "start_date": "2025-12-01",
+        "end_date": null,
+        "status": "ongoing"
+      },
+      "location": {
+        "states": ["Minnesota"],
+        "cities": ["Minneapolis", "St. Paul"],
+        "metro_areas": ["Minneapolis-St. Paul Metropolitan Area", "Statewide Minnesota"]
+      },
+      "statistics": {
+        "total_detained": 3300,
+        "with_violent_crime_records": 103,
+        "percentage_violent_criminals": 5,
+        "agents_deployed": 2000,
+        "notes": "Described as 'largest immigration enforcement operation ever carried out' by DHS"
+      },
+      "target_groups": [
+        "Individuals with deportation orders",
+        "Alleged childcare/nutrition program fraud participants",
+        "Gang members including Vice Lord Nation, Gangster Disciples",
+        "Somali nationals with criminal records"
+      ],
+      "notable_incidents": [
+        "Largest single-city immigration enforcement operation in modern US history",
+        "Two US citizens killed during operation: Renée Good and Alex Pretti",
+        "Federal judge issued injunction against retaliation on peaceful protesters (January 16, 2026)",
+        "ACLU of Minnesota filed class-action lawsuit (Tincher et al. v. Noem et al.) on December 17, 2025",
+        "Mayor Jacob Frey accused operation of discriminating based on ethnicity",
+        "Data showed some individuals listed as arrested were transferred before December 1, 2025"
+      ],
+      "agencies_involved": ["ICE", "CBP", "Border Patrol", "DHS"],
+      "legal_challenges": [
+        {
+          "case_name": "Tincher et al. v. Noem et al.",
+          "filing_date": "2025-12-17",
+          "status": "Preliminary injunction granted January 16, 2026",
+          "ruling": "Federal agents barred from retaliating against peaceful protesters"
+        }
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Operation_Metro_Surge",
+        "https://www.dhs.gov/news/2026/01/19/ice-continues-remove-worst-worst-minneapolis-streets-dhs-law-enforcement-marks-3000",
+        "https://www.dhs.gov/news/2025/12/04/ice-arrests-worst-worst-criminal-illegal-aliens-during-operation-metro-surge",
+        "https://www.cnn.com/2026/01/06/us/minneapolis-ice-crackdown-what-we-know"
+      ]
+    },
+    {
+      "operation_id": "OP-2025-005",
+      "operation_name": "Operation Midway Blitz",
+      "date_range": {
+        "start_date": "2025-09-06",
+        "end_date": "2025-10-31",
+        "status": "completed"
+      },
+      "location": {
+        "states": ["Illinois", "Indiana"],
+        "cities": ["Chicago", "Hanover Park", "Urbana"],
+        "metro_areas": ["Chicago Metro Area", "Lake County Indiana"]
+      },
+      "statistics": {
+        "total_detained": 1600,
+        "without_criminal_records": 960,
+        "percentage_without_records": 60,
+        "youngest_detained": 4,
+        "oldest_detained": 75,
+        "notes": "Named in honor of Katie Abraham, killed by undocumented drunk driver"
+      },
+      "target_groups": [
+        "Mexican nationals (40%+ of arrests)",
+        "Venezuelan nationals (second largest group)",
+        "Criminal aliens",
+        "Individuals with deportation orders"
+      ],
+      "notable_incidents": [
+        "Silverio Villegas-Gonzalez fatally shot by federal agents",
+        "US citizen 'Angel' detained by Border Patrol, later released",
+        "Hanover Park police officer Radule Bojovic detained despite valid work authorization",
+        "Judge Jeffrey Cummings ruled 22 arrests violated Castañon Nava consent decree",
+        "Judge April Perry temporarily blocked National Guard deployment on October 9, 2025",
+        "Schools went on lockdown during raids near Frederick Stock Public School",
+        "Tear gas used on protesters"
+      ],
+      "agencies_involved": ["ICE", "U.S. Border Patrol", "National Guard (blocked by court)"],
+      "detention_locations": [
+        "North Lake Processing Center, Baldwin, Michigan",
+        "Facilities in Wisconsin, Indiana, Kentucky, Texas, Missouri, Kansas, Louisiana, Oklahoma, Arizona, New Mexico"
+      ],
+      "legal_challenges": [
+        {
+          "case_name": "Castañon Nava consent decree violation",
+          "ruling": "22 arrests found illegal - made without warrants",
+          "judge": "Jeffrey Cummings"
+        }
+      ],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Operation_Midway_Blitz",
+        "https://www.themarshallproject.org/2025/12/18/ice-chicago-immigration-blitz-data",
+        "https://www.dhs.gov/news/2025/09/08/ice-launches-operation-midway-blitz-honor-katie-abraham-target-criminal-illegal"
+      ]
+    },
+    {
+      "operation_id": "OP-2026-001",
+      "operation_name": "Operation Salvo",
+      "date_range": {
+        "start_date": "2025-07-19",
+        "end_date": null,
+        "status": "ongoing"
+      },
+      "location": {
+        "states": ["New York"],
+        "cities": ["New York City", "Manhattan"],
+        "metro_areas": ["NYC Metro Area"]
+      },
+      "statistics": {
+        "total_detained": 54,
+        "removed_from_country_percentage": 60,
+        "notes": "Named after 'salvation' of CBP officer who survived shooting"
+      },
+      "target_groups": [
+        "Trinitarios gang members",
+        "Violent transnational gang members"
+      ],
+      "notable_incidents": [
+        "Triggered by July 19, 2025 shooting of off-duty CBP officer in Fort Washington Park",
+        "CBP officer shot in face and forearm by two Trinitarios gang members",
+        "Miguel Mora Nunez (21) and Christhian Aybar-Berroa (22) charged in shooting",
+        "Announced by DHS Secretary Kristi Noem on January 8, 2026",
+        "Announcement came one day after ICE agent killed Renee Good in Minneapolis"
+      ],
+      "agencies_involved": ["ICE", "CBP", "HSI", "NYPD", "Southern District of NY", "NY County DA Office"],
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Operation_Salvo",
+        "https://www.dhs.gov/news/2026/01/09/secretary-noem-announces-success-operation-salvo-new-york-city-following-shooting",
+        "https://www.cbsnews.com/newyork/news/ny-operation-salvo-kristi-noem/"
+      ]
+    },
+    {
+      "operation_id": "OP-2026-002",
+      "operation_name": "Operation Catch of the Day",
+      "date_range": {
+        "start_date": "2026-01-20",
+        "end_date": null,
+        "status": "ongoing"
+      },
+      "location": {
+        "states": ["Maine"],
+        "cities": ["Lewiston", "Portland", "Westbrook"],
+        "metro_areas": ["Greater Portland Area"]
+      },
+      "statistics": {
+        "total_detained": 100,
+        "target_count": 1400,
+        "first_day_arrests": 50,
+        "notes": "100+ arrests in first three days as of January 23, 2026"
+      },
+      "target_groups": [
+        "Individuals convicted of violent offenses",
+        "Crimes involving public safety and child welfare",
+        "Somali community members"
+      ],
+      "notable_incidents": [
+        "Name criticized as 'dehumanizing game of sport'",
+        "Governor Janet Mills called ICE agents 'secret police'",
+        "Downtown Lewiston reported empty, businesses closed due to fear",
+        "Rally of 1,000 people in Lewiston on January 24, 2026",
+        "Assistant DHS Secretary singled out Governor Mills for criticism"
+      ],
+      "agencies_involved": ["ICE"],
+      "source_urls": [
+        "https://www.dhs.gov/news/2026/01/21/ice-launches-operation-catch-day-targeting-worst-worst-criminal-illegal-aliens",
+        "https://abcnews.go.com/US/dhs-launches-operation-catch-day-enforcement-action-maine/story?id=129428764",
+        "https://www.wmtw.com/article/ice-arrests-100-in-maine-in-first-three-days-of-operation-catch-of-the-day/70099982"
+      ]
+    },
+    {
+      "operation_id": "OP-2025-006",
+      "operation_name": "Los Angeles Immigration Raids / Operation Excalibur",
+      "date_range": {
+        "start_date": "2025-05-26",
+        "end_date": null,
+        "status": "ongoing"
+      },
+      "location": {
+        "states": ["California"],
+        "cities": ["Los Angeles"],
+        "metro_areas": ["Los Angeles Metro Area"]
+      },
+      "statistics": {
+        "june_6_arrests": 40,
+        "pre_injunction_daily_average": 104,
+        "post_injunction_daily_average": 38,
+        "arrest_decline_after_injunction": 64,
+        "notes": "Major June 6, 2025 raids sparked massive protests"
+      },
+      "target_groups": [
+        "Undocumented workers at garment facilities",
+        "Latino workers at various businesses",
+        "Food vendors and customers",
+        "Day laborers at Home Depot parking lots"
+      ],
+      "notable_incidents": [
+        "June 6, 2025: Ambiance Apparel facilities raided in tactical gear",
+        "Military-style operations with armored vehicles and drones",
+        "California National Guard federalized - 2,000 members deployed",
+        "Additional 2,000 National Guard and 700 Marines deployed",
+        "July 7, 2025: Operation Excalibur at MacArthur Park with US 1-18th Cavalry",
+        "Ninth Circuit ruled broad racial profiling unconstitutional on August 1, 2025",
+        "ACLU filed Vasquez Perdomo v. Noem on July 2, 2025"
+      ],
+      "agencies_involved": ["ICE", "CBP", "DHS", "FBI", "DEA", "National Guard", "U.S. Marines", "1-18th Cavalry"],
+      "legal_challenges": [
+        {
+          "case_name": "Vasquez Perdomo v. Noem",
+          "filing_date": "2025-07-02",
+          "court": "Ninth Circuit",
+          "ruling_date": "2025-08-01",
+          "ruling": "Broad profile used by ICE does not supply reasonable suspicion for detentive stops"
+        }
+      ],
+      "source_urls": [
+        "https://www.hrw.org/news/2025/11/04/us-ice-abuses-in-los-angeles-set-stage-for-other-cities",
+        "https://www.aljazeera.com/news/2025/6/7/ice-launches-military-style-raids-in-los-angeles-what-we-know",
+        "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation"
+      ]
+    },
+    {
+      "operation_id": "OP-2025-007",
+      "operation_name": "Operation Tidal Wave (Florida)",
+      "date_range": {
+        "start_date": "2025-03-01",
+        "end_date": null,
+        "status": "ongoing"
+      },
+      "location": {
+        "states": ["Florida"],
+        "cities": ["Central Florida", "Tallahassee"],
+        "metro_areas": ["Statewide Florida"]
+      },
+      "statistics": {
+        "total_detained": 1120,
+        "central_florida_operation_arrests": 400,
+        "notes": "Florida leads nation with 295 active 287(g) agreements"
+      },
+      "target_groups": [
+        "Individuals with outstanding criminal warrants",
+        "Those subject to deportation",
+        "Construction site workers"
+      ],
+      "notable_incidents": [
+        "Florida has more ICE construction-site raids than any other state since March 2025",
+        "Central Florida weeklong operation September 22-26, 2025 yielded 400+ arrests",
+        "Construction site raid near Tallahassee with Florida Highway Patrol and FDLE"
+      ],
+      "agencies_involved": ["ICE", "Florida Highway Patrol", "Florida Department of Law Enforcement"],
+      "source_urls": [
+        "https://www.roofingcontractor.com/articles/100909-florida-emerges-as-the-epicenter-of-ice-raids",
+        "https://www.dhs.gov/news/2025/09/30/weeklong-ice-operation-state-and-local-partners-leads-arrest-more-400-illegal"
+      ]
+    },
+    {
+      "operation_id": "OP-2025-008",
+      "operation_name": "Hyundai Plant Raid (Georgia)",
+      "date_range": {
+        "start_date": "2025-09-04",
+        "end_date": "2025-09-04",
+        "status": "completed"
+      },
+      "location": {
+        "states": ["Georgia"],
+        "cities": ["Ellabell"],
+        "metro_areas": ["Savannah Area"]
+      },
+      "statistics": {
+        "total_detained": 475,
+        "warrant_targets": 4,
+        "notes": "Largest single-site worksite enforcement action according to DHS"
+      },
+      "target_groups": [
+        "Construction workers at Hyundai battery plant",
+        "Majority South Korean nationals",
+        "Network of subcontractor employees"
+      ],
+      "notable_incidents": [
+        "Criminal search warrant executed based on employer violations",
+        "Only 4 individuals were actual targets in warrant",
+        "Detained workers taken to Folkston ICE Processing Center",
+        "Plant was largest economic development project in Georgia history",
+        "Touted by Governor Brian Kemp"
+      ],
+      "agencies_involved": ["ICE", "HSI"],
+      "source_urls": [
+        "https://www.wrdw.com/2025/09/05/475-detained-ice-raid-ga-plant-one-of-biggest-ever/",
+        "https://www.cato.org/commentary/ice-raid-georgia-becomes-massive-unsurprising-us-policy-failure"
+      ]
+    }
+  ],
+  "sanctuary_city_enforcement": {
+    "nyc_detainer_increase": {
+      "detainers_issued_since_jan_20_2025": 6025,
+      "percentage_increase": 400,
+      "notes": "Over 400% spike in ICE detainers in sanctuary NYC"
+    },
+    "sanctuary_violations": [
+      {
+        "city": "New York City",
+        "incident_date": "2025-12",
+        "description": "ICE entered NYC shelters without judicial warrants, violating sanctuary laws",
+        "source_url": "https://www.nyic.org/2025/12/ice-enters-nyc-shelters-without-judicial-warrants-in-violation-of-sanctuary-policies/"
+      },
+      {
+        "city": "New York City",
+        "incident_date": "2025-12-03",
+        "description": "NYPD officer found to have violated sanctuary laws by accepting DHS request to flag deportation targets",
+        "source_url": "https://www.thecity.nyc/2025/12/03/homeland-security-nypd-sanctuary-city-immigrants/"
+      }
+    ],
+    "legislative_actions": [
+      {
+        "bill_name": "Stop Dangerous Sanctuary Cities Act of 2025",
+        "sponsor": "Rep. Nick Langworthy",
+        "status": "Introduced",
+        "description": "Block federal funding for sanctuary jurisdictions"
+      },
+      {
+        "state": "New Hampshire",
+        "bills": ["House Bill 511", "Senate Bill 62"],
+        "signed_date": "2025-05-22",
+        "effective_date": "2026-01-01",
+        "description": "Bans sanctuary cities and mandates cooperation with federal immigration authorities"
+      }
+    ],
+    "source_urls": [
+      "https://www.dhs.gov/news/2025/07/23/sanctuary-city-nyc-sees-more-400-spike-ice-detainers-dhs-prioritizes-american"
+    ]
+  },
+  "court_order_defiance": [
+    {
+      "case_name": "Castañon Nava consent decree",
+      "jurisdiction": "Chicago, Illinois",
+      "original_date": "2022",
+      "extension_date": "2025-10",
+      "extended_until": "2026-02-02",
+      "description": "Federal limits on ICE officers' ability to arrest without warrants or probable cause",
+      "ice_response": "ICE officials suggested they were no longer bound by agreement despite clear language",
+      "ruling": "Judge ruled 22 Chicago arrests violated the decree",
+      "source_url": "https://immigrantjustice.org/press-release/federal-judge-extends-consent-decree-prohibiting-ice-from-arresting-people-without-warrants-or-probable-cause/"
+    },
+    {
+      "case_name": "Tincher v. Noem et al.",
+      "jurisdiction": "Minnesota",
+      "filing_date": "2025-12-17",
+      "ruling_date": "2026-01-16",
+      "judge": "Kate Menendez",
+      "description": "Injunction against federal agents detaining or retaliating against peaceful protesters",
+      "ruling": "Preliminary injunction granted barring use of pepper spray, tear gas against peaceful demonstrators",
+      "source_url": "https://www.aljazeera.com/news/2026/1/17/us-judge-orders-curbs-on-ice-agents-actions-against-minnesota-protesters"
+    },
+    {
+      "case_name": "ICE Warrantless Entry Policy",
+      "date": "2025-05-12",
+      "description": "Todd Lyons memo authorized ICE agents to forcibly enter homes without judicial warrant",
+      "status": "Policy implemented, described as 'sharp reversal of longstanding guidance'",
+      "source_url": "https://theconversation.com/we-want-you-arrested-because-we-said-so-how-ices-policy-on-raiding-whatever-homes-it-wants-violates-a-basic-constitutional-right-according-to-a-former-federal-judge-274164"
+    },
+    {
+      "case_name": "San Francisco courthouse arrests",
+      "jurisdiction": "San Francisco, California",
+      "ruling_date": "2026-01",
+      "description": "Federal judge ordered stop to ICE courthouse arrests",
+      "source_url": "https://www.sfchronicle.com/politics/article/sf-ice-courthouse-arrests-21261412.php"
+    }
+  ],
+  "state_cooperation": {
+    "cooperative_states": [
+      {
+        "state": "Texas",
+        "287g_agreements": 140,
+        "legislation": "SB 8 (2025) - Mandates sheriffs in large counties to collaborate with ICE",
+        "deadline": "2026-12-31",
+        "requirement": "Counties with 100,000+ residents must partner with ICE under 287(g)",
+        "arrest_rate_per_100k": 110,
+        "february_july_2025_arrests": 26865
+      },
+      {
+        "state": "Florida",
+        "287g_agreements": 295,
+        "notes": "Leads nation in 287(g) agreements, more than 3x Texas",
+        "status": "Epicenter of ICE construction-site raids"
+      },
+      {
+        "state": "Georgia",
+        "287g_agreements": 33,
+        "legislation": "State law mandating law enforcement agencies enter 287(g) agreements"
+      }
+    ],
+    "resistant_states": [
+      {
+        "state": "California",
+        "287g_agreements": 0,
+        "legislation": "SB 54 (2017) - Restricts use of state/local resources for federal immigration enforcement",
+        "february_july_2025_arrests": 9655,
+        "arrest_increase_percentage": 223,
+        "notes": "For every 20 local facility arrests in Texas, less than 1 in California"
+      },
+      {
+        "state": "Minnesota",
+        "status": "Sanctuary policies in Minneapolis",
+        "response": "Governor and Minneapolis Mayor criticized Operation Metro Surge"
+      },
+      {
+        "state": "Maine",
+        "governor_response": "Governor Janet Mills called ICE agents 'secret police'"
+      }
+    ],
+    "source_urls": [
+      "https://knowledge.luskin.ucla.edu/wp-content/uploads/2025/09/UCLA_CNK_ICE_Arrests_CA_TX_Sept2025.pdf",
+      "https://thedailytexan.com/2026/01/12/texas-law-enforcement-required-to-work-with-ice-by-end-of-year/"
+    ]
+  },
+  "local_police_cooperation": {
+    "program_287g": {
+      "total_agreements_as_of_jan_2026": 1315,
+      "states_covered": 40,
+      "growth_under_noem": "609% increase from 135 to 958 agreements",
+      "agreement_types": {
+        "JEM": {
+          "count": 147,
+          "states": 31,
+          "description": "Jail Enforcement Model"
+        },
+        "WSO": {
+          "count": 448,
+          "states": 35,
+          "description": "Warrant Service Officer"
+        },
+        "TFM": {
+          "count": 720,
+          "states": 34,
+          "description": "Task Force Model - allows enforcement during routine police activity"
+        }
+      },
+      "pending_applications": 57,
+      "reimbursement_program": {
+        "start_date": "2025-10-01",
+        "coverage": "Full annual salary and benefits for each eligible 287(g) officer",
+        "overtime_coverage": "Up to 25% of annual salary",
+        "performance_awards": "Quarterly monetary awards for successful location of targets"
+      }
+    },
+    "notable_partnerships": [
+      {
+        "location": "Auburn, New Hampshire",
+        "date": "2026-01-14",
+        "notes": "13th police force in New Hampshire to sign ICE cooperation agreement"
+      },
+      {
+        "location": "Dallas, Texas",
+        "date": "2025",
+        "notes": "City Council unanimously voted AGAINST ICE partnership proposal"
+      }
+    ],
+    "resistance_efforts": [
+      {
+        "organization": "Vecinos Unidos DFW",
+        "location": "Dallas-Fort Worth, Texas",
+        "activities": ["Know your rights trainings", "Organizing to prevent Dallas police ICE cooperation", "Mutual aid for separated families"]
+      }
+    ],
+    "source_urls": [
+      "https://www.dhs.gov/news/2025/09/17/dhs-287g-reaches-more-1000-partnerships-state-and-local-enforcement-help-remove",
+      "https://themarkup.org/tools/2025/04/16/law-enforcement-ice-cooperation-tracker",
+      "https://www.bostonglobe.com/2026/01/14/metro/auburn-nh-police-ice-287g-agreement/"
+    ]
+  },
+  "sensitive_locations_policy": {
+    "policy_change_date": "2025-01-21",
+    "previous_policy": "2011 memo directing officers to avoid arrests at schools, hospitals, churches, synagogues, mosques, funeral sites, weddings, marches, rallies",
+    "new_policy": "Immigration officials can now raid churches and schools to arrest undocumented immigrants",
+    "safeguard": "Secondary supervisor approval required before action at schools (expected to be 'extremely rare')",
+    "incidents": [
+      {
+        "date": "2025-10-31",
+        "location": "Chicago, Edison Park neighborhood",
+        "description": "Border Patrol agents detained man working near Frederick Stock Public School"
+      },
+      {
+        "date": "2025-10",
+        "location": "Lincoln Square, Chicago",
+        "description": "Schools went on lockdown after reports of ICE activity nearby"
+      }
+    ],
+    "source_urls": [
+      "https://www.axios.com/2025/01/21/trump-deportation-ice-churches-schools-raids",
+      "https://abc7chicago.com/post/chicago-deportation-plans-fears-donald-trump-administration-ice-raids-impacting-little-village-businesses/15822610/"
+    ]
+  },
+  "overall_statistics": {
+    "october_2025_arrests": 36635,
+    "daily_average_december_2025": 1220,
+    "detention_population_jan_2026": 68990,
+    "detention_facilities": 212,
+    "percentage_without_criminal_convictions": 73.6,
+    "source_urls": [
+      "https://theworlddata.com/immigration-raids-statistics-in-us/"
+    ]
+  },
+  "notable_controversies": [
+    {
+      "incident": "Newark Mayor Ras Baraka Arrest",
+      "date": "2025-05-09",
+      "location": "Delaney Hall ICE Facility, Newark, NJ",
+      "description": "Mayor arrested on trespassing charges outside detention center during congressional tour attempt",
+      "outcome": "Charges dropped after 10 days, judge admonished prosecutors",
+      "lawsuit_filed": "2025-06-03",
+      "defendants": ["Alina Habba (NJ US Attorney)", "DHS officials"],
+      "allegations": ["Malicious prosecution", "False arrest", "Political motivation"],
+      "source_url": "https://newjerseymonitor.com/2025/06/03/newark-mayor-sues-feds-over-arrest-outside-ice-facility/"
+    },
+    {
+      "incident": "Minneapolis Shooting - Renee Good",
+      "date": "2026-01-07",
+      "location": "Minneapolis, Minnesota",
+      "description": "ICE agent shot and killed 37-year-old mother of three Renee Good, a US citizen",
+      "source_url": "https://www.thecity.nyc/2026/01/08/kristi-noem-dhs-new-york-minneapolis-renee-good/"
+    },
+    {
+      "incident": "Alex Pretti Death",
+      "date": "2025-12",
+      "location": "Minneapolis, Minnesota",
+      "description": "US citizen killed during Operation Metro Surge",
+      "source_url": "https://en.wikipedia.org/wiki/Operation_Metro_Surge"
+    },
+    {
+      "incident": "New Jersey Courthouse Tactic",
+      "date": "2025-08",
+      "description": "ICE developed new tactic of getting immigrants' cases tossed then arresting them outside courthouse",
+      "source_url": "https://newjerseymonitor.com/2025/08/06/new-ice-courthouse-tactic-get-immigrants-cases-tossed-then-arrest-them-outside/"
+    }
+  ]
+}

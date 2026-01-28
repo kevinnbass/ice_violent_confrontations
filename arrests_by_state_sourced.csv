@@ -1,0 +1,18 @@
+state,arrests,rate_per_100k,date_range,source_name,source_url,notes
+Texas,36240,110.1,"Jan 20 - Oct 15, 2025",Texas Tribune,https://www.texastribune.org/2025/11/03/texas-trump-immigration-crackdown-ice-arrests-deportation/,24% of national total; rate 110.1 per 100k (Prison Policy)
+Florida,14306,58.2,"Jan 20 - Oct 15, 2025",CBS News,https://www.cbsnews.com/news/ice-arrests-border-and-southern-states/,11% of national total; rate 58.2 per 100k
+California,15531,39.8,"May 21 - Oct 15, 2025",Prison Policy Initiative,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,7% of national total; many from community settings not jails
+Illinois,3300,21.0,"Jan 20 - Oct 15, 2025",Block Club Chicago,https://blockclubchicago.org/2025/12/23/ices-illinois-arrests-during-trumps-crackdown-were-among-nations-highest/,Ages 4-75; 53% had no criminal record; rate 21.0 per 100k
+Colorado,3522,60.5,"Jan 20 - Oct 15, 2025",Colorado Sun,https://coloradosun.com/2025/12/31/ice-arrests-2025-data-deportation-data-project/,Quadrupled from 2024; peak 548 in July; from 72 countries
+Maryland,3308,53.3,"Jan 1 - Oct 15, 2025",Maryland Matters,https://marylandmatters.org/2026/01/11/more-than-3300-marylanders-were-detained-by-ice-in-2025-twice-the-number-of-preceding-years/,Only 33% had criminal convictions; 50.9% had no charges
+North Carolina,3400,32.0,"Jan 20 - Oct 15, 2025",WUNC,https://www.wunc.org/race-class-communities/2025-12-12/ice-arrests-nc-criminal-record-triangle-customs-border-patrol,"Doubled from 2024 (~1,720); Operation Charlotte's Web"
+New York,5200,26.4,"May 21 - Oct 15, 2025",Prison Policy Initiative,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,Rate 26.4 per 100k (179% increase); 61% immigration violations only
+Georgia,4500,42.5,"Jan 20 - Oct 15, 2025",VisaVerge,https://www.visaverge.com/news/top-10-states-with-highest-ice-arrests-in-2025-per-100k/,4% of national; rate 42.5 per 100k; deputized local police
+Arizona,3400,46.8,"Jan 20 - Oct 15, 2025",VisaVerge,https://www.visaverge.com/news/top-10-states-with-highest-ice-arrests-in-2025-per-100k/,3% of national; rate 46.8 per 100k; border proximity
+Minnesota,2400,42.0,Dec 2025 - Jan 2026 (Metro Surge),Star Tribune,https://www.startribune.com/10000-undocumented-people-arrested-minnesota/601568003,"Operation Metro Surge - 3,000 agents deployed; largest operation ever"
+Oregon,1200,13.2,"Jan 20 - Oct 15, 2025",OPB,https://www.opb.org/article/2025/11/14/oregon-ice-arrests-shot-up-in-october-portland-detain-first-ask-questions-later/,"1,200 in 2025 vs 113 in all of 2024 (10x increase); 550% spike in Oct"
+Massachusetts,2100,30.0,"Jan 20 - Dec 2, 2025",WBUR,https://www.wbur.org/news/2025/12/23/immigration-detention-map-massachusetts-new-england,"Boston AOR: 2,044 arrests; tenfold deportation increase in New England"
+Virginia,2800,58.3,"Jan 20 - Oct 15, 2025",Prison Policy Initiative,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,More than 5x increase from 2024; courthouse raids
+Louisiana,2200,47.0,"Jan 20 - Oct 15, 2025",Prison Policy Initiative,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,Mandated local law enforcement cooperation
+Pennsylvania,2500,19.0,"Jan 20 - Oct 15, 2025",Prison Policy Initiative,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,Estimated from regional trends
+Alabama,1500,30.0,"Jan 20 - Oct 15, 2025",Prison Policy Initiative,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,Estimated; strong local cooperation

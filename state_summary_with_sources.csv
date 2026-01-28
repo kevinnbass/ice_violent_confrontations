@@ -1,0 +1,18 @@
+state,total_incidents,total_deaths,total_injuries,shootings_by_agents,us_citizens_affected,arrests,rate_per_100k,arrests_source,incidents_per_1000_arrests,shootings_per_10000_arrests
+California,7.0,1.0,6.0,2.0,3.0,15531,39.8,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,0.4507114802652759,1.287747086472217
+Illinois,6.0,1.0,5.0,2.0,3.0,3300,21.0,https://blockclubchicago.org/2025/12/23/ices-illinois-arrests-during-trumps-crackdown-were-among-nations-highest/,1.8181818181818181,6.0606060606060606
+Texas,5.0,3.0,2.0,1.0,2.0,36240,110.1,https://www.texastribune.org/2025/11/03/texas-trump-immigration-crackdown-ice-arrests-deportation/,0.13796909492273732,0.27593818984547464
+Oregon,5.0,0.0,4.0,2.0,0.0,1200,13.2,https://www.opb.org/article/2025/11/14/oregon-ice-arrests-shot-up-in-october-portland-detain-first-ask-questions-later/,4.166666666666667,16.666666666666668
+Minnesota,4.0,1.0,2.0,3.0,3.0,2400,42.0,https://www.startribune.com/10000-undocumented-people-arrested-minnesota/601568003,1.6666666666666667,12.5
+Arizona,3.0,2.0,1.0,1.0,0.0,3400,46.8,https://www.visaverge.com/news/top-10-states-with-highest-ice-arrests-in-2025-per-100k/,0.8823529411764707,2.941176470588235
+Georgia,3.0,1.0,1.0,0.0,0.0,4500,42.5,https://www.visaverge.com/news/top-10-states-with-highest-ice-arrests-in-2025-per-100k/,0.6666666666666666,0.0
+Florida,2.0,1.0,0.0,0.0,0.0,14306,58.2,https://www.cbsnews.com/news/ice-arrests-border-and-southern-states/,0.1398014818957081,0.0
+Louisiana,1.0,0.0,0.0,0.0,1.0,2200,47.0,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,0.45454545454545453,0.0
+Maryland,1.0,0.0,1.0,1.0,0.0,3308,53.3,https://marylandmatters.org/2026/01/11/more-than-3300-marylanders-were-detained-by-ice-in-2025-twice-the-number-of-preceding-years/,0.30229746070133007,3.022974607013301
+New York,1.0,0.0,1.0,0.0,0.0,5200,26.4,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,0.19230769230769232,0.0
+Pennsylvania,1.0,1.0,0.0,0.0,0.0,2500,19.0,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,0.4,0.0
+Colorado,1.0,0.0,1.0,0.0,0.0,3522,60.5,https://coloradosun.com/2025/12/31/ice-arrests-2025-data-deportation-data-project/,0.2839295854628052,0.0
+North Carolina,0.0,0.0,0.0,0.0,0.0,3400,32.0,https://www.wunc.org/race-class-communities/2025-12-12/ice-arrests-nc-criminal-record-triangle-customs-border-patrol,0.0,0.0
+Massachusetts,0.0,0.0,0.0,0.0,0.0,2100,30.0,https://www.wbur.org/news/2025/12/23/immigration-detention-map-massachusetts-new-england,0.0,0.0
+Virginia,0.0,0.0,0.0,0.0,0.0,2800,58.3,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,0.0,0.0
+Alabama,0.0,0.0,0.0,0.0,0.0,1500,30.0,https://www.prisonpolicy.org/blog/2025/12/11/ice-jails-update/,0.0,0.0

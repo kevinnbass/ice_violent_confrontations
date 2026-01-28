@@ -1,0 +1,23 @@
+{
+  "success": [],
+  "failed": [
+    {
+      "entry_id": "T3-113",
+      "url": "https://www.axios.com/local/seattle/2025/05/23/ice-arrests-hit-seattle-immigration-courts",
+      "source_name": "Axios Seattle",
+      "error": "400 Client Error: Bad Request for url: https://api.scrapfly.io/scrape?key=scp-live-01ecacbb00e4432da6db7feef68de758&url=https%3A%2F%2Fwww.axios.com%2Flocal%2Fseattle%2F2025%2F05%2F23%2Fice-arrests-hit-seattle-immigration-courts&render_js=true&asp=true&country=us&timeout=60000"
+    },
+    {
+      "entry_id": "T3-149",
+      "url": "https://www.cnn.com/2025/04/27/us/ice-operation-first-of-its-kind-florida-hnk/",
+      "source_name": "CNN",
+      "error": "400 Client Error: Bad Request for url: https://api.scrapfly.io/scrape?key=scp-live-01ecacbb00e4432da6db7feef68de758&url=https%3A%2F%2Fwww.cnn.com%2F2025%2F04%2F27%2Fus%2Fice-operation-first-of-its-kind-florida-hnk%2F&render_js=true&asp=true&country=us&timeout=60000"
+    },
+    {
+      "entry_id": "T3-P037",
+      "url": "https://www.cnn.com/2025/09/19/us/ice-chicago-protests-broadview",
+      "source_name": "CNN",
+      "error": "400 Client Error: Bad Request for url: https://api.scrapfly.io/scrape?key=scp-live-01ecacbb00e4432da6db7feef68de758&url=https%3A%2F%2Fwww.cnn.com%2F2025%2F09%2F19%2Fus%2Fice-chicago-protests-broadview&render_js=true&asp=true&country=us&timeout=60000"
+    }
+  ]
+}

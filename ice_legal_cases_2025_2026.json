@@ -1,0 +1,566 @@
+{
+  "metadata": {
+    "title": "ICE-Related Court Cases, Lawsuits, and Legal Challenges 2025-2026",
+    "date_compiled": "2026-01-25",
+    "description": "Comprehensive documentation of federal court rulings, civil rights lawsuits, constitutional violations, and injunctions related to ICE operations"
+  },
+  "federal_court_rulings": [
+    {
+      "case_name": "Castañon Nava v. Department of Homeland Security",
+      "case_number": "1:18-cv-03757",
+      "court": "U.S. District Court, Northern District of Illinois",
+      "jurisdiction": "Chicago Area of Responsibility (IL, IN, WI, KS, KY, MO)",
+      "ruling_date": "2025-10-07",
+      "key_findings": [
+        "ICE violated 2022 consent decree by conducting at least 22 warrantless arrests in early 2025",
+        "ICE agents regularly carried blank warrants and filled them out only after detaining someone",
+        "Consent decree extended 118 days until February 2, 2026",
+        "Court ordered release of 13 individuals detained unlawfully",
+        "Court ordered release of up to 615 additional people on $1,500 bond by November 21, 2025"
+      ],
+      "constitutional_violations": [
+        "Fourth Amendment - Unreasonable search and seizure",
+        "Warrantless arrests without probable cause"
+      ],
+      "status": "Active - Extended until February 2, 2026",
+      "plaintiffs_counsel": [
+        "National Immigrant Justice Center",
+        "ACLU of Illinois"
+      ],
+      "source_urls": [
+        "https://immigrantjustice.org/press-release/federal-judge-extends-consent-decree-prohibiting-ice-from-arresting-people-without-warrants-or-probable-cause/",
+        "https://www.aclu-il.org/cases/castanon-nava-v-department-homeland-security/",
+        "https://blockclubchicago.org/2025/10/07/ice-violated-consent-decree-with-warrantless-arrests-federal-judge-in-chicago-says/"
+      ]
+    },
+    {
+      "case_name": "Vasquez Perdomo v. Noem (Los Angeles Raids)",
+      "case_number": "2:25-cv-05605",
+      "court": "U.S. District Court, Central District of California",
+      "jurisdiction": "Los Angeles, California",
+      "tro_date": "2025-07-11",
+      "injunction_date": "2025-11-14",
+      "key_findings": [
+        "Federal court found ICE likely violated Fifth Amendment by denying detained immigrants lawful access to attorneys",
+        "B-18 detention facility in downtown Los Angeles used to detain people for days in conditions preventing meaningful communication with counsel",
+        "Detainees denied phone access, turned away from in-person meetings, pressured to sign documents without legal advice",
+        "Pregnant women, elderly adults, and minors detained without access to medication or hygiene supplies"
+      ],
+      "constitutional_violations": [
+        "Fifth Amendment - Denial of due process and access to counsel",
+        "Fourth Amendment claims (TRO later dissolved on standing grounds)"
+      ],
+      "injunction_requirements": [
+        "Seven-day attorney access at B-18 facility",
+        "Confidential in-person and telephone communications at no cost",
+        "Prompt notice and alternatives if B-18 is closed"
+      ],
+      "supreme_court_involvement": {
+        "case_name": "Noem v. Perdomo",
+        "date": "2025-09-08",
+        "outcome": "Supreme Court stayed district court's July 11 injunction pending appeal (6-3)",
+        "kavanaugh_concurrence": "Wrote that 'apparent ethnicity' could be used as 'relevant factor' in determining reasonable suspicion when combined with other factors"
+      },
+      "status": "Active - Fifth Amendment injunction in place; Fourth Amendment TRO dissolved",
+      "plaintiffs_counsel": [
+        "ACLU of Southern California",
+        "Public Counsel",
+        "UC Irvine School of Law Immigrant and Racial Justice Solidarity Clinic",
+        "National Day Laborer Organizing Network",
+        "Law Offices of Stacy Tolchin"
+      ],
+      "source_urls": [
+        "https://publiccounsel.org/press-releases/federal-court-grants-preliminary-injunction-against-trump-administration-in-major-los-angeles-immigration-raids-case/",
+        "https://www.aclusocal.org/cases/vasquez-perdomo-v-noem/",
+        "https://www.law.cornell.edu/supremecourt/text/25A169"
+      ]
+    },
+    {
+      "case_name": "Minnesota v. Department of Homeland Security (Operation Metro Surge)",
+      "court": "U.S. District Court, District of Minnesota",
+      "jurisdiction": "Minnesota",
+      "filing_date": "2026-01-12",
+      "injunction_date": "2026-01-17",
+      "judge": "Katherine Menendez",
+      "key_findings": [
+        "Preliminary injunction barred ICE agents from using pepper spray, arresting, detaining, or retaliating against peaceful protesters",
+        "Banned agents from stopping and arresting drivers who are not 'forcibly obstructing or interfering'",
+        "Injunction applied only to Operation Metro Surge agents in Minnesota"
+      ],
+      "constitutional_violations_alleged": [
+        "First Amendment - Targeting Minnesota based on political viewpoints",
+        "Tenth Amendment - Federal commandeering of state police resources",
+        "Administrative Procedure Act violations"
+      ],
+      "appeals_court_action": {
+        "court": "8th U.S. Circuit Court of Appeals",
+        "date": "2026-01-21",
+        "outcome": "Blocked preliminary injunction while weighing longer-term stay"
+      },
+      "related_incident": {
+        "name": "Renee Nicole Good shooting",
+        "date": "2026-01-07",
+        "description": "37-year-old U.S. citizen and mother of three shot and killed by ICE agent Jonathan Ross while sitting in her vehicle",
+        "medical_examiner_ruling": "Homicide (ruled January 23, 2026)"
+      },
+      "status": "Active - Injunction blocked pending appeal",
+      "plaintiffs": [
+        "State of Minnesota (Attorney General Keith Ellison)",
+        "City of Minneapolis",
+        "City of Saint Paul"
+      ],
+      "source_urls": [
+        "https://www.minneapolismn.gov/news/2026/january/ag-lawsuit/",
+        "https://time.com/7347110/ice-minneapolis-judge-arrests/",
+        "https://www.aljazeera.com/news/2026/1/17/us-judge-orders-curbs-on-ice-agents-actions-against-minnesota-protesters"
+      ]
+    }
+  ],
+  "aclu_and_civil_rights_lawsuits": [
+    {
+      "case_name": "Hussen v. Noem (Minnesota Racial Profiling)",
+      "court": "U.S. District Court, District of Minnesota",
+      "filing_date": "2026-01-XX",
+      "case_type": "Class action",
+      "key_allegations": [
+        "ICE and CBP suspicionless stops targeting Somali and Latino communities",
+        "Warrantless arrests without probable cause",
+        "Racial profiling under Operation Metro Surge"
+      ],
+      "constitutional_violations_alleged": [
+        "Fourth Amendment - Unreasonable search and seizure",
+        "Fifth Amendment - Equal protection violations",
+        "Fourteenth Amendment - Racial discrimination"
+      ],
+      "named_plaintiffs": [
+        {
+          "name": "Mubashir Khalif Hussen",
+          "age": 20,
+          "citizenship": "U.S. Citizen",
+          "incident_date": "2025-12-10",
+          "incident_description": "Stopped by masked ICE agents while walking to lunch. Despite repeatedly stating 'I'm a citizen,' agents refused to look at his ID, placed him in an SUV, shackled and fingerprinted him before release."
+        }
+      ],
+      "status": "Active",
+      "plaintiffs_counsel": [
+        "ACLU",
+        "ACLU of Minnesota",
+        "Covington & Burling LLP",
+        "Greene Espel PLLP",
+        "Robins Kaplan LLP"
+      ],
+      "source_urls": [
+        "https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans"
+      ]
+    },
+    {
+      "case_name": "Tincher v. Noem (Protester Rights)",
+      "court": "U.S. District Court, District of Minnesota",
+      "filing_date": "2025-12-17",
+      "case_type": "Civil rights lawsuit",
+      "key_allegations": [
+        "ICE agents routinely violating constitutional rights of protesters and observers",
+        "Arresting and retaliating against people protesting ICE",
+        "Detaining protesters without probable cause",
+        "Using law enforcement databases to scan license plates and retrieve observers' home addresses",
+        "At least one observer was followed by ICE to her home"
+      ],
+      "constitutional_violations_alleged": [
+        "First Amendment - Retaliation against protected speech and assembly",
+        "Fourth Amendment - Detention without probable cause",
+        "Conspiracy to violate civil rights"
+      ],
+      "status": "Active",
+      "plaintiffs_counsel": [
+        "ACLU of Minnesota"
+      ],
+      "source_urls": [
+        "https://minnesotareformer.com/2025/12/17/aclu-sues-ice-alleging-agency-violates-constitutional-rights-of-observers-and-protesters/"
+      ]
+    },
+    {
+      "case_name": "Gomez Ruiz, et al. v. ICE (Detention Conditions)",
+      "court": "U.S. District Court, Northern District of California",
+      "filing_date": "2025-11-XX",
+      "case_type": "Civil rights lawsuit",
+      "detention_facility": "California City Detention Facility (Kern County)",
+      "facility_details": "Privately owned, California's largest immigration detention center",
+      "key_allegations": [
+        "Inhumane conditions at California's largest immigration detention center",
+        "Violations of detainee rights"
+      ],
+      "constitutional_violations_alleged": [
+        "First Amendment",
+        "Fifth Amendment",
+        "Rehabilitation Act"
+      ],
+      "status": "Active",
+      "plaintiffs_counsel": [
+        "Prison Law Office",
+        "Keker Van Nest & Peters LLP",
+        "ACLU",
+        "California Collaborative for Immigrant Justice"
+      ],
+      "source_urls": [
+        "https://www.aclu.org/cases/gomez-ruiz-et-al-v-ice"
+      ]
+    },
+    {
+      "case_name": "Immigration Court Courthouse Arrests Lawsuit",
+      "court": "U.S. District Court, District of Columbia",
+      "filing_date": "2025-07-16",
+      "case_type": "Class action",
+      "key_allegations": [
+        "Unlawful arrests of immigrants at immigration court hearings",
+        "Collusion between DHS and DOJ to strip due process rights",
+        "ICE requesting case dismissals, then arresting individuals upon dismissal",
+        "Fast-track deportations without proper legal proceedings"
+      ],
+      "statistics": {
+        "period": "May 20 - July 28, 2025",
+        "ice_motions_to_dismiss": 6210,
+        "oral_motions_percentage": "81%",
+        "same_day_rulings_percentage": "86%",
+        "motions_granted_percentage": "80%"
+      },
+      "constitutional_violations_alleged": [
+        "Fifth Amendment - Due process",
+        "Administrative Procedure Act"
+      ],
+      "class_definition": "All noncitizens arrested at or near immigration courthouses on the day of their hearing on or after January 21, 2025",
+      "status": "Active",
+      "plaintiffs_counsel": [
+        "National Immigrant Justice Center (NIJC)",
+        "Democracy Forward",
+        "RAICES",
+        "Lawyers' Committee for Civil Rights of the San Francisco Bay Area"
+      ],
+      "source_urls": [
+        "https://immigrantjustice.org/press-release/unlawful-ice-arrests-at-immigration-courthouses-prompt-lawsuit-by-advocates-and-immigrants/",
+        "https://www.cnn.com/2025/07/16/politics/ice-immigration-courthouse-arrests-lawsuit"
+      ]
+    },
+    {
+      "case_name": "Bond Hearing Denial Class Action",
+      "court": "U.S. District Court",
+      "filing_date": "2025-09-XX",
+      "case_type": "Class action",
+      "key_allegations": [
+        "Widespread denial of bond hearings to ICE detainees",
+        "Systematic misclassification of people arrested inside the U.S.",
+        "Reclassifying detainees from 8 U.S.C. § 1226 (allows bond) to 8 U.S.C. § 1225 (no-bond detention)"
+      ],
+      "prior_ruling": {
+        "court": "U.S. District Court, Western District of Washington",
+        "date": "2025-04-XX",
+        "outcome": "Ruled the practice was likely illegal and ordered bond hearing for wrongfully detained litigant"
+      },
+      "constitutional_violations_alleged": [
+        "Fifth Amendment - Due process",
+        "Statutory violations of immigration law"
+      ],
+      "status": "Active",
+      "plaintiffs_counsel": [
+        "ACLU of Massachusetts",
+        "ACLU Immigrants' Rights Project",
+        "ACLU of New Hampshire",
+        "ACLU of Maine",
+        "Araujo and Fisher",
+        "Foley Hoag",
+        "Harvard Immigration and Refugee Clinic"
+      ],
+      "source_urls": [
+        "https://www.aclu.org/press-releases/new-class-action-lawsuit-challenges-widespread-denial-of-due-process-in-immigration-courts"
+      ]
+    }
+  ],
+  "sensitive_locations_policy_lawsuits": [
+    {
+      "case_name": "Multifaith Coalition v. DHS (Sensitive Locations)",
+      "filing_date": "2025-02-11",
+      "case_type": "First Amendment / RFRA challenge",
+      "key_allegations": [
+        "ICE sensitive locations policy rescission violates religious freedoms",
+        "Armed government agents at worship houses disrupts free association and worship",
+        "Policy change was arbitrary and capricious"
+      ],
+      "plaintiffs": [
+        "Unitarian Universalist Association",
+        "Several Quaker societies",
+        "Multifaith coalition"
+      ],
+      "legal_arguments": [
+        "First Amendment - Freedom of religion and assembly",
+        "Religious Freedom Restoration Act (RFRA)",
+        "Administrative Procedure Act (APA)"
+      ],
+      "plaintiffs_counsel": [
+        "Institute for Constitutional Advocacy and Protection",
+        "Democracy Forward"
+      ],
+      "source_urls": [
+        "https://www.uua.org/pressroom/press-releases/sensitive-locations-policy-lawsuit"
+      ]
+    },
+    {
+      "case_name": "Denver Public Schools v. Noem",
+      "court": "U.S. District Court",
+      "filing_date": "2025-XX-XX",
+      "tro_ruling_date": "2025-03-07",
+      "key_allegations": [
+        "New ICE policy allowing enforcement at schools violates APA",
+        "Policy change was arbitrary and capricious"
+      ],
+      "outcome": "TRO and preliminary injunction denied",
+      "status": "Denied",
+      "source_urls": [
+        "https://www.nilc.org/resources/factsheet-trumps-rescission-of-protected-areas-policies-undermines-safety-for-all/"
+      ]
+    },
+    {
+      "case_name": "Churches Coalition Lawsuit",
+      "court": "U.S. District Court",
+      "judge": "Dabney Friedrich",
+      "ruling_date": "2025-04-11",
+      "outcome": "Dismissed - Judge ruled churches could not show sufficient harm to establish standing",
+      "reasoning": "Claims about church attendance fears or harassment by immigration officers were too speculative",
+      "note": "Over 1,400 churches protected under separate federal injunction in Maryland",
+      "source_urls": [
+        "https://www.washingtontimes.com/news/2025/apr/11/judges-ruling-allows-ice-make-arrests-near-churches/"
+      ]
+    }
+  ],
+  "detention_deaths_and_wrongful_death_cases": [
+    {
+      "case_type": "Detention Death - Homicide Ruling",
+      "decedent": "Geraldo Lunas Campos",
+      "age": 55,
+      "nationality": "Cuban",
+      "facility": "El Paso County detention camp (Texas)",
+      "date_of_death": "2026-01-03",
+      "cause_of_death": "Asphyxiation",
+      "medical_examiner_ruling": "Homicide",
+      "circumstances": [
+        "ICE initially stated he died after staff 'observed him in distress'",
+        "Witness testimony indicates guards choked him to death",
+        "Private guard 911 call indicates struggle after alleged suicide attempt",
+        "Man was handcuffed and stopped breathing during subsequent struggle"
+      ],
+      "source_urls": [
+        "https://www.washingtonpost.com/immigration/2026/01/15/ice-detention-death-homicide/",
+        "https://www.ksat.com/news/national/2026/01/24/private-guard-called-911-in-ice-detainee-homicide-saying-man-kept-going-after-suicide-attempt/"
+      ]
+    },
+    {
+      "case_type": "Detention Death",
+      "decedent": "Chaofeng Ge",
+      "nationality": "Chinese",
+      "facility": "ICE detention center, Pennsylvania",
+      "date_of_death": "2025-08-05",
+      "circumstances": [
+        "Found dead after only 4 days in custody",
+        "Reportedly found with hands and feet tied behind him"
+      ],
+      "source_urls": [
+        "https://davisvanguard.org/2025/11/chinese-immigrant-dies-ice-custody/"
+      ]
+    },
+    {
+      "case_type": "Fatal Shooting - Homicide Ruling",
+      "decedent": "Renee Nicole Good",
+      "age": 37,
+      "citizenship": "U.S. Citizen",
+      "location": "Minneapolis, Minnesota",
+      "date_of_death": "2026-01-07",
+      "shooter": "ICE Agent Jonathan Ross",
+      "circumstances": [
+        "Mother of three shot while sitting in her SUV",
+        "Had reportedly just dropped off her six-year-old child at school",
+        "Was acting as legal observer during Operation Metro Surge protests",
+        "Video shows agent fired three shots as Good began to drive away"
+      ],
+      "medical_examiner_ruling": "Homicide (January 23, 2026)",
+      "investigation_status": "FBI leading investigation; Minnesota officials contesting federal-only investigation",
+      "related_lawsuits": [
+        "Minnesota v. DHS (Operation Metro Surge lawsuit)"
+      ],
+      "source_urls": [
+        "https://www.npr.org/2026/01/08/nx-s1-5671061/minneapolis-ice-shooting-noem",
+        "https://www.cnn.com/2026/01/08/us/renee-nicole-good-minneapolis-ice-shooting-hnk",
+        "https://www.fox9.com/news/minneapolis-ice-shooting-renee-goods-death-homicide-hennepin-medical-examiner-jan-23"
+      ]
+    }
+  ],
+  "detention_death_statistics": {
+    "deaths_2025": 31,
+    "deaths_2026_to_date": 6,
+    "as_of_date": "2026-01-25",
+    "notes": [
+      "2025 had the highest number of deaths since 2004",
+      "December 2025 was the deadliest month on record",
+      "If current pace continues, 2026 could see 80+ deaths (more than double previous record)",
+      "Over 65,000 people currently in ICE custody (two-thirds increase since Trump took office)"
+    ],
+    "source_urls": [
+      "https://www.axios.com/2026/01/20/ice-custody-deaths-trump-surge",
+      "https://theappeal.org/ice-deaths-detention-record-high/"
+    ]
+  },
+  "damages_and_settlements": [
+    {
+      "case_name": "NYC Department of Correction ICE Detainer Settlement",
+      "settlement_amount": 92500000,
+      "settlement_amount_formatted": "$92.5 million",
+      "case_type": "Class action settlement",
+      "class_period": "April 1, 1997 - December 21, 2012",
+      "class_definition": "Individuals detained by NYC DOC beyond their scheduled release date based solely on ICE detainers",
+      "final_approval_hearing": "2025-10-06",
+      "source_urls": [
+        "https://topclassactions.com/lawsuit-settlements/closed-settlements/92-5m-new-york-city-department-of-correction-ice-class-action-settlement/"
+      ]
+    },
+    {
+      "case_name": "Carlos Rios Settlement",
+      "settlement_amount": 125000,
+      "settlement_amount_formatted": "$125,000",
+      "case_type": "Individual settlement",
+      "facts": "U.S. citizen detained for seven days by ICE in solitary confinement despite having his citizenship",
+      "source_urls": [
+        "https://factually.co/fact-checks/justice/successful-settlements-wrongful-ice-arrests-5c5ebf"
+      ]
+    },
+    {
+      "case_name": "Job Garcia FTCA Claim",
+      "damages_sought": 1000000,
+      "damages_sought_formatted": "$1 million",
+      "case_type": "Federal Tort Claims Act claim",
+      "facts": "U.S. citizen assaulted and unlawfully detained by federal immigration officers in front of a Home Depot in Los Angeles",
+      "status": "Pending",
+      "plaintiffs_counsel": [
+        "MALDEF (Mexican American Legal Defense and Educational Fund)"
+      ],
+      "source_urls": [
+        "https://www.maldef.org/2025/07/maldef-takes-a-step-toward-civil-rights-lawsuit-on-behalf-of-u-s-citizen-detained-by-ice/"
+      ]
+    },
+    {
+      "case_name": "Gonzalez v. ICE (Detainer Settlement)",
+      "effective_date": "2022-05-13",
+      "expiration_date": "2026-02-02",
+      "case_type": "Class action settlement",
+      "geographic_scope": "Most of United States",
+      "key_requirements": [
+        "PERC cannot use detainer forms without neutral review process",
+        "Procedural protections comparable to Fourth Amendment required"
+      ],
+      "individual_remedies": "Detainees arrested in violation may seek immediate release from detention",
+      "source_urls": [
+        "https://immigrantjustice.org/final-settlement-regarding-ice-warrantless-arrests-and-vehicle-stops-overview-of-settlement-requirements-and-remedies/",
+        "https://www.aclusocal.org/cases/gonzalez-v-ice/"
+      ]
+    }
+  ],
+  "pending_claims_overview": {
+    "total_pending_tort_claims": "350+",
+    "total_damages_sought": "$55.5 billion+",
+    "note": "Despite tens of billions in claims, ICE paid less than $1 million in settlements as of 2023",
+    "source_urls": [
+      "https://www.jeelani-law.com/ice-facing-claims-after-violent-arrests/"
+    ]
+  },
+  "foia_and_transparency_lawsuits": [
+    {
+      "case_name": "ACLU v. ICE (Virginia Detention Expansion)",
+      "case_type": "FOIA lawsuit",
+      "plaintiffs": [
+        "ACLU",
+        "ACLU of Virginia",
+        "ACLU of North Carolina"
+      ],
+      "records_sought": "ICE plans to expand immigration detention across Virginia",
+      "trigger": "ICE Requests for Information issued May 28, 2025 seeking 'available detention facilities'",
+      "source_urls": [
+        "https://www.aclu.org/press-releases/aclu-sue-ice-for-records-regarding-potential-expansion-of-immigration-detention-in-virginia"
+      ]
+    },
+    {
+      "case_name": "ACLU v. ICE (Colorado/Wyoming Detention Expansion)",
+      "case_type": "FOIA lawsuit",
+      "plaintiffs": [
+        "ACLU",
+        "ACLU of Colorado"
+      ],
+      "records_sought": "ICE plans to expand immigration detention across Colorado and Wyoming",
+      "trigger": "ICE solicitations issued February 14, 2025 seeking contract proposals for detention facilities",
+      "source_urls": [
+        "https://www.aclu-co.org/cases/aclu-et-al-v-us-ice/"
+      ]
+    },
+    {
+      "case_name": "Courthouse Arrests FOIA Lawsuit",
+      "filing_date": "2025-10-XX",
+      "case_type": "FOIA lawsuit",
+      "plaintiffs": [
+        "LatinoJustice PRLDEF",
+        "American Immigration Council"
+      ],
+      "records_sought": "Guidance for arresting noncitizens in immigration court",
+      "context": "Since May 20, 2025, ICE has been detaining noncitizens in immigration courts when they appear for removal hearings",
+      "source_urls": [
+        "https://www.americanimmigrationcouncil.org/press-release/groups-sue-government-foia-records-immigration-court-arrests/"
+      ]
+    }
+  ],
+  "operation_metro_surge_legal_issues": {
+    "operation_name": "Operation Metro Surge",
+    "start_date": "2025-12-XX",
+    "location": "Minneapolis-St. Paul, Minnesota",
+    "agents_deployed": "~3,000 (estimated)",
+    "legal_challenges": [
+      "Minnesota v. DHS (state lawsuit)",
+      "Hussen v. Noem (ACLU racial profiling class action)",
+      "Tincher v. Noem (protester rights lawsuit)"
+    ],
+    "constitutional_issues_raised": [
+      "First Amendment - Targeting based on political viewpoints",
+      "Fourth Amendment - Warrantless arrests, unreasonable seizures",
+      "Fifth Amendment - Due process violations",
+      "Tenth Amendment - Federal commandeering of state resources"
+    ],
+    "incidents": [
+      {
+        "incident": "Renee Nicole Good shooting",
+        "date": "2026-01-07",
+        "outcome": "Ruled homicide by medical examiner"
+      },
+      {
+        "incident": "Mubashir Khalif Hussen detention",
+        "date": "2025-12-10",
+        "description": "U.S. citizen detained despite showing ID"
+      },
+      {
+        "incident": "Garrison Gibson arrest",
+        "date": "2026-01-11",
+        "description": "Warrantless raid ruled violation of Fourth Amendment"
+      }
+    ],
+    "source_urls": [
+      "https://www.cnn.com/2026/01/14/us/minnesota-lawsuit-immigration-enforcement-hnk",
+      "https://www.minnpost.com/metro/2026/01/courts-are-mulling-whether-ice-violated-observers-civil-rights-lawsuits/"
+    ]
+  },
+  "un_and_international_response": {
+    "un_statement_date": "2026-01-23",
+    "official": "UN High Commissioner for Human Rights",
+    "key_concerns": [
+      "Growing dehumanization of migrants in the United States",
+      "Immigration enforcement practices undermining due process",
+      "Threats to family unity and basic human dignity",
+      "Record deaths in ICE custody"
+    ],
+    "source_urls": [
+      "https://www.un.org/en/un-rights-chief-decries-us-treatment-migrants-deaths-ice-custody-rise",
+      "https://www.jurist.org/news/2026/01/un-rights-chief-democratic-lawmakers-demand-answers-as-ice-custody-deaths-mount/"
+    ]
+  }
+}

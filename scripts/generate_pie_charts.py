@@ -25,8 +25,12 @@ for state, data in ref.get('states', {}).items():
 
 # Count incidents
 total_non_immigrant = 0
-top_9_counties = {'17031', '06037', '27053', '36061', '41051', '06075', '53033', '34013', '08031'}
-top_9_count = 0
+# Top 8 counties with 4+ incidents (Denver dropped below threshold)
+top_counties = {'17031', '06037', '27053', '36061', '41051', '06075', '53033', '34013'}
+NUM_TOP_COUNTIES = len(top_counties)
+TOTAL_US_COUNTIES = 3143
+NUM_OTHER_COUNTIES = TOTAL_US_COUNTIES - NUM_TOP_COUNTIES
+top_count = 0
 other_count = 0
 
 sanctuary_count = 0
@@ -38,7 +42,7 @@ exec(open('scripts/generate_county_map.py').read().split('# Load incident data')
 for filepath in incident_files:
     if not os.path.exists(filepath):
         continue
-    with open(filepath, 'r') as f:
+    with open(filepath, 'r', encoding='utf-8') as f:
         incidents = json.load(f)
 
     for inc in incidents:
@@ -60,7 +64,7 @@ for filepath in incident_files:
             city = inc.get('city', '')
             city_state = f"{city}, {state}"
 
-            # Check if in top 9 counties
+            # Check if in top counties
             fips = None
             if city_state in CITY_TO_COUNTY:
                 fips = CITY_TO_COUNTY[city_state][1] + CITY_TO_COUNTY[city_state][2]
@@ -74,8 +78,8 @@ for filepath in incident_files:
                         fips = value[1] + value[2]
                         break
 
-            if fips and fips in top_9_counties:
-                top_9_count += 1
+            if fips and fips in top_counties:
+                top_count += 1
             else:
                 other_count += 1
 
@@ -86,25 +90,25 @@ for filepath in incident_files:
                 non_sanctuary_count += 1
 
 print(f"Total non-immigrant incidents: {total_non_immigrant}")
-print(f"Top 9 counties: {top_9_count}")
-print(f"Other counties: {other_count}")
+print(f"Top {NUM_TOP_COUNTIES} counties: {top_count}")
+print(f"Other {NUM_OTHER_COUNTIES:,} counties: {other_count}")
 print(f"Sanctuary states: {sanctuary_count}")
 print(f"Non-sanctuary states: {non_sanctuary_count}")
 
 # Create visualization: pie chart + stats panel
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))
 
-# Pie chart: Top 9 counties vs rest (show counts, not percentages)
+# Pie chart: Top counties vs rest (show counts, not percentages)
 colors1 = ['#1a5276', '#c0392b']  # Blue for non-cooperating, red for others
-wedges, texts = ax1.pie([top_9_count, other_count],
-        labels=[f'Top 9\nNon-Cooperating\nCounties', f'All Other\nCounties\n(3,134)'],
+wedges, texts = ax1.pie([top_count, other_count],
+        labels=[f'Top {NUM_TOP_COUNTIES}\nNon-Cooperating\nCounties', f'All Other\nCounties\n({NUM_OTHER_COUNTIES:,})'],
         colors=colors1,
         explode=(0.05, 0),
         startangle=90,
         textprops={'fontsize': 18})
 
 # Add count labels inside wedges
-ax1.text(-0.3, -0.2, str(top_9_count), fontsize=24, fontweight='bold', color='white', ha='center', va='center')
+ax1.text(-0.3, -0.2, str(top_count), fontsize=24, fontweight='bold', color='white', ha='center', va='center')
 ax1.text(0.4, 0.3, str(other_count), fontsize=24, fontweight='bold', color='white', ha='center', va='center')
 
 # Title
@@ -114,16 +118,16 @@ ax1.set_title('Violent Confrontations in\nNon-Cooperating Jurisdictions', fontsi
 ax2.axis('off')
 
 # Calculate the multiplier
-incidents_per_top9 = top_9_count / 9
-incidents_per_other = other_count / 3134
-multiplier = incidents_per_top9 / incidents_per_other if incidents_per_other > 0 else 0
+incidents_per_top = top_count / NUM_TOP_COUNTIES
+incidents_per_other = other_count / NUM_OTHER_COUNTIES
+multiplier = int(round(incidents_per_top / incidents_per_other)) if incidents_per_other > 0 else 0
 
-# Add stats text - 50% increase on all
-ax2.text(0.5, 0.7, '590x', fontsize=108, fontweight='bold', color='#1a5276',
+# Add stats text with dynamic values
+ax2.text(0.5, 0.7, f'{multiplier}x', fontsize=108, fontweight='bold', color='#1a5276',
          ha='center', va='center', transform=ax2.transAxes)
 ax2.text(0.5, 0.45, 'more likely', fontsize=36, fontweight='bold', color='#333333',
          ha='center', va='center', transform=ax2.transAxes)
-ax2.text(0.5, 0.20, 'A county among the top 9 non-cooperating\njurisdictions is 590x more likely to have a\nviolent confrontation with ICE\nthan any of the other 3,134 counties.',
+ax2.text(0.5, 0.20, f'A county among the top {NUM_TOP_COUNTIES} non-cooperating\njurisdictions is {multiplier}x more likely to have a\nviolent confrontation with ICE\nthan any of the other {NUM_OTHER_COUNTIES:,} counties.',
          fontsize=24, color='#333333', ha='center', va='center', transform=ax2.transAxes)
 
 plt.tight_layout()

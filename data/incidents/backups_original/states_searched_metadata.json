@@ -1,0 +1,185 @@
+{
+  "New York": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 3,
+    "notes": "No major ICE detention facilities. 26 Federal Plaza used for processing, not long-term detention. Detainees transferred to NJ, PA facilities.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search"
+    ]
+  },
+  "Virginia": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 1,
+    "notes": "Caroline Detention Facility exists but no deaths reported 2025-2026. Immigration court at Arlington.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search"
+    ]
+  },
+  "Louisiana": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 2,
+    "notes": "LaSalle ICE Processing Center and Angola (Camp 57) used for detention. ACLU lawsuits filed re: conditions but no deaths reported 2025-2026.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search",
+      "ACLU Louisiana"
+    ]
+  },
+  "North Carolina": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 2,
+    "notes": "Alamance County Detention Center used for ICE. Operation Charlotte's Web conducted Nov 2025. No custody deaths reported 2025-2026.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search"
+    ]
+  },
+  "Tennessee": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 2,
+    "notes": "West Tennessee Detention Facility (Mason) reopened for ICE. 196 arrests in Nashville May 2025 via THP collaboration. 800 statewide in Oct 2025.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search",
+      "Nashville Banner",
+      "MLK50"
+    ]
+  },
+  "Iowa": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 2,
+    "notes": "No major ICE detention facilities. High-profile arrest of Des Moines school superintendent Sep 2025.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search",
+      "CNN",
+      "U of Iowa"
+    ]
+  },
+  "Indiana": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 3,
+    "notes": "Marion County Jail major ICE hub (438 detainees first 4 months 2025). Camp Atterbury being used. Operation Midway Blitz: 223 arrests on NW highways.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search",
+      "ICE releases",
+      "WTHR"
+    ]
+  },
+  "Washington": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 3,
+    "notes": "Northwest ICE Processing Center (Tacoma) - one of largest in country. 950+ arrests Jul-Oct 2025. 59% of detainees listed as non-criminal.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search",
+      "KUOW",
+      "Real Change"
+    ]
+  },
+  "Oklahoma": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 2,
+    "notes": "Cimarron Correctional Facility contracted for ICE (CoreCivic). I-40 operation: 120 arrests Sep 2025. Wrong-address raid - US citizens detained.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search",
+      "KOSU",
+      "Newsweek"
+    ]
+  },
+  "Colorado": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 1,
+    "notes": "Aurora ICE Processing Center (GEO Group) exists. No deaths reported 2025-2026. Tier 3 protest incident in Durango documented.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search"
+    ]
+  },
+  "Mississippi": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 3,
+    "notes": "Tallahatchie County Correctional Facility contracted for ICE (CoreCivic). 58 arrests Jackson area Jan 2025. Workplace raids documented.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search",
+      "ICE releases",
+      "WLBT"
+    ]
+  },
+  "Nevada": {
+    "searched": true,
+    "search_date": "2026-01-24",
+    "tier1_deaths_found": 0,
+    "tier2_incidents_found": 0,
+    "tier3_incidents_found": 3,
+    "notes": "Nevada Southern Detention Center contracted for ICE. 274 in custody Feb 2025. Major protest Jun 2025 - pepper balls/tear gas. Broadacres closed due to fear.",
+    "sources_checked": [
+      "ICE death reporting",
+      "AILA",
+      "Wikipedia",
+      "state news search",
+      "KNPR",
+      "Las Vegas Sun"
+    ]
+  }
+}

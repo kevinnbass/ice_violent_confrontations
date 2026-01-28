@@ -1,0 +1,10 @@
+{
+  "backup_timestamp": "20260127_055302",
+  "files": [
+    "C:\\Users\\kbass\\ice_arrests\\data\\incidents\\backups_schema_migration\\20260127_055302\\tier1_deaths_in_custody.json",
+    "C:\\Users\\kbass\\ice_arrests\\data\\incidents\\backups_schema_migration\\20260127_055302\\tier2_less_lethal.json",
+    "C:\\Users\\kbass\\ice_arrests\\data\\incidents\\backups_schema_migration\\20260127_055302\\tier3_incidents.json",
+    "C:\\Users\\kbass\\ice_arrests\\data\\incidents\\backups_schema_migration\\20260127_055302\\tier4_incidents.json"
+  ],
+  "migration": "flat_sources_to_array"
+}

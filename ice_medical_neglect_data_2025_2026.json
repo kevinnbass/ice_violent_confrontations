@@ -1,0 +1,695 @@
+{
+  "metadata": {
+    "title": "ICE Detention Medical Neglect and Deaths Report 2025-2026",
+    "date_compiled": "2026-01-25",
+    "data_period": "January 2025 - January 2026",
+    "overall_statistics": {
+      "total_deaths_2025": 31,
+      "total_deaths_2026_ytd": 6,
+      "deadliest_month": "December 2025",
+      "highest_death_count_since": 2004,
+      "peak_detention_population": 68400,
+      "peak_detention_date": "2025-12-14",
+      "inspection_decline_percentage": 36.25,
+      "solitary_confinement_august_2025": 1151
+    }
+  },
+  "medical_neglect_deaths": [
+    {
+      "incident_id": "MND-2025-001",
+      "date": "2025-01-05",
+      "victim_name": "Luis Gustavo Nunez Caceres",
+      "age": 42,
+      "nationality": "Honduras",
+      "facility_name": "Joe Corley Detention Facility",
+      "facility_location": "Conroe, TX",
+      "medical_condition": "Unknown - details not released",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "MND-2025-002",
+      "date": "2025-01-23",
+      "victim_name": "Genry Donaldo Ruiz-Guillen",
+      "age": 29,
+      "nationality": "Honduras",
+      "facility_name": "Krome Service Processing Center",
+      "facility_location": "Miami, FL",
+      "medical_condition": "Unknown - died at Larkin Community Hospital",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.detentionwatchnetwork.org/pressroom/releases/2025/three-deaths-ice-custody-just-over-month-trump-s-presidency-marks-most"
+    },
+    {
+      "incident_id": "MND-2025-003",
+      "date": "2025-01-28",
+      "victim_name": "Serawit Gezahegn Dejene",
+      "age": 45,
+      "nationality": "Ethiopia",
+      "facility_name": "Eloy Detention Center",
+      "facility_location": "Eloy, AZ",
+      "medical_condition": "Tuberculosis - contracted in detention",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Died at Banner University Medical Center Phoenix. Was in ICE custody for approximately 3 months when he died.",
+      "source_url": "https://prospect.org/2025/08/18/2025-08-18-tuberculosis-spawning-in-crowded-dirty-ice-detention-centers/"
+    },
+    {
+      "incident_id": "MND-2025-004",
+      "date": "2025-06-07",
+      "victim_name": "Abelardo Avelleneda-Delgado",
+      "age": 68,
+      "nationality": "Mexico",
+      "facility_name": "Stewart Detention Center (during transport)",
+      "facility_location": "Lumpkin, GA",
+      "medical_condition": "Died during transport from Lowndes County Jail",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "MND-2025-005",
+      "date": "2025-06-00",
+      "victim_name": "Johnny Noviello",
+      "age": 49,
+      "nationality": "Canada",
+      "facility_name": "Federal Detention Center Miami",
+      "facility_location": "Miami, FL",
+      "medical_condition": "Not specified",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "MND-2025-006",
+      "date": "2025-07-00",
+      "victim_name": "Isidro Pérez",
+      "age": 75,
+      "nationality": "Unknown",
+      "facility_name": "Krome Service Processing Center",
+      "facility_location": "Miami, FL",
+      "medical_condition": "Chest pains - inadequate medical response",
+      "outcome": "Death",
+      "notes": "Resided in U.S. for nearly 60 years. Detained June 5, 2025. Died several weeks later after reporting chest pains.",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://prismreports.org/2025/05/07/florida-immigrant-detention-krome/"
+    },
+    {
+      "incident_id": "MND-2025-007",
+      "date": "2025-08-05",
+      "victim_name": "Chaofeng Ge",
+      "age": 32,
+      "nationality": "China",
+      "facility_name": "Moshannon Valley Processing Center",
+      "facility_location": "Philipsburg, PA",
+      "medical_condition": "Suicide - inadequate mental health care",
+      "outcome": "Death by suicide",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.americanimmigrationcouncil.org/blog/trump-deadlier-for-ice-detainees-than-covid-19-pandemic/"
+    },
+    {
+      "incident_id": "MND-2025-008",
+      "date": "2025-08-31",
+      "victim_name": "Lorenzo Antonio Batrez Vargas",
+      "age": 32,
+      "nationality": "Mexico",
+      "facility_name": "Central Arizona Correctional Complex",
+      "facility_location": "Florence, AZ",
+      "medical_condition": "Unknown - died at Mountain Vista Medical Center",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "MND-2025-009",
+      "date": "2025-09-08",
+      "victim_name": "Oscar Rascon Duarte",
+      "age": 58,
+      "nationality": "Mexico",
+      "facility_name": "Eloy Detention Center",
+      "facility_location": "Eloy, AZ",
+      "medical_condition": "Unknown - died at Banner Desert Medical Center",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "MND-2025-010",
+      "date": "2025-09-22",
+      "victim_name": "Ismael Ayala-Uribe",
+      "age": 39,
+      "nationality": "Mexico",
+      "facility_name": "Adelanto ICE Processing Center",
+      "facility_location": "Victorville, CA",
+      "medical_condition": "Severe rectal/anal pain (10/10), vomiting, sweating, abnormal heart rhythm - denied adequate treatment",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Former DACA recipient, lived in US since age 4. Arrested August 17, 2025. Nurses noted '10 out of 10 pain' on Sept 18. Only given pain reliever and fiber. Became unresponsive Sept 22 and died.",
+      "source_url": "https://calmatters.org/commentary/2025/12/ice-health-scares-for-detained/"
+    },
+    {
+      "incident_id": "MND-2025-011",
+      "date": "2025-09-29",
+      "victim_name": "Huabing Xie",
+      "age": "Unknown",
+      "nationality": "China",
+      "facility_name": "Unknown",
+      "facility_location": "Unknown",
+      "medical_condition": "Apparent seizure",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "23rd person officially reported to have died in custody in FY2025",
+      "source_url": "https://www.npr.org/2025/10/23/nx-s1-5538090/ice-detention-custody-immigration-arrest-enforcement-dhs-trump"
+    },
+    {
+      "incident_id": "MND-2025-012",
+      "date": "2025-10-11",
+      "victim_name": "Hasan Ali Moh'D Saleh",
+      "age": "Unknown",
+      "nationality": "Lawful Permanent Resident",
+      "facility_name": "Krome Service Processing Center",
+      "facility_location": "Miami, FL",
+      "medical_condition": "Fever - inadequate medical response",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Arrested September 14, 2025. Transported to Larkin Community Hospital October 10 due to fever. Dead the next day.",
+      "source_url": "https://www.healthlawpolicy.org/2025/11/02/a-crisis-of-accountability-medical-neglect-and-preventable-deaths-in-immigration-detention/"
+    },
+    {
+      "incident_id": "MND-2025-013",
+      "date": "2025-12-02",
+      "victim_name": "Francisco Gaspar-Andres",
+      "age": 48,
+      "nationality": "Guatemala",
+      "facility_name": "Camp East Montana",
+      "facility_location": "Fort Bliss, El Paso, TX",
+      "medical_condition": "Complications of liver disease",
+      "outcome": "Death (natural causes per autopsy)",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://kvia.com/news/border/2026/01/21/camp-east-montana-detainee-dies-at-el-paso-hospital-of-natural-causes-ice-says/"
+    },
+    {
+      "incident_id": "MND-2025-014",
+      "date": "2025-12-05",
+      "victim_name": "Pete Sumalo Montejo",
+      "age": 72,
+      "nationality": "Philippines",
+      "facility_name": "Montgomery Processing Center",
+      "facility_location": "Conroe, TX",
+      "medical_condition": "Not specified",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "MND-2025-015",
+      "date": "2025-12-06",
+      "victim_name": "Shiraz Fatehali Sachwani",
+      "age": 48,
+      "nationality": "Pakistan",
+      "facility_name": "Prairieland Detention Facility",
+      "facility_location": "Alvarado, TX",
+      "medical_condition": "Not specified",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "MND-2025-016",
+      "date": "2025-12-12",
+      "victim_name": "Jean Wilson Brutus",
+      "age": 41,
+      "nationality": "Haiti",
+      "facility_name": "Delaney Hall Detention Facility",
+      "facility_location": "Newark, NJ",
+      "medical_condition": "Not specified",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "MND-2025-017",
+      "date": "2025-12-15",
+      "victim_name": "Nenko Gantchev",
+      "age": 56,
+      "nationality": "Bulgaria",
+      "facility_name": "North Lake Correctional Facility",
+      "facility_location": "Baldwin, MI",
+      "medical_condition": "Not specified - investigation demanded",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Lived in Chicago for 30 years. Fourth death in four-day period in December 2025.",
+      "source_url": "https://abc7chicago.com/post/bulgarian-chicago-business-owner-nenko-gantchev-dies-ice-custody-family-congresswoman-call-immediate-investigation/18301520/"
+    }
+  ],
+  "suicides_mental_health_deaths": [
+    {
+      "incident_id": "SUI-2025-001",
+      "date": "2025-04-00",
+      "victim_name": "Brayan Rayo-Garzon",
+      "age": 27,
+      "nationality": "Unknown",
+      "facility_name": "Unknown",
+      "facility_location": "Unknown",
+      "medical_condition": "Mental health - suicide",
+      "outcome": "Death by hanging",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Found unresponsive with blanket wrapped around neck. Mental health appointment rescheduled twice during his two-week detention.",
+      "source_url": "https://psychiatryonline.org/doi/10.1176/appi.ps.20250342"
+    },
+    {
+      "incident_id": "SUI-2025-002",
+      "date": "2025-06-07",
+      "victim_name": "Jesus Molina-Veya",
+      "age": 45,
+      "nationality": "Mexico",
+      "facility_name": "Stewart Detention Center",
+      "facility_location": "Lumpkin, GA",
+      "medical_condition": "Mental health - apparent suicide",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Found unresponsive in cell. Died at Phoebe Sumter Hospital.",
+      "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "incident_id": "SUI-2025-003",
+      "date": "2025-08-05",
+      "victim_name": "Chaofeng Ge",
+      "age": 32,
+      "nationality": "China",
+      "facility_name": "Moshannon Valley Processing Center",
+      "facility_location": "Philipsburg, PA",
+      "medical_condition": "Mental health - suicide",
+      "outcome": "Death by suicide",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "source_url": "https://www.americanimmigrationcouncil.org/blog/trump-deadlier-for-ice-detainees-than-covid-19-pandemic/"
+    },
+    {
+      "incident_id": "SUI-2025-004",
+      "date": "2025-09-00",
+      "victim_name": "Unknown",
+      "age": 26,
+      "nationality": "Unknown",
+      "facility_name": "Torrance County Detention Facility",
+      "facility_location": "Torrance County, NM",
+      "medical_condition": "Mental health - suicide attempt",
+      "outcome": "Survived (attempted hanging)",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Spent more than six months detained by ICE before suicide attempt.",
+      "source_url": "https://innovationlawlab.org/torrance-county-detention-facility-timeline"
+    },
+    {
+      "incident_id": "SUI-2026-001",
+      "date": "2026-01-14",
+      "victim_name": "Victor Manuel Diaz",
+      "age": 36,
+      "nationality": "Nicaragua",
+      "facility_name": "Camp East Montana",
+      "facility_location": "Fort Bliss, El Paso, TX",
+      "medical_condition": "Mental health - presumed suicide",
+      "outcome": "Death",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Found unresponsive in room. Detained during Minneapolis immigration crackdown. Third death at Camp East Montana.",
+      "source_url": "https://elpasomatters.org/2026/01/18/third-death-suicide-ice-custody-camp-east-montana-el-paso-texas-fort-bliss/"
+    }
+  ],
+  "homicide_deaths": [
+    {
+      "incident_id": "HOM-2026-001",
+      "date": "2026-01-03",
+      "victim_name": "Geraldo Lunas Campos",
+      "age": 55,
+      "nationality": "Cuba",
+      "facility_name": "Camp East Montana",
+      "facility_location": "Fort Bliss, El Paso, TX",
+      "medical_condition": "Asphyxia due to neck and torso compression",
+      "outcome": "Death (ruled homicide)",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "Father of four. Held in solitary confinement. Autopsy showed signs of struggle: abrasions on chest and knees, hemorrhages on neck. Witnesses saw him become unresponsive while being physically restrained by law enforcement. ICE claims he was attempting suicide.",
+      "source_url": "https://www.pbs.org/newshour/nation/cuban-immigrant-in-ice-custody-died-of-homicide-due-to-asphyxia-autopsy-finds"
+    }
+  ],
+  "hunger_strikes": [
+    {
+      "incident_id": "HS-2025-001",
+      "date": "2025-08-06",
+      "victim_name": "Pedro Lorenzo Concepción",
+      "age": 44,
+      "nationality": "Cuba",
+      "facility_name": "Everglades Detention Facility ('Alligator Alcatraz')",
+      "facility_location": "Everglades, FL",
+      "medical_condition": "Hunger strike - over 14 days without food",
+      "outcome": "Transferred to another facility (retaliation)",
+      "affected_count": 1,
+      "incident_scale": "individual",
+      "notes": "First detained July 2025 at routine ICE appointment. Transferred from 'Alligator Alcatraz' in retaliation for peaceful protest.",
+      "source_url": "https://www.democracynow.org/2025/8/6/headlines/cuban_immigrant_on_hunger_strike_for_over_14_days_to_protest_his_detention_at_ice_jails"
+    },
+    {
+      "incident_id": "HS-2024-001",
+      "date": "2024-06-00",
+      "victim_name": "Multiple detainees",
+      "age": "Various",
+      "nationality": "Various",
+      "facility_name": "Multiple facilities (at least 5)",
+      "facility_location": "Various",
+      "medical_condition": "Hunger strikes protesting conditions",
+      "outcome": "Various - some faced solitary confinement, pepper spray, threats",
+      "affected_count": "hundreds",
+      "incident_scale": "mass",
+      "notes": "ICE responded with threats, physical force, pepper spray, non-lethal bullets, and solitary confinement.",
+      "source_url": "https://immigrantjustice.org/research/policy-brief-snapshot-of-ice-detention-inhumane-conditions-and-alarming-expansion/"
+    }
+  ],
+  "disease_outbreaks": [
+    {
+      "incident_id": "TB-2025-001",
+      "date": "2025-07-00",
+      "facility_name": "Northwest ICE Processing Center",
+      "facility_location": "Tacoma, WA",
+      "disease": "Tuberculosis",
+      "affected_count": 7,
+      "incident_scale": "facility",
+      "outcome": "Hospitalizations, spread to other facilities",
+      "notes": "Linked to detainee transfers between Washington and Alaska. One detainee started RIPE treatment July 4, 2025.",
+      "source_url": "https://washingtonstatestandard.com/2025/08/06/suspected-tuberculosis-cases-reported-at-tacoma-immigrant-detention-center/"
+    },
+    {
+      "incident_id": "TB-2025-002",
+      "date": "2025-01-00",
+      "facility_name": "Eloy Detention Center",
+      "facility_location": "Eloy, AZ",
+      "disease": "Tuberculosis",
+      "affected_count": "multiple",
+      "incident_scale": "facility",
+      "outcome": "At least one death (Serawit Dejene)",
+      "notes": "Ethiopian detainee Serawit Dejene died January 28, 2025 after contracting TB.",
+      "source_url": "https://www.esquire.com/news-politics/politics/a65861955/tuberculosis-ice-detention-centers/"
+    },
+    {
+      "incident_id": "TB-2025-003",
+      "date": "2025-00-00",
+      "facility_name": "Adelanto ICE Processing Center",
+      "facility_location": "Adelanto, CA",
+      "disease": "Tuberculosis",
+      "affected_count": "multiple",
+      "incident_scale": "facility",
+      "outcome": "Positive cases confirmed",
+      "source_url": "https://www.esquire.com/news-politics/politics/a65861955/tuberculosis-ice-detention-centers/"
+    },
+    {
+      "incident_id": "TB-2025-004",
+      "date": "2025-00-00",
+      "facility_name": "Anchorage Correctional Complex",
+      "facility_location": "Anchorage, AK",
+      "disease": "Tuberculosis",
+      "affected_count": "multiple",
+      "incident_scale": "facility",
+      "outcome": "Positive cases confirmed",
+      "source_url": "https://www.adn.com/alaska-news/crime-courts/2025/07/09/former-alaska-ice-detainee-now-hospitalized-with-tuberculosis-in-washington-attorney-says/"
+    },
+    {
+      "incident_id": "FLU-2025-001",
+      "date": "2025-12-00",
+      "facility_name": "Denver Contract Detention Facility",
+      "facility_location": "Aurora, CO",
+      "disease": "Influenza and gastrointestinal illness",
+      "affected_count": "multiple",
+      "incident_scale": "facility",
+      "outcome": "Health department investigation",
+      "notes": "Adams County Health Department received multiple reports of gastrointestinal and respiratory illness.",
+      "source_url": "https://news.cgtn.com/news/2026-01-22/Sickness-spreads-as-U-S-immigration-detention-health-crisis-worsens-1K8RGPWC3BK/p.html"
+    },
+    {
+      "incident_id": "SCAB-2025-001",
+      "date": "2025-12-00",
+      "facility_name": "Golden State Annex Facility",
+      "facility_location": "McFarland, CA",
+      "disease": "Scabies",
+      "affected_count": "multiple",
+      "incident_scale": "facility",
+      "outcome": "Kern County Public Health Department response",
+      "source_url": "https://news.cgtn.com/news/2026-01-22/Sickness-spreads-as-U-S-immigration-detention-health-crisis-worsens-1K8RGPWC3BK/p.html"
+    }
+  ],
+  "solitary_confinement_incidents": [
+    {
+      "incident_id": "SOL-2025-001",
+      "date_range": "2025-02 to 2025-08",
+      "description": "Record spike in solitary confinement under Trump administration",
+      "facility_name": "ICE detention facilities nationwide",
+      "facility_location": "United States",
+      "affected_count": 10000,
+      "incident_scale": "systemic",
+      "outcome": "Over 10,000 people placed in solitary over 14 months up to May 2025",
+      "notes": "6.5% monthly increase Feb-March 2025, six times higher than Biden administration rate. August 2025: 1,151 detainees held in isolation for at least one day - highest ever recorded.",
+      "source_url": "https://www.icij.org/news/2025/09/solitary-confinement-in-ice-detention-spiked-during-early-months-of-the-trump-administration-report-finds/"
+    },
+    {
+      "incident_id": "SOL-2025-002",
+      "date_range": "2025-01 to 2025-03",
+      "description": "Vulnerable populations in prolonged solitary",
+      "facility_name": "ICE detention facilities nationwide",
+      "facility_location": "United States",
+      "affected_count": "multiple",
+      "incident_scale": "systemic",
+      "outcome": "Vulnerable individuals held more than twice as long compared to 2022",
+      "notes": "People with disabilities, mental health conditions, or at risk due to sexual orientation/gender identity disproportionately affected. 56% increase in vulnerable individuals in solitary compared to FY2022.",
+      "source_url": "https://phr.org/our-work/resources/cruelty-campaign-solitary-confinement-in-u-s-immigration-detention/"
+    },
+    {
+      "incident_id": "SOL-2025-003",
+      "date": "2025-00-00",
+      "description": "Retaliatory solitary confinement",
+      "facility_name": "Various facilities",
+      "facility_location": "United States",
+      "affected_count": "multiple",
+      "incident_scale": "systemic",
+      "outcome": "Detention used as punishment for grievances",
+      "notes": "Segregation used to retaliate against detainees for filing grievances, sharing food, or requesting basic necessities like showers.",
+      "source_url": "https://cronkitenews.azpbs.org/2025/11/10/as-solitary-confinement-surges-in-ice-detention-centers-oversight-weakens-and-concerns-mount/"
+    }
+  ],
+  "facility_inspection_failures": [
+    {
+      "incident_id": "INS-2025-001",
+      "date_range": "2025",
+      "description": "36% decline in facility inspections nationwide",
+      "facility_name": "ICE detention facilities nationwide",
+      "facility_location": "United States",
+      "affected_count": 68400,
+      "incident_scale": "systemic",
+      "outcome": "Reduced oversight during record detention numbers",
+      "notes": "Inspections declined 36.25% even as deaths surged to highest level since 2004.",
+      "source_url": "https://www.pogo.org/investigates/ice-inspections-plummeted-as-detentions-soared-in-2025"
+    },
+    {
+      "incident_id": "INS-2025-002",
+      "date": "2025-08-00",
+      "description": "First 50 days violations",
+      "facility_name": "Camp East Montana",
+      "facility_location": "Fort Bliss, El Paso, TX",
+      "affected_count": 5000,
+      "incident_scale": "facility",
+      "outcome": "Violated at least 60 federal standards",
+      "violations_found": [
+        "Physical abuse",
+        "Sexual abuse",
+        "Medical neglect",
+        "Hunger and insufficient food",
+        "Denial of meaningful access to counsel",
+        "Reports of guards crushing detainees' testicles as punishment"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Camp_East_Montana"
+    },
+    {
+      "incident_id": "INS-2025-003",
+      "date": "2025-00-00",
+      "description": "No inspection reports published",
+      "facility_name": "Everglades Detention Facility ('Alligator Alcatraz')",
+      "facility_location": "Everglades, FL",
+      "affected_count": "unknown",
+      "incident_scale": "facility",
+      "outcome": "Zero oversight documentation for entire year",
+      "source_url": "https://www.pogo.org/investigates/ice-inspections-plummeted-as-detentions-soared-in-2025"
+    },
+    {
+      "incident_id": "INS-2025-004",
+      "date": "2025-00-00",
+      "description": "Medical care and standards violations",
+      "facility_name": "Krome North Service Processing Center",
+      "facility_location": "Miami, FL",
+      "affected_count": "multiple",
+      "incident_scale": "facility",
+      "outcome": "5 medical care violations, 14 total violations",
+      "violations_found": [
+        "Overcrowding - people sleeping on floors",
+        "No bedding or pillows",
+        "Failed to offer food to those held over 6 hours",
+        "Overflowing toilets",
+        "Lack of shower access",
+        "Constant illumination",
+        "Broken air conditioning",
+        "Prolonged arbitrary solitary confinement"
+      ],
+      "source_url": "https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-krome-en-florida/"
+    },
+    {
+      "incident_id": "INS-2025-005",
+      "date": "2025-10-00",
+      "description": "Sewage flooding",
+      "facility_name": "Torrance County Detention Facility",
+      "facility_location": "Torrance County, NM",
+      "affected_count": "hundreds",
+      "incident_scale": "facility",
+      "outcome": "Urgent alert submitted to ICE",
+      "notes": "Innovation Law Lab submitted urgent alert regarding widespread sewage flooding.",
+      "source_url": "https://innovationlawlab.org/torrance-county-detention-facility-timeline"
+    },
+    {
+      "incident_id": "INS-2025-006",
+      "date": "2025-00-00",
+      "description": "Various inspection violations",
+      "facility_name": "Multiple facilities",
+      "facility_location": "United States",
+      "affected_count": "thousands",
+      "incident_scale": "systemic",
+      "violations_found": [
+        "Staff not properly monitoring people at suicide risk",
+        "Medical staff not responding to care requests",
+        "Medical staff lacking sufficient training and credentials",
+        "Failure to report suspected active tuberculosis patients",
+        "Insufficient toilets for detainee population"
+      ],
+      "source_url": "https://www.pogo.org/investigates/ice-inspections-plummeted-as-detentions-soared-in-2025"
+    }
+  ],
+  "oversight_office_decimation": {
+    "office_civil_rights_civil_liberties": {
+      "staff_before": 150,
+      "staff_after": 22,
+      "reduction_percentage": 85.3
+    },
+    "office_immigration_detention_ombudsman": {
+      "staff_before": 110,
+      "staff_after": 10,
+      "reduction_percentage": 90.9
+    },
+    "notes": "Trump administration decimated DHS oversight offices that would handle complaints about mistreatment.",
+    "source_url": "https://cronkitenews.azpbs.org/2025/11/10/as-solitary-confinement-surges-in-ice-detention-centers-oversight-weakens-and-concerns-mount/"
+  },
+  "congressional_and_international_response": {
+    "un_response": {
+      "date": "2026-01-23",
+      "official": "UN High Commissioner for Human Rights",
+      "statement": "Raised alarm over growing dehumanisation of migrants in the United States, warning that current immigration enforcement practices are undermining due process, family unity and basic human dignity.",
+      "source_url": "https://www.un.org/en/un-rights-chief-decries-us-treatment-migrants-deaths-ice-custody-rise"
+    },
+    "congressional_actions": [
+      {
+        "date": "2026-01-00",
+        "action": "Democrats demand documents from DHS Secretary Kristi Noem",
+        "details": "Letter sent demanding accountability after 53 deaths in ICE or CBP custody under her watch.",
+        "source_url": "https://walkinshaw.house.gov/news/documentsingle.aspx?DocumentID=273"
+      },
+      {
+        "date": "2025-12-23",
+        "action": "Congressional investigation into North Lake death",
+        "representatives": ["Haley Stevens", "Hillary Scholten"],
+        "source_url": "https://michiganadvance.com/2025/12/23/lawmakers-seek-answers-after-detainee-dies-in-ice-custody-in-michigan/"
+      },
+      {
+        "date": "2025-10-24",
+        "action": "Senator Ossoff report on medical neglect",
+        "details": "510 credible reports of human rights abuse received or identified since January 20, 2025.",
+        "source_url": "https://www.ossoff.senate.gov/wp-content/uploads/2025/10/25.10.24_Sen.-Ossoff-Medical-Neglect-Denial-of-Adequate-Food-or-Water-in-U.S.-Immigration-Detention.pdf"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "WOLA Border Update",
+      "url": "https://www.wola.org/2026/01/u-s-mexico-border-update-detention-deaths-dhs-appropriations-ice-warrants-december-data/"
+    },
+    {
+      "name": "United Nations News",
+      "url": "https://www.un.org/en/un-rights-chief-decries-us-treatment-migrants-deaths-ice-custody-rise"
+    },
+    {
+      "name": "Wikipedia - List of deaths in ICE detention",
+      "url": "https://en.wikipedia.org/wiki/List_of_deaths_in_ICE_detention"
+    },
+    {
+      "name": "Project On Government Oversight",
+      "url": "https://www.pogo.org/investigates/ice-inspections-plummeted-as-detentions-soared-in-2025"
+    },
+    {
+      "name": "American Immigration Council",
+      "url": "https://www.americanimmigrationcouncil.org/blog/trump-deadlier-for-ice-detainees-than-covid-19-pandemic/"
+    },
+    {
+      "name": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/nation/cuban-immigrant-in-ice-custody-died-of-homicide-due-to-asphyxia-autopsy-finds"
+    },
+    {
+      "name": "NPR",
+      "url": "https://www.npr.org/2025/10/23/nx-s1-5538090/ice-detention-custody-immigration-arrest-enforcement-dhs-trump"
+    },
+    {
+      "name": "Physicians for Human Rights",
+      "url": "https://phr.org/our-work/resources/cruelty-campaign-solitary-confinement-in-u-s-immigration-detention/"
+    },
+    {
+      "name": "ICIJ",
+      "url": "https://www.icij.org/news/2025/09/solitary-confinement-in-ice-detention-spiked-during-early-months-of-the-trump-administration-report-finds/"
+    },
+    {
+      "name": "AILA Deaths Database",
+      "url": "https://www.aila.org/library/deaths-at-adult-detention-centers"
+    },
+    {
+      "name": "Human Rights Watch",
+      "url": "https://www.hrw.org/report/2025/07/21/you-feel-like-your-life-is-over/abusive-practices-at-three-florida-immigration"
+    },
+    {
+      "name": "Amnesty International",
+      "url": "https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-krome-en-florida/"
+    },
+    {
+      "name": "National Immigrant Justice Center",
+      "url": "https://immigrantjustice.org/research/policy-brief-snapshot-of-ice-detention-inhumane-conditions-and-alarming-expansion/"
+    },
+    {
+      "name": "Democracy Now!",
+      "url": "https://www.democracynow.org/2025/8/6/headlines/cuban_immigrant_on_hunger_strike_for_over_14_days_to_protest_his_detention_at_ice_jails"
+    },
+    {
+      "name": "El Paso Matters",
+      "url": "https://elpasomatters.org/2026/01/18/third-death-suicide-ice-custody-camp-east-montana-el-paso-texas-fort-bliss/"
+    }
+  ]
+}
