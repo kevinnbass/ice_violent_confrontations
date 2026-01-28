@@ -4,7 +4,7 @@ An analysis of violent confrontations between ICE/CBP agents and non-immigrants 
 
 ## Key Finding: Extreme Geographic Concentration
 
-**The top 9 counties account for 63% of all violent confrontations with non-immigrants nationwide.**
+**The top 8 counties account for 64% of all violent confrontations with non-immigrants nationwide.**
 
 ![Non-Immigrant Incidents Map](non_immigrant_combined.png)
 
@@ -12,33 +12,32 @@ An analysis of violent confrontations between ICE/CBP agents and non-immigrants 
 
 | Metric | Value |
 |--------|-------|
-| Total non-immigrant incidents | 174 |
-| Incidents in top 9 counties | 110 (63%) |
-| Incidents in remaining 3,134 counties | 64 (37%) |
-| Counties with 4+ incidents | 9 |
-| **Per-county likelihood ratio** | **590x** |
+| Total non-immigrant incidents | 171 |
+| Incidents in top 8 counties | 105 (64%) |
+| Incidents in remaining 3,135 counties | 66 (36%) |
+| Counties with 4+ incidents | 8 |
+| **Per-county likelihood ratio** | **623x** |
 
-A violent confrontation with a non-immigrant is **590 times more likely** in the top 9 counties than in any of the other 3,134 US counties.
+A violent confrontation with a non-immigrant is **623 times more likely** in the top 8 counties than in any of the other 3,135 US counties.
 
-### Top 9 Counties (4+ incidents each)
+### Top 8 Counties (4+ incidents each)
 
 | Rank | County | City | Incidents | Mayor |
 |------|--------|------|-----------|-------|
-| 1 | Cook County, IL | Chicago | 28 | Brandon Johnson |
-| 2 | Los Angeles County, CA | Los Angeles | 25 | Karen Bass |
-| 3 | Hennepin County, MN | Minneapolis | 21 | Jacob Frey |
-| 4 | New York County, NY | New York City | 12 | Zohran Mamdani |
-| 5 | Multnomah County, OR | Portland | 6 | Keith Wilson |
-| 6 | San Francisco County, CA | San Francisco | 6 | Daniel Lurie |
+| 1 | Cook County, IL | Chicago | 29 | Brandon Johnson |
+| 2 | Los Angeles County, CA | Los Angeles | 22 | Karen Bass |
+| 3 | Hennepin County, MN | Minneapolis | 20 | Jacob Frey |
+| 4 | New York County, NY | New York City | 13 | Zohran Mamdani |
+| 5 | San Francisco County, CA | San Francisco | 7 | Daniel Lurie |
+| 6 | Multnomah County, OR | Portland | 6 | Keith Wilson |
 | 7 | King County, WA | Seattle | 4 | Katie Wilson |
 | 8 | Essex County, NJ | Newark | 4 | Ras Baraka |
-| 9 | Denver County, CO | Denver | 4 | Mike Johnston |
 
-**All 9 counties are in jurisdictions with sanctuary policies that limit cooperation with federal immigration enforcement.**
+**All 8 counties are in jurisdictions with sanctuary policies that limit cooperation with federal immigration enforcement.**
 
 ### Full Distribution Map
 
-For transparency, here is the complete map showing all 174 incidents across 53 counties:
+For transparency, here is the complete map showing all 171 incidents across 53 counties:
 
 ![Full Incident Map](non_immigrant_incident_map_county.png)
 
@@ -61,26 +60,26 @@ The MPI data uses a methodology that imputes unauthorized status from U.S. Censu
 
 ### Key Finding: Minneapolis is a Massive Outlier
 
-**Minneapolis has a violent confrontation rate 114x higher than the combined rate of 3,135 other US counties.**
+**Minneapolis has a violent confrontation rate 87x higher than the combined rate of 3,135 other US counties.**
 
 | City | County | Incidents | Illegal Alien Pop (2023) | Rate per 100k |
 |------|--------|-----------|--------------------------|---------------|
 | Minneapolis | Hennepin County, MN | 20 | 34,000 | **58.8** |
 | Portland | Multnomah County, OR | 6 | 33,000 | 18.2 |
 | San Francisco | San Francisco County, CA | 7 | 42,000 | 16.7 |
-| Chicago | Cook County, IL | 29 | 369,000 | 7.9 |
+| Chicago | Cook County, IL | 29 | 369,000 | 7.6 |
 | Newark | Essex County, NJ | 4 | 68,000 | 5.9 |
 | Seattle | King County, WA | 4 | 124,000 | 3.2 |
 | New York City | 5 boroughs combined | 13 | 571,000 | 2.3 |
-| Los Angeles | Los Angeles County, CA | 22 | 1,101,000 | 2.0 |
-| **All other counties** | 3,135 counties | 59 | 11,346,000 | **0.5** |
+| Los Angeles | Los Angeles County, CA | 22 | 1,101,000 | 2.2 |
+| **All other counties** | 3,135 counties | 59 | 11,346,000 | **0.67** |
 
 ### What This Reveals
 
 1. **Los Angeles drops from #2 to #8** when adjusted for population - its 1.1 million illegal aliens absorbs the raw incident count
 2. **Minneapolis jumps to #1** despite having fewer raw incidents than Chicago or LA - its small illegal alien population (34,000) means each incident has outsized impact
 3. **NYC has the lowest rate** among top counties - 571,000 illegal aliens but only 13 incidents
-4. **The 114x multiplier** means Minneapolis has over 100 times the confrontation rate of the average US county
+4. **The 87x multiplier** means Minneapolis has over 80 times the confrontation rate of the average US county
 
 ### Methodology Note
 
@@ -108,7 +107,7 @@ All data is available in JSON format for full reproducibility:
 | [`data/methodology.json`](data/methodology.json) | Full methodology documentation | - |
 | [`data/reference/sanctuary_jurisdictions.json`](data/reference/sanctuary_jurisdictions.json) | Jurisdiction classifications | - |
 
-**Total: 400 documented incidents** (174 involving non-immigrants)
+**Total: 400 documented incidents** (171 involving non-immigrants)
 
 ---
 
@@ -287,7 +286,7 @@ python scripts/generate_county_map_filtered.py
 python scripts/generate_pie_charts.py
 ```
 
-### Calculate the 590x Ratio
+### Calculate the 623x Ratio
 
 ```python
 import json
@@ -316,18 +315,18 @@ for filepath in files:
                 county = get_county(inc['city'], inc['state'])
                 county_counts[county] += 1
 
-# Top 9 counties (4+ incidents)
-top9 = [c for c, n in county_counts.most_common() if n >= 4]
-top9_total = sum(county_counts[c] for c in top9)
-remaining = sum(county_counts.values()) - top9_total
+# Top 8 counties (4+ incidents)
+top8 = [c for c, n in county_counts.most_common() if n >= 4]
+top8_total = sum(county_counts[c] for c in top8)
+remaining = sum(county_counts.values()) - top8_total
 
 # Calculate ratio
 TOTAL_US_COUNTIES = 3143
-top9_rate = top9_total / len(top9)  # 110/9 = 12.22
-other_rate = remaining / (TOTAL_US_COUNTIES - len(top9))  # 64/3134 = 0.0204
-ratio = top9_rate / other_rate  # 599x
+top8_rate = top8_total / len(top8)  # 105/8 = 13.125
+other_rate = remaining / (TOTAL_US_COUNTIES - len(top8))  # 66/3135 = 0.0211
+ratio = top8_rate / other_rate  # 623x
 
-print(f"Ratio: {ratio:.0f}x more likely in top 9 counties")
+print(f"Ratio: {ratio:.0f}x more likely in top 8 counties")
 ```
 
 ---
@@ -351,22 +350,33 @@ See [`data/methodology.json`](data/methodology.json) for complete methodology do
 ```
 ice_arrests/
 ├── data/
-│   ├── incidents/
+│   ├── incidents/           # Core incident data (Tiers 1-4)
 │   │   ├── tier1_deaths_in_custody.json
 │   │   ├── tier2_shootings.json
 │   │   ├── tier2_less_lethal.json
 │   │   ├── tier3_incidents.json
 │   │   └── tier4_incidents.json
-│   ├── reference/
+│   ├── reference/           # Reference data
 │   │   └── sanctuary_jurisdictions.json
-│   ├── state_classifications.json
-│   └── methodology.json
-├── scripts/
+│   ├── sources/             # Archived source articles
+│   ├── methodology.json
+│   └── state_classifications.json
+├── scripts/                 # Generation and verification scripts
 │   ├── generate_county_map.py
 │   ├── generate_county_map_filtered.py
-│   └── generate_pie_charts.py
+│   ├── generate_pie_charts.py
+│   ├── generate_population_adjusted_chart.py
+│   ├── generate_combined_figure.py
+│   └── robust_verify.py     # Source verification
+├── analysis/                # Auxiliary analysis scripts and reports
+├── outputs/                 # Generated figures and data exports
+│   ├── figures/
+│   └── data/
+├── assets/                  # Images (headshots, etc.)
+├── archive/                 # Deprecated files
 ├── non_immigrant_combined.png
 ├── non_immigrant_incident_map_county.png
+├── ice_confrontations_adjusted_by_population.png
 └── README.md
 ```
 
