@@ -44,6 +44,56 @@ For transparency, here is the complete map showing all 174 incidents across 53 c
 
 ---
 
+## Figure 3: Population-Adjusted Analysis
+
+Raw incident counts can be misleading because they don't account for differences in the underlying population at risk. This figure adjusts for the **illegal alien population** in each county to show the rate of violent confrontations per 100,000 illegal aliens.
+
+![Population-Adjusted Confrontations](ice_confrontations_adjusted_by_population.png)
+
+### Data Sources
+
+| Data | Source | Year | Notes |
+|------|--------|------|-------|
+| Incident counts | This repository (Tiers 1-4) | 2025-2026 | Non-immigrant violent confrontations |
+| Illegal alien population | [Migration Policy Institute](https://www.migrationpolicy.org/programs/us-immigration-policy-program-data-hub/unauthorized-immigrant-population-profiles) | Mid-2023 | County-level estimates for 287 counties |
+
+The MPI data uses a methodology that imputes unauthorized status from U.S. Census Bureau data (pooled 2019-2023 American Community Survey), weighted to 2023 population estimates from Penn State demographer Jennifer Van Hook.
+
+### Key Finding: Minneapolis is a Massive Outlier
+
+**Minneapolis has a violent confrontation rate 114x higher than the combined rate of 3,135 other US counties.**
+
+| City | County | Incidents | Illegal Alien Pop (2023) | Rate per 100k |
+|------|--------|-----------|--------------------------|---------------|
+| Minneapolis | Hennepin County, MN | 20 | 34,000 | **58.8** |
+| Portland | Multnomah County, OR | 6 | 33,000 | 18.2 |
+| San Francisco | San Francisco County, CA | 7 | 42,000 | 16.7 |
+| Chicago | Cook County, IL | 29 | 369,000 | 7.9 |
+| Newark | Essex County, NJ | 4 | 68,000 | 5.9 |
+| Seattle | King County, WA | 4 | 124,000 | 3.2 |
+| New York City | 5 boroughs combined | 13 | 571,000 | 2.3 |
+| Los Angeles | Los Angeles County, CA | 22 | 1,101,000 | 2.0 |
+| **All other counties** | 3,135 counties | 59 | 11,346,000 | **0.5** |
+
+### What This Reveals
+
+1. **Los Angeles drops from #2 to #8** when adjusted for population - its 1.1 million illegal aliens absorbs the raw incident count
+2. **Minneapolis jumps to #1** despite having fewer raw incidents than Chicago or LA - its small illegal alien population (34,000) means each incident has outsized impact
+3. **NYC has the lowest rate** among top counties - 571,000 illegal aliens but only 13 incidents
+4. **The 114x multiplier** means Minneapolis has over 100 times the confrontation rate of the average US county
+
+### Methodology Note
+
+The illegal alien population estimates are from **mid-2023**, while incident data covers **2025-2026**. Population shifts (including from enforcement actions like Minneapolis's "Operation Metro Surge") may have occurred between these periods. The MPI data covers 287 counties; for "All Other Counties," we use the national total (13.74 million) minus the sum of the 8 displayed counties.
+
+### Generate This Figure
+
+```bash
+python scripts/generate_population_adjusted_chart.py
+```
+
+---
+
 ## Data Files
 
 All data is available in JSON format for full reproducibility:
