@@ -1,0 +1,19 @@
+{
+  "entry_id": "T4-082",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.wfae.org/race-equity/2025-06-27/ice-30-detained-as-agents-raid-kings-mountain-factory",
+      "final_url": "https://www.wfae.org/race-equity/2025-06-27/ice-30-detained-as-agents-raid-kings-mountain-factory",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 228935,
+      "content_hash": "eef2bfa410837f70b47a56f0eb13fde3e977bf78da778a396dd25eac29f24e74",
+      "title": "ICE: 30 detained as agents raid Kings Mountain factory | WFAE 90.7 - Charlotte's NPR News Source",
+      "fetched_at": "2026-01-27T16:28:00.688003",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-082\\article.txt"
+    }
+  ]
+}

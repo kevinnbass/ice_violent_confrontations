@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-116",
+  "url": "https://www.mprnews.org/story/2026/01/21/ice-detains-5year-old-minnesota-boy-lawyer-says-agents-used-him-as-bait",
+  "final_url": "https://www.mprnews.org/story/2026/01/21/ice-detains-5year-old-minnesota-boy-lawyer-says-agents-used-him-as-bait",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "c5e9691e5717681f5a47a119ac37f99bc27e755a7c9978c596980d5d1b4ef811",
+  "title": "ICE detains 5-year-old Minnesota boy; school leader says agents used him as \u2018bait\u2019 | MPR News",
+  "fetched_at": "2026-01-27T14:49:54.560745",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260126055009/https://www.mprnews.org/story/2026/01/21/ice-detains-5year-old-minnesota-boy-lawyer-says-agents-used-him-as-bait",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.pbs.org/newshour/nation/federal-officers-detain-5-year-old-boy-who-a-minnesota-school-official-says-was-used-as-bait",
+      "final_url": "https://www.pbs.org/newshour/nation/federal-officers-detain-5-year-old-boy-who-a-minnesota-school-official-says-was-used-as-bait",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 284044,
+      "content_hash": "44c9b010d3eef31fd2c2242a75c50403dd5f819575e1acf21bc8dd0d65ed4e8d",
+      "title": "Federal officers detain 5-year-old boy who a Minnesota school official says was used as 'bait' | PBS News",
+      "fetched_at": "2026-01-27T16:28:02.723291",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-116\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.aljazeera.com/news/2026/1/23/us-officers-detain-5-year-old-boy-as-minnesota-immigration-raids-continue",
+      "final_url": "https://www.aljazeera.com/news/2026/1/23/us-officers-detain-5-year-old-boy-as-minnesota-immigration-raids-continue",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 205283,
+      "content_hash": "6957fe4726f6b69a680aea8d4ddbdda1a6f3619d97750e57a8e582c276788fd6",
+      "title": "US officers detain 5-year-old boy as Minnesota immigration raids continue | Migration News | Al Jazeera",
+      "fetched_at": "2026-01-27T16:28:24.202638",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-116\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://bringmethenews.com/minnesota-news/ice-detains-4-columbia-heights-students-including-5-and-10-year-olds-sent-to-texas",
+      "final_url": "https://bringmethenews.com/minnesota-news/ice-detains-4-columbia-heights-students-including-5-and-10-year-olds-sent-to-texas",
+      "status_code": 403,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 781,
+      "content_hash": "3ca6b5e35eee83e7140812a0bfb2cb4b75dec61676cc630b50bf510ecc269276",
+      "title": "ICE detains 4 Columbia Heights students, including 5- and 10-year-olds sent to Texas - Bring Me The News",
+      "fetched_at": "2026-01-27T16:30:45.244476",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260123110942/https://bringmethenews.com/minnesota-news/ice-detains-4-columbia-heights-students-including-5-and-10-year-olds-sent-to-texas",
+      "archive_path": "data\\sources\\T3-116\\article_3_wayback.txt"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "archive_fetch": {
+    "method": "google_cache",
+    "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.nydailynews.com%2F2025%2F09%2F02%2Fice-arrests-cancer-patient-chemotherapy-bronx-hospital%2F",
+    "fetched_at": "2026-01-27T01:26:08.254160",
+    "content_length": 84877
+  },
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://blockclubchicago.org/2025/10/22/local-leaders-demand-release-of-father-of-lake-view-cancer-patient-detained-by-ice/",
+      "final_url": "https://blockclubchicago.org/2025/10/22/local-leaders-demand-release-of-father-of-lake-view-cancer-patient-detained-by-ice/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 364643,
+      "content_hash": "4a8c3787bd6f9e8b306572597d55651da96feff1ea7f9d8b8e308dd25d804e87",
+      "title": "ICE Arrest Of Teen Cancer Patient's Dad 'Unconscionable,' Officials Say While Demanding His Release",
+      "fetched_at": "2026-01-27T16:27:43.418762",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-120\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://blockclubchicago.org/2025/10/30/judge-orders-release-of-cancer-patients-father-arrested-by-ice-citing-no-criminal-record/",
+      "final_url": "https://blockclubchicago.org/2025/10/30/judge-orders-release-of-cancer-patients-father-arrested-by-ice-citing-no-criminal-record/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 370684,
+      "content_hash": "33b5b1a0beb55b550c6ec4d3381bea1613ae22d423f1e1e5ffa15e75bb05d486",
+      "title": "Judge Orders Release Of Cancer Patient's Father Arrested By ICE, Citing No Criminal Record",
+      "fetched_at": "2026-01-27T16:28:19.842318",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-120\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.salon.com/2025/07/14/cried-every-night-ice-traumatizes-a-child-with-leukemia/",
+      "final_url": "https://www.salon.com/2025/07/14/cried-every-night-ice-traumatizes-a-child-with-leukemia/",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 72344,
+      "content_hash": "67f1be48dda506cd88645ee062a2076cce8e6b55173fde88be58dab7d5fab6ef",
+      "title": "\"Cried every night\": ICE detains child with leukemia - Salon.com",
+      "fetched_at": "2026-01-27T16:28:53.369582",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-120\\article_2.txt"
+    }
+  ]
+}

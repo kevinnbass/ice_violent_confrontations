@@ -1,0 +1,43 @@
+{
+  "entry_id": "T3-188",
+  "url": "https://brazilreports.com/brazil-protests-inhumane-deportations-under-trump/6811/",
+  "final_url": "https://brazilreports.com/brazil-protests-inhumane-deportations-under-trump/6811/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "141fd435113fd0dd3fc78fe849fb16c26d19cd81531e759089107d2246e21eef",
+  "title": "Brazil protests \u2018inhumane\u2019 deportations under Trump - Brazil Reports",
+  "fetched_at": "2026-01-27T14:46:30.640558",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251206083921/https://brazilreports.com/brazil-protests-inhumane-deportations-under-trump/6811/",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.bloomberg.com/news/articles/2025-02-01/airline-at-center-of-brazil-fiasco-key-to-trump-s-deportations",
+      "final_url": "https://www.bloomberg.com/news/articles/2025-02-01/airline-at-center-of-brazil-fiasco-key-to-trump-s-deportations",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 339857,
+      "content_hash": "1a026241cbf557e38c4e66a3c16710e638adbb3b421aee92e6800bbcd704b9c4",
+      "title": "Global X Air (JET) Is at Center of Brazil Fiasco Key to Trump\u2019s Deportations - Bloomberg",
+      "fetched_at": "2026-01-27T16:27:56.585238",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-188\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://dnyuz.com/2025/01/28/inside-a-chaotic-u-s-deportation-flight-to-brazil/",
+      "final_url": "https://dnyuz.com/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 162119,
+      "content_hash": "b6c53531e958f2bd394954e436ce114db8f2650ecd9e9f889f62d2ba68a375df",
+      "title": "DNYUZ",
+      "fetched_at": "2026-01-27T16:28:30.010952",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-188\\article_2.txt"
+    }
+  ]
+}

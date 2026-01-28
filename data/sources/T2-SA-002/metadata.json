@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-SA-002",
+  "url": "https://www.npr.org/2025/09/24/nx-s1-5552151/ice-dallas-detention-facility-shooting",
+  "final_url": "https://www.npr.org/2025/09/24/nx-s1-5552151/ice-dallas-detention-facility-shooting",
+  "status_code": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "content_length": 93843,
+  "content_hash": "5b6aaed286cc07dfafdc1a97f4876dea1e4f4c86ed236868bd12307645628c1e",
+  "title": "Dallas ICE detention facility: shooting kills 1 detainee : NPR",
+  "fetched_at": "2026-01-27T14:45:35.275133",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.npr.org/2025/09/24/nx-s1-5552151/ice-dallas-detention-facility-shooting",
+      "final_url": "https://www.npr.org/2025/09/24/nx-s1-5552151/ice-dallas-detention-facility-shooting",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 93869,
+      "content_hash": "352ab4cd48f3edf4e067cf8ca06f5d86b83743c846430df07b6195b31d7bc73d",
+      "title": "Dallas ICE detention facility: shooting kills 1 detainee : NPR",
+      "fetched_at": "2026-01-27T16:27:47.482055",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-SA-002\\article.txt"
+    }
+  ]
+}

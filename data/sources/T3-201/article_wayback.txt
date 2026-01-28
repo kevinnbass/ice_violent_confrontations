@@ -1,0 +1,51 @@
+Title: As ICE Courthouse Arrests Continue, Few Immigration Courts Resist Pushing Cases Into Expedited Removal
+
+The American Immigration Council is a non-profit, non-partisan organization. Sign up to receive our latest analysis as soon as it's published.
+
+Immigration courthouse arrests and dismissals have become a cornerstone of the Trump administration’s mass deportation plan. Since May 20, U.S. Immigration and Customs Enforcement (ICE) attorneys have been asking immigration judges to dismiss noncitizens’ immigration court cases to funnel them into expedited removal—a faster deportation process with fewer due process protections. National trends show that immigration judges are largely acquiescing to this plan by granting ICE’s requests on the spot.
+
+
+
+But new data analysis shows considerable variation by location: some immigration courts are resisting this new deportation tactic and others rubber-stamping these motions to dismiss.
+
+What is a Motion to Dismiss?
+
+A motion to dismiss is a request made by a noncitizen, their attorney, or the government to end the noncitizen’s removal proceeding. Like other motions in immigration court, these requests are usually filed in writing, absent permission otherwise, and court procedures typically allow 10 days for the other party to respond.
+
+New ICE Dismissal Policy
+
+On May 20, ICE ordered its prosecutors to make oral motions to dismiss noncitizens’ immigration cases so it could instead seek to deport them through expedited removal. A few days later, the Executive Office for Immigration Review—which oversees immigration courts—advised immigration judges to grant these oral motions.
+
+Based on data obtained through the Freedom of Information Act (FOIA), ICE oral motions to dismiss increased by 633% on May 20 and immigration judges largely granted them on the spot. Between May 20 to July 28, 2025:
+
+80.6% of motions were oral ,showing ICE’s deviation from immigration court procedures requiring written motions.
+
+,showing ICE’s deviation from immigration court procedures requiring written motions. 86.5% of oral motions were adjudicated the same day , depriving noncitizens of their 10 days to respond to ICE’s dismissal requests.
+
+, depriving noncitizens of their 10 days to respond to ICE’s dismissal requests. 79.6% of oral motions adjudicated the same day were granted, allowing ICE to place individuals whose cases were dismissed into expedited removal.
+
+However, a court-by-court analysis demonstrates drastic differences in adjudication outcomes by location.
+
+Different Courts Have Different Outcomes: Comparing New York, Los Angeles, and Atlanta
+
+New York City’s Federal Plaza Immigration Court has been the epicenter of media coverage for immigration courthouse arrests. Elected officials and other demonstrators have been arrested by Department of Homeland Security agents for protesting ICE courthouse arrests.
+
+But Federal Plaza has been one of the least hostile jurisdictions for noncitizens as it relates to motions to dismiss—its immigration judges have generally refused to dismiss noncitizens cases. ICE filed 268 oral motions to dismiss at Federal Plaza between May 20 to July 28, 2025, but immigration judges granted only 77 on the spot.
+
+By contrast, Van Nuys Immigration Court in Los Angeles, California and Atlanta W. Peachtree Immigration Court in Atlanta, Georgia—both of which had far less media coverage but received a similar number of ICE oral motions to dismiss as New York Federal Plaza—generally favored ICE in their adjudication of these motions.
+
+At Van Nuys, ICE filed 217 oral motions to dismiss, 215 of which immigration judges granted immediately. Similarly, at Atlanta W. Peachtree Immigration Court, ICE filed 193 oral motions to dismiss, every one of which was granted by an immigration judge on the spot. Judges in these venues were far more likely to overstep immigration court procedures and pave the way for ICE to deport noncitizens through expedited removal.
+
+Where Immigration Hearings Take Place Drastically Affects the Outcome of Motions to Dismiss
+
+The immigration court responsible for a noncitizen’s immigration case has a drastic effect on the outcome of a motion to dismiss. If the case is dismissed, the noncitizen is likely to face expedited removal. If the motion is denied, they have the chance to seek asylum or other relief from deportation. The table below lists the adjudication outcomes for immigration courts with the highest number of oral motions filed between May 20 to July 28, 2025.
+
+
+
+Immigration judges in particular courts are granting oral motions to dismiss on the spot at higher rates than others. While this practice does not appear to be uniform nationwide, it nonetheless violates due process. It deprives noncitizens of their 10-day period to respond to ICE’s dismissal request and funnels them into expedited removal process. For many, this outcome forecloses any chance to get their day in court.
+
+Comment on Data Analysis
+
+The Council received a spreadsheet with 6,616 rows—each an entry for a motion to dismiss filed between May 1, 2025, and July 28, 2025. Variables included the date the motion to dismiss was filed, the date the motion to dismiss was completed, the filing method (oral or written), decision (grant, deny, withdraw, or other), and the hearing location code.
+
+The dataset had a total of 206 distinct location codes, many of which are not listed in the publicly available data dictionary. To identify the immigration court corresponding to each location code, the Council consulted several researchers and former EOIR employees. These consultations failed to identify the immigration court for 11 location codes listed in 70 motions to dismiss. Thus, our data analysis excludes these 70 motions.

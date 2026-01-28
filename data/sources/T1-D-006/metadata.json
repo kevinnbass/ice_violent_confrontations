@@ -1,0 +1,13 @@
+{
+  "entry_id": "T1-D-006",
+  "url": "https://www.ice.gov/detain/detainee-death-reporting",
+  "final_url": "https://www.ice.gov/detain/detainee-death-reporting",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 131391,
+  "content_hash": "f3538b816b51d5520f4b9d931bc09809c02cee1d2b277d5e5120f16ccf51a0ff",
+  "title": "Detainee Death Reporting | ICE",
+  "fetched_at": "2026-01-27T14:45:51.122113",
+  "from_wayback": false,
+  "wayback_url": null
+}

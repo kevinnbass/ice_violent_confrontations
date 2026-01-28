@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-153",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.thecity.nyc/2025/09/17/ice-overcrowding-conditions-judge-injunction-26-federal-plaza/",
+      "final_url": "https://www.thecity.nyc/2025/09/17/ice-overcrowding-conditions-judge-injunction-26-federal-plaza/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 268520,
+      "content_hash": "5960515ad09101ec6d56d4a04ecce1d707710bdd69f271989c828002d53965be",
+      "title": "Judge Slams ICE for Overcrowding and Inhumane Conditions at 26 Federal Plaza Lockup | THE CITY \u2014 NYC News",
+      "fetched_at": "2026-01-27T16:28:31.995809",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-153\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://abcnews.go.com/US/judge-orders-ice-improve-conditions-detainees-nyc-holding/story?id=125678387",
+      "final_url": "https://abcnews.go.com/US/judge-orders-ice-improve-conditions-detainees-nyc-holding/story?id=125678387",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 176243,
+      "content_hash": "0a0debdbe84b602a2d0e50c9ac415a7c191da4abfb8ea39c79ac46838b94c771",
+      "title": "Judge orders ICE to improve conditions for detainees at NYC holding facility - ABC News",
+      "fetched_at": "2026-01-27T16:28:57.250095",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-153\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.aclu.org/press-releases/groups-sue-trump-administration-over-lack-of-access-to-counsel-and-inhumane-conditions-for-people-held-at-federal-building-in-new-york",
+      "final_url": "https://www.aclu.org/press-releases/groups-sue-trump-administration-over-lack-of-access-to-counsel-and-inhumane-conditions-for-people-held-at-federal-building-in-new-york",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 43306,
+      "content_hash": "7cacb04e90ab8d60ecffaa60c098b8de7e0f660f370091b819dc0c626976390e",
+      "title": "Groups Sue Trump Administration Over Lack of Access to Counsel and Inhumane Conditions for People Held at Federal Building in New York | American Civil Liberties Union",
+      "fetched_at": "2026-01-27T16:19:26.984841",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-153\\article_3.txt"
+    }
+  ]
+}

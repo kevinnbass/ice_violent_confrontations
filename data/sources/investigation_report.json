@@ -1,0 +1,2857 @@
+{
+  "investigation_date": "2026-01-27T02:30:19.957062",
+  "summary": {
+    "no_match_entries": {
+      "total": 43,
+      "root_causes": {
+        "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident": 43
+      }
+    },
+    "fabricated_entries": {
+      "total": 20,
+      "determinations": {
+        "LIKELY_FABRICATED": 18,
+        "POSSIBLY_LEGITIMATE": 1,
+        "SUSPICIOUS": 1
+      }
+    }
+  },
+  "no_match_analyses": [
+    {
+      "id": "T1-D-008",
+      "source_url": "https://www.ice.gov/doclib/foia/reports/ddrAbelardoAvellenedaDelgado.pdf",
+      "fetch_method": "google_cache",
+      "content_length": 84706,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Abelardo Avelleneda-Delgado",
+        "date": "2025-05-05",
+        "city": "Valdosta",
+        "state": "Georgia",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "source_name": "ICE Detainee Death Report PDF"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Abelardo Avelleneda-Delgado",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Valdosta",
+          "state": "Georgia",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-05-05",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Abelardo Avelleneda-Delgado' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Valdosta' not found in article",
+        "STATE_NOT_FOUND: 'Georgia' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-05-05' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T1-D-009",
+      "source_url": "https://www.ice.gov/doclib/foia/reports/ddrJesusMolinaVeya.pdf",
+      "fetch_method": "google_cache",
+      "content_length": 84793,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Jesus Molina-Veya",
+        "date": "2025-06-07",
+        "city": "Lumpkin",
+        "state": "Georgia",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "source_name": "ICE Detainee Death Report PDF"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Jesus Molina-Veya",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Lumpkin",
+          "state": "Georgia",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-07",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Jesus Molina-Veya' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Lumpkin' not found in article",
+        "STATE_NOT_FOUND: 'Georgia' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-07' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T1-D-011",
+      "source_url": "https://www.ice.gov/doclib/foia/reports/ddrPEREZIsidro.pdf",
+      "fetch_method": "google_cache",
+      "content_length": 84930,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Isidro Perez",
+        "date": "2025-06-26",
+        "city": "Miami",
+        "state": "Florida",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "source_name": "ICE Detainee Death Report PDF"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Isidro Perez",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Miami",
+          "state": "Florida",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-26",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Isidro Perez' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Miami' not found in article",
+        "STATE_NOT_FOUND: 'Florida' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-26' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T1-D-013",
+      "source_url": "https://www.ice.gov/doclib/foia/reports/ddrChaofengGe.pdf",
+      "fetch_method": "google_cache",
+      "content_length": 84930,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Chaofeng Ge",
+        "date": "2025-08-05",
+        "city": "Philipsburg",
+        "state": "Pennsylvania",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "source_name": "ICE Detainee Death Report PDF"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Chaofeng Ge",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Philipsburg",
+          "state": "Pennsylvania",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-08-05",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Chaofeng Ge' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Philipsburg' not found in article",
+        "STATE_NOT_FOUND: 'Pennsylvania' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-08-05' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T1-S-001",
+      "source_url": "https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good",
+      "fetch_method": "google_cache",
+      "content_length": 85059,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Renee Nicole Good",
+        "date": "2026-01-07",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "incident_type": "shooting_by_agent",
+        "outcome": "death",
+        "source_name": "Multiple sources / Official"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Renee Nicole Good",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2026-01-07",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Renee Nicole Good' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Minneapolis' not found in article",
+        "STATE_NOT_FOUND: 'Minnesota' not found in article",
+        "DATE_NOT_FOUND: No date matching '2026-01-07' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T1-D-051",
+      "source_url": "https://mississippitoday.org/2025/12/22/nicaraguan-dead-after-detention-in-mississippi-ice-facility/",
+      "fetch_method": "google_cache",
+      "content_length": 84818,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Delvin Francisco Rodriguez",
+        "date": "2025-12-14",
+        "city": "Natchez",
+        "state": "Mississippi",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "source_name": "Mississippi Today"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Delvin Francisco Rodriguez",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Natchez",
+          "state": "Mississippi",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-12-14",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Delvin Francisco Rodriguez' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Natchez' not found in article",
+        "STATE_NOT_FOUND: 'Mississippi' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-12-14' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T1-D-055",
+      "source_url": "https://en.wikipedia.org/wiki/Deportation_in_the_second_Trump_administration",
+      "fetch_method": "google_cache",
+      "content_length": 84984,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Parady La",
+        "date": "2026-01-15",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "source_name": "Wikipedia/News reports"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Parady La",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2026-01-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Parady La' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Philadelphia' not found in article",
+        "STATE_NOT_FOUND: 'Pennsylvania' not found in article",
+        "DATE_NOT_FOUND: No date matching '2026-01-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T1-D-056",
+      "source_url": "https://en.wikipedia.org/wiki/Deportation_in_the_second_Trump_administration",
+      "fetch_method": "google_cache",
+      "content_length": 84675,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Cuban man (unnamed)",
+        "date": "2026-01-03",
+        "city": "Camp East Montana",
+        "state": "Montana",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "source_name": "Wikipedia/News reports"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Cuban man (unnamed)",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Camp East Montana",
+          "state": "Montana",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2026-01-03",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Cuban man (unnamed)' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Camp East Montana' not found in article",
+        "STATE_NOT_FOUND: 'Montana' not found in article",
+        "DATE_NOT_FOUND: No date matching '2026-01-03' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T1-D-060",
+      "source_url": "https://stevens.house.gov/sites/evo-subsites/stevens.house.gov/files/evo-media-document/2025-1223-ltr-to-dhs-and-ice-re-north-lake-detainee-death-signed.pdf",
+      "fetch_method": "google_cache",
+      "content_length": 85199,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Jean Wilson Brutus",
+        "date": "2025-12-12",
+        "city": "Newark",
+        "state": "New Jersey",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "source_name": "Congressional Letter to DHS"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Jean Wilson Brutus",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Newark",
+          "state": "New Jersey",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-12-12",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Jean Wilson Brutus' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Newark' not found in article",
+        "STATE_NOT_FOUND: 'New Jersey' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-12-12' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T2-WD-018",
+      "source_url": "https://thedailyrecord.com/2025/12/26/maryland-born-woman-ice-deportation-citizenship-dispute/",
+      "fetch_method": "google_cache",
+      "content_length": 84985,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Dulce Consuelo Diaz Morales",
+        "date": "2025-12-13",
+        "city": "Laurel",
+        "state": "Maryland",
+        "incident_type": "wrongful_detention",
+        "outcome": "released",
+        "source_name": "Daily Record / CBS Baltimore"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Dulce Consuelo Diaz Morales",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Laurel",
+          "state": "Maryland",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-12-13",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Dulce Consuelo Diaz Morales' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Laurel' not found in article",
+        "STATE_NOT_FOUND: 'Maryland' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-12-13' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-028",
+      "source_url": "https://www.kosu.org/local-news/2025-10-01/oklahoma-troopers-arrest-more-than-100-people-in-3-day-immigration-blitz",
+      "fetch_method": "google_cache",
+      "content_length": 85338,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-09-25",
+        "city": "I-40 (Beckham County)",
+        "state": "Oklahoma",
+        "incident_type": "mass_raid",
+        "outcome": "120 detained",
+        "source_name": "KOSU"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "I-40 (Beckham County)",
+          "state": "Oklahoma",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-09-25",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'I-40 (Beckham County)' not found in article",
+        "STATE_NOT_FOUND: 'Oklahoma' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-09-25' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-044",
+      "source_url": "https://en.wikipedia.org/wiki/Operation_Midway_Blitz",
+      "fetch_method": "google_cache",
+      "content_length": 85251,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-09-09",
+        "city": "Chicago (metro)",
+        "state": "Illinois",
+        "incident_type": "mass_raid",
+        "outcome": "3200 detained",
+        "source_name": "Wikipedia / multiple sources"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "Chicago (metro)",
+          "state": "Illinois",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-09-09",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'Chicago (metro)' not found in article",
+        "STATE_NOT_FOUND: 'Illinois' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-09-09' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-045",
+      "source_url": "https://news.wttw.com/2025/11/14/protesters-arrested-officers-injured-clash-outside-broadview-ice-facility",
+      "fetch_method": "google_cache",
+      "content_length": 85201,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Multiple protesters",
+        "date": "2025-11-14",
+        "city": "Broadview",
+        "state": "Illinois",
+        "incident_type": "less_lethal",
+        "outcome": "21 arrests, 4 officers injured",
+        "source_name": "WTTW"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Multiple protesters",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Broadview",
+          "state": "Illinois",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-11-14",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Multiple protesters' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Broadview' not found in article",
+        "STATE_NOT_FOUND: 'Illinois' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-11-14' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-046",
+      "source_url": "https://whyy.org/articles/philadelphia-ice-protest-arrests-raids/",
+      "fetch_method": "google_cache",
+      "content_length": 85281,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Multiple protesters",
+        "date": "2025-06-10",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "incident_type": "less_lethal",
+        "outcome": "15 arrests, multiple injuries",
+        "source_name": "WHYY"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Multiple protesters",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-10",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Multiple protesters' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Philadelphia' not found in article",
+        "STATE_NOT_FOUND: 'Pennsylvania' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-10' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-050",
+      "source_url": "https://marylandmatters.org/2025/06/12/ice-raids-baltimore-protest-casa/",
+      "fetch_method": "google_cache",
+      "content_length": 85492,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "N/A - peaceful protest",
+        "date": "2025-06-11",
+        "city": "Baltimore (Highlandtown)",
+        "state": "Maryland",
+        "incident_type": "physical_force",
+        "outcome": "peaceful rally completed, no arrests or force used",
+        "source_name": "Maryland Matters"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "N/A - peaceful protest",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Baltimore (Highlandtown)",
+          "state": "Maryland",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-11",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'N/A - peaceful protest' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Baltimore (Highlandtown)' not found in article",
+        "STATE_NOT_FOUND: 'Maryland' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-11' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-051",
+      "source_url": "https://newjerseymonitor.com/2025/01/24/n-j-leaders-slam-ice-raid-in-newark-as-chilling-cruel/",
+      "fetch_method": "google_cache",
+      "content_length": 85292,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "US citizen military veteran and others",
+        "date": "2025-01-23",
+        "city": "Newark",
+        "state": "New Jersey",
+        "incident_type": "wrongful_detention",
+        "outcome": "detained then released",
+        "source_name": "New Jersey Monitor"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "US citizen military veteran and others",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Newark",
+          "state": "New Jersey",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-01-23",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'US citizen military veteran and others' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Newark' not found in article",
+        "STATE_NOT_FOUND: 'New Jersey' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-01-23' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-052",
+      "source_url": "https://en.wikipedia.org/wiki/Newark_immigration_detention_center_incident",
+      "fetch_method": "google_cache",
+      "content_length": 85355,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Mayor Ras Baraka + Rep. LaMonica McIver",
+        "date": "2025-05-09",
+        "city": "Newark (Delaney Hall)",
+        "state": "New Jersey",
+        "incident_type": "physical_force",
+        "outcome": "Mayor arrested, Rep indicted",
+        "source_name": "Wikipedia / PBS / CNN"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Mayor Ras Baraka + Rep. LaMonica McIver",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Newark (Delaney Hall)",
+          "state": "New Jersey",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-05-09",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Mayor Ras Baraka + Rep. LaMonica McIver' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Newark (Delaney Hall)' not found in article",
+        "STATE_NOT_FOUND: 'New Jersey' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-05-09' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P003",
+      "source_url": "https://lapublicpress.org/2025/06/ice-police-protest-lapd-lasd-tear-gas/",
+      "fetch_method": "google_cache",
+      "content_length": 85221,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Marshall Woodruff",
+        "date": "2025-06-14",
+        "city": "Los Angeles",
+        "state": "California",
+        "incident_type": "less_lethal",
+        "outcome": "serious injury requiring surgery",
+        "source_name": "LA Public Press"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Marshall Woodruff",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-14",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Marshall Woodruff' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Los Angeles' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-14' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P004",
+      "source_url": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests",
+      "fetch_method": "google_cache",
+      "content_length": 85399,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Unnamed protester #1",
+        "date": "2025-06-07",
+        "city": "Paramount",
+        "state": "California",
+        "incident_type": "less_lethal",
+        "outcome": "injury",
+        "source_name": "Wikipedia"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Unnamed protester #1",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Paramount",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-07",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Unnamed protester #1' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Paramount' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-07' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P006",
+      "source_url": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests",
+      "fetch_method": "google_cache",
+      "content_length": 85227,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Unnamed protester #2",
+        "date": "2025-06-07",
+        "city": "Paramount",
+        "state": "California",
+        "incident_type": "less_lethal",
+        "outcome": "injury",
+        "source_name": "Wikipedia"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Unnamed protester #2",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Paramount",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-07",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Unnamed protester #2' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Paramount' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-07' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P009",
+      "source_url": "https://phr.org/news/federal-immigration-agents-misused-dangerous-crowd-control-weapons-against-journalists-and-protestors-in-los-angeles-new-phr-amicus-brief/",
+      "fetch_method": "google_cache",
+      "content_length": 85318,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Xinhua photojournalist",
+        "date": "2025-06-08",
+        "city": "Los Angeles",
+        "state": "California",
+        "incident_type": "less_lethal",
+        "outcome": "injury",
+        "source_name": "Physicians for Human Rights"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Xinhua photojournalist",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-08",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Xinhua photojournalist' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Los Angeles' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-08' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P011",
+      "source_url": "https://lapublicpress.org/2025/06/ice-police-protest-lapd-lasd-tear-gas/",
+      "fetch_method": "google_cache",
+      "content_length": 85088,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Ryanne Mena",
+        "date": "2025-06-14",
+        "city": "Los Angeles",
+        "state": "California",
+        "incident_type": "less_lethal",
+        "outcome": "concussion",
+        "source_name": "LA Public Press"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Ryanne Mena",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-14",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Ryanne Mena' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Los Angeles' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-14' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P014",
+      "source_url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+      "fetch_method": "google_cache",
+      "content_length": 85513,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "SF Officer #1",
+        "date": "2025-06-15",
+        "city": "San Francisco",
+        "state": "California",
+        "incident_type": "physical_force",
+        "outcome": "injury",
+        "source_name": "Organiser"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "SF Officer #1",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "San Francisco",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'SF Officer #1' not found anywhere in article",
+        "CITY_NOT_FOUND: 'San Francisco' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P015",
+      "source_url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+      "fetch_method": "google_cache",
+      "content_length": 85175,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "SF Officer #2",
+        "date": "2025-06-15",
+        "city": "San Francisco",
+        "state": "California",
+        "incident_type": "physical_force",
+        "outcome": "injury",
+        "source_name": "Organiser"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "SF Officer #2",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "San Francisco",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'SF Officer #2' not found anywhere in article",
+        "CITY_NOT_FOUND: 'San Francisco' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P016",
+      "source_url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+      "fetch_method": "google_cache",
+      "content_length": 85299,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "SF Protester #1 (female)",
+        "date": "2025-06-15",
+        "city": "San Francisco",
+        "state": "California",
+        "incident_type": "physical_force",
+        "outcome": "injury, arrested",
+        "source_name": "Organiser"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "SF Protester #1 (female)",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "San Francisco",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'SF Protester #1 (female)' not found anywhere in article",
+        "CITY_NOT_FOUND: 'San Francisco' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P017",
+      "source_url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+      "fetch_method": "google_cache",
+      "content_length": 85385,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "SF Protester #2 (female)",
+        "date": "2025-06-15",
+        "city": "San Francisco",
+        "state": "California",
+        "incident_type": "physical_force",
+        "outcome": "injury, arrested",
+        "source_name": "Organiser"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "SF Protester #2 (female)",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "San Francisco",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'SF Protester #2 (female)' not found anywhere in article",
+        "CITY_NOT_FOUND: 'San Francisco' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P019",
+      "source_url": "https://en.wikipedia.org/wiki/Protests_against_mass_deportation_during_the_second_Trump_administration",
+      "fetch_method": "google_cache",
+      "content_length": 85177,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-06-10",
+        "city": "New York (Foley Square)",
+        "state": "New York",
+        "incident_type": "physical_force",
+        "outcome": "86 arrests",
+        "source_name": "Wikipedia / multiple sources"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "New York (Foley Square)",
+          "state": "New York",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-10",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'New York (Foley Square)' not found in article",
+        "STATE_NOT_FOUND: 'New York' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-10' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P029",
+      "source_url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+      "fetch_method": "google_cache",
+      "content_length": 85460,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-06-15",
+        "city": "Denver (State Capitol)",
+        "state": "Colorado",
+        "incident_type": "physical_force",
+        "outcome": "1 detained, rocks/bottles thrown",
+        "source_name": "Organiser"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "Denver (State Capitol)",
+          "state": "Colorado",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-06-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'Denver (State Capitol)' not found in article",
+        "STATE_NOT_FOUND: 'Colorado' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-06-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P030",
+      "source_url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+      "fetch_method": "google_cache",
+      "content_length": 85397,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2026-01-25",
+        "city": "Aurora/Denver",
+        "state": "Colorado",
+        "incident_type": "physical_force",
+        "outcome": "peaceful march, no arrests",
+        "source_name": "Organiser"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "Aurora/Denver",
+          "state": "Colorado",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2026-01-25",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'Aurora/Denver' not found in article",
+        "STATE_NOT_FOUND: 'Colorado' not found in article",
+        "DATE_NOT_FOUND: No date matching '2026-01-25' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P033",
+      "source_url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+      "fetch_method": "google_cache",
+      "content_length": 85157,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "clergy members",
+        "date": "2026-01-15",
+        "city": "Minneapolis-St. Paul Airport",
+        "state": "Minnesota",
+        "incident_type": "physical_force",
+        "outcome": "~100 clergy arrested",
+        "source_name": "Multiple sources"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "clergy members",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Minneapolis-St. Paul Airport",
+          "state": "Minnesota",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2026-01-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'clergy members' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Minneapolis-St. Paul Airport' not found in article",
+        "STATE_NOT_FOUND: 'Minnesota' not found in article",
+        "DATE_NOT_FOUND: No date matching '2026-01-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P034",
+      "source_url": "https://www.latimes.com/california/story/2026-01-15/santa-ana-ice-protest-injury",
+      "fetch_method": "google_cache",
+      "content_length": 85341,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Kaden Rummler",
+        "date": "2026-01-09",
+        "city": "Santa Ana",
+        "state": "California",
+        "incident_type": "less_lethal",
+        "outcome": "permanently blinded in left eye",
+        "source_name": "LA Times"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Kaden Rummler",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Santa Ana",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2026-01-09",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Kaden Rummler' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Santa Ana' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2026-01-09' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P035",
+      "source_url": "https://www.startribune.com/minneapolis-ice-protest-tear-gas-infant/700298745/",
+      "fetch_method": "google_cache",
+      "content_length": 85509,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Jackson Family (6-month-old infant)",
+        "date": "2026-01-14",
+        "city": "Minneapolis",
+        "state": "Minnesota",
+        "incident_type": "less_lethal",
+        "outcome": "baby required CPR on scene",
+        "source_name": "Star Tribune"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Jackson Family (6-month-old infant)",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2026-01-14",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Jackson Family (6-month-old infant)' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Minneapolis' not found in article",
+        "STATE_NOT_FOUND: 'Minnesota' not found in article",
+        "DATE_NOT_FOUND: No date matching '2026-01-14' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P037",
+      "source_url": "https://chicago.suntimes.com/immigration/2025/09/19/broadview-ice-protest-pepper-balls-tear-gas",
+      "fetch_method": "google_cache",
+      "content_length": 85336,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Daniel Biss",
+        "date": "2025-09-19",
+        "city": "Broadview",
+        "state": "Illinois",
+        "incident_type": "less_lethal",
+        "outcome": "tear gassed during peaceful observation",
+        "source_name": "Chicago Sun-Times"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Daniel Biss",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Broadview",
+          "state": "Illinois",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-09-19",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Daniel Biss' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Broadview' not found in article",
+        "STATE_NOT_FOUND: 'Illinois' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-09-19' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P039",
+      "source_url": "https://chicago.suntimes.com/immigration/2025/09/19/broadview-ice-protest-pepper-balls-tear-gas",
+      "fetch_method": "google_cache",
+      "content_length": 85420,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Rossana Rodriguez-Sanchez",
+        "date": "2025-09-19",
+        "city": "Broadview",
+        "state": "Illinois",
+        "incident_type": "less_lethal",
+        "outcome": "struck by projectiles",
+        "source_name": "Chicago Sun-Times"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Rossana Rodriguez-Sanchez",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Broadview",
+          "state": "Illinois",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-09-19",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Rossana Rodriguez-Sanchez' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Broadview' not found in article",
+        "STATE_NOT_FOUND: 'Illinois' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-09-19' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P040",
+      "source_url": "https://chicago.suntimes.com/immigration/2025/09/19/broadview-ice-protest-pepper-balls-tear-gas",
+      "fetch_method": "google_cache",
+      "content_length": 85388,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Maria Hadden",
+        "date": "2025-09-19",
+        "city": "Broadview",
+        "state": "Illinois",
+        "incident_type": "less_lethal",
+        "outcome": "struck by projectiles",
+        "source_name": "Chicago Sun-Times"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Maria Hadden",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Broadview",
+          "state": "Illinois",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-09-19",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Maria Hadden' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Broadview' not found in article",
+        "STATE_NOT_FOUND: 'Illinois' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-09-19' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-060",
+      "source_url": "https://omaha.com/news/local/ice-raid-glenn-valley-foods-workers-detained/article",
+      "fetch_method": "google_cache",
+      "content_length": 85218,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-07-28",
+        "city": "Omaha (Glenn Valley Foods)",
+        "state": "Nebraska",
+        "incident_type": "mass_raid",
+        "outcome": "87 detained in meatpacking plant raid",
+        "source_name": "Omaha World-Herald"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "Omaha (Glenn Valley Foods)",
+          "state": "Nebraska",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-07-28",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'Omaha (Glenn Valley Foods)' not found in article",
+        "STATE_NOT_FOUND: 'Nebraska' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-07-28' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-061",
+      "source_url": "https://gothamist.com/news/ice-wrongfully-detained-us-citizen-monica-moreta-galarza",
+      "fetch_method": "google_cache",
+      "content_length": 85423,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Monica Moreta-Galarza",
+        "date": "2025-11-02",
+        "city": "New York (Manhattan)",
+        "state": "New York",
+        "incident_type": "wrongful_detention",
+        "outcome": "US citizen detained 48 hours, DACA recipient",
+        "source_name": "Gothamist"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Monica Moreta-Galarza",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "New York (Manhattan)",
+          "state": "New York",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-11-02",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Monica Moreta-Galarza' not found anywhere in article",
+        "CITY_NOT_FOUND: 'New York (Manhattan)' not found in article",
+        "STATE_NOT_FOUND: 'New York' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-11-02' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-062",
+      "source_url": "https://www.bakersfield.com/news/ice-raids-central-valley-farms/article",
+      "fetch_method": "google_cache",
+      "content_length": 85131,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-10-15",
+        "city": "Bakersfield",
+        "state": "California",
+        "incident_type": "mass_raid",
+        "outcome": "156 farmworkers detained across Central Valley",
+        "source_name": "Bakersfield Californian"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "Bakersfield",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-10-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'Bakersfield' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-10-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-063",
+      "source_url": "https://www.miamiherald.com/news/local/immigration/article",
+      "fetch_method": "google_cache",
+      "content_length": 85554,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-08-22",
+        "city": "Homestead",
+        "state": "Florida",
+        "incident_type": "mass_raid",
+        "outcome": "64 detained at agricultural facility",
+        "source_name": "Miami Herald"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "Homestead",
+          "state": "Florida",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-08-22",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'Homestead' not found in article",
+        "STATE_NOT_FOUND: 'Florida' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-08-22' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-064",
+      "source_url": "https://www.houstonchronicle.com/news/houston-texas/crime/article/ice-shooting-fatal-houston",
+      "fetch_method": "google_cache",
+      "content_length": 85371,
+      "confidence": 20.0,
+      "claimed_details": {
+        "victim_name": "Miguel Santos-Hernandez",
+        "date": "2025-09-05",
+        "city": "Houston",
+        "state": "Texas",
+        "incident_type": "shooting_by_agent",
+        "outcome": "death",
+        "source_name": "Houston Chronicle"
+      },
+      "verification_checks": {
+        "name": {
+          "expected": "Miguel Santos-Hernandez",
+          "found": false,
+          "method": null
+        },
+        "location": {
+          "city": "Houston",
+          "state": "Texas",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-09-05",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "NAME_NOT_FOUND: 'Miguel Santos-Hernandez' not found anywhere in article",
+        "CITY_NOT_FOUND: 'Houston' not found in article",
+        "STATE_NOT_FOUND: 'Texas' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-09-05' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "name_found": false,
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P042",
+      "source_url": "https://www.washingtonpost.com/dc-md-va/2025/12/09/capitol-ice-protest-arrests/",
+      "fetch_method": "google_cache",
+      "content_length": 85130,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-12-09",
+        "city": "Washington (Capitol)",
+        "state": "District of Columbia",
+        "incident_type": "physical_force",
+        "outcome": "89 arrested at Capitol sit-in",
+        "source_name": "Washington Post"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "Washington (Capitol)",
+          "state": "District of Columbia",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-12-09",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'Washington (Capitol)' not found in article",
+        "STATE_NOT_FOUND: 'District of Columbia' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-12-09' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P043",
+      "source_url": "https://gothamist.com/news/times-square-ice-protest-halloween-arrests",
+      "fetch_method": "google_cache",
+      "content_length": 85108,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-10-31",
+        "city": "New York (Times Square)",
+        "state": "New York",
+        "incident_type": "less_lethal",
+        "outcome": "34 arrested, multiple pepper sprayed",
+        "source_name": "Gothamist"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "New York (Times Square)",
+          "state": "New York",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2025-10-31",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'New York (Times Square)' not found in article",
+        "STATE_NOT_FOUND: 'New York' not found in article",
+        "DATE_NOT_FOUND: No date matching '2025-10-31' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    },
+    {
+      "id": "T3-P044",
+      "source_url": "https://www.latimes.com/california/story/2026-01-15/ice-protest-federal-building-mlk-day-arrests",
+      "fetch_method": "google_cache",
+      "content_length": 85141,
+      "confidence": 28.6,
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2026-01-15",
+        "city": "Los Angeles (Federal Building)",
+        "state": "California",
+        "incident_type": "physical_force",
+        "outcome": "127 arrested blocking federal building",
+        "source_name": "Los Angeles Times"
+      },
+      "verification_checks": {
+        "location": {
+          "city": "Los Angeles (Federal Building)",
+          "state": "California",
+          "city_found": false,
+          "state_found": false,
+          "found": false
+        },
+        "date": {
+          "expected": "2026-01-15",
+          "found": false
+        },
+        "keywords": {
+          "found": [],
+          "count": 0
+        }
+      },
+      "diagnosis": [
+        "CITY_NOT_FOUND: 'Los Angeles (Federal Building)' not found in article",
+        "STATE_NOT_FOUND: 'California' not found in article",
+        "DATE_NOT_FOUND: No date matching '2026-01-15' found",
+        "NO_ICE_KEYWORDS: Article doesn't appear to be about ICE at all"
+      ],
+      "article_preview": "Google Search Please click here if you are not redirected within a few seconds. If you're having trouble accessing Google Search, please&nbsp; click here , or send&nbsp; feedback .",
+      "evidence": {
+        "city_found": false,
+        "state_found": false,
+        "date_found": false,
+        "year_found": false,
+        "ice_keywords_found": []
+      },
+      "root_cause": "UNRELATED_CONTENT: URL returns content unrelated to the claimed incident"
+    }
+  ],
+  "fabricated_analyses": [
+    {
+      "id": "T2-SA-005",
+      "source_url": "https://www.lmtonline.com/news/article/ice-agent-shooting-laredo-pursuit-18456723.html",
+      "original_fabrication_reason": "URL returns 402 Payment Required, victim name not found in any news searches",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Carlos Eduardo Martinez-Luna",
+        "date": "2025-07-28",
+        "city": "Laredo",
+        "state": "Texas",
+        "incident_type": "shooting_by_agent",
+        "outcome": "Shot during foot pursuit near border, survived",
+        "original_file": "tier2_shootings.json"
+      },
+      "url_analysis": {},
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T2-SA-006",
+      "source_url": "https://www.sbsun.com/2025/09/17/ice-raid-shooting-san-bernardino-hospitalized/",
+      "original_fabrication_reason": "URL returns 404 Not Found, victim name not found in any news searches",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Miguel Angel Fuentes",
+        "date": "2025-09-14",
+        "city": "San Bernardino",
+        "state": "California",
+        "incident_type": "shooting_by_agent",
+        "outcome": "Shot during home raid, critical condition",
+        "original_file": "tier2_shootings.json"
+      },
+      "url_analysis": {
+        "pattern": "TRAILING_SLASH_ONLY",
+        "explanation": "URL appears to be a category/section page, not a specific article"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-056",
+      "source_url": "https://elpasotimes.com/story/news/immigration/us-citizen-detained-border",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL pattern typical of fabricated entries",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Roberto Galvan",
+        "date": "2025-03-14",
+        "city": "El Paso",
+        "state": "Texas",
+        "incident_type": "wrongful_detention",
+        "outcome": "US citizen detained 5 days at border",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-057",
+      "source_url": "https://www.charlotteobserver.com/news/local/crime/article-ice-raid-construction",
+      "original_fabrication_reason": "URL missing article ID - ends with generic slug instead of numeric identifier",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-04-08",
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "incident_type": "mass_raid",
+        "outcome": "28 detained at construction site",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_ARTICLE_URL",
+        "explanation": "Article URL missing numeric identifier"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-058",
+      "source_url": "https://www.tennessean.com/story/news/ice-arrest-taser-nashville",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL structure",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Carlos Mendez-Ortiz",
+        "date": "2025-05-19",
+        "city": "Nashville",
+        "state": "Tennessee",
+        "incident_type": "physical_force",
+        "outcome": "tased multiple times during arrest",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-059",
+      "source_url": "https://www.reviewjournal.com/local/local-las-vegas/ice-raid-casino-construction",
+      "original_fabrication_reason": "URL missing article ID - truncated URL pattern",
+      "verification_verdict": "verified",
+      "confidence": 71.4,
+      "fetch_method": "direct",
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-06-27",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "incident_type": "mass_raid",
+        "outcome": "45 detained at casino construction project",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "STANDARD",
+        "explanation": "URL structure appears normal"
+      },
+      "content_analysis": {
+        "has_content": true,
+        "content_length": 12134,
+        "preview": "Las Vegas News | Breaking News & Headlines | Las Vegas Review-Journal VIEW E-EDITION 99&cent; for 6 mos Support local journalism. Only 99&cent; for 6 months MANAGE ACTIVATE SIGN IN Hi SIGN OUT 43\u00b0F News Local Sports Business Neon Things to do Opinion Crime Obits 43\u00b0F Clear Las Vegas, NV Home Latest ...",
+        "ice_mentions": 13
+      },
+      "final_determination": "POSSIBLY_LEGITIMATE: Content matches claimed details",
+      "fabrication_evidence": "None - entry may have been incorrectly flagged"
+    },
+    {
+      "id": "T4-060",
+      "source_url": "https://www.desmoinesregister.com/story/news/ice-wrongful-detention-citizen",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL structure",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Jennifer Nguyen",
+        "date": "2025-08-03",
+        "city": "Des Moines",
+        "state": "Iowa",
+        "incident_type": "wrongful_detention",
+        "outcome": "US citizen detained at work, released after 8 hours",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-061",
+      "source_url": "https://www.oklahoman.com/story/news/ice-protest-pepper-spray-arrests",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL pattern",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-09-22",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "incident_type": "less_lethal",
+        "outcome": "15 arrested, pepper spray used on crowd",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-062",
+      "source_url": "https://www.freep.com/story/news/local/ice-citizen-detention-dearborn",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL structure",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Ahmad Hassan",
+        "date": "2025-10-11",
+        "city": "Detroit",
+        "state": "Michigan",
+        "incident_type": "wrongful_detention",
+        "outcome": "naturalized citizen detained 36 hours",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-063",
+      "source_url": "https://www.boston.com/news/local/state-rep-arrested-ice-protest",
+      "original_fabrication_reason": "URL returns 404 Not Found",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "State Rep. Mike Connolly",
+        "date": "2025-11-07",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "incident_type": "physical_force",
+        "outcome": "state legislator arrested blocking ICE van",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "STANDARD",
+        "explanation": "URL structure appears normal"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-064",
+      "source_url": "https://www.dispatch.com/story/news/ice-raid-food-distribution-columbus",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL structure",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-12-19",
+        "city": "Columbus",
+        "state": "Ohio",
+        "incident_type": "mass_raid",
+        "outcome": "33 detained at food distribution center",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-065",
+      "source_url": "https://www.abqjournal.com/news/border-patrol-shooting-albuquerque",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL pattern",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Juan Ramirez-Flores",
+        "date": "2026-01-08",
+        "city": "Albuquerque",
+        "state": "New Mexico",
+        "incident_type": "shooting_by_agent",
+        "outcome": "shot in leg during vehicle stop",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "STANDARD",
+        "explanation": "URL structure appears normal"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-066",
+      "source_url": "https://www.indystar.com/story/news/local/ice-raid-apartment-indianapolis",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL structure",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-02-17",
+        "city": "Indianapolis",
+        "state": "Indiana",
+        "incident_type": "mass_raid",
+        "outcome": "19 detained in apartment complex raid",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-067",
+      "source_url": "https://www.greenvilleonline.com/story/news/ice-church-pastor-assault",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL pattern",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Pastor Michael Thompson",
+        "date": "2025-04-30",
+        "city": "Greenville",
+        "state": "South Carolina",
+        "incident_type": "physical_force",
+        "outcome": "pastor pushed to ground during church detention",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T4-068",
+      "source_url": "https://www.sltrib.com/news/ice-wrongful-detention-july-fourth",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL pattern",
+      "verification_verdict": "weak_match",
+      "confidence": 35.0,
+      "fetch_method": "direct",
+      "claimed_details": {
+        "victim_name": "Maria Santos",
+        "date": "2025-07-03",
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "incident_type": "wrongful_detention",
+        "outcome": "US citizen detained during July 4th traffic stop",
+        "original_file": "tier4_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "STANDARD",
+        "explanation": "URL structure appears normal"
+      },
+      "content_analysis": {
+        "has_content": true,
+        "content_length": 1288,
+        "preview": "The Salt Lake Tribune - Utah News, Sports, Religion &amp; Entertainment CONNECT Facebook X Instagram YouTube RSS SUBSCRIPTIONS Subscribe to Print + Digital Subscribe to Digital Only Digital Access for Print Subscribers Email Newsletters Login to your Print Account Login to your Digital Account Subsc...",
+        "name_in_article": false,
+        "appears_generic": true,
+        "generic_indicators": [
+          "subscribe"
+        ],
+        "ice_mentions": 3
+      },
+      "final_determination": "SUSPICIOUS: Some keywords match but specific incident details missing",
+      "fabrication_evidence": "Article may be about ICE generally but not this specific incident"
+    },
+    {
+      "id": "T3-065",
+      "source_url": "https://www.azcentral.com/story/news/local/phoenix/ice-raids-apartment-complex/",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL pattern",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-11-18",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "incident_type": "mass_raid",
+        "outcome": "42 detained in apartment complex sweeps",
+        "original_file": "tier3_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_GANNETT_URL",
+        "explanation": "Gannett (USA Today network) URLs require numeric article IDs"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T3-066",
+      "source_url": "https://www.ajc.com/news/atlanta-news/us-citizen-veteran-detained-ice/",
+      "original_fabrication_reason": "URL returns 404 Not Found",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Marcus Williams",
+        "date": "2025-12-03",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "incident_type": "wrongful_detention",
+        "outcome": "US citizen detained 72 hours, sued DHS",
+        "original_file": "tier3_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "TRAILING_SLASH_ONLY",
+        "explanation": "URL appears to be a category/section page, not a specific article"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T3-067",
+      "source_url": "https://www.fresnobee.com/news/local/article-ice-raid-grape-facility",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL pattern",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": null,
+        "date": "2025-07-19",
+        "city": "Fresno",
+        "state": "California",
+        "incident_type": "mass_raid",
+        "outcome": "93 detained at grape processing facility",
+        "original_file": "tier3_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "INCOMPLETE_ARTICLE_URL",
+        "explanation": "Article URL missing numeric identifier"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T3-068",
+      "source_url": "https://www.denverpost.com/news/ice-pepper-spray-bystander-filming/",
+      "original_fabrication_reason": "URL returns 404 Not Found",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Sarah Chen",
+        "date": "2025-10-08",
+        "city": "Denver",
+        "state": "Colorado",
+        "incident_type": "physical_force",
+        "outcome": "bystander pepper sprayed while filming",
+        "original_file": "tier3_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "TRAILING_SLASH_ONLY",
+        "explanation": "URL appears to be a category/section page, not a specific article"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    },
+    {
+      "id": "T3-069",
+      "source_url": "https://www.seattletimes.com/seattle-news/ice-detainee-death-tacoma-medical-neglect/",
+      "original_fabrication_reason": "URL missing article ID - incomplete URL pattern",
+      "verification_verdict": "url_inaccessible",
+      "confidence": 0,
+      "fetch_method": "all_failed",
+      "claimed_details": {
+        "victim_name": "Yonas Mesfin",
+        "date": "2025-11-25",
+        "city": "Seattle",
+        "state": "Washington",
+        "incident_type": "death_in_custody",
+        "outcome": "death",
+        "original_file": "tier3_incidents.json"
+      },
+      "url_analysis": {
+        "pattern": "TRAILING_SLASH_ONLY",
+        "explanation": "URL appears to be a category/section page, not a specific article"
+      },
+      "content_analysis": {
+        "has_content": false,
+        "reason": "URL could not be fetched or returned empty content"
+      },
+      "final_determination": "LIKELY_FABRICATED: URL does not exist and cannot be found in any archive",
+      "fabrication_evidence": "URL is inaccessible via direct fetch, Wayback Machine, and Google Cache"
+    }
+  ]
+}

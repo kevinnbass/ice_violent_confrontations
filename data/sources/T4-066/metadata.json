@@ -1,0 +1,33 @@
+{
+  "entry_id": "T4-066",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.wrtv.com/news/local-news/protestors-at-indiana-statehouse-say-no-to-ice-in-response-to-gov-brauns-executive-order",
+      "final_url": "https://www.wrtv.com/news/local-news/protestors-at-indiana-statehouse-say-no-to-ice-in-response-to-gov-brauns-executive-order",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 254419,
+      "content_hash": "46f71a4e28072c06f22bc0ff6051999c9f1b21aad3e566254c2bbae73dd14d87",
+      "title": "Protestors at statehouse say 'no' to ICE following Gov. Braun's executive order",
+      "fetched_at": "2026-01-27T16:28:03.516791",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-066\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.wthr.com/article/news/local/number-of-ice-arrests-up-indiana-immigration-deportation/531-9712deec-f8b3-4d80-8918-6d459ea5913f",
+      "final_url": "https://www.wthr.com/article/news/local/number-of-ice-arrests-up-indiana-immigration-deportation/531-9712deec-f8b3-4d80-8918-6d459ea5913f",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 260576,
+      "content_hash": "a5f39ff62b5505f50bcd8b6d2ca59aa75721e9dab0e0a1ada6d6e19687ebc0fb",
+      "title": "ICE arrests in Indiana surge as enforcement ramps up | wthr.com",
+      "fetched_at": "2026-01-27T16:28:35.175044",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-066\\article_2.txt"
+    }
+  ]
+}

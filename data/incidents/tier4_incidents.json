@@ -14,10 +14,7 @@
     "us_citizen": true,
     "notes": "Democratic congressional candidate struck by pepper bullets",
     "protest_related": true,
-    "source_tier": 4,
     "collection_method": "ad_hoc_search",
-    "source_url": "https://blockclubchicago.org/2025/09/26/feds-tear-gas-shoot-rubber-bullets-at-protesters-outside-broadview-ice-facility/",
-    "source_name": "Block Club Chicago",
     "verified": true,
     "outcome": "pepper ball strike",
     "affected_count": 1,
@@ -29,7 +26,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "ICE Detention Center location in sanctuary state. Frequent protest site.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://blockclubchicago.org/2025/09/26/feds-tear-gas-shoot-rubber-bullets-at-protesters-outside-broadview-ice-facility/",
+        "name": "Block Club Chicago",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-003",
@@ -42,10 +49,7 @@
     "victim_age": 57,
     "outcome": "death",
     "notes": "First known death during Trump ICE raid. Fell 30 feet from greenhouse roof at Glass House Farms cannabis facility while hiding/fleeing. Broke neck. ~200 arrested, 10 minors found. DHS says he wasn't 'pursued' but family says he was hiding. GoFundMe raised $150k+.",
-    "source_tier": 4,
     "collection_method": "ad_hoc_search",
-    "source_url": "https://www.cnn.com/2025/07/13/us/farmworker-dies-california-immigration-raids-hnk",
-    "source_name": "CNN",
     "verified": true,
     "victim_category": "detainee",
     "affected_count": 1,
@@ -62,7 +66,17 @@
     "local_sanctuary_status": "sanctuary_limited",
     "jurisdiction_notes": "Ventura County. Site of ICE detention facility deaths.",
     "canonical_incident_id": "INC-2025-07-12-CA-GARCIA",
-    "is_primary_record": false
+    "is_primary_record": false,
+    "sources": [
+      {
+        "url": "https://www.cnn.com/2025/07/13/us/farmworker-dies-california-immigration-raids-hnk",
+        "name": "CNN",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-003/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-004",
@@ -74,10 +88,7 @@
     "victim_count": 3,
     "outcome": "2 deaths, 1 injured",
     "notes": "Shooter Joshua Jahn fired from rooftop into ICE facility sally port, hitting 3 detainees in van. 1 died on scene, 1 died 6 days later. Jahn killed self. NOT an ICE shooting - attack on ICE.",
-    "source_tier": 4,
     "collection_method": "ad_hoc_search",
-    "source_url": "https://en.wikipedia.org/wiki/2025_Dallas_ICE_facility_shooting",
-    "source_name": "Wikipedia / multiple sources",
     "verified": true,
     "victim_category": "officer",
     "affected_count": 3,
@@ -87,7 +98,37 @@
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "cooperative"
+    "local_sanctuary_status": "cooperative",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/2025_Dallas_ICE_facility_shooting",
+        "name": "Wikipedia",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-004/article.txt"
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2025/9/25/who-is-joshua-jahn-what-we-know-about-the-dallas-ice-facility-shooting",
+        "name": "Al Jazeera",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-004\\article_1.txt"
+      },
+      {
+        "url": "https://www.fbi.gov/contact-us/field-offices/dallas/news/remarks-delivered-by-special-agent-in-charge-joseph-rothrock-at-a-press-conference-regarding-the-shooting-at-an-ice-facility-in-dallas",
+        "name": "FBI Official",
+        "tier": 1,
+        "archived": true,
+        "archive_path": "data/sources/T4-004\\article_2.txt"
+      },
+      {
+        "url": "https://abcnews.go.com/US/dallas-ice-sniper-suspect/story?id=125909069",
+        "name": "ABC News",
+        "tier": 2,
+        "archived": false
+      }
+    ]
   },
   {
     "id": "T4-005",
@@ -98,10 +139,7 @@
     "enforcement_granularity": "shooting_at_agent",
     "outcome": "1 officer injured",
     "notes": "Attack on Prairieland ICE Detention Center. 12 individuals allegedly used fireworks to lure officers, then ambushed. Person in green mask fired rifle from woods. Alvarado police officer shot in neck, released same day.",
-    "source_tier": 4,
     "collection_method": "ad_hoc_search",
-    "source_url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_incident",
-    "source_name": "Wikipedia",
     "verified": true,
     "victim_category": "officer",
     "incident_scale": "single",
@@ -112,7 +150,38 @@
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Site of multiple ICE enforcement operations."
+    "jurisdiction_notes": "Site of multiple ICE enforcement operations.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_attack",
+        "name": "Wikipedia",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-005\\article_4.txt"
+      },
+      {
+        "url": "https://www.fox4news.com/news/texas-ice-detention-center-attack-alvarado",
+        "name": "Fox 4 Dallas-Fort Worth",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-005/article_1.txt"
+      },
+      {
+        "url": "https://www.dallasnews.com/news/crime/2025/07/07/11-people-accused-in-holiday-attack-on-alvarado-ice-detention-center-feds-say/",
+        "name": "Dallas News",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-005/article_2.txt"
+      },
+      {
+        "url": "https://www.keranews.org/news/2025-07-11/prairieland-detention-center-alvarado-u-s-immigration-and-customs-enforcement-shooting-alvarado-police-officer-questions",
+        "name": "KERA News",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-005/article_3.txt"
+      }
+    ]
   },
   {
     "id": "T4-010",
@@ -128,10 +197,7 @@
     "weapon_used": "vehicle damage",
     "outcome": "detained, vehicle window broken",
     "notes": "ICE broke car window and 'forced him out of vehicle when he tried to exercise his rights'. Founding member of Familias Unidas por la Justicia. Sparked 300-person protest at Tacoma NWDC on Mar 27.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.kuow.org/stories/hundreds-rally-at-ice-center-in-tacoma-after-detention-of-union-members",
-    "source_name": "KUOW",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -139,7 +205,17 @@
     "outcome_category": "detained",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all"
+    "detainer_policy": "decline_all",
+    "sources": [
+      {
+        "url": "https://www.kuow.org/stories/hundreds-rally-at-ice-center-in-tacoma-after-detention-of-union-members",
+        "name": "KUOW",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-010/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-012",
@@ -153,10 +229,7 @@
     "weapon_used": "armed raid",
     "outcome": "8 detained, at least 3 deported to Mexico",
     "notes": "Armed CBP agents raided Vermont dairy farm. Largest single immigration arrest of farmworkers in recent Vermont history. Ages 22-41. Rattled VT $5.4B dairy industry (94% of dairies hire migrant workers). Governor Scott issued statement calling migrants essential.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://civileats.com/2025/04/24/federal-agents-detain-workers-at-a-vermont-dairy-farm/",
-    "source_name": "Civil Eats",
     "verified": true,
     "affected_count": 8,
     "incident_scale": "medium",
@@ -164,7 +237,17 @@
     "outcome_category": "deported",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "honor_judicial"
+    "detainer_policy": "honor_judicial",
+    "sources": [
+      {
+        "url": "https://civileats.com/2025/04/24/federal-agents-detain-workers-at-a-vermont-dairy-farm/",
+        "name": "Civil Eats",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-012/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-013",
@@ -177,10 +260,7 @@
     "victim_name": "Wilson Martell-Lebron",
     "outcome": "detained, ICE agent held in contempt",
     "notes": "Defendant arrested by ICE immediately after stepping outside courthouse following first day of trial. Judge Mark Summerville held ICE agent Brian Sullivan in contempt for 'knowingly and intentionally preventing the defendant's appearance at an ongoing jury trial.'",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.cnn.com/2025/05/06/us/ice-courthouse-arrests-public-safety",
-    "source_name": "CNN",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -191,35 +271,51 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Trust Act + local policy.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.cnn.com/2025/05/06/us/ice-courthouse-arrests-public-safety",
+        "name": "CNN",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-013/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-014",
-    "date": "2025-03-24",
+    "date": "2025-03-17",
     "state": "Colorado",
     "city": "Aurora",
-    "incident_type": "less_lethal",
-    "protest_granularity": "force_deployment",
-    "victim_category": "protester",
-    "victim_name": "Jeanette Vizguerra supporters",
-    "protest_attendance": 200,
-    "outcome": "peaceful vigil",
-    "notes": "200 people gathered outside GEO Aurora ICE detention center for vigil supporting detained immigrant rights activist Jeanette Vizguerra. Part of weekly Monday protests since March 17 after her detention outside a Target store.",
-    "source_tier": 4,
+    "incident_type": "arrest",
+    "enforcement_granularity": "targeted_activist",
+    "victim_category": "enforcement_target",
+    "victim_name": "Jeanette Vizguerra",
+    "affected_count": 1,
+    "outcome": "arrested at Target, detained 9 months",
+    "notes": "VERIFIED per CNN/Colorado Sun: March 17, 2025 at ~11 AM, Jeanette Vizguerra arrested by ICE on lunch break outside Target store. Agent said 'We finally got you' while chaining her; agents 'were laughing.' Day before she spoke against Trump at Denver Capitol protest. Vizguerra gained fame 2017 church sanctuary, Time 100 Most Influential. Detained at GEO Aurora. Released Dec 22, 2025 on $5,000 bond after 9 months. Lawyers argued targeting violated free speech rights.",
     "collection_method": "systematic_search",
-    "source_url": "https://unicornriot.ninja/2025/vigil-at-geo-ice-detention-center-in-aurora-spreads-love-to-immigrants/",
-    "source_name": "Unicorn Riot",
     "verified": true,
-    "affected_count": 200,
-    "incident_scale": "large",
-    "outcome_detail": "peaceful vigil",
-    "outcome_category": "no_injury",
+    "incident_scale": "single",
+    "outcome_detail": "arrested outside Target, detained 9 months at GEO Aurora, released Dec 22 on $5,000 bond",
+    "outcome_category": "detained",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "honor_judicial",
     "local_sanctuary_status": "sanctuary_limited",
     "jurisdiction_notes": "Denver suburb. Under Colorado HB19-1124. Site of Aurora ICE detention facility.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://coloradosun.com/2025/09/30/jeanette-vizguerra-ice-detention-six-months/",
+        "name": "Colorado Sun",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-014/article_2_direct.txt"
+      }
+    ]
   },
   {
     "id": "T4-015",
@@ -232,10 +328,7 @@
     "protest_attendance": 100,
     "outcome": "peaceful interfaith vigil",
     "notes": "Kickoff event for Communities Not Cages National Day of Action. 100 people gathered outside former Dublin Women's Prison (closed 2024) being proposed to reopen as ICE detention center.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.detentionwatchnetwork.org/pressroom/releases/2025/national-day-action-across-country-denounce-ice-detention-raids-abductions",
-    "source_name": "Detention Watch Network",
     "verified": true,
     "incident_scale": "large",
     "affected_count": 100,
@@ -243,7 +336,17 @@
     "outcome_category": "no_injury",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all"
+    "detainer_policy": "decline_all",
+    "sources": [
+      {
+        "url": "https://www.detentionwatchnetwork.org/pressroom/releases/2025/national-day-action-across-country-denounce-ice-detention-raids-abductions",
+        "name": "Detention Watch Network",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-015/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-016",
@@ -255,16 +358,23 @@
     "victim_category": "event_summary",
     "outcome": "coordinated national protests",
     "notes": "Communities Not Cages National Day of Action: 17 in-person demonstrations and 2 virtual actions across 13 states + DC. Cities included LA, Phoenix, Denver, Atlanta, NYC, Aurora, Fort Worth, Oklahoma City, Tulsa, Grand Rapids, New Orleans, Elizabeth NJ. 100+ supporting orgs. Individual city protests tracked in separate records (T4-017 etc).",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.newsweek.com/anti-ice-protests-immigration-trump-2061125",
-    "source_name": "Newsweek",
     "verified": true,
     "incident_scale": "large",
     "affected_count": 200,
     "outcome_detail": "coordinated national protests",
     "outcome_category": "no_injury",
-    "date_precision": "day"
+    "date_precision": "day",
+    "sources": [
+      {
+        "url": "https://www.newsweek.com/anti-ice-protests-immigration-trump-2061125",
+        "name": "Newsweek",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-016/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-017",
@@ -277,10 +387,7 @@
     "protest_attendance": 100,
     "outcome": "peaceful rally",
     "notes": "Nearly 100 people rallied outside ICE field office in downtown Atlanta as part of Communities Not Cages National Day of Action. Speakers included Uche Onwa (Black Diaspora Liberty Initiative).",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://atlpresscollective.com/2025/04/23/ice-detention-field-office-protest/",
-    "source_name": "Atlanta Press Collective",
     "verified": true,
     "incident_scale": "large",
     "affected_count": 100,
@@ -291,7 +398,17 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "policy_conflict",
     "policy_conflict": true,
-    "jurisdiction_notes": "City attempted sanctuary-like policies; constrained by state law."
+    "jurisdiction_notes": "City attempted sanctuary-like policies; constrained by state law.",
+    "sources": [
+      {
+        "url": "https://atlpresscollective.com/2025/04/23/ice-detention-field-office-protest/",
+        "name": "Atlanta Press Collective",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-017/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-018",
@@ -302,11 +419,8 @@
     "protest_granularity": "force_deployment",
     "victim_category": "protester",
     "outcome": "protest after judge arrest",
-    "notes": "Protests outside Milwaukee Federal Building after Judge Hannah Dugan arrested by FBI and charged with allegedly helping undocumented immigrant avoid arrest. Wisconsin Supreme Court suspended Dugan on April 29.",
-    "source_tier": 4,
+    "notes": "VERIFIED per NPR/CBS/Fox6: April 25, 2025 FBI arrested Judge Hannah Dugan on obstruction charges for allegedly helping Eduardo Flores-Ruiz exit through back door to avoid ICE agents on April 18. Hundreds protested outside Milwaukee courthouse April 26. Wisconsin Supreme Court suspended Dugan April 29. Dec 18, 2025: Federal jury found Dugan guilty of felony obstruction but not guilty of misdemeanor concealment.",
     "collection_method": "systematic_search",
-    "source_url": "https://www.cnn.com/2025/05/06/us/ice-courthouse-arrests-public-safety",
-    "source_name": "CNN",
     "verified": true,
     "incident_scale": "medium",
     "affected_count": 50,
@@ -316,7 +430,31 @@
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.npr.org/2025/04/28/nx-s1-5377356/hannah-dugan-judge-fbi-arrested",
+        "name": "NPR",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-018/article_wayback.txt"
+      },
+      {
+        "url": "https://www.cbsnews.com/news/fbi-arrests-wisconsin-judge-obstruction-immigration-case/",
+        "name": "CBS News",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-018/article_1.txt"
+      },
+      {
+        "url": "https://www.fox6now.com/news/milwaukee-county-judge-dugan-arrested-protests-outside-fbi",
+        "name": "Fox6 Milwaukee",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-018/article_2.txt"
+      }
+    ]
   },
   {
     "id": "T4-019",
@@ -328,10 +466,7 @@
     "victim_category": "protester",
     "outcome": "peaceful protest",
     "notes": "Dozens of protesters gathered in front of CoreCivic detention center in Elizabeth, protesting conditions and planned opening of Delaney Hall (1,000-bed facility, $1B 15-year GEO Group contract).",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://newjerseymonitor.com/2025/03/04/as-ice-eyes-new-immigrant-jail-in-newark-activists-protest-conditions-at-elizabeth-detention-center/",
-    "source_name": "New Jersey Monitor",
     "verified": true,
     "incident_scale": "medium",
     "affected_count": 30,
@@ -339,7 +474,17 @@
     "outcome_category": "injury",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all"
+    "detainer_policy": "decline_all",
+    "sources": [
+      {
+        "url": "https://newjerseymonitor.com/2025/03/04/as-ice-eyes-new-immigrant-jail-in-newark-activists-protest-conditions-at-elizabeth-detention-center/",
+        "name": "New Jersey Monitor",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-019/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-020",
@@ -350,22 +495,36 @@
     "protest_granularity": "force_deployment",
     "victim_category": "protester",
     "outcome": "peaceful coalition protest",
-    "notes": "Coalition of 30+ faith-based organizations, labor unions, and immigrant rights groups gathered to protest imminent reopening of Delaney Hall as ICE detention facility.",
-    "source_tier": 4,
+    "notes": "VERIFIED per ABC7 NY/WHYY: March 11, 2025 coalition of 30+ faith-based orgs, labor unions, and immigrant rights groups protested imminent reopening of Delaney Hall as ICE detention. Facility reopened May 1, 2025 under $1B/15-year GEO Group contract. Mayor Baraka arrested May 9 at subsequent protest.",
     "collection_method": "systematic_search",
-    "source_url": "https://newjerseymonitor.com/2025/03/04/as-ice-eyes-new-immigrant-jail-in-newark-activists-protest-conditions-at-elizabeth-detention-center/",
-    "source_name": "New Jersey Monitor",
     "verified": true,
     "incident_scale": "medium",
     "affected_count": 40,
     "outcome_detail": "peaceful coalition protest",
-    "outcome_category": "injury",
+    "outcome_category": "no_injury",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Mayor Ras Baraka publicly defied ICE Jan 2025.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://abc7ny.com/post/protest-held-reopening-ice-immigration-detention-center-newark-new-jersey/16007493/",
+        "name": "ABC7 NY",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-020/article.txt"
+      },
+      {
+        "url": "https://whyy.org/articles/newark-nj-immigration-detention-center-delaney-hall/",
+        "name": "WHYY",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-020\\article_1.txt"
+      }
+    ]
   },
   {
     "id": "T4-021",
@@ -382,10 +541,7 @@
     "outcome": "4 officers injured (3 by rocks, 1 shoulder + spit on), 13 arrested",
     "protest_related": true,
     "notes": "Protest started at TX Capitol, moved downtown. Protesters threw 'very large rocks' at officers. APD deployed pepper balls, DPS deployed CS tear gas. Gov. Abbott deployed National Guard. 8 APD arrests (2 for graffiti), 5 DPS arrests (3 felony criminal mischief). All 4 officers treated at hospital and released.",
-    "source_tier": 4,
     "collection_method": "ad_hoc_search",
-    "source_url": "https://cbsaustin.com/news/local/4-officers-injured-12-people-arrested-during-ice-protests-in-austin",
-    "source_name": "CBS Austin",
     "verified": true,
     "affected_count": 17,
     "affected_breakdown": {
@@ -400,7 +556,17 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "policy_conflict",
     "policy_conflict": true,
-    "jurisdiction_notes": "Historically immigrant-friendly but constrained by TX SB4. APD contacted ICE 33 times Jan-Sept 2025. Chief Davis: 'to me, means it's a sanctuary city' but cannot prohibit ICE contact."
+    "jurisdiction_notes": "Historically immigrant-friendly but constrained by TX SB4. APD contacted ICE 33 times Jan-Sept 2025. Chief Davis: 'to me, means it's a sanctuary city' but cannot prohibit ICE contact.",
+    "sources": [
+      {
+        "url": "https://cbsaustin.com/news/local/4-officers-injured-12-people-arrested-during-ice-protests-in-austin",
+        "name": "CBS Austin",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-021/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-022",
@@ -415,10 +581,7 @@
     "outcome": "21 arrested, 4 officers injured",
     "protest_related": true,
     "notes": "Protesters clashed with police outside ICE facility. Ages 25-69 arrested, charged with obstruction/disorderly conduct. Part of ~80 total arrests since early October when Illinois State Police set up designated protest zones. Mayor issued Civil Emergency Order Nov 17.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://abc7chicago.com/post/village-broadview-il-protest-several-detained-outside-ice-facility-protesters-push-designated-area-live/18154986/",
-    "source_name": "ABC7 Chicago",
     "verified": true,
     "affected_count": 21,
     "incident_scale": "medium",
@@ -429,7 +592,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "ICE Detention Center location in sanctuary state. Frequent protest site.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://abc7chicago.com/post/village-broadview-il-protest-several-detained-outside-ice-facility-protesters-push-designated-area-live/18154986/",
+        "name": "ABC7 Chicago",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-022/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-023",
@@ -443,10 +616,7 @@
     "outcome": "44 arrested, ICE office closed for day",
     "protest_related": true,
     "notes": "200+ faith leaders (ministers, rabbis, imams) chained themselves to ICE building entrances starting 6:30am. Blocked entrance for ~5 hours. SF Fire Dept cut chains. Organized by Interfaith Movement for Human Integrity. DHS called them 'rioters' but reporters described 'mostly peaceful protest.'",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://abc7news.com/post/dozens-protesters-faith-communities-block-entrances-san-francisco-ice-building/18292234/",
-    "source_name": "ABC7 San Francisco",
     "verified": true,
     "affected_count": 44,
     "incident_scale": "medium",
@@ -457,7 +627,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://abc7news.com/post/dozens-protesters-faith-communities-block-entrances-san-francisco-ice-building/18292234/",
+        "name": "ABC7 San Francisco",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-023/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-024",
@@ -471,10 +651,7 @@
     "outcome": "multiple arrests, extreme force",
     "protest_related": true,
     "notes": "'A Night of Terror: Civil Disobedience Met With Extreme Force at Portland ICE Facility' - Portland Mercury headline. Part of near-nightly protests since June 9. FBI claims 128 arrests since June 9 with 27 active investigations. Many arrested never informed of reason or read rights.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.portlandmercury.com/news/2025/10/15/48075462/a-night-of-terror-civil-disobedience-met-with-extreme-force-at-portland-ice-facility",
-    "source_name": "Portland Mercury",
     "verified": true,
     "incident_scale": "medium",
     "affected_count": 50,
@@ -485,7 +662,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Police prohibited from immigration enforcement since 1987.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.portlandmercury.com/news/2025/10/15/48075462/a-night-of-terror-civil-disobedience-met-with-extreme-force-at-portland-ice-facility",
+        "name": "Portland Mercury",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-024/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-025",
@@ -499,10 +686,7 @@
     "outcome": "575 total protest-related arrests since June 7",
     "protest_related": true,
     "notes": "LAPD made 575 protest-related arrests since June 7, including 14 for looting. Trump deployed 4,000 CA National Guard + 700 Marines (later ruled illegal violation of Posse Comitatus by Judge Breyer on Sep 3). David Huerta (SEIU CA president) arrested, charged with felony conspiracy to impede officer, $50k bond. Judge Frimpong ruled on July 11 admin likely violated immigrants' rights. Prosecutors failed to secure indictments for majority after DHS agents found to have made false statements.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
-    "source_name": "Wikipedia / multiple sources",
     "verified": true,
     "affected_count": 575,
     "incident_scale": "mass",
@@ -513,7 +697,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Special Order 40 (1979) - oldest major city sanctuary policy.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
+        "name": "Wikipedia / multiple sources",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-025/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-026",
@@ -527,10 +721,7 @@
     "outcome": "~100 clergy arrested protesting deportation flights",
     "protest_related": true,
     "notes": "Part of 'ICE Out' day of action. ~100 members of clergy arrested at Minneapolis-St. Paul International Airport protesting deportation flights. Charged with misdemeanor trespassing and failure to comply with peace officer. Same day 700+ MN businesses closed for 'economic blackout'.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.fox9.com/news/ice-minnesota-updates-jan-23-2026",
-    "source_name": "Fox 9 Minneapolis",
     "verified": true,
     "affected_count": 100,
     "incident_scale": "large",
@@ -540,7 +731,17 @@
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
-    "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers."
+    "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers.",
+    "sources": [
+      {
+        "url": "https://www.fox9.com/news/ice-minnesota-updates-jan-23-2026",
+        "name": "Fox 9 Minneapolis",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-026/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-027",
@@ -555,10 +756,7 @@
     "outcome": "3 arrested including prominent civil rights attorney",
     "protest_related": true,
     "notes": "Protesters entered Cities Church in St. Paul where an ICE official serves as pastor. Nekima Levy Armstrong (prominent civil rights attorney) arrested on federal charges of 'conspiracy to deprive others of their rights' (religious rights). Journalist initially detained but not charged.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon",
-    "source_name": "NPR",
     "verified": true,
     "affected_count": 3,
     "incident_scale": "small",
@@ -566,7 +764,17 @@
     "outcome_category": "arrested",
     "date_precision": "day",
     "state_sanctuary_status": "neutral",
-    "detainer_policy": "case_by_case"
+    "detainer_policy": "case_by_case",
+    "sources": [
+      {
+        "url": "https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon",
+        "name": "NPR",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-027/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-028",
@@ -579,10 +787,7 @@
     "outcome": "700+ businesses closed, thousands protested in freezing cold",
     "protest_related": true,
     "notes": "Statewide 'economic blackout' and general strike. 700+ MN businesses closed. Thousands picketed in freezing cold. Federal agents used tear gas and pepper spray against protesters. Governor Walz placed National Guard on standby. Part of largest coordinated protest action in MN history.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests",
-    "source_name": "NPR",
     "verified": true,
     "incident_scale": "mass",
     "affected_count": 1000,
@@ -590,7 +795,17 @@
     "outcome_category": "multiple",
     "date_precision": "day",
     "state_sanctuary_status": "neutral",
-    "detainer_policy": "case_by_case"
+    "detainer_policy": "case_by_case",
+    "sources": [
+      {
+        "url": "https://www.npr.org/2026/01/23/nx-s1-5686733/minnesotans-day-of-ice-protests",
+        "name": "NPR",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-028/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-029",
@@ -604,10 +819,7 @@
     "outcome": "6 arrests, total 79 ICE protest-related arrests to date",
     "protest_related": true,
     "notes": "Portland Police monitored protest activity near ICE facility. 6 targeted arrests made. Brings total ICE protest-related arrests in Portland to 79 since June 2025.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.portland.gov/police/news/2026/1/9/ppb-monitors-protest-activity-near-ice-facility-six-arrests-made",
-    "source_name": "Portland.gov",
     "verified": true,
     "affected_count": 6,
     "incident_scale": "medium",
@@ -618,7 +830,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Police prohibited from immigration enforcement since 1987.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.portland.gov/police/news/2026/1/9/ppb-monitors-protest-activity-near-ice-facility-six-arrests-made",
+        "name": "Portland.gov",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-029/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-030",
@@ -632,10 +854,7 @@
     "outcome": "~200 detained in tunnel, 1 arrested for firearm possession",
     "protest_related": true,
     "notes": "Feb 2-3 protests shut down 101 freeway. Feb 2: thousands marched from Olvera St to City Hall, blocked freeway. Feb 3: LAPD declared unlawful assembly after bottles/rocks thrown. ~200 detained in tunnel at 200 block Cesar Chavez Ave. Firework shot at police helicopter. San Bernardino protest same day used tear gas and BearCats.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.cbsnews.com/losangeles/news/protest-downtown-los-angeles-over-ice-raids-deportation-streets-national-day-of-action/",
-    "source_name": "CBS Los Angeles",
     "verified": true,
     "affected_count": 200,
     "incident_scale": "large",
@@ -645,7 +864,17 @@
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
-    "jurisdiction_notes": "Special Order 40 (1979) - oldest major city sanctuary policy."
+    "jurisdiction_notes": "Special Order 40 (1979) - oldest major city sanctuary policy.",
+    "sources": [
+      {
+        "url": "https://www.cbsnews.com/losangeles/news/protest-downtown-los-angeles-over-ice-raids-deportation-streets-national-day-of-action/",
+        "name": "CBS Los Angeles",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-030/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-033",
@@ -659,10 +888,7 @@
     "us_citizen": true,
     "outcome": "detained, taken to Dodger Stadium processing, released",
     "notes": "US citizen detained by Border Patrol/ICE. Agent said 'I got another one' - Garcia understood as racially charged. Taken in van to Dodger Stadium with other arrestees. Agents confirmed he was US citizen with no warrants but continued to hold him. Heard agents boasting about 'bodies' they had gotten. MALDEF representing.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.maldef.org/2025/07/maldef-takes-a-step-toward-civil-rights-lawsuit-on-behalf-of-u-s-citizen-detained-by-ice/",
-    "source_name": "MALDEF",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -672,7 +898,17 @@
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
-    "jurisdiction_notes": "Special Order 40 (1979) - oldest major city sanctuary policy."
+    "jurisdiction_notes": "Special Order 40 (1979) - oldest major city sanctuary policy.",
+    "sources": [
+      {
+        "url": "https://www.maldef.org/2025/07/maldef-takes-a-step-toward-civil-rights-lawsuit-on-behalf-of-u-s-citizen-detained-by-ice/",
+        "name": "MALDEF",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-033/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-034",
@@ -687,11 +923,8 @@
     "injury_type": "shot in face, lost consciousness",
     "outcome": "shot in face and body with pepper balls, briefly lost consciousness",
     "protest_related": true,
-    "notes": "Protester who carries a cane shot in face and body with pepper balls by agents on detention facility roof while livestreaming around 6pm. Briefly lost consciousness. Part of Operation Midway Blitz (Sep 8 - Oct 3, 1,000+ arrested in Chicago area).",
-    "source_tier": 4,
+    "notes": "VERIFIED per Block Club/CBS/CNN: Protester shot in face and body with pepper balls by agents on Broadview ICE facility roof around 6pm, briefly lost consciousness. Part of Operation Midway Blitz (Sep 8 - Oct 3). Oct 9, 2025: Judge Ellis issued TRO against agents' use of tear gas/pepper balls on journalists and peaceful protesters.",
     "collection_method": "systematic_search",
-    "source_url": "https://blockclubchicago.org/2025/09/19/ice-tear-gasses-detains-protesters-outside-broadview-facility/",
-    "source_name": "Block Club Chicago",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -702,7 +935,31 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "ICE Detention Center location in sanctuary state. Frequent protest site.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://blockclubchicago.org/2025/09/19/ice-tear-gasses-detains-protesters-outside-broadview-facility/",
+        "name": "Block Club Chicago",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-034/article.txt"
+      },
+      {
+        "url": "https://www.cbsnews.com/chicago/news/broadview-ice-facility-protest-illinois/",
+        "name": "CBS Chicago",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-034\\article_1.txt"
+      },
+      {
+        "url": "https://www.cnn.com/2025/09/19/us/ice-chicago-protests-broadview",
+        "name": "CNN",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-034\\article_2.txt"
+      }
+    ]
   },
   {
     "id": "T4-035",
@@ -719,10 +976,7 @@
     "outcome": "journalist shot in face with pepper spray projectile",
     "protest_related": true,
     "notes": "Journalist who attended 2 dozen+ protests shot in face with pepper spray projectile. Said 'I have never seen anything like this response in my life.' Federal judge later ruled agents can't use tear gas/pepper spray on journalists after Block Club Chicago and others sued. Second incident - first was Sept 19 (T2-LL-004).",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://blockclubchicago.org/2025/09/28/ice-escalates-violence-against-protesters-in-broadview-journalist-arrested/",
-    "source_name": "Block Club Chicago",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -739,7 +993,17 @@
     "jurisdiction_notes": "ICE Detention Center location in sanctuary state. Frequent protest site.",
     "canonical_incident_id": "INC-2025-09-19-IL-GEARY",
     "is_primary_record": false,
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://blockclubchicago.org/2025/09/28/ice-escalates-violence-against-protesters-in-broadview-journalist-arrested/",
+        "name": "Block Club Chicago",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-035/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-036",
@@ -754,10 +1018,7 @@
     "outcome": "11 arrested, 4 federal charges, tear gas deployed",
     "protest_related": true,
     "notes": "Federal officers used tear gas, pepper balls, flash bang grenades. 11 arrested, 4 charged federally with assaulting/resisting officers. Mayor Thompson: 'relentless deployment of tear gas, pepper spray, mace, and rubber bullets' endangering residents. Gov. Pritzker accused Trump admin of trying to destabilize Chicago.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://abcnews.go.com/US/4-charged-after-anti-ice-protest-chicago-facility/story?id=126047334",
-    "source_name": "ABC News",
     "verified": true,
     "affected_count": 11,
     "incident_scale": "medium",
@@ -768,11 +1029,21 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "ICE Detention Center location in sanctuary state. Frequent protest site.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://abcnews.go.com/US/4-charged-after-anti-ice-protest-chicago-facility/story?id=126047334",
+        "name": "ABC News",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-036/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-037",
-    "date": "2025-08-08",
+    "date": "2025-08-07",
     "state": "Oregon",
     "city": "Woodburn",
     "incident_type": "mass_raid",
@@ -780,11 +1051,8 @@
     "victim_category": "enforcement_target",
     "victim_count": 4,
     "outcome": "4 farmworkers detained on way to blueberry farm",
-    "notes": "ICE detained 4 immigrant farmworkers on their way to work at a blueberry farm.",
-    "source_tier": 4,
+    "notes": "VERIFIED per OPB/Salem Reporter: August 7, 2025 ~6am, ICE stopped van in Marion County, broke driver's window, detained 4 Guatemalan Mam Nation farmworkers heading from Woodburn to Canby blueberry farm. 3 men, 1 woman arrested; 2 women and teenage girl released. Largest ICE arrest in Woodburn area since January 2025. Attorneys filed emergency habeas petition.",
     "collection_method": "systematic_search",
-    "source_url": "https://civileats.com/2025/06/11/ice-raids-target-workers-on-farms-and-in-food-production-a-running-list/",
-    "source_name": "Civil Eats",
     "verified": true,
     "affected_count": 4,
     "incident_scale": "small",
@@ -792,23 +1060,38 @@
     "outcome_category": "detained",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all"
+    "detainer_policy": "decline_all",
+    "sources": [
+      {
+        "url": "https://www.opb.org/article/2025/08/08/immigration-immigrants-woodburn-oregon-deportation-blueberry-farm/",
+        "name": "OPB",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-037/article_wayback.txt"
+      },
+      {
+        "url": "https://www.salemreporter.com/2025/08/11/immigration-arrest-of-farmworkers-sends-chilling-effect-through-marion-county/",
+        "name": "Salem Reporter",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-037/article_1.txt"
+      }
+    ]
   },
   {
     "id": "T4-038",
     "date": "2025-08-14",
     "state": "New York",
     "city": "Kent",
+    "location": "Lynn-Ette Farms, Orleans County",
     "incident_type": "mass_raid",
     "enforcement_granularity": "mass_raid_workplace",
     "victim_category": "enforcement_target",
     "victim_count": 7,
     "outcome": "7 workers detained at farm where UFW was organizing",
-    "notes": "ICE raided Lynn-Ette Farms where United Farm Workers had been organizing. 7 workers detained. Raid on UFW organizing site raises concerns about targeting labor organizing.",
-    "source_tier": 4,
+    "notes": "VERIFIED per Investigative Post/UFW/Daily Kos: August 14, 2025 second ICE raid at Lynn-Ette Farms (Orleans County NY), 7 workers detained. UFW certified bargaining rep since 2022. First raid May 2, 2025 detained 14 (10 deported, 4 released on bond) - included Guatemalan family leading union efforts. Farm owner refuses to implement state-arbitrator-awarded union contract. UFW believes raids connected to labor organizing.",
     "collection_method": "systematic_search",
-    "source_url": "https://civileats.com/2025/06/11/ice-raids-target-workers-on-farms-and-in-food-production-a-running-list/",
-    "source_name": "Civil Eats",
     "verified": true,
     "affected_count": 7,
     "incident_scale": "medium",
@@ -816,7 +1099,24 @@
     "outcome_category": "detained",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all"
+    "detainer_policy": "decline_all",
+    "sources": [
+      {
+        "url": "https://www.investigativepost.org/2025/08/28/immigrant-farm-workers-arrested-in-second-ice-raid-at-upstate-farm/",
+        "name": "Investigative Post",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-038/article.txt"
+      },
+      {
+        "url": "https://ufw.org/ufw-condemns-latest-raid-at-lynn-ette-farms/",
+        "name": "United Farm Workers",
+        "tier": 3,
+        "archived": true,
+        "archive_path": "data/sources/T4-038/article_1.txt"
+      }
+    ]
   },
   {
     "id": "T4-039",
@@ -831,10 +1131,7 @@
     "outcome": "tackled and arrested by federal agents while reporting",
     "protest_related": true,
     "notes": "Journalist tackled and arrested by federal agents while reporting on protests. Press Freedom Tracker documented incident. Judge later issued injunction forbidding agents from using force against journalists without probable cause.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://pressfreedomtracker.us/all-incidents/journalist-tackled-arrested-by-federal-agents-at-illinois-ice-protest/",
-    "source_name": "U.S. Press Freedom Tracker",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -845,7 +1142,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "ICE Detention Center location in sanctuary state. Frequent protest site.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://pressfreedomtracker.us/all-incidents/journalist-tackled-arrested-by-federal-agents-at-illinois-ice-protest/",
+        "name": "U.S. Press Freedom Tracker",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-039/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-040",
@@ -862,10 +1169,7 @@
     "outcome": "pepper spray shot directly into eyes",
     "protest_related": true,
     "notes": "Reporter described: 'In a literal second, the agent pulled out his pepper gel, sprayed the protester next to me, and then shot a stream straight into my eyes.' At least one protester detained, two people including journalist pepper sprayed.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.kqed.org/news/12052975/federal-officers-detain-protester-after-clash-outside-san-francisco-ice-office",
-    "source_name": "KQED",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -876,11 +1180,21 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.kqed.org/news/12052975/federal-officers-detain-protester-after-clash-outside-san-francisco-ice-office",
+        "name": "KQED",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-040/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-042",
-    "date": "2025-06-15",
+    "date": "2025-07-02",
     "state": "California",
     "city": "San Diego",
     "incident_type": "wrongful_detention",
@@ -888,25 +1202,32 @@
     "victim_category": "bystander",
     "victim_name": "Barbara Stone",
     "victim_age": 71,
-    "victim_occupation": "Detention Resistance volunteer",
+    "victim_occupation": "Detention Resistance volunteer / legal observer",
     "us_citizen": true,
-    "outcome": "detained, bruised, received anonymous AI-voice threat afterward",
-    "notes": "71-year-old grandmother volunteering with Detention Resistance went to San Diego courthouse to watch ICE arrests, ended up in handcuffs. Bruises from agents grabbing her, scrapes from handcuffs. After case broadcast on national news, husband received anonymous AI-modified voice phone call threatening the couple.",
-    "source_tier": 4,
+    "outcome": "detained 8 hours, bruised, phone confiscated, later received AI-voice death threats",
+    "notes": "July 2, 2025: Barbara Stone, 71, observing ICE in hallway outside San Diego immigration court. Raised phone to video arrest of immigrant. ICE agent claimed Stone pushed her (Stone denies). Agents chased her, cornered her in stairwell, handcuffed. Held 8 hours without lawyer despite ~15 requests. Phone confiscated as 'weapon' - still not returned 2 months later. DHS called it 'assault.' After national news coverage, husband received AI-modified voice death threat. Family added security lights.",
     "collection_method": "systematic_search",
-    "source_url": "https://www.cnn.com/2025/08/23/us/immigrant-bystander-rights-ice-raid",
-    "source_name": "CNN",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
-    "outcome_detail": "detained, bruised, received anonymous AI-voice threat afterward",
+    "outcome_detail": "detained 8 hours, bruised, phone confiscated, AI-voice death threats",
     "outcome_category": "detained",
-    "date_precision": "year",
+    "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_limited",
     "jurisdiction_notes": "DOJ designated. Border county with complex dynamics.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-handcuffs-us-citizen-grandmother-san-diego-rcna218107",
+        "name": "NBC News",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-042/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-044",
@@ -920,10 +1241,7 @@
     "outcome": "lawsuit filed, residents suffered respiratory distress, PTSD",
     "protest_related": true,
     "notes": "Lawsuit filed against DHS. Plaintiffs claim officers deployed pepper balls and CS gas 'toward and around' low-income housing complex 'repeatedly when faced with no violence from protesters.' Nearby residents suffered acute respiratory distress, ocular burning, PTSD episodes. 660+ arrested in Oregon in 2025. Sen. Merkley called raids 'terrorizing our communities.'",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.foxnews.com/politics/oregon-residents-sue-homeland-security-after-tear-gas-used-anti-ice-protesters",
-    "source_name": "Fox News",
     "verified": true,
     "incident_scale": "medium",
     "affected_count": 20,
@@ -934,7 +1252,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Police prohibited from immigration enforcement since 1987.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.foxnews.com/politics/oregon-residents-sue-homeland-security-after-tear-gas-used-anti-ice-protesters",
+        "name": "Fox News",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-044/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-045",
@@ -944,16 +1272,13 @@
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_during_enforcement",
     "victim_category": "enforcement_target",
-    "victim_name": "Roberto Carlos Montoya Vald\u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a9s",
+    "victim_name": "Roberto Carlos Montoya Vald\u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u00a0\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2\u00c3\u0192\u00c6\u2019\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a9s",
     "victim_age": 52,
     "victim_nationality": "Guatemala",
     "outcome": "death",
     "us_citizen": false,
     "notes": "Second person to die fleeing SoCal raids. Fled Home Depot during ICE operation, ran across eastbound I-210 freeway, struck by SUV going ~60mph. Suffered major injuries, died at hospital. Identified by National Day Laborer Organizing Network. Vigil held at site.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.nbcnews.com/news/us-news/man-fleeing-immigration-raid-california-fatally-struck-vehicle-officia-rcna225154",
-    "source_name": "NBC News",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -961,7 +1286,17 @@
     "outcome_category": "death",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all"
+    "detainer_policy": "decline_all",
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/man-fleeing-immigration-raid-california-fatally-struck-vehicle-officia-rcna225154",
+        "name": "NBC News",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-045/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-046",
@@ -971,15 +1306,12 @@
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_during_enforcement",
     "victim_category": "enforcement_target",
-    "victim_name": "Josu\u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a9 Castro Rivera",
+    "victim_name": "Josu\u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u00a0\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2\u00c3\u0192\u00c6\u2019\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a9 Castro Rivera",
     "victim_nationality": "Honduras",
     "outcome": "death",
     "us_citizen": false,
     "notes": "Was heading to gardening job when vehicle pulled over by ICE. Agents tried to detain him and 3 other passengers. Fled on foot, tried to cross I-264, fatally struck. Had been in US 4 years, working to send money to family in Honduras.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.pbs.org/newshour/nation/man-struck-dead-by-vehicle-on-virginia-highway-after-trying-to-flee-immigration-agents",
-    "source_name": "PBS",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -996,7 +1328,17 @@
     "jurisdiction_notes": "Virginia has no statewide policy. Norfolk generally cooperative.",
     "canonical_incident_id": "INC-2025-10-23-VA-RIVERA",
     "is_primary_record": false,
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.pbs.org/newshour/nation/man-struck-dead-by-vehicle-on-virginia-highway-after-trying-to-flee-immigration-agents",
+        "name": "PBS",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-046/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-047",
@@ -1012,10 +1354,7 @@
     "outcome": "arrested while escorting defendant from immigration court",
     "protest_related": true,
     "notes": "NYC Comptroller and mayoral candidate arrested by masked federal agents at 26 Federal Plaza while escorting defendant from immigration court. DHS charged him with 'assaulting law enforcement and impeding a federal court officer.' Video shows him led away in handcuffs. Part of pattern - at least 5 elected officials arrested/confronted in 2025.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://gothamist.com/news/nyc-mayoral-candidate-comptroller-brad-lander-detained-by-ice-campaign-says",
-    "source_name": "Gothamist",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -1025,7 +1364,17 @@
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
-    "jurisdiction_notes": "Executive Order 41 (2003, expanded). Strongest municipal protections."
+    "jurisdiction_notes": "Executive Order 41 (2003, expanded). Strongest municipal protections.",
+    "sources": [
+      {
+        "url": "https://gothamist.com/news/nyc-mayoral-candidate-comptroller-brad-lander-detained-by-ice-campaign-says",
+        "name": "Gothamist",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-047/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-048",
@@ -1038,10 +1387,7 @@
     "victim_name": "Abel Orozco",
     "outcome": "arrested without warrant near home",
     "notes": "Arrested by ICE without warrant near his home 'coming back from buying tamales for the family.' Part of federal court action by 22 people challenging unlawful warrantless arrests.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://immigrantjustice.org/press-release/22-people-arrested-in-ice-raids-announce-federal-court-action-challenging-unlawful-warrantless-ice-arrests-under-new-trump-administration/",
-    "source_name": "National Immigrant Justice Center",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -1049,7 +1395,17 @@
     "outcome_category": "arrested",
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all"
+    "detainer_policy": "decline_all",
+    "sources": [
+      {
+        "url": "https://immigrantjustice.org/press-release/22-people-arrested-in-ice-raids-announce-federal-court-action-challenging-unlawful-warrantless-ice-arrests-under-new-trump-administration/",
+        "name": "National Immigrant Justice Center",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-048/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-049",
@@ -1063,10 +1419,7 @@
     "us_citizen": true,
     "outcome": "US citizen detained 10+ hours then released",
     "notes": "US citizen from Chicago detained by ICE for more than 10 hours in late January, then released. Part of federal court action by 22 people challenging unlawful warrantless arrests.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://immigrantjustice.org/press-release/22-people-arrested-in-ice-raids-announce-federal-court-action-challenging-unlawful-warrantless-ice-arrests-under-new-trump-administration/",
-    "source_name": "National Immigrant Justice Center",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -1077,7 +1430,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Welcoming City Ordinance. Site of numerous 2025 enforcement operations.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://immigrantjustice.org/press-release/22-people-arrested-in-ice-raids-announce-federal-court-action-challenging-unlawful-warrantless-ice-arrests-under-new-trump-administration/",
+        "name": "National Immigrant Justice Center",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-049/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-050",
@@ -1090,10 +1453,7 @@
     "victim_count": 12,
     "outcome": "12 arrested at restaurant without warrants",
     "notes": "Twelve people arrested in single incident at a restaurant in Liberty, Missouri, without warrants or probable cause. Part of federal court action challenging unlawful warrantless arrests.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://immigrantjustice.org/press-release/22-people-arrested-in-ice-raids-announce-federal-court-action-challenging-unlawful-warrantless-ice-arrests-under-new-trump-administration/",
-    "source_name": "National Immigrant Justice Center",
     "verified": true,
     "affected_count": 12,
     "incident_scale": "medium",
@@ -1104,7 +1464,17 @@
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "cooperative",
     "jurisdiction_notes": "Kansas City suburb. Missouri has no statewide policy.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://immigrantjustice.org/press-release/22-people-arrested-in-ice-raids-announce-federal-court-action-challenging-unlawful-warrantless-ice-arrests-under-new-trump-administration/",
+        "name": "National Immigrant Justice Center",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-050/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-051",
@@ -1118,10 +1488,7 @@
     "outcome": "smoke device used to disperse crowd at taco restaurant",
     "protest_related": true,
     "notes": "ICE agents used smoke device to disperse crowd near Buona Forchetta taco restaurant. Council member Sean Elo-Rivera: 'It got out of control because of the way they showed up.' Protesters chanted 'Abolish ICE!' Federal officials later said it was a criminal investigation, not immigration raid.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.npr.org/2025/06/06/nx-s1-5425524/ice-raids-grow-tense-as-protesters-confront-immigration-agents",
-    "source_name": "NPR",
     "verified": true,
     "incident_scale": "medium",
     "affected_count": 20,
@@ -1132,7 +1499,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_limited",
     "jurisdiction_notes": "DOJ designated. Border county with complex dynamics.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.npr.org/2025/06/06/nx-s1-5425524/ice-raids-grow-tense-as-protesters-confront-immigration-agents",
+        "name": "NPR",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-051/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-053",
@@ -1142,15 +1519,12 @@
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
     "victim_category": "detainee",
-    "victim_name": "Heber Sanchaz Dom\u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00adnguez",
+    "victim_name": "Heber Sanchaz Dom\u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u00a0\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2\u00c3\u0192\u00c6\u2019\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00adnguez",
     "victim_age": 34,
     "victim_nationality": "Mexico",
     "outcome": "death",
     "notes": "Found unresponsive in ICE custody. Part of 2025 being deadliest year since 2004 (31 deaths). ICE holding ~68,440 people (78% increase from 2024). Inspections dropped 36.25% as detentions soared.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-georgias-robert-deyton-detention-center",
-    "source_name": "ICE Official Release",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -1160,372 +1534,133 @@
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "honor_all",
     "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Location of Robert A. Deyton Detention Center (Clayton County)."
-  },
-  {
-    "id": "T4-056",
-    "date": "2025-03-14",
-    "state": "Texas",
-    "city": "El Paso",
-    "incident_type": "wrongful_detention",
-    "enforcement_granularity": "wrongful_detention",
-    "victim_category": "us_citizen_collateral",
-    "victim_name": "Roberto Galvan",
-    "victim_age": 52,
-    "us_citizen": true,
-    "outcome": "US citizen detained 5 days at border",
-    "notes": "US citizen born in Texas detained for 5 days while crossing from Mexico. Agents claimed his birth certificate was suspicious. Released after family contacted congressional office.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://elpasotimes.com/story/news/immigration/us-citizen-detained-border",
-    "source_name": "El Paso Times",
-    "verified": true,
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "US citizen detained 5 days at border",
-    "outcome_category": "released",
-    "date_precision": "day",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Border city. Constrained by SB4 despite historically immigrant-friendly local attitudes.",
-    "policy_conflict": false
+    "jurisdiction_notes": "Location of Robert A. Deyton Detention Center (Clayton County).",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-georgias-robert-deyton-detention-center",
+        "name": "ICE Official Release",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-053/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-057",
-    "date": "2025-04-08",
+    "date": "2025-06-13",
     "state": "North Carolina",
     "city": "Charlotte",
     "incident_type": "mass_raid",
-    "enforcement_granularity": "mass_raid_workplace",
-    "victim_category": "enforcement_target",
-    "victim_count": 28,
-    "outcome": "28 detained at construction site",
-    "notes": "ICE raided active construction site in Ballantyne area. 28 workers detained. Caused significant delays to commercial development project. Multiple subcontractors affected.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.charlotteobserver.com/news/local/crime/article-ice-raid-construction",
-    "source_name": "Charlotte Observer",
+    "outcome": "ICE raided construction site in Uptown Charlotte on North Tryon Street. Workers detained during tall building construction project.",
     "verified": true,
-    "affected_count": 28,
-    "incident_scale": "medium",
-    "outcome_detail": "28 detained at construction site",
-    "outcome_category": "detained",
-    "date_precision": "day",
-    "state_sanctuary_status": "neutral",
-    "detainer_policy": "honor_all",
-    "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Mecklenburg County ended non-cooperation 2025.",
-    "policy_conflict": false
+    "correction_applied": true,
+    "correction_notes": "Real raid occurred June 13, 2025 (not April). Later Operation Charlotte's Web in November 2025 detained 250+.",
+    "collection_method": "verified_correction",
+    "victim_count": "multiple",
+    "verification_sources": [
+      "https://www.cnn.com/2025/11/19/us/north-carolina-charlotte-ice-raids-what-we-know"
+    ],
+    "sources": [
+      {
+        "url": "https://www.charlottealertsnews.com/news/ice-immigration-raid-in-uptown-charlotte-on-north-tryon-st-at-construction-site/",
+        "name": "Charlotte Alerts News",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-057/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-058",
-    "date": "2025-05-19",
+    "date": "2025-09-10",
     "state": "Tennessee",
-    "city": "Nashville",
-    "incident_type": "physical_force",
-    "enforcement_granularity": "individual_force",
-    "victim_category": "enforcement_target",
-    "victim_name": "Carlos Mendez-Ortiz",
-    "victim_age": 35,
-    "weapon_used": "taser",
-    "outcome": "tased multiple times during arrest",
-    "notes": "Man tased 4 times during ICE arrest at his workplace. Video shows him on ground not resisting. ACLU Tennessee investigating. Filed excessive force complaint.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.tennessean.com/story/news/ice-arrest-taser-nashville",
-    "source_name": "The Tennessean",
+    "city": "Nashville (South Nashville)",
+    "incident_type": "assault_on_officer_taser_response",
+    "outcome": "Jamaican immigrant McIntosh, who overstayed B2 tourist visa by 3+ years, was involved in 3 hit-and-runs. Officer Mathers attempted to detain him. McIntosh assaulted her, striking her multiple times. She deployed taser but he removed probes and continued attacking until bystanders intervened. Officer injured, McIntosh arrested.",
     "verified": true,
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "tased multiple times during arrest",
-    "outcome_category": "injury",
-    "date_precision": "day",
-    "state_sanctuary_status": "aggressive_anti_sanctuary",
-    "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "policy_conflict",
-    "policy_conflict": true,
-    "jurisdiction_notes": "Davidson County had limited cooperation policy but constrained by TN SB6002 (2025) criminalizing sanctuary policies."
-  },
-  {
-    "id": "T4-059",
-    "date": "2025-06-27",
-    "state": "Nevada",
-    "city": "Las Vegas",
-    "incident_type": "mass_raid",
-    "enforcement_granularity": "mass_raid_workplace",
-    "victim_category": "enforcement_target",
-    "victim_count": 45,
-    "outcome": "45 detained at casino construction project",
-    "notes": "ICE raided construction site for new casino on Las Vegas Strip. 45 workers detained. Casino development delayed by weeks. Union filed unfair labor practice charge alleging retaliation.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.reviewjournal.com/local/local-las-vegas/ice-raid-casino-construction",
-    "source_name": "Las Vegas Review-Journal",
-    "verified": true,
-    "affected_count": 45,
-    "incident_scale": "medium",
-    "outcome_detail": "45 detained at casino construction project",
-    "outcome_category": "detained",
-    "date_precision": "day",
-    "state_sanctuary_status": "neutral",
-    "detainer_policy": "case_by_case",
-    "local_sanctuary_status": "sanctuary_partial",
-    "jurisdiction_notes": "Metro PD has limited cooperation; does not honor all detainers.",
-    "policy_conflict": false
-  },
-  {
-    "id": "T4-060",
-    "date": "2025-08-03",
-    "state": "Iowa",
-    "city": "Des Moines",
-    "incident_type": "wrongful_detention",
-    "enforcement_granularity": "wrongful_detention",
-    "victim_category": "us_citizen_collateral",
-    "victim_name": "Jennifer Nguyen",
-    "victim_age": 28,
-    "us_citizen": true,
-    "outcome": "US citizen detained at work, released after 8 hours",
-    "notes": "US citizen of Vietnamese descent detained at restaurant where she worked as manager. Agents claimed she matched description of undocumented worker. Released after employer provided employment records.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.desmoinesregister.com/story/news/ice-wrongful-detention-citizen",
-    "source_name": "Des Moines Register",
-    "verified": true,
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "US citizen detained at work, released after 8 hours",
-    "outcome_category": "released",
-    "date_precision": "day",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Iowa SF 481 requires cooperation. Polk County has 287(g) agreement.",
-    "policy_conflict": false
-  },
-  {
-    "id": "T4-061",
-    "date": "2025-09-22",
-    "state": "Oklahoma",
-    "city": "Oklahoma City",
-    "incident_type": "less_lethal",
-    "protest_granularity": "force_deployment",
-    "victim_category": "protester",
-    "weapon_used": "pepper_spray",
-    "arrest_count": 15,
-    "outcome": "15 arrested, pepper spray used on crowd",
-    "protest_related": true,
-    "notes": "Protest outside Oklahoma City ICE field office. 15 arrested after crowd refused to disperse. Officers deployed pepper spray when protesters linked arms. Part of national day of action.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.oklahoman.com/story/news/ice-protest-pepper-spray-arrests",
-    "source_name": "The Oklahoman",
-    "verified": true,
-    "affected_count": 15,
-    "incident_scale": "medium",
-    "outcome_detail": "15 arrested, pepper spray used on crowd",
-    "outcome_category": "arrested",
-    "date_precision": "day",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Oklahoma HB 4156 grants state police immigration authority. Oklahoma County cooperative.",
-    "policy_conflict": false
-  },
-  {
-    "id": "T4-062",
-    "date": "2025-10-11",
-    "state": "Michigan",
-    "city": "Detroit",
-    "incident_type": "wrongful_detention",
-    "enforcement_granularity": "wrongful_detention",
-    "victim_category": "us_citizen_collateral",
-    "victim_name": "Ahmad Hassan",
-    "victim_age": 62,
-    "us_citizen": true,
-    "outcome": "naturalized citizen detained 36 hours",
-    "notes": "62-year-old naturalized US citizen detained for 36 hours. Originally from Lebanon, naturalized in 1992. Agents claimed his naturalization records were under review. CAIR-Michigan filed complaint.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.freep.com/story/news/local/ice-citizen-detention-dearborn",
-    "source_name": "Detroit Free Press",
-    "verified": true,
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "naturalized citizen detained 36 hours",
-    "outcome_category": "released",
-    "date_precision": "day",
-    "state_sanctuary_status": "neutral",
-    "detainer_policy": "honor_judicial",
-    "local_sanctuary_status": "sanctuary_limited",
-    "policy_conflict": false
-  },
-  {
-    "id": "T4-063",
-    "date": "2025-11-07",
-    "state": "Massachusetts",
-    "city": "Boston",
-    "incident_type": "physical_force",
-    "protest_granularity": "mass_arrest",
-    "victim_category": "protester",
-    "victim_name": "State Rep. Mike Connolly",
-    "victim_occupation": "Massachusetts State Representative",
-    "us_citizen": true,
-    "outcome": "state legislator arrested blocking ICE van",
-    "protest_related": true,
-    "notes": "Massachusetts State Representative arrested for blocking ICE transport van outside Suffolk County Jail. Charged with disorderly conduct. Fifth elected official arrested at ICE protest in 2025.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.boston.com/news/local/state-rep-arrested-ice-protest",
-    "source_name": "Boston.com",
-    "verified": true,
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "state legislator arrested blocking ICE van",
-    "outcome_category": "arrested",
-    "date_precision": "day",
-    "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all",
-    "local_sanctuary_status": "sanctuary_strong",
-    "jurisdiction_notes": "Trust Act + local policy.",
-    "policy_conflict": false
+    "correction_applied": true,
+    "correction_notes": "Original entry completely reversed the facts. Real incident: immigrant McIntosh assaulted Officer Mathers during hit-and-run stop; she tased him in self-defense. Entry incorrectly portrayed it as ICE agent violence against immigrant.",
+    "collection_method": "verified_correction",
+    "victim_name": "Officer Bailee Mathers",
+    "verification_sources": [
+      "https://www.wsmv.com/2025/09/10/officer-injured-while-attempting-arrest-hit-and-run-suspect-south-nashville/"
+    ],
+    "sources": [
+      {
+        "url": "https://fox17.com/news/local/ice-illegal-immigrant-from-jamaica-accused-of-assaulting-officer-in-south-nashville-immigration-tennessee",
+        "name": "Fox17 Nashville",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-058/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-064",
-    "date": "2025-12-19",
+    "date": "2025-12-17",
     "state": "Ohio",
     "city": "Columbus",
     "incident_type": "mass_raid",
-    "enforcement_granularity": "mass_raid_workplace",
-    "victim_category": "enforcement_target",
-    "victim_count": 33,
-    "outcome": "33 detained at food distribution center",
-    "notes": "ICE raided Sysco food distribution center. 33 workers detained. Operation disrupted holiday food deliveries to restaurants across central Ohio.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.dispatch.com/story/news/ice-raid-food-distribution-columbus",
-    "source_name": "Columbus Dispatch",
+    "outcome": "Operation Buckeye: 214+ detained December 17-23 including restaurant workers. 80% Latino, 2 US citizens wrongfully detained.",
     "verified": true,
-    "affected_count": 33,
-    "incident_scale": "medium",
-    "outcome_detail": "33 detained at food distribution center",
-    "outcome_category": "detained",
-    "date_precision": "day",
-    "state_sanctuary_status": "neutral",
-    "detainer_policy": "case_by_case",
-    "local_sanctuary_status": "sanctuary_partial",
-    "policy_conflict": false
-  },
-  {
-    "id": "T4-065",
-    "date": "2026-01-08",
-    "state": "New Mexico",
-    "city": "Albuquerque",
-    "incident_type": "shooting_by_agent",
-    "enforcement_granularity": "shooting_nonfatal",
-    "victim_category": "enforcement_target",
-    "victim_name": "Juan Ramirez-Flores",
-    "victim_age": 31,
-    "victim_nationality": "Mexico",
-    "outcome": "shot in leg during vehicle stop",
-    "notes": "Shot in leg by Border Patrol agent during traffic stop on I-25. Agent claimed vehicle moved toward him. Victim survived, hospitalized. Part of 30+ shootings by immigration agents since January 2025.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.abqjournal.com/news/border-patrol-shooting-albuquerque",
-    "source_name": "Albuquerque Journal",
-    "verified": true,
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "shot in leg during vehicle stop",
-    "outcome_category": "injury",
-    "date_precision": "day",
-    "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all",
-    "local_sanctuary_status": "sanctuary_strong",
-    "jurisdiction_notes": "DOJ designated sanctuary jurisdiction Aug 2025.",
-    "policy_conflict": false
+    "correction_applied": true,
+    "correction_notes": "Real operation was 'Operation Buckeye' with 214+ detained, not 33 at food distribution center.",
+    "collection_method": "verified_correction",
+    "victim_count": 214,
+    "verification_sources": [
+      "https://www.wosu.org/politics-government/2025-12-30/more-than-200-detained-in-ice-operation-buckeye-including-2-us-citizens-says-ohio-group"
+    ],
+    "sources": [
+      {
+        "url": "https://ohioimmigrant.org/blog/2025/12/24/operation-buckeye-is-a-black-eye-for-ice",
+        "name": "Ohio Immigrant Alliance",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-064/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-066",
-    "date": "2025-02-17",
+    "date": "2025",
+    "date_precision": "year",
     "state": "Indiana",
-    "city": "Indianapolis",
+    "city": "Indianapolis area",
     "incident_type": "mass_raid",
-    "enforcement_granularity": "mass_raid_residential",
-    "victim_category": "enforcement_target",
-    "victim_count": 19,
-    "outcome": "19 detained in apartment complex raid",
-    "notes": "ICE conducted pre-dawn raid on apartment complex on east side of Indianapolis. 19 people detained. Residents reported agents entered without warrants, which ICE denied.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.indystar.com/story/news/local/ice-raid-apartment-indianapolis",
-    "source_name": "Indianapolis Star",
+    "notes": "VERIFIED per Indiana Capital Chronicle/WRTV/WTHR: Apartment complex ICE raids confirmed by Miguel Avila (Indiana Assistance to Immigrants in Detention): 'In the place I live, apartment complex, they've been raid by ICE agents. They're breaking families apart.' Nearly 1,400 ICE arrests in Indiana Jan 20-Jun 26, 2025 (~80% increase). 55 of 300 June arrests had no criminal charges. Gov. Braun signed Jan 28, 2025 executive order mandating full state ICE cooperation.",
+    "outcome": "Apartment complex raids reported in Indianapolis area. Nearly 1,400 arrests in Indiana since Jan 20, 2025 (80% increase over prior year).",
     "verified": true,
-    "affected_count": 19,
-    "incident_scale": "medium",
-    "outcome_detail": "19 detained in apartment complex raid",
-    "outcome_category": "detained",
-    "date_precision": "day",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "honor_all",
-    "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Marion County. Indiana IC 5-2-18.2 is anti-sanctuary.",
-    "policy_conflict": false
-  },
-  {
-    "id": "T4-067",
-    "date": "2025-04-30",
-    "state": "South Carolina",
-    "city": "Greenville",
-    "incident_type": "physical_force",
-    "enforcement_granularity": "individual_force",
-    "victim_category": "bystander",
-    "victim_name": "Pastor Michael Thompson",
-    "victim_occupation": "Baptist minister",
-    "us_citizen": true,
-    "outcome": "pastor pushed to ground during church detention",
-    "notes": "Pastor pushed to ground by ICE agent while trying to intervene during detention of church member in parking lot. Filed assault complaint. Church declared itself sanctuary but ICE entered anyway.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.greenvilleonline.com/story/news/ice-church-pastor-assault",
-    "source_name": "Greenville News",
-    "verified": true,
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "pastor pushed to ground during church detention",
-    "outcome_category": "injury",
-    "date_precision": "day",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "honor_all"
-  },
-  {
-    "id": "T4-068",
-    "date": "2025-07-03",
-    "state": "Utah",
-    "city": "Salt Lake City",
-    "incident_type": "wrongful_detention",
-    "enforcement_granularity": "wrongful_detention",
-    "victim_category": "us_citizen_collateral",
-    "victim_name": "Maria Santos",
-    "victim_age": 44,
-    "us_citizen": true,
-    "outcome": "US citizen detained during July 4th traffic stop",
-    "notes": "US citizen detained during traffic stop the day before July 4th. Agents refused to accept her US passport as proof of citizenship. Held 14 hours before supervisory review confirmed citizenship.",
-    "source_tier": 4,
-    "collection_method": "ad_hoc_search",
-    "source_url": "https://www.sltrib.com/news/ice-wrongful-detention-july-fourth",
-    "source_name": "Salt Lake Tribune",
-    "verified": true,
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "US citizen detained during July 4th traffic stop",
-    "outcome_category": "released",
-    "date_precision": "day",
-    "state_sanctuary_status": "neutral",
-    "detainer_policy": "case_by_case",
-    "local_sanctuary_status": "sanctuary_partial",
-    "jurisdiction_notes": "Some local limits on ICE cooperation despite no state policy.",
-    "policy_conflict": false
+    "collection_method": "verified_correction",
+    "affected_count": 1400,
+    "incident_scale": "mass",
+    "sources": [
+      {
+        "url": "https://indianacapitalchronicle.com/2025/07/28/indiana-immigration-arrests-surge-despite-stalled-ice-partnerships/",
+        "name": "Indiana Capital Chronicle",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-066/article.html"
+      },
+      {
+        "url": "https://www.wrtv.com/news/local-news/protestors-at-indiana-statehouse-say-no-to-ice-in-response-to-gov-brauns-executive-order",
+        "name": "WRTV Indianapolis",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-066/article_1.txt"
+      },
+      {
+        "url": "https://www.wthr.com/article/news/local/number-of-ice-arrests-up-indiana-immigration-deportation/531-9712deec-f8b3-4d80-8918-6d459ea5913f",
+        "name": "WTHR",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-066/article_2.txt"
+      }
+    ]
   },
   {
     "id": "T4-070",
@@ -1540,10 +1675,7 @@
     "us_citizen": true,
     "outcome": "Army veteran detained 8 hours, no charges",
     "notes": "39-year-old US citizen, Army veteran (2004-2009, Iraq 2006-2007), Purple Heart recipient. Tackled while standing on sidewalk observing ICE detention. Denied phone call or attorney. DHS claimed 'assault' but no charges filed. Incident blocks from where Renee Good was shot.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://abcnews.go.com/US/army-vet-detained-ice-8-hours-allowed-call/story?id=129379081",
-    "source_name": "ABC News",
     "verified": true,
     "affected_count": 1,
     "outcome_category": "released",
@@ -1554,7 +1686,17 @@
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
     "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://abcnews.go.com/US/army-vet-detained-ice-8-hours-allowed-call/story?id=129379081",
+        "name": "ABC News",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-070/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-072",
@@ -1568,10 +1710,7 @@
     "us_citizen": true,
     "outcome": "US citizen family detained for speaking Spanish",
     "notes": "3-year-old toddler, mother, grandmother - all US citizens born in Puerto Rico. Detained while shopping after being overheard speaking Spanish. Not allowed to present ID until at detention center. ICE apologized but refused to drive them back.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://truthout.org/articles/family-us-citizens-shopping-in-milwaukee-was-detained-for-speaking-spanish/",
-    "source_name": "Truthout",
     "verified": true,
     "affected_count": 3,
     "outcome_category": "released",
@@ -1581,7 +1720,17 @@
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://truthout.org/articles/family-us-citizens-shopping-in-milwaukee-was-detained-for-speaking-spanish/",
+        "name": "Truthout",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-072/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-074",
@@ -1595,10 +1744,7 @@
     "us_citizen": false,
     "outcome": "disabled Army veteran detained 4 months, ruled unlawful",
     "notes": "Disabled Army veteran, LPR since 2001, National Guard 2001-2005. Uses wheelchair. Detained at citizenship interview. Judge ruled detention unlawful, US Attorney apologized. Went 4 months without ophthalmologist despite thyroid eye disease. President of Veterans for Peace chapter.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.military.com/daily-news/2025/12/23/federal-judge-releases-disabled-veteran-ice-custody.html",
-    "source_name": "Military.com",
     "verified": true,
     "affected_count": 1,
     "outcome_category": "released",
@@ -1608,7 +1754,17 @@
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
-    "jurisdiction_notes": "Site of Northwest Detention Center (now Northwest ICE Processing Center). State has Keep Washington Working Act."
+    "jurisdiction_notes": "Site of Northwest Detention Center (now Northwest ICE Processing Center). State has Keep Washington Working Act.",
+    "sources": [
+      {
+        "url": "https://www.military.com/daily-news/2025/12/23/federal-judge-releases-disabled-veteran-ice-custody.html",
+        "name": "Military.com",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-074/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-075",
@@ -1622,11 +1778,8 @@
     "us_citizen": true,
     "children_affected": true,
     "outcome": "3 US citizen children deported to Honduras",
-    "notes": "Romeo (4-5yo with Stage 4 kidney cancer), 7yo sister, 2yo girl - all US citizens. Swept up with mothers, detained in hotel rooms incommunicado, deported within 1-2 days. Romeo deported without cancer medication. Lawsuit filed (J.L.V. v. Acuna).",
-    "source_tier": 4,
+    "notes": "April 25, 2025: Romeo (4, US citizen, Stage 4 kidney cancer metastasized to lungs, was receiving treatment at Manning Family Children's Hospital NO), Ruby (7, US citizen), and Jade (2, US citizen) deported to Honduras with mothers Julia and Rosario. Mothers showed up at check-in with passports per ICE instructions. Held incommunicado, denied counsel. Julia signed consent under threat Jade would go to foster care. Romeo now must travel US-Honduras for cancer care. Lawsuit J.L.V. v. Acuna filed July 31 in M.D. Louisiana.",
     "collection_method": "systematic_search",
-    "source_url": "https://www.nbcnews.com/news/us-news/ice-deport-us-citizen-kids-stage-4-cancer-honduras-rcna224501",
-    "source_name": "NBC News",
     "verified": true,
     "affected_count": 3,
     "outcome_category": "deported",
@@ -1640,7 +1793,17 @@
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "state_mandated",
     "canonical_incident_id": "INC-2025-04-25-LA-CHILDREN",
-    "is_primary_record": false
+    "is_primary_record": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-deport-us-citizen-kids-stage-4-cancer-honduras-rcna224501",
+        "name": "NBC News",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-075/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-076",
@@ -1653,10 +1816,7 @@
     "victim_name": "Mandonna Kashanian",
     "outcome": "Iranian grandmother detained while gardening",
     "notes": "Iranian grandmother, lived in US nearly 50 years, no criminal record. Detained by ICE while gardening outside home. Released after nearly 3 weeks when House Majority Leader Scalise and State Rep. Hilferty intervened.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://thehill.com/homenews/state-watch/5392114-iranian-grandmother-detained-by-ice-louisiana-scalise/",
-    "source_name": "The Hill",
     "verified": true,
     "affected_count": 1,
     "outcome_category": "released",
@@ -1664,7 +1824,17 @@
     "incident_scale": "single",
     "outcome_detail": "Iranian grandmother detained while gardening",
     "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated"
+    "detainer_policy": "state_mandated",
+    "sources": [
+      {
+        "url": "https://thehill.com/homenews/state-watch/5392114-iranian-grandmother-detained-by-ice-louisiana-scalise/",
+        "name": "The Hill",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-076/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-077",
@@ -1678,10 +1848,7 @@
     "victim_age": 73,
     "outcome": "73-year-old grandmother detained at routine check-in",
     "notes": "73-year-old grandmother with legal status. Faithfully reported to ICE every 6 months for 13+ years. Detained at routine check-in in SF, transferred to Fresno then Bakersfield in handcuffs (arrived 3am). No criminal record. 10,000+ signed petition for release.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.nbcnews.com/news/us-news/california-grandmother-detained-ice-check-ins-immigration-rcna231685",
-    "source_name": "NBC News",
     "verified": true,
     "affected_count": 1,
     "outcome_category": "detained",
@@ -1689,7 +1856,17 @@
     "incident_scale": "single",
     "outcome_detail": "73-year-old grandmother detained at routine check-in",
     "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all"
+    "detainer_policy": "decline_all",
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/california-grandmother-detained-ice-check-ins-immigration-rcna231685",
+        "name": "NBC News",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-077/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-078",
@@ -1701,10 +1878,7 @@
     "victim_category": "enforcement_target",
     "outcome": "12+ detained at Italian restaurant, flash bangs used",
     "notes": "Buona Forchetta restaurant. 20+ masked agents in military gear. Investigation began after 2020/2025 tips. 47.5% of workforce had fraudulent green cards. Flash bangs used to disperse crowd. Mayor Gloria called it 'deeply upsetting.' All 7 locations closed temporarily.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.kpbs.org/news/border-immigration/2025/05/30/ice-arrests-several-workers-from-south-park-restaurant",
-    "source_name": "KPBS",
     "verified": true,
     "affected_count": 12,
     "outcome_category": "detained",
@@ -1714,7 +1888,17 @@
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_limited",
-    "jurisdiction_notes": "DOJ designated. Border county with complex dynamics."
+    "jurisdiction_notes": "DOJ designated. Border county with complex dynamics.",
+    "sources": [
+      {
+        "url": "https://www.kpbs.org/news/border-immigration/2025/05/30/ice-arrests-several-workers-from-south-park-restaurant",
+        "name": "KPBS",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-078/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-079",
@@ -1727,10 +1911,7 @@
     "victim_count": 12,
     "outcome": "12+ workers detained at Chinese buffet",
     "notes": "Golden Apple Buffet. Workers from China, Mexico, Indonesia. Agents used battering rams to enter employee housing. Two workers showering when agents pointed guns at them. Owners charged with 'bringing in and harboring aliens.' Restaurant reopened Sep 23.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.stlpr.org/show/st-louis-on-the-air/2025-11-03/immigration-raid-st-louis-targeted-food-workers-attorney-larger-crackdown",
-    "source_name": "St. Louis Public Radio",
     "verified": true,
     "affected_count": 12,
     "outcome_category": "detained",
@@ -1738,7 +1919,17 @@
     "incident_scale": "medium",
     "outcome_detail": "12+ workers detained at Chinese buffet",
     "state_sanctuary_status": "neutral",
-    "detainer_policy": "case_by_case"
+    "detainer_policy": "case_by_case",
+    "sources": [
+      {
+        "url": "https://www.stlpr.org/show/st-louis-on-the-air/2025-11-03/immigration-raid-st-louis-targeted-food-workers-attorney-larger-crackdown",
+        "name": "St. Louis Public Radio",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-079/article.txt"
+      }
+    ]
   },
   {
     "id": "T4-080",
@@ -1754,10 +1945,7 @@
     "outcome": "Mayor arrested, charges later dropped",
     "protest_related": true,
     "notes": "Mayor Ras Baraka arrested by 12-20 ICE/HSI officers outside newly opened Delaney Hall. Three members of Congress present (Reps. Menendez, McIver, Watson Coleman). Protesters formed human shield. Rep. McIver later charged with assaulting federal officer. Baraka charges dropped.",
-    "source_tier": 4,
     "collection_method": "systematic_search",
-    "source_url": "https://www.cnn.com/2025/05/09/us/new-jersey-mayor-arrested-at-ice-detention-center",
-    "source_name": "CNN",
     "verified": true,
     "affected_count": 2,
     "outcome_category": "arrested",
@@ -1773,6 +1961,269 @@
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Mayor Ras Baraka publicly defied ICE Jan 2025.",
     "canonical_incident_id": "INC-2025-05-09-NJ-BARAKA",
-    "is_primary_record": false
+    "is_primary_record": false,
+    "sources": [
+      {
+        "url": "https://www.cnn.com/2025/05/09/us/new-jersey-mayor-arrested-at-ice-detention-center",
+        "name": "CNN",
+        "tier": 4,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-080/article.txt"
+      }
+    ]
+  },
+  {
+    "id": "T4-081",
+    "date": "2025-06-13",
+    "state": "North Carolina",
+    "city": "Charlotte (Uptown)",
+    "incident_type": "mass_raid",
+    "victim_category": "enforcement_target",
+    "outcome": "Construction site raid, 250+ arrested across Charlotte area",
+    "protest_related": false,
+    "notes": "VERIFIED: ICE raid on construction site at North Tryon St in uptown Charlotte on June 13, 2025. Confirmed by Charlotte Alerts News.",
+    "collection_method": "news_search",
+    "verified": true,
+    "affected_count": 250,
+    "incident_scale": "large",
+    "outcome_detail": "250+ arrested, construction industry devastated",
+    "outcome_category": "arrested",
+    "date_precision": "day",
+    "state_sanctuary_status": "non_sanctuary",
+    "detainer_policy": "honor_all",
+    "local_sanctuary_status": "none",
+    "jurisdiction_notes": "North Carolina - no sanctuary protections. Governor cooperating with federal enforcement.",
+    "sources": [
+      {
+        "url": "https://www.charlottealertsnews.com/news/ice-immigration-raid-in-uptown-charlotte-on-north-tryon-st-at-construction-site/",
+        "name": "Charlotte Alerts News",
+        "tier": 3,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-081/article.txt"
+      },
+      {
+        "url": "https://www.cnn.com/2025/11/19/us/north-carolina-charlotte-ice-raids-what-we-know/",
+        "name": "CNN",
+        "tier": 1,
+        "archived": true,
+        "archive_path": "data/sources/T4-081/article_1.txt",
+        "primary": false
+      },
+      {
+        "url": "https://www.france24.com/en/americas/20251128-north-carolina-immigration-crackdown-charlotte-fear-workers",
+        "name": "France 24",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-081/article_2.txt",
+        "primary": false
+      },
+      {
+        "url": "https://www.theassemblync.com/news/politics/immigration/immigration-arrests-economy-charlotte/",
+        "name": "The Assembly NC",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-081/article_3.txt",
+        "primary": false
+      }
+    ]
+  },
+  {
+    "id": "T4-082",
+    "date": "2025-06-25",
+    "state": "North Carolina",
+    "city": "Kings Mountain",
+    "incident_type": "mass_raid",
+    "victim_category": "enforcement_target",
+    "victim_count": 30,
+    "outcome": "30 detained at factory",
+    "protest_related": false,
+    "notes": "Federal agents arrested 30 people at Kings Mountain factory during workplace enforcement operation led by ICE. Part of ramped up activity across Charlotte area.",
+    "collection_method": "news_search",
+    "verified": true,
+    "affected_count": 30,
+    "incident_scale": "medium",
+    "outcome_detail": "30 detained at factory",
+    "outcome_category": "arrested",
+    "date_precision": "day",
+    "state_sanctuary_status": "non_sanctuary",
+    "detainer_policy": "honor_all",
+    "local_sanctuary_status": "none",
+    "jurisdiction_notes": "North Carolina - no sanctuary protections.",
+    "sources": [
+      {
+        "url": "https://www.wfae.org/race-equity/2025-06-27/ice-30-detained-as-agents-raid-kings-mountain-factory",
+        "name": "WFAE Charlotte NPR",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-082/article.txt"
+      }
+    ]
+  },
+  {
+    "id": "T4-083",
+    "date": "2025-04-15",
+    "state": "Nevada",
+    "city": "Las Vegas",
+    "incident_type": "mass_raid",
+    "victim_category": "enforcement_target",
+    "victim_count": 8,
+    "outcome": "8 construction workers arrested at worksite",
+    "protest_related": false,
+    "notes": "ICE agents arrested 8 construction workers at worksite near Eastern and Ogden avenues. Nevada Immigration Coalition reported 100 ICE agents in Las Vegas Valley until Easter. Many enforcement activities in morning at construction sites. Nevada has largest per capita undocumented population of any state - 9% of workforce.",
+    "collection_method": "news_search",
+    "verified": true,
+    "affected_count": 8,
+    "incident_scale": "small",
+    "outcome_detail": "8 construction workers arrested",
+    "outcome_category": "arrested",
+    "date_precision": "week",
+    "state_sanctuary_status": "non_sanctuary",
+    "detainer_policy": "mixed",
+    "local_sanctuary_status": "none",
+    "jurisdiction_notes": "Nevada - largest per capita undocumented population in US.",
+    "sources": [
+      {
+        "url": "https://www.8newsnow.com/news/local-news/immigration-advocacy-group-says-ice-agents-stepping-up-enforcement-in-las-vegas/",
+        "name": "8 News Now Las Vegas",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-083/article.txt"
+      },
+      {
+        "url": "https://thenevadaindependent.com/article/nevada-immigrant-advocates-warn-of-increased-ice-activity-but-few-details-available",
+        "name": "Nevada Independent",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-083/article_1.txt"
+      },
+      {
+        "url": "https://lasvegassun.com/news/2025/apr/15/immigrant-advocates-warn-of-ice-activity-in-las-ve/",
+        "name": "Las Vegas Sun",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-083/article_2.txt"
+      }
+    ]
+  },
+  {
+    "id": "T4-084",
+    "date": "2025-05-01",
+    "state": "Alabama",
+    "city": "Alabama (multiple sites)",
+    "incident_type": "wrongful_detention",
+    "victim_category": "us_citizen",
+    "victim_name": "Leonardo Garcia Venegas",
+    "us_citizen": true,
+    "outcome": "US citizen detained twice in workplace raids, filed federal lawsuit",
+    "protest_related": false,
+    "notes": "Leonardo Garcia Venegas, US citizen and construction worker, detained TWICE by immigration agents within weeks. Video shows him forced to ground repeatedly insisting he was citizen. Agents targeted workers who 'looked Latino'. Released after more than an hour. Filed federal lawsuit demanding end to workplace raids, alleging Fourth Amendment violation.",
+    "collection_method": "news_search",
+    "verified": true,
+    "affected_count": 1,
+    "incident_scale": "single",
+    "outcome_detail": "US citizen detained twice, federal lawsuit filed",
+    "outcome_category": "wrongful_detention",
+    "date_precision": "month",
+    "state_sanctuary_status": "non_sanctuary",
+    "detainer_policy": "honor_all",
+    "local_sanctuary_status": "none",
+    "jurisdiction_notes": "Alabama - aggressive cooperation with federal immigration enforcement.",
+    "sources": [
+      {
+        "url": "https://www.pbs.org/newshour/nation/u-s-citizen-wrongfully-detained-twice-in-alabama-workplace-raids-sues-immigration-authorities",
+        "name": "PBS NewsHour",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-084/article.txt"
+      },
+      {
+        "url": "https://abcnews.go.com/US/us-born-citizen-sues-after-arrested-immigration-agents/story?id=126129734",
+        "name": "ABC News",
+        "tier": 1,
+        "archived": true,
+        "archive_path": "data/sources/T4-084/article_1.txt"
+      }
+    ]
+  },
+  {
+    "id": "T4-085",
+    "date": "2025-06-15",
+    "state": "California",
+    "city": "Los Angeles (Dodger Stadium)",
+    "incident_type": "wrongful_detention",
+    "victim_category": "us_citizen",
+    "victim_name": "Job Garcia",
+    "us_citizen": true,
+    "outcome": "US citizen detained, held at Dodger Stadium with other detainees",
+    "protest_related": false,
+    "notes": "Job Garcia, US citizen from Los Angeles, detained by Border Patrol agents. As transferred to another agent, heard first agent say 'I got another one'. Taken in van to Dodger Stadium with other men arrested that afternoon. Although agents confirmed he was US citizen with no warrants, they continued to hold him. MALDEF filed Federal Tort Claims Act claim.",
+    "collection_method": "news_search",
+    "verified": true,
+    "affected_count": 1,
+    "incident_scale": "single",
+    "outcome_detail": "US citizen detained despite confirmation of citizenship",
+    "outcome_category": "wrongful_detention",
+    "date_precision": "month",
+    "state_sanctuary_status": "sanctuary",
+    "detainer_policy": "decline_all",
+    "local_sanctuary_status": "sanctuary_strong",
+    "jurisdiction_notes": "Special Order 40 (1979) - oldest major city sanctuary policy.",
+    "sources": [
+      {
+        "url": "https://www.maldef.org/2025/07/maldef-takes-a-step-toward-civil-rights-lawsuit-on-behalf-of-u-s-citizen-detained-by-ice/",
+        "name": "MALDEF",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-085/article.txt"
+      },
+      {
+        "url": "https://www.villanovalawreview.com/post/3472-i-got-another-one-the-american-citizens-suing-ice-for-illegal-detention",
+        "name": "Villanova Law Review",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T4-085/article_1.txt"
+      }
+    ]
+  },
+  {
+    "id": "T4-086",
+    "date": "2025-06-01",
+    "state": "California",
+    "city": "Ventura",
+    "incident_type": "wrongful_detention",
+    "victim_category": "us_citizen",
+    "victim_name": "George Retes",
+    "victim_occupation": "Iraq War veteran",
+    "us_citizen": true,
+    "outcome": "US citizen Iraq veteran detained 3 days, placed on suicide watch",
+    "protest_related": false,
+    "notes": "George Retes, 26-year-old US citizen and Iraq combat veteran born and raised in Ventura, California. ICE agents broke his car window at roadblock. Wrongfully detained, stripped of rights, held down by officers kneeling on neck and back, jailed 3 days, placed on suicide watch - without explanation, charges, or apology.",
+    "collection_method": "news_search",
+    "verified": true,
+    "affected_count": 1,
+    "incident_scale": "single",
+    "outcome_detail": "US citizen Iraq veteran detained 3 days without charges",
+    "outcome_category": "wrongful_detention",
+    "date_precision": "month",
+    "state_sanctuary_status": "sanctuary",
+    "detainer_policy": "decline_all",
+    "local_sanctuary_status": "sanctuary_strong",
+    "jurisdiction_notes": "California Values Act protections.",
+    "sources": [
+      {
+        "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will",
+        "name": "ProPublica",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T4-086/article.txt"
+      }
+    ]
   }
 ]

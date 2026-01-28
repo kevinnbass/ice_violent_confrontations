@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-P037",
+  "url": "https://www.axios.com/local/chicago/2025/09/19/daniel-biss-protesters-tear-gas-ice-broadview-agents",
+  "final_url": "https://www.axios.com/local/chicago/2025/09/19/daniel-biss-protesters-tear-gas-ice-broadview-agents",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "193654f7cf79c5ac5b747e385986c20c9d92ae491817f3d43d374500e61d9e35",
+  "title": "Evanston Mayor Daniel Biss among protesters hit with tear gas at ICE facility - Axios Chicago",
+  "fetched_at": "2026-01-27T14:47:25.874816",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260114054838/https://www.axios.com/local/chicago/2025/09/19/daniel-biss-protesters-tear-gas-ice-broadview-agents",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.axios.com/local/chicago/2025/09/19/daniel-biss-protesters-tear-gas-ice-broadview-agents",
+      "final_url": "https://www.axios.com/local/chicago/2025/09/19/daniel-biss-protesters-tear-gas-ice-broadview-agents",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7523,
+      "content_hash": "72a1cf7bdf30cf5d744a8c19eef3b6ad7dd550b04cfe430af11d3c9d40a58263",
+      "title": "Evanston Mayor Daniel Biss among protesters hit with tear gas at ICE facility - Axios Chicago",
+      "fetched_at": "2026-01-27T16:28:37.625721",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260114054838/https://www.axios.com/local/chicago/2025/09/19/daniel-biss-protesters-tear-gas-ice-broadview-agents",
+      "archive_path": "data\\sources\\T3-P037\\article_wayback.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.cnn.com/2025/09/19/us/ice-chicago-protests-broadview",
+      "final_url": "https://www.cnn.com/2025/09/19/us/ice-chicago-protests-broadview",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "6ad56eb0e7d2f50eb0a93f0bb41ea2ef3f99a9dc3c62c03f80ef3cf33e57cf4d",
+      "title": "ICE facility protest: Chicago-area mayor says federal agents tear-gassed him | CNN",
+      "fetched_at": "2026-01-27T15:50:59.358641",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251017131535/https://www.cnn.com/2025/09/19/us/ice-chicago-protests-broadview",
+      "archive_path": "data\\sources\\T3-P037\\article_1_wayback.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://blockclubchicago.org/2025/09/19/ice-tear-gasses-detains-protesters-outside-broadview-facility/",
+      "final_url": "https://blockclubchicago.org/2025/09/19/ice-tear-gasses-detains-protesters-outside-broadview-facility/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 404881,
+      "content_hash": "c59e86279f2db79de9e3b4360727099e30b5b2870ef2539fa80e8bd173a55c71",
+      "title": "Agents Tear Gas, Detain Demonstrators Outside Broadview ICE Facility During Friday Protest",
+      "fetched_at": "2026-01-27T16:30:46.647385",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P037\\article_2.txt"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "entry_id": "T4-085",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.maldef.org/2025/07/maldef-takes-a-step-toward-civil-rights-lawsuit-on-behalf-of-u-s-citizen-detained-by-ice/",
+      "status_code": 200,
+      "archive_path": "data\\sources\\T4-085\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.villanovalawreview.com/post/3472-i-got-another-one-the-american-citizens-suing-ice-for-illegal-detention",
+      "status_code": 200,
+      "archive_path": "data\\sources\\T4-085\\article_1.txt"
+    }
+  ]
+}

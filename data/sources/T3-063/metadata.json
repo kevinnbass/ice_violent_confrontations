@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-063",
+  "url": "https://www.wgcu.org/top-story/2025-11-12/reported-ice-activity-in-immokalee-wednesday-morning-prompts-community-warning",
+  "final_url": "https://www.wgcu.org/top-story/2025-11-12/reported-ice-activity-in-immokalee-wednesday-morning-prompts-community-warning",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "09ee6611f97be5355d6402ba532e66ff1b12b6c80b528c7ea78ae082ddae9e38",
+  "title": "Field workers  pulled from Pacific Tomato Growers' bus  outside Immokalee Wednesday morning | WGCU PBS & NPR for Southwest Florida",
+  "fetched_at": "2026-01-27T14:46:20.364080",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260117222100/https://www.wgcu.org/top-story/2025-11-12/reported-ice-activity-in-immokalee-wednesday-morning-prompts-community-warning",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.wgcu.org/top-story/2025-11-12/reported-ice-activity-in-immokalee-wednesday-morning-prompts-community-warning",
+      "final_url": "https://www.wgcu.org/top-story/2025-11-12/reported-ice-activity-in-immokalee-wednesday-morning-prompts-community-warning",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 202243,
+      "content_hash": "e73fe0ed72e894dda2980fef229d327d510cf847ca6080f7a46ad010a8b28cfc",
+      "title": "Field workers  pulled from Pacific Tomato Growers' bus  outside Immokalee Wednesday morning | WGCU PBS & NPR for Southwest Florida",
+      "fetched_at": "2026-01-27T16:27:57.372856",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-063\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.fox4now.com/immokalee/neighbors-report-ice-agents-detaining-farmworkers-on-bus-in-immokalee",
+      "final_url": "https://www.fox4now.com/immokalee/neighbors-report-ice-agents-detaining-farmworkers-on-bus-in-immokalee",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 249083,
+      "content_hash": "cd47325b0c3ba9705bdb2540045b3ee27d8c0f6debe877b6346844d16a718099",
+      "title": "Neighbors report ICE agents detaining farmworkers on bus in Immokalee",
+      "fetched_at": "2026-01-27T16:28:25.945444",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-063\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://civileats.com/2025/06/11/ice-raids-target-workers-on-farms-and-in-food-production-a-running-list/",
+      "final_url": "https://civileats.com/2025/06/11/ice-raids-target-workers-on-farms-and-in-food-production-a-running-list/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 150912,
+      "content_hash": "dced282c4029d2275c0d3419ac4d3243667fdc594df9f3c1c76439bab178b633",
+      "title": "ICE Raids Target Workers on Farms and in Food Production: A Running List | Civil Eats",
+      "fetched_at": "2026-01-27T16:28:54.308316",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-063\\article_2.txt"
+    }
+  ]
+}

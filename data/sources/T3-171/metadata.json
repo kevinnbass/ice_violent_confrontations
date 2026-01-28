@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-171",
+  "url": "https://www.ajc.com/news/georgia-news/were-not-hurting-anybody-says-wife-of-immigrant-taken-from-georgia-church/4KFQFD3S6JHL7FDS52LLMG57HU/",
+  "final_url": "https://www.ajc.com/news/georgia-news/were-not-hurting-anybody-says-wife-of-immigrant-taken-from-georgia-church/4KFQFD3S6JHL7FDS52LLMG57HU/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "ef3ef91a8bfbe4236afdca627cf9a6f8440df09e29049a2510ef0b1a7e1e80ff",
+  "title": "ICE arrests immigrant while he and his family attend Atlanta church",
+  "fetched_at": "2026-01-27T14:46:37.172263",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251006114034/https://www.ajc.com/news/georgia-news/were-not-hurting-anybody-says-wife-of-immigrant-taken-from-georgia-church/4KFQFD3S6JHL7FDS52LLMG57HU/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ajc.com/news/georgia-news/were-not-hurting-anybody-says-wife-of-immigrant-taken-from-georgia-church/4KFQFD3S6JHL7FDS52LLMG57HU/",
+      "final_url": "https://www.ajc.com/news/georgia-news/were-not-hurting-anybody-says-wife-of-immigrant-taken-from-georgia-church/4KFQFD3S6JHL7FDS52LLMG57HU/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1429769,
+      "content_hash": "0171b415b2522f3785b5ae1e54b457ccd3848cb4300d9a2f5b07c88bb6e5a897",
+      "title": "ICE arrests immigrant while he and his family attend Atlanta church",
+      "fetched_at": "2026-01-27T16:28:04.675508",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-171\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.latintimes.com/man-arrested-ice-feet-away-his-family-georgia-church-allegedly-had-work-permit-573962",
+      "final_url": "https://www.latintimes.com/man-arrested-ice-feet-away-his-family-georgia-church-allegedly-had-work-permit-573962",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 426643,
+      "content_hash": "7f7fac68da14cd762575ed0c6c17c7648d7a20b61d2d48905c8966260bc7f0f4",
+      "title": "Man Arrested by ICE Feet Away From His Family at a Georgia Church Allegedly Had a Work Permit",
+      "fetched_at": "2026-01-27T16:28:37.456940",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-171\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://wordandway.org/2025/02/04/ices-cold-shoulder-to-churches/",
+      "final_url": "https://wordandway.org/2025/02/04/ices-cold-shoulder-to-churches/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 148155,
+      "content_hash": "f5e40e3868b152a207e64ab67cb771c0a186af866be363a6f1ae66b381e633ac",
+      "title": "ICE\u2019s Cold Shoulder to Churches - Word&Way",
+      "fetched_at": "2026-01-27T16:29:01.660888",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-171\\article_2.txt"
+    }
+  ]
+}

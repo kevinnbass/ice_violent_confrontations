@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-054",
+  "url": "https://www.ice.gov/news/releases/ice-federal-partners-arrest-nearly-1500-illegal-aliens-massachusetts-during",
+  "final_url": "https://www.ice.gov/news/releases/ice-federal-partners-arrest-nearly-1500-illegal-aliens-massachusetts-during",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 125439,
+  "content_hash": "7a79305183286a2b4fb3586c10c139ae674ab9cd0feda3e3cbb0dacf922f52fc",
+  "title": "ICE, federal partners arrest nearly 1,500 illegal aliens in Massachusetts during immigration enforcement operation | ICE",
+  "fetched_at": "2026-01-27T14:46:04.585688",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ice.gov/news/releases/ice-federal-partners-arrest-nearly-1500-illegal-aliens-massachusetts-during",
+      "final_url": "https://www.ice.gov/news/releases/ice-federal-partners-arrest-nearly-1500-illegal-aliens-massachusetts-during",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 125439,
+      "content_hash": "18949ec55ba89050b7c75f8216c0511a0c524f859fed96dff5081b3b1056df90",
+      "title": "ICE, federal partners arrest nearly 1,500 illegal aliens in Massachusetts during immigration enforcement operation | ICE",
+      "fetched_at": "2026-01-27T16:28:10.321611",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-054\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.dhs.gov/news/2025/06/06/operation-patriot-results-numerous-arrests-criminal-illegal-aliens-detainers-were",
+      "final_url": "https://www.dhs.gov/news/2025/06/06/operation-patriot-results-numerous-arrests-criminal-illegal-aliens-detainers-were",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 309578,
+      "content_hash": "1a397c219b18cea04f45704a9f5976a140be1470b4becaed7793c2da92f37fb9",
+      "title": "Operation Patriot Results in Numerous Arrests of Criminal Illegal Aliens with Detainers that Were Ignored Due to Sanctuary Policies | Homeland Security",
+      "fetched_at": "2026-01-27T16:28:43.990062",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-054\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.foxnews.com/politics/largest-ever-ice-operation-results-nearly-1500-illegals-arrested-blue-state",
+      "final_url": "https://www.foxnews.com/politics/largest-ever-ice-operation-results-nearly-1500-illegals-arrested-blue-state",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 432888,
+      "content_hash": "6686628274746c9c920ebacfe7487ec08f9248fe3567dd456a91b32b4af59ee2",
+      "title": "Nearly 1,500 arrested in deep blue state amid ICE's 'Operation Patriot' | Fox News",
+      "fetched_at": "2026-01-27T16:29:41.062726",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-054\\article_2.txt"
+    }
+  ]
+}

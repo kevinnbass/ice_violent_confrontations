@@ -1,0 +1,29 @@
+{
+  "entry_id": "T4-076",
+  "url": "https://thehill.com/homenews/state-watch/5392114-iranian-grandmother-detained-by-ice-louisiana-scalise/",
+  "final_url": "https://thehill.com/homenews/state-watch/5392114-iranian-grandmother-detained-by-ice-louisiana-scalise/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "3b993f3a6fa221b243bb8d32331fb73921cb4640b5b7d740352612ded594d488",
+  "title": "Iranian grandmother released after being detained by ICE while gardening outside Louisiana home",
+  "fetched_at": "2026-01-27T14:48:44.487997",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20250710041453/https://thehill.com/homenews/state-watch/5392114-iranian-grandmother-detained-by-ice-louisiana-scalise/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://thehill.com/homenews/state-watch/5392114-iranian-grandmother-detained-by-ice-louisiana-scalise/",
+      "final_url": "https://thehill.com/homenews/state-watch/5392114-iranian-grandmother-detained-by-ice-louisiana-scalise/",
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": 6515,
+      "content_hash": "0735ec7ab5033e91eb854c25926cf7447ed1dea10d7df864b3ecd5a006e4b5e0",
+      "title": "Iranian grandmother released after being detained by ICE while gardening outside Louisiana home",
+      "fetched_at": "2026-01-27T16:28:47.341815",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20250710041453/https://thehill.com/homenews/state-watch/5392114-iranian-grandmother-detained-by-ice-louisiana-scalise/",
+      "archive_path": "data\\sources\\T4-076\\article_wayback.txt"
+    }
+  ]
+}

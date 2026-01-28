@@ -1,0 +1,29 @@
+{
+  "entry_id": "T1-D-059",
+  "url": "https://elpasomatters.org/2025/12/09/ice-detainee-death-immigrant-camp-east-montana-fort-bliss-el-paso-texas/",
+  "final_url": "https://elpasomatters.org/2025/12/09/ice-detainee-death-immigrant-camp-east-montana-fort-bliss-el-paso-texas/",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 327047,
+  "content_hash": "07253314097eef0d3cd80892ca3b5f14dbb08737d438fdf1c96f70afdb5ce244",
+  "title": "Guatemalan under ICE custody in El Paso at Camp East Montana dies - El Paso Matters",
+  "fetched_at": "2026-01-27T14:45:47.434376",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://elpasomatters.org/2025/12/09/ice-detainee-death-immigrant-camp-east-montana-fort-bliss-el-paso-texas/",
+      "final_url": "https://elpasomatters.org/2025/12/09/ice-detainee-death-immigrant-camp-east-montana-fort-bliss-el-paso-texas/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 326771,
+      "content_hash": "d808d6504c95730761a415d0ae21528630d346d5d98b4364f46e0f5066609515",
+      "title": "Guatemalan under ICE custody in El Paso at Camp East Montana dies - El Paso Matters",
+      "fetched_at": "2026-01-27T16:27:43.075027",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-059\\article.txt"
+    }
+  ]
+}

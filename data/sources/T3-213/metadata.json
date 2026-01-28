@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-213",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://theintercept.com/2025/12/05/adelita-grijalva-pepper-spray-ice-protest/",
+      "final_url": "https://theintercept.com/2025/12/05/adelita-grijalva-pepper-spray-ice-protest/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 175536,
+      "content_hash": "bb114ea2b58a34bb0cbfc6b2bb9dbfe0ca61bf3804d8a3cdfd3198b57bcaff6b",
+      "title": "ICE Denies Pepper-Spraying Rep. Adelita Grijalva in Incident Caught on Video",
+      "fetched_at": "2026-01-27T16:27:53.730818",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-213\\article.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.themarshallproject.org/2025/12/05/tucson-ice-raid-protests-taco-giro",
+      "final_url": "https://www.themarshallproject.org/2025/12/05/tucson-ice-raid-protests-taco-giro",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 82629,
+      "content_hash": "4a3ce9e1e71d3a17c6e7aab5203cec595a41fd11fbcdc9c161679ae112eed04a",
+      "title": "Federal Agents Pepper Spray Protesters During Tucson Taco Giro Raid | The Marshall Project",
+      "fetched_at": "2026-01-27T16:30:39.974280",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-213\\article_2.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.washingtonpost.com/politics/2025/12/05/ice-raid-grijalva-arizona/",
+      "final_url": "https://www.washingtonpost.com/politics/2025/12/05/ice-raid-grijalva-arizona/",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "79bd35379e4526f28b2b60622628846b183dfa2340c9aa4fcdff7d964fe9df2d",
+      "title": "Grijalva says ICE agents pepper sprayed her at Tucson restaurant raid - The Washington Post",
+      "fetched_at": "2026-01-27T16:30:39.435979",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251219043320/https://www.washingtonpost.com/politics/2025/12/05/ice-raid-grijalva-arizona/",
+      "archive_path": "data\\sources\\T3-213\\article_1_wayback.txt"
+    }
+  ]
+}

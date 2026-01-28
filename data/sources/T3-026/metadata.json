@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-026",
+  "url": "https://www.king5.com/article/news/local/ice-operation-17-arrests-kent/281-5e71a52b-f76a-4a42-ac34-4ddb75d7e935",
+  "final_url": "https://www.king5.com/article/news/local/ice-operation-17-arrests-kent/281-5e71a52b-f76a-4a42-ac34-4ddb75d7e935",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 231285,
+  "content_hash": "722055402eadcd751de4436fd9833c32984d89fc3d37dd375b44619d284ad58e",
+  "title": "ICE raid leads to 17 arrests at Kent business | king5.com",
+  "fetched_at": "2026-01-27T14:45:44.242992",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.king5.com/article/news/local/ice-operation-17-arrests-kent/281-5e71a52b-f76a-4a42-ac34-4ddb75d7e935",
+      "final_url": "https://www.king5.com/article/news/local/ice-operation-17-arrests-kent/281-5e71a52b-f76a-4a42-ac34-4ddb75d7e935",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 231285,
+      "content_hash": "d6bb32657f8f8aac5ffc781379d0eb6c0ae7b0714140e923c4f61a766c88f2ae",
+      "title": "ICE raid leads to 17 arrests at Kent business | king5.com",
+      "fetched_at": "2026-01-27T16:27:58.532779",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-026\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.kuow.org/stories/ice-arrests-17-in-raid-at-kent-specialty-beverage-company",
+      "final_url": "https://www.kuow.org/stories/ice-arrests-17-in-raid-at-kent-specialty-beverage-company",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 53587,
+      "content_hash": "593c1535b2929b7bd0a15fb085f3fcc812f0fcb5e4daaf9c1be18240e8251a58",
+      "title": "KUOW - ICE arrests 17 in raid at Kent specialty beverage company",
+      "fetched_at": "2026-01-27T16:28:30.990050",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-026\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.fox13seattle.com/news/17-arrested-kent-ice-raid",
+      "final_url": "https://www.fox13seattle.com/news/17-arrested-kent-ice-raid",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 224591,
+      "content_hash": "13685060154bbf245465a418cccfa860dd030833e0d8cb29dd96a72225b7349d",
+      "title": "ICE raid in WA leads to 17 arrests | FOX 13 Seattle",
+      "fetched_at": "2026-01-27T16:29:01.447012",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-026\\article_2.txt"
+    }
+  ]
+}

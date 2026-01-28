@@ -1,0 +1,59 @@
+state,unauthorized_population,share_of_national
+United States,13738000.0,1.0
+California,2910000.0,0.21180280836020157
+Texas,1966000.0,0.14311376916421822
+Florida,1223000.0,0.08903753633795389
+New York,836000.0,0.060852579487460014
+Illinois,588000.0,0.04276689963938745
+Georgia,479000.0,0.03484368706381762
+New Jersey,476000.0,0.03466895115397946
+North Carolina,450000.0,0.032751216354465894
+Massachusetts,388000.0,0.028220588272225084
+Maryland,373000.0,0.02716684447801587
+Virginia,361000.0,0.026248427294921058
+Washington,344000.0,0.025052150534640567
+Arizona,307000.0,0.022329684260836712
+Pennsylvania,250000.0,0.018209367104059657
+Colorado,230000.0,0.01676232374957276
+Nevada,199000.0,0.014475980254441837
+Connecticut,198000.0,0.014426365592435715
+Tennessee,186000.0,0.013572339738581832
+Oregon,155000.0,0.011249083691949581
+South Carolina,139000.0,0.010113442221356732
+Utah,138000.0,0.010023035222806847
+Indiana,137000.0,0.009988961538409745
+Oklahoma,110000.0,0.008029619137953255
+Louisiana,101000.0,0.007351603044561224
+Minnesota,100000.0,0.00730679989833944
+Ohio,90000.0,0.006576191972055065
+Kansas,87000.0,0.0063210433317031686
+Michigan,80000.0,0.005801093902845014
+Alabama,77000.0,0.005590573709200794
+Arkansas,72000.0,0.0052466049242188085
+Wisconsin,69000.0,0.00501357033069417
+Missouri,65000.0,0.00473031690601046
+New Mexico,63000.0,0.004609213747002857
+Kentucky,61000.0,0.004472402190018551
+Nebraska,59000.0,0.004272713366248905
+Rhode Island,59000.0,0.004310841535202553
+Iowa,51000.0,0.0037042775430798994
+Hawaii,42000.0,0.0030825802055478085
+Idaho,40000.0,0.00291283779015451
+Delaware,33000.0,0.0023999855290569145
+District of Columbia,31000.0,0.0022296462236570873
+Mississippi,27000.0,0.0019782536228584707
+New Hampshire,19000.0,0.0014003476301956317
+Alaska,14000.0,0.0010477312192653965
+South Dakota,11000.0,0.0007791525537665961
+Maine,10000.0,0.0007578828879241837
+Wyoming,8000.0,0.0005924570063585892
+North Dakota,7000.0,0.0004916845033050782
+West Virginia,7000.0,0.00048524973786883845
+Montana,6000.0,0.00045360000922995764
+Vermont,5000.0,0.00037568402593865594
+"* Unauthorized immigrant population includes those who entered the country without authorization and visa overstayers, as well as individuals who hold a liminal (or “twilight”) status such as Deferred Action for Childhood Arrivals (DACA), humanitarian parole, or Temporary Protected Status (TPS), as well as those with a pending asylum application.",,
+"Methodology:
+The Migration Policy Institute’s method uses information from the U.S. Census Bureau's Survey of Income and Program Participation (SIPP) to assign legal status to noncitizens in the Census Bureau's American Community Survey (ACS). In the SIPP, noncitizens report whether they currently have lawful permanent resident (LPR) status—i.e., a green card. Those without LPR status may be recent refugees, temporary visitors (e.g., international students or high-skilled H-1B workers), or unauthorized immigrants. MPI's method maps characteristics such as country of birth, year of U.S. entry, age, gender, and educational attainment between the two surveys, and those noncitizens in the ACS who have characteristics similar to those reporting LPR status in the SIPP are coded as LPRs in the ACS. The remaining noncitizens—who are similar in characteristics to those not reporting LPR status in the SIPP—are classified as either unauthorized or legal temporary migrants, depending on whether they meet the qualifications for H-1B and the other temporary visa classifications. Estimates of unauthorized immigrants are weighted to match control totals (benchmarks) for immigrants from a set of origin countries and world regions. These control totals are calculated by subtracting the number of legal immigrants from the total of all immigrants for each country and region that are captured in the ACS data. The number of legal immigrants is estimated by adding up all legal admissions from each country and region in every year—using Department of Homeland Security administrative data—and then reducing this number to account for deaths and emigration of legal immigrants. Finally, the unauthorized immigrant population estimates are adjusted upward slightly to account for the undercount of this population in the ACS.",,
+"MPI’s overall method was developed in consultation with James Bachmeier of Temple University and Jennifer Van Hook of The Pennsylvania State University, Population Research Institute. The control totals were developed by Van Hook. These estimates have the same sampling and coverage errors as any other survey-based estimates that rely on ACS and other Census Bureau data. For more detail on the methods, see MPI, ",,
+MPI Methodology for Assigning Legal Status to Noncitizen Respondents in U.S. Census Bureau Survey Data,,
+"Source: MPI analysis of U.S. Census Bureau 2019-23 ACS and 2023 (along with 2008) SIPP data, weighted to 2023 unauthorized immigrant population estimates provided by Jennifer Van Hook of The Pennsylvania State University.",,

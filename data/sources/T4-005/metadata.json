@@ -1,0 +1,71 @@
+{
+  "entry_id": "T4-005",
+  "url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_attack",
+  "final_url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_attack",
+  "status_code": 403,
+  "content_type": "text/plain",
+  "content_length": 151,
+  "content_hash": "a6c0143bbaa24592702607d7e448c1f6d262a67b4bcac43c25034d2e233e383d",
+  "title": "2025 Alvarado ICE facility incident - Wikipedia",
+  "fetched_at": "2026-01-27T14:50:51.416272",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260112014524/https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_attack",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_attack",
+      "final_url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_attack",
+      "status_code": 403,
+      "content_type": "text/plain",
+      "content_length": 151,
+      "content_hash": "fd5f50f91fe1e757f90446abf0e082666f4b14a6d9c7628cffe6e72522a3a934",
+      "title": "2025 Alvarado ICE facility incident - Wikipedia",
+      "fetched_at": "2026-01-27T16:28:51.868622",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260112014524/https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_attack",
+      "archive_path": "data\\sources\\T4-005\\article_wayback.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.dallasnews.com/news/crime/2025/07/07/11-people-accused-in-holiday-attack-on-alvarado-ice-detention-center-feds-say/",
+      "final_url": "https://www.dallasnews.com/news/crime/2025/07/07/11-people-accused-in-holiday-attack-on-alvarado-ice-detention-center-feds-say/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 318090,
+      "content_hash": "78af077b0373b92a39c9c94aebc54137f37ca1de2c2076ce8f47060400314494",
+      "title": "11 people accused of \u2018planned ambush\u2019 on Alvarado ICE detention center, feds say",
+      "fetched_at": "2026-01-27T16:31:05.044837",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-005\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.keranews.org/news/2025-07-11/prairieland-detention-center-alvarado-u-s-immigration-and-customs-enforcement-shooting-alvarado-police-officer-questions",
+      "final_url": "https://www.keranews.org/news/2025-07-11/prairieland-detention-center-alvarado-u-s-immigration-and-customs-enforcement-shooting-alvarado-police-officer-questions",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 138331,
+      "content_hash": "ffc9dc3019c007c6578b272a07196a689cd10cc316948cce90b5710b367de51d",
+      "title": "Details emerge about ICE detention facility attack in Alvarado \u2014 but still many questions | KERA News",
+      "fetched_at": "2026-01-27T16:31:05.827111",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-005\\article_3.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.fox4news.com/news/texas-ice-detention-center-attack-alvarado",
+      "final_url": "https://www.fox4news.com/news/texas-ice-detention-center-attack-alvarado",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "a9907f0e63f6a3e85df1581f28f94eda41a5717654a53a8855622a19d7c62c4e",
+      "title": "Alvarado ICE facility attack: 11 charged in 'ambush' on ICE officers, officials say | FOX 4 Dallas-Fort Worth",
+      "fetched_at": "2026-01-27T16:31:04.175530",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260117061215/https://www.fox4news.com/news/texas-ice-detention-center-attack-alvarado",
+      "archive_path": "data\\sources\\T4-005\\article_1_wayback.txt"
+    }
+  ]
+}

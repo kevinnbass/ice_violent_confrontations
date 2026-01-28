@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-121",
+  "url": "https://www.kuer.org/politics-government/2025-12-05/ice-arrests-a-man-at-his-salt-lake-city-green-card-interview",
+  "final_url": "https://www.kuer.org/politics-government/2025-12-05/ice-arrests-a-man-at-his-salt-lake-city-green-card-interview",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "68bf4bc9c490b4272eb1f5bb2cc4764d0e2dc14a1bf0b82fb4e230e41cf59352",
+  "title": "ICE arrests a man at his Salt Lake City green card interview | KUER",
+  "fetched_at": "2026-01-27T14:48:55.131435",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251231092601/https://www.kuer.org/politics-government/2025-12-05/ice-arrests-a-man-at-his-salt-lake-city-green-card-interview",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.kuer.org/politics-government/2025-12-05/ice-arrests-a-man-at-his-salt-lake-city-green-card-interview",
+      "final_url": "https://www.kuer.org/politics-government/2025-12-05/ice-arrests-a-man-at-his-salt-lake-city-green-card-interview",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 191278,
+      "content_hash": "1695724def54823736e16d0492290bb20267c7046e68c7cd501bb3a4cc21c2de",
+      "title": "ICE arrests a man at his Salt Lake City green card interview | KUER",
+      "fetched_at": "2026-01-27T16:28:00.048024",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-121\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.fox13now.com/news/local-news/northern-utah/dozens-protest-ice-arrest-in-salt-lake-city-of-man-attending-final-green-card-interview",
+      "final_url": "https://www.fox13now.com/news/local-news/northern-utah/dozens-protest-ice-arrest-in-salt-lake-city-of-man-attending-final-green-card-interview",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 254975,
+      "content_hash": "61cc6d9af7214408528d7b32934a70d15fb802b6ffa619339337e881040b8b74",
+      "title": "Dozens protest ICE arrest in SLC of man attending final green card interview",
+      "fetched_at": "2026-01-27T16:28:31.553951",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-121\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://kutv.com/news/local/utah-family-shocked-after-ice-arrests-husband-during-final-green-card-interview",
+      "final_url": "https://kutv.com/news/local/utah-family-shocked-after-ice-arrests-husband-during-final-green-card-interview",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 319198,
+      "content_hash": "ddc81852c84e8b4a406dd80b7fd5c2bbb2f73a850946efffd301eed1f1437da7",
+      "title": "Utah family shocked after ICE arrests husband during final green card interview",
+      "fetched_at": "2026-01-27T16:29:01.358287",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-121\\article_2.txt"
+    }
+  ]
+}

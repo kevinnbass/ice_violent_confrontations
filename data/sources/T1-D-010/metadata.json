@@ -1,0 +1,43 @@
+{
+  "entry_id": "T1-D-010",
+  "url": "https://www.ice.gov/news/releases/canadian-national-ice-custody-passes-away",
+  "final_url": "https://www.ice.gov/news/releases/canadian-national-ice-custody-passes-away",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 110158,
+  "content_hash": "243a51d20e2a9edd842b609c5bd82c026827f9a8af48f5a1a96e45bbbb3e597e",
+  "title": "Canadian national in ICE custody passes away | ICE",
+  "fetched_at": "2026-01-27T14:24:38.274203",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ice.gov/news/releases/canadian-national-ice-custody-passes-away",
+      "final_url": "https://www.ice.gov/news/releases/canadian-national-ice-custody-passes-away",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 110158,
+      "content_hash": "edc6f66c58fdc9056e55168669987aa42b7df4a77b3540923242698e6351fac6",
+      "title": "Canadian national in ICE custody passes away | ICE",
+      "fetched_at": "2026-01-27T16:28:08.991607",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-010\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.cnn.com/2025/06/26/us/johnny-noviello-ice-death-canada-florida",
+      "final_url": "https://www.cnn.com/2025/06/26/us/johnny-noviello-ice-death-canada-florida",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "bce372e743c98337e96070f0b6742ba51e123497c1b57509acfea85b6bc09e99",
+      "title": "Johnny Noviello: Canadian consular officials press US for more details on citizen who died in ICE custody | CNN",
+      "fetched_at": "2026-01-27T16:20:35.584921",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251219171333/https://www.cnn.com/2025/06/26/us/johnny-noviello-ice-death-canada-florida",
+      "archive_path": "data\\sources\\T1-D-010\\article_1_wayback.txt"
+    }
+  ]
+}

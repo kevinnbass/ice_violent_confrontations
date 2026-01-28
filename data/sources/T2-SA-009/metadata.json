@@ -1,0 +1,19 @@
+{
+  "entry_id": "T2-SA-009",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti",
+      "final_url": "https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti",
+      "status_code": 403,
+      "content_type": "text/plain",
+      "content_length": 151,
+      "content_hash": "9681a214af7802dbfd93dbaeafb11e289084af9226e82d72579af6ef974d1d0e",
+      "title": "Killing of Alex Pretti - Wikipedia",
+      "fetched_at": "2026-01-27T16:10:41.413241",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260127161814/https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti",
+      "archive_path": "data\\sources\\T2-SA-009\\article_wayback.txt"
+    }
+  ]
+}

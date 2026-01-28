@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-117",
+  "url": "https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/",
+  "final_url": "https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 0,
+  "content_hash": "598985c947f1b9009e499634d2bc3a64ddcf3fb7500579b0f45ca4accd01137d",
+  "title": "ICE entered Minneapolis hospital without warrant, handcuffed patient to bed, community organizers say - CBS Minnesota",
+  "fetched_at": "2026-01-27T14:48:51.446946",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260112022908/https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/",
+      "final_url": "https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 641295,
+      "content_hash": "69b8fa5c1c454c7731e4597186250877c805608f2345ac4a0f7faaa52fde0061",
+      "title": "ICE entered Minneapolis hospital without warrant, handcuffed patient to bed, community organizers say - CBS Minnesota",
+      "fetched_at": "2026-01-27T16:27:46.446224",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-117\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://sahanjournal.com/immigration/hcmc-patient-arrested-immigration-agents-ice-unidos-mn/",
+      "final_url": "https://sahanjournal.com/immigration/hcmc-patient-arrested-immigration-agents-ice-unidos-mn/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 323012,
+      "content_hash": "db87735a7ffb867b6f4337c513828d684c2ca3fac299eb29a2e98585549b1f4b",
+      "title": "Advocates demand change at HCMC after ICE guarded patient\u2019s bedside",
+      "fetched_at": "2026-01-27T16:28:21.970211",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-117\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://newsone.com/6743014/ice-agents-invade-minneapolis-hospital-without-warrant/",
+      "final_url": "https://newsone.com/6743014/ice-agents-invade-minneapolis-hospital-without-warrant/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 257578,
+      "content_hash": "3844804a7ffe209493ae969e35c803b49d86efbb4e3f49f9f10c22388fae6e65",
+      "title": "ICE Agents Invade Minneapolis Hospital Without Warrant",
+      "fetched_at": "2026-01-27T16:29:01.902166",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-117\\article_2.txt"
+    }
+  ]
+}

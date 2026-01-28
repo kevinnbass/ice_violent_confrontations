@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-S-001",
+  "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+  "final_url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 662109,
+  "content_hash": "92d6c07987ff09e331ae87fe9bd1714401088035f67b5ba97ca71a1cb21f39a2",
+  "title": "List: ICE and Border Patrol shootings as Trump doubles down on immigration enforcement",
+  "fetched_at": "2026-01-27T14:45:54.412653",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+      "final_url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 656914,
+      "content_hash": "341048d2235cf730d6e8f516d6521092ffd01132afa762c3703daf450bbd4adf",
+      "title": "List: ICE and Border Patrol shootings as Trump doubles down on immigration enforcement",
+      "fetched_at": "2026-01-27T16:27:54.174048",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-S-001\\article.txt"
+    }
+  ]
+}

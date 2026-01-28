@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-211",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.cbsnews.com/minnesota/news/church-protesters-minneapolis-charges-federal-face-act/",
+      "final_url": "https://www.cbsnews.com/minnesota/news/church-protesters-minneapolis-charges-federal-face-act/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 633932,
+      "content_hash": "f0237f4acc5cc1c021ea715011bf411e164d712781c6f5af1d2aad8cb996eec5",
+      "title": "AG Pam Bondi: 3 arrested over disruption of ICE pastor's church services - CBS Minnesota",
+      "fetched_at": "2026-01-27T16:28:09.964232",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-211\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon",
+      "final_url": "https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 107419,
+      "content_hash": "a98e7000efe7214dc0a3bdf04800562f7d5c12caa634525a2a490b5c6325eb3b",
+      "title": "3 people arrested by Trump administration after Minnesota church protest : NPR",
+      "fetched_at": "2026-01-27T16:28:30.847921",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-211\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.pbs.org/newshour/nation/doj-says-it-will-investigate-press-charges-after-activists-disrupt-church-where-minnesota-ice-official-is-a-pastor",
+      "final_url": "https://www.pbs.org/newshour/nation/doj-says-it-will-investigate-press-charges-after-activists-disrupt-church-where-minnesota-ice-official-is-a-pastor",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 283097,
+      "content_hash": "2171a92b5f954ad4158143d0356946414fdd356ecc4c527c4a6c85d4ed2752c8",
+      "title": "DOJ says it will investigate, press charges after activists disrupt church where Minnesota ICE official is a pastor | PBS News",
+      "fetched_at": "2026-01-27T16:29:01.991152",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-211\\article_2.txt"
+    }
+  ]
+}

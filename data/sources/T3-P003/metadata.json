@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-P003",
+  "url": "https://abc7.com/post/protester-marshall-woodruff-shot-eye-rubber-bullet-during-no-kings-day-rally-downtown-los-angeles-saturday/16768659/",
+  "final_url": "https://abc7.com/post/protester-marshall-woodruff-shot-eye-rubber-bullet-during-no-kings-day-rally-downtown-los-angeles-saturday/16768659/",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 298045,
+  "content_hash": "bb0e9d5b252b6d0abc39579f6603bed7df38e54f79ff5be3840600554c1e98aa",
+  "title": "Protester Marshall Woodruff  shot in the eye with rubber bullet during 'No Kings Day' rally in downtown Los Angeles Saturday - ABC7 Los Angeles",
+  "fetched_at": "2026-01-27T14:45:48.699614",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://abc7.com/post/protester-marshall-woodruff-shot-eye-rubber-bullet-during-no-kings-day-rally-downtown-los-angeles-saturday/16768659/",
+      "final_url": "https://abc7.com/post/protester-marshall-woodruff-shot-eye-rubber-bullet-during-no-kings-day-rally-downtown-los-angeles-saturday/16768659/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 300256,
+      "content_hash": "1adf57222c436f77c44698a706786ef68107c06c8e03e64e7f5697db6a4af463",
+      "title": "Protester Marshall Woodruff  shot in the eye with rubber bullet during 'No Kings Day' rally in downtown Los Angeles Saturday - ABC7 Los Angeles",
+      "fetched_at": "2026-01-27T16:28:01.548295",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P003\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://ktla.com/news/local-news/ice-protesters-say-lapd-projectiles-caused-serious-injuries-at-weekend-rally/",
+      "final_url": "https://ktla.com/news/local-news/ice-protesters-say-lapd-projectiles-caused-serious-injuries-at-weekend-rally/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 880601,
+      "content_hash": "e10c01d75fe64d879eee5300eab992a793fa67a6742f98bd986c0d04df3f61f7",
+      "title": "L.A. protesters allege serious injuries from LAPD projectiles",
+      "fetched_at": "2026-01-27T16:28:31.463137",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P003\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://petapixel.com/2025/06/18/another-photographer-struck-by-rubber-bullets-during-la-protests-this-time-in-the-eye/",
+      "final_url": "https://petapixel.com/2025/06/18/another-photographer-struck-by-rubber-bullets-during-la-protests-this-time-in-the-eye/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 100487,
+      "content_hash": "fa8458ba55e5934ef32a6f4c0e9a3ddbe9e33ade0d0cb50fc7d62ac15adb0752",
+      "title": "Another Photographer Struck by Rubber Bullets During LA Protests, This Time in the Eye | PetaPixel",
+      "fetched_at": "2026-01-27T16:29:00.297345",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P003\\article_2.txt"
+    }
+  ]
+}

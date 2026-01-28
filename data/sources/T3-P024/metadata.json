@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-P024",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ajc.com/news/atlanta-news/protesters-along-buford-highway-condemn-ice-arrests/U7HJ7PCG7BAV5KTQV3HXDAFXM4/",
+      "final_url": "https://www.ajc.com/news/atlanta-news/protesters-along-buford-highway-condemn-ice-arrests/U7HJ7PCG7BAV5KTQV3HXDAFXM4/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1788045,
+      "content_hash": "6e05267e6b1304981da305680474654868da5f225bd6f59cad9541dbcd104de2",
+      "title": "Protesters along Buford Highway condemn ICE arrests",
+      "fetched_at": "2026-01-27T16:28:04.004893",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P024\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://decaturish.com/2025/02/photos-more-than-1000-people-protest-ice-arrests-in-dekalb-county/",
+      "final_url": "https://www.decaturish.com/archives/photos-more-than-1-000-people-protest-ice-arrests-in-dekalb-county/article_90ebf8dc-514f-5974-bca4-702d29b33a17.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 584144,
+      "content_hash": "1d3db798cce042056f3f0d94350e69f23cec3b37e131d8707eb38167d6bf8b47",
+      "title": "(PHOTOS) More than 1,000 people protest ICE arrests in DeKalb County | Archives | decaturish.com",
+      "fetched_at": "2026-01-27T16:28:45.695671",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P024\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.wabe.org/buford-highway-plaza-fiesta-packed-with-protestors-supporting-atlanta-immigrants/",
+      "final_url": "https://www.wabe.org/buford-highway-plaza-fiesta-packed-with-protestors-supporting-atlanta-immigrants/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 8002,
+      "content_hash": "532ad9930795a38121c9e38695377df67987c185b8d66a75d5517f3a9d31eb49",
+      "title": "Buford Highway, Plaza Fiesta packed with protestors supporting Atlanta immigrants \u2013 WABE",
+      "fetched_at": "2026-01-27T16:21:44.839755",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20250921195306/https://www.wabe.org/buford-highway-plaza-fiesta-packed-with-protestors-supporting-atlanta-immigrants/",
+      "archive_path": "data\\sources\\T3-P024\\article_2_wayback.txt"
+    }
+  ]
+}

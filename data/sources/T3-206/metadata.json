@@ -1,0 +1,33 @@
+{
+  "entry_id": "T3-206",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://washingtonstatestandard.com/2024/04/01/calls-for-federal-investigation-into-tacoma-detention-center-mount-amid-detainee-death/",
+      "final_url": "https://washingtonstatestandard.com/2024/04/01/calls-for-federal-investigation-into-tacoma-detention-center-mount-amid-detainee-death/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7660,
+      "content_hash": "a4abc6aa77aaf316b88bab09d2da69f61904a2a2e0d8605dd82625e48613aa36",
+      "title": "Tacoma detention center death spurs calls for federal investigation \u2022 Washington State Standard",
+      "fetched_at": "2026-01-27T15:47:33.592877",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20250806123424/https://washingtonstatestandard.com/2024/04/01/calls-for-federal-investigation-into-tacoma-detention-center-mount-amid-detainee-death/",
+      "archive_path": "data\\sources\\T3-206\\article_wayback.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.king5.com/article/news/community/facing-race/washington-immigration/nightmare-conditions-inside-ice-detention-center-tacoma/281-1c20754c-93c6-4514-a989-e39ce5cf89d3",
+      "final_url": "https://www.king5.com/article/news/community/facing-race/washington-immigration/nightmare-conditions-inside-ice-detention-center-tacoma/281-1c20754c-93c6-4514-a989-e39ce5cf89d3",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 245293,
+      "content_hash": "901232daeb030acc4ec4a2076aaefe9f706b3b11c0d2f4de964f2fc1a37ca37d",
+      "title": "Conditions inside Northwest ICE Processing Center 'a nightmare' | king5.com",
+      "fetched_at": "2026-01-27T15:48:00.268787",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-206\\article_1.txt"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "entry_id": "T3-P052",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.nbcnews.com/news/us-news/elected-officials-arrested-protest-nyc-immigration-holding-facility-rcna232380",
+      "final_url": "https://www.nbcnews.com/news/us-news/elected-officials-arrested-protest-nyc-immigration-holding-facility-rcna232380",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 257349,
+      "content_hash": "129d35c22d80aaa24f67ad77e77bf68fc5c6e5fc628f3851381ba468bf58495a",
+      "title": "Elected officials arrested during protest of NYC immigration holding facility",
+      "fetched_at": "2026-01-27T15:47:06.701612",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P052\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.wilx.com/2025/09/19/elected-officials-dozens-protesters-are-arrested-manhattan-immigration-holding-facility/",
+      "final_url": "https://www.wilx.com/2025/09/19/elected-officials-dozens-protesters-are-arrested-manhattan-immigration-holding-facility/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 170186,
+      "content_hash": "db01e02172bd8ddb47666a7976fd57092159dfcf42b1497b0b890b1c293ecefe",
+      "title": "Elected officials and dozens of protesters are arrested at Manhattan immigration holding facility",
+      "fetched_at": "2026-01-27T15:47:29.998699",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P052\\article_1.txt"
+    }
+  ]
+}

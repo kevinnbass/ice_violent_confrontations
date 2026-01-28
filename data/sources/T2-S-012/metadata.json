@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-S-012",
+  "url": "https://www.nbcnews.com/news/us-news/alex-pretti-fatally-shot-federal-officers-minneapolis-identified-paren-rcna255758",
+  "final_url": "https://www.nbcnews.com/news/us-news/alex-pretti-fatally-shot-federal-officers-minneapolis-identified-paren-rcna255758",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "31f9b39ef01cacd7a4d86e8538e7783950ae3d09576e56c03dae438113d92b9f",
+  "title": "What we know about Alex Pretti, the nurse killed by federal officers in Minneapolis",
+  "fetched_at": "2026-01-27T14:50:08.807889",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260126105631/https://www.nbcnews.com/news/us-news/alex-pretti-fatally-shot-federal-officers-minneapolis-identified-paren-rcna255758",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.nbcnews.com/news/us-news/alex-pretti-fatally-shot-federal-officers-minneapolis-identified-paren-rcna255758",
+      "final_url": "https://www.nbcnews.com/news/us-news/alex-pretti-fatally-shot-federal-officers-minneapolis-identified-paren-rcna255758",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 451630,
+      "content_hash": "8cdd89a4315d32a87e5eced3fa0a27229e060efafd44d13d3f70d188b6b54a29",
+      "title": "What we know about Alex Pretti, the ICU nurse killed in Minneapolis by federal officials",
+      "fetched_at": "2026-01-27T16:27:56.516811",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-S-012\\article.txt"
+    }
+  ]
+}

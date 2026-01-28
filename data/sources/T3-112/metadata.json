@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-112",
+  "url": "https://www.mercurynews.com/2025/07/15/restraining-order-extended-against-ice-in-case-of-san-jose-tattoo-artist/",
+  "final_url": "https://www.mercurynews.com/2025/07/15/restraining-order-extended-against-ice-in-case-of-san-jose-tattoo-artist/",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 183278,
+  "content_hash": "6fab62cb4c3764bcbddd77cc9789d7933a0dea7f258e79c0f0152edff285a937",
+  "title": "Restraining order extended against ICE in case of San Jose tattoo artist \u2013 The Mercury News",
+  "fetched_at": "2026-01-27T14:45:44.195865",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.mercurynews.com/2025/07/15/restraining-order-extended-against-ice-in-case-of-san-jose-tattoo-artist/",
+      "final_url": "https://www.mercurynews.com/2025/07/15/restraining-order-extended-against-ice-in-case-of-san-jose-tattoo-artist/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 183278,
+      "content_hash": "bb14e88acb9b0fc5cc793685e42c46012a4be4db709c2b68fb67e5c5e9ee025c",
+      "title": "Restraining order extended against ICE in case of San Jose tattoo artist \u2013 The Mercury News",
+      "fetched_at": "2026-01-27T16:27:41.689390",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-112\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://missionlocal.org/2025/07/s-f-judge-extends-restraining-order-against-ice-for-immigrant-activist/",
+      "final_url": "https://missionlocal.org/2025/07/s-f-judge-extends-restraining-order-against-ice-for-immigrant-activist/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 286671,
+      "content_hash": "3e34c0e775d41b45b5f56a68f22b0dee4bbc0076b678480cb79646a33a5d6f0b",
+      "title": "S.F. judge extends restraining order against ICE for immigrant activist",
+      "fetched_at": "2026-01-27T16:28:07.930344",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-112\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.mercurynews.com/2025/12/26/ice-court-arrests-immigration-bay-area/",
+      "final_url": "https://www.mercurynews.com/2025/12/26/ice-court-arrests-immigration-bay-area/",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "b14f66a7f5d88e79a1eaf6e841a0c382af5dbf3093d95deb0ddda4f80af60004",
+      "title": "ICE arrests at Bay Area courthouses left immigrants in fear, but judge's order gives reprieve",
+      "fetched_at": "2026-01-27T16:30:41.205824",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260114231636/https://www.mercurynews.com/2025/12/26/ice-court-arrests-immigration-bay-area/",
+      "archive_path": "data\\sources\\T3-112\\article_2_wayback.txt"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-062",
+  "url": "https://calmatters.org/economy/2025/01/kern-county-immigration-sweep/",
+  "final_url": "https://calmatters.org/economy/2025/01/kern-county-immigration-sweep/",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 241624,
+  "content_hash": "57ea42a68362664d23f2b3809c420fe1b909380ad304204539c4051d0f45e710",
+  "title": "Kern County immigration sweep sets off fears of more CA raids - CalMatters",
+  "fetched_at": "2026-01-27T14:45:44.803687",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://calmatters.org/economy/2025/01/kern-county-immigration-sweep/",
+      "final_url": "https://calmatters.org/economy/2025/01/kern-county-immigration-sweep/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 241624,
+      "content_hash": "57ea42a68362664d23f2b3809c420fe1b909380ad304204539c4051d0f45e710",
+      "title": "Kern County immigration sweep sets off fears of more CA raids - CalMatters",
+      "fetched_at": "2026-01-27T16:27:41.819785",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-062\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.aclusocal.org/en/press-releases/united-farm-workers-and-bakersfield-residents-sue-border-patrol-unlawful-practices",
+      "final_url": "https://www.aclusocal.org/en/press-releases/united-farm-workers-and-bakersfield-residents-sue-border-patrol-unlawful-practices",
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 560,
+      "content_hash": "99eb2a42a7d69fca191a7e90cecb520ab692a45cabe8bb66f372b322e5babf2f",
+      "title": "United Farm Workers and Bakersfield Residents Sue Border Patrol for Unlawful Practices  | ACLU of Southern California",
+      "fetched_at": "2026-01-27T16:20:02.491155",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251208193538/https://www.aclusocal.org/en/press-releases/united-farm-workers-and-bakersfield-residents-sue-border-patrol-unlawful-practices",
+      "archive_path": "data\\sources\\T3-062\\article_1_wayback.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.sfchronicle.com/california/article/ice-immigration-farm-central-valley-20374476.php",
+      "final_url": "https://www.sfchronicle.com/california/article/ice-immigration-farm-central-valley-20374476.php",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "3136666b870d9023d30b65f1c131149540849d9c0f98c212dbb43a9ac20a0677",
+      "title": "Fear of ICE raids spreads among California\u2019s farmworkers",
+      "fetched_at": "2026-01-27T15:51:01.185762",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20250614104401/https://www.sfchronicle.com/california/article/ice-immigration-farm-central-valley-20374476.php",
+      "archive_path": "data\\sources\\T3-062\\article_2_wayback.txt"
+    }
+  ]
+}

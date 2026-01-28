@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-155",
+  "url": "https://www.aclum.org/cases/guerrero-orellana-v-moniz/",
+  "final_url": "https://www.aclum.org/cases/guerrero-orellana-v-moniz/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "0aa9525c6a6fbe9311cea225b746d1205752bf1d5d82c0731d24f0def2c8ccc3",
+  "title": "Guerrero Orellana v. Hyde et al - ACLU of Massachusetts",
+  "fetched_at": "2026-01-27T14:47:49.257891",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251220052032/https://www.aclum.org/cases/guerrero-orellana-v-moniz/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.aclum.org/cases/guerrero-orellana-v-moniz/",
+      "final_url": "https://www.aclum.org/cases/guerrero-orellana-v-moniz/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 1401837,
+      "content_hash": "6ff2cdb5816d4fbeaec72e51553aa610fb8160d93cdd32367943d1b124b005fa",
+      "title": "Guerrero Orellana v. Hyde et al - ACLU of Massachusetts",
+      "fetched_at": "2026-01-27T16:18:42.994479",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-155\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.aclumaine.org/cases/guerrero-orellana-v-hyde-et-al/",
+      "final_url": "https://www.aclumaine.org/cases/guerrero-orellana-v-hyde-et-al/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 159661,
+      "content_hash": "2557f2cc6f4ff77afafd9dfd764c2a0d12853e656bb864a767ff43798b82d4ff",
+      "title": "Guerrero Orellana v. Hyde, et. al. - ACLU of Maine",
+      "fetched_at": "2026-01-27T16:29:23.928966",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-155\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.aclum.org/press-releases/federal-court-declares-trump-administrations-denial-of-bond-hearings-to-new-england-ice-detainees-is-unlawful/",
+      "final_url": "https://www.aclum.org/press-releases/federal-court-declares-trump-administrations-denial-of-bond-hearings-to-new-england-ice-detainees-is-unlawful/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 1255406,
+      "content_hash": "f82f2c06200769fc8a1fd7c0279610408dbeaac9011a63efb3f2a8e2bfafe398",
+      "title": "Federal Court Declares Trump Administration's Denial of Bond Hearings to New England ICE Detainees is Unlawful - ACLU of Massachusetts",
+      "fetched_at": "2026-01-27T16:30:21.599673",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-155\\article_2.txt"
+    }
+  ]
+}

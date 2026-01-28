@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-P033",
+  "url": "https://www.cbsnews.com/minnesota/news/clergy-members-arrested-minneapolis-st-paul-international-airport/",
+  "final_url": "https://www.cbsnews.com/minnesota/news/clergy-members-arrested-minneapolis-st-paul-international-airport/",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 645192,
+  "content_hash": "b0625c3ba686016d5f623d0cb30f5df2f9e8fc52df9379a334d3617e8f0b9746",
+  "title": "Clergy members arrested at MSP while protesting ICE in Minneapolis - CBS Minnesota",
+  "fetched_at": "2026-01-27T14:45:57.247032",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 2,
+      "url": "https://www.fox9.com/news/ice-out-protests-mn-jan-23-2026",
+      "final_url": "https://www.fox9.com/news/ice-out-protests-mn-jan-23-2026",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 214485,
+      "content_hash": "94b4fd523819b2eedf87507f3af78251b74bfd6c1ed78c4100bd670c99fba444",
+      "title": "ICE Out protests in MN: Arrests at MSP Airport, dispersal order at Whipple | FOX 9 Minneapolis-St. Paul",
+      "fetched_at": "2026-01-27T16:30:28.756289",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P033\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://bringmethenews.com/minnesota-news/police-arrest-clergy-members-staging-anti-ice-protest-at-msp-airport",
+      "final_url": "https://bringmethenews.com/minnesota-news/police-arrest-clergy-members-staging-anti-ice-protest-at-msp-airport",
+      "status_code": 403,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 778,
+      "content_hash": "c5c344c3c6c0159e40644e22e075430b60dffb41ac8b76ddae56fc96b8f970de",
+      "title": "Police make arrests as clergy members stage anti-ICE protest at MSP airport - Bring Me The News",
+      "fetched_at": "2026-01-27T16:31:27.720053",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260125034326/https://bringmethenews.com/minnesota-news/police-arrest-clergy-members-staging-anti-ice-protest-at-msp-airport",
+      "archive_path": "data\\sources\\T3-P033\\article_3_wayback.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.washingtonpost.com/nation/2026/01/23/minnesota-general-strike-ice-protest/",
+      "final_url": "https://www.washingtonpost.com/nation/2026/01/23/minnesota-general-strike-ice-protest/",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "3d54b9a7ec690de853d908d7fbbeceafa4b12476ab894db5de5bab8322650306",
+      "title": "Minnesotans go on strike Friday to protest ICE; clergy arrested at airport - The Washington Post",
+      "fetched_at": "2026-01-27T16:30:28.210102",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260123234430/https://www.washingtonpost.com/nation/2026/01/23/minnesota-general-strike-ice-protest/",
+      "archive_path": "data\\sources\\T3-P033\\article_1_wayback.txt"
+    }
+  ]
+}

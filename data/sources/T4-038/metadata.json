@@ -1,0 +1,33 @@
+{
+  "entry_id": "T4-038",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.investigativepost.org/2025/08/28/immigrant-farm-workers-arrested-in-second-ice-raid-at-upstate-farm/",
+      "final_url": "https://www.investigativepost.org/2025/08/28/immigrant-farm-workers-arrested-in-second-ice-raid-at-upstate-farm/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 80663,
+      "content_hash": "5876623b2c1f74dc2ff1d708844c39cbb27ed5422ba697e8014c51b2b6b7289c",
+      "title": "ICE raids Orleans County farm Lynn-Ette & Sons for second time : Investigative Post",
+      "fetched_at": "2026-01-27T16:28:02.488172",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-038\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://ufw.org/ufw-condemns-latest-raid-at-lynn-ette-farms/",
+      "final_url": "https://ufw.org/ufw-condemns-latest-raid-at-lynn-ette-farms/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 46518,
+      "content_hash": "b4d2fabe2075bcc4026bcc7030c4bcd633d18662f6864044f751ec3d65626df0",
+      "title": "UFW Condemns Latest Raid at Lynn-Ette Farms \u2013 UFW",
+      "fetched_at": "2026-01-27T16:28:30.352850",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-038\\article_1.txt"
+    }
+  ]
+}

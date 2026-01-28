@@ -1,0 +1,1030 @@
+{
+  "generated_at": "2026-01-27T08:12:05.470478",
+  "config": {
+    "local_only": false,
+    "specific_ids": [
+      "T3-155",
+      "T3-157",
+      "T3-188",
+      "T3-P004",
+      "T3-P015",
+      "T3-P019",
+      "T3-P030",
+      "T3-P034",
+      "T3-P035",
+      "T3-P037",
+      "T4-004",
+      "T4-005",
+      "T1-D-008",
+      "T1-D-009",
+      "T2-LL-001",
+      "T2-LL-002",
+      "T3-044",
+      "T3-046",
+      "T3-052",
+      "T3-060"
+    ]
+  },
+  "summary": {
+    "url_inaccessible": 7,
+    "verified": 11,
+    "weak_match": 1,
+    "likely_valid": 1
+  },
+  "fetch_methods": {
+    "local_archive": 12,
+    "web_wayback": 1
+  },
+  "entries": [
+    {
+      "id": "T1-D-008",
+      "source_file": "tier1_deaths_in_custody.json",
+      "sources_count": 4,
+      "verdict": "url_inaccessible",
+      "confidence": 0,
+      "reasoning": "All fetch methods failed",
+      "checks": {},
+      "source_used": null,
+      "fetch_method": null
+    },
+    {
+      "id": "T1-D-009",
+      "source_file": "tier1_deaths_in_custody.json",
+      "sources_count": 4,
+      "verdict": "url_inaccessible",
+      "confidence": 0,
+      "reasoning": "All fetch methods failed",
+      "checks": {},
+      "source_used": null,
+      "fetch_method": null
+    },
+    {
+      "id": "T2-LL-001",
+      "source_file": "tier2_less_lethal.json",
+      "sources_count": 1,
+      "verdict": "verified",
+      "confidence": 84.0,
+      "reasoning": "Agency: 10 matches; Name: fragment; Location: found; Date: within 7 days; Critical keywords: 4; Supporting: 9; Entry keywords: 34/40",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "immigration and customs enforcement",
+            "cbp",
+            "customs and border protection",
+            "border patrol",
+            "dhs",
+            "department of homeland security",
+            "ero",
+            "immigration agent",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "fragment",
+          "matches": [
+            "vincent",
+            "vincent hawkins",
+            "hawkins"
+          ]
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": false,
+          "proximity": 7,
+          "matches": [
+            "june 7, ",
+            "june 7, "
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 4,
+          "critical_required": 2,
+          "supporting_found": 9,
+          "matches": [
+            "critical:pepper ball",
+            "critical:rubber bullet",
+            "critical:tear gas",
+            "critical:force",
+            "supporting:protest",
+            "supporting:protester",
+            "supporting:demonstrator",
+            "supporting:activist",
+            "supporting:injury",
+            "supporting:hospital",
+            "supporting:treated",
+            "supporting:crowd",
+            "supporting:dispersed"
+          ]
+        },
+        "entry_keywords": {
+          "found": 34,
+          "total": 40,
+          "matches": [
+            "55",
+            "hawkins",
+            "shot",
+            "year",
+            "ongoing",
+            "vincent hawkins",
+            "documented",
+            "citizen",
+            "less",
+            "concussion"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T2-LL-001\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T2-LL-002",
+      "source_file": "tier2_less_lethal.json",
+      "sources_count": 1,
+      "verdict": "verified",
+      "confidence": 87.0,
+      "reasoning": "Agency: 10 matches; Name: fragment; Location: found; Date: exact match; Critical keywords: 4; Supporting: 9; Entry keywords: 22/27",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "immigration and customs enforcement",
+            "cbp",
+            "customs and border protection",
+            "border patrol",
+            "dhs",
+            "department of homeland security",
+            "ero",
+            "immigration agent",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "fragment",
+          "matches": [
+            "local"
+          ]
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": true,
+          "proximity": null,
+          "matches": [
+            "june 7, ",
+            "june 7, "
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 4,
+          "critical_required": 2,
+          "supporting_found": 9,
+          "matches": [
+            "critical:pepper ball",
+            "critical:rubber bullet",
+            "critical:tear gas",
+            "critical:force",
+            "supporting:protest",
+            "supporting:protester",
+            "supporting:demonstrator",
+            "supporting:activist",
+            "supporting:injury",
+            "supporting:hospital",
+            "supporting:treated",
+            "supporting:crowd",
+            "supporting:dispersed"
+          ]
+        },
+        "entry_keywords": {
+          "found": 22,
+          "total": 27,
+          "matches": [
+            "shot",
+            "documented",
+            "citizen",
+            "less",
+            "part",
+            "concussion",
+            "local",
+            "protest",
+            "enforcement",
+            "covering"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T2-LL-002\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-044",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 4,
+      "verdict": "url_inaccessible",
+      "confidence": 0,
+      "reasoning": "All fetch methods failed",
+      "checks": {},
+      "source_used": null,
+      "fetch_method": null
+    },
+    {
+      "id": "T3-046",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "url_inaccessible",
+      "confidence": 0,
+      "reasoning": "All fetch methods failed",
+      "checks": {},
+      "source_used": null,
+      "fetch_method": null
+    },
+    {
+      "id": "T3-052",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 4,
+      "verdict": "url_inaccessible",
+      "confidence": 0,
+      "reasoning": "All fetch methods failed",
+      "checks": {},
+      "source_used": null,
+      "fetch_method": null
+    },
+    {
+      "id": "T3-060",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 4,
+      "verdict": "url_inaccessible",
+      "confidence": 0,
+      "reasoning": "All fetch methods failed",
+      "checks": {},
+      "source_used": null,
+      "fetch_method": null
+    },
+    {
+      "id": "T3-155",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "verified",
+      "confidence": 70.0,
+      "reasoning": "Agency: 5 matches; Name: N/A; Location: found; Date: NOT FOUND; Critical keywords: partial (1); Supporting: 1; Entry keywords: 17/39",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "immigration and customs enforcement",
+            "dhs",
+            "department of homeland security",
+            "ero"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "not_applicable",
+          "matches": []
+        },
+        "location": {
+          "found": true,
+          "city": false,
+          "state": true
+        },
+        "date": {
+          "found": false,
+          "exact": false,
+          "proximity": null,
+          "matches": []
+        },
+        "incident_keywords": {
+          "critical_found": 1,
+          "critical_required": 2,
+          "supporting_found": 1,
+          "matches": [
+            "critical:lawsuit",
+            "supporting:detained"
+          ]
+        },
+        "entry_keywords": {
+          "found": 17,
+          "total": 39,
+          "matches": [
+            "thousands",
+            "detention",
+            "systematically",
+            "systematic",
+            "court",
+            "detainees",
+            "hearing",
+            "across",
+            "apply",
+            "statutory"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-155\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-157",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "verified",
+      "confidence": 75.0,
+      "reasoning": "Agency: 5 matches; Name: N/A; Location: found; Date: within 4 days; Critical keywords: partial (1); Supporting: 0; Entry keywords: 10/48",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "immigration and customs enforcement",
+            "cbp",
+            "customs and border protection",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "not_applicable",
+          "matches": []
+        },
+        "location": {
+          "found": true,
+          "city": false,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": false,
+          "proximity": 4,
+          "matches": [
+            "january 16, 2026",
+            "jan 15, 2026"
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 1,
+          "critical_required": 2,
+          "supporting_found": 0,
+          "matches": [
+            "critical:lawsuit"
+          ]
+        },
+        "entry_keywords": {
+          "found": 10,
+          "total": 48,
+          "matches": [
+            "racial",
+            "class",
+            "immigrant",
+            "warrantless",
+            "arrests",
+            "profiling",
+            "20",
+            "hussen",
+            "action",
+            "other"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-157\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-188",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "weak_match",
+      "confidence": 47.0,
+      "reasoning": "Agency: 1 matches; Name: N/A; Location: NOT FOUND; Date: NOT FOUND; Critical keywords: NONE; Supporting: 0; Entry keywords: 2/31",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "not_applicable",
+          "matches": []
+        },
+        "location": {
+          "found": false,
+          "city": false,
+          "state": false
+        },
+        "date": {
+          "found": false,
+          "exact": false,
+          "proximity": null,
+          "matches": []
+        },
+        "incident_keywords": {
+          "critical_found": 0,
+          "critical_required": 2,
+          "supporting_found": 0,
+          "matches": []
+        },
+        "entry_keywords": {
+          "found": 2,
+          "total": 31,
+          "matches": [
+            "people",
+            "january"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-188\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-P004",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "verified",
+      "confidence": 75.0,
+      "reasoning": "Agency: 8 matches; Name: NOT FOUND; Location: found; Date: exact match; Critical keywords: 3; Supporting: 6; Entry keywords: 6/8",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "immigration and customs enforcement",
+            "border patrol",
+            "department of homeland security",
+            "ero",
+            "immigration agent",
+            "federal immigration",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": false,
+          "method": null,
+          "matches": []
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": true,
+          "proximity": 1,
+          "matches": [
+            "june 8, 2025",
+            "june 7, 2025"
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 3,
+          "critical_required": 2,
+          "supporting_found": 6,
+          "matches": [
+            "critical:tear gas",
+            "critical:flash bang",
+            "critical:force",
+            "supporting:protest",
+            "supporting:protester",
+            "supporting:demonstrator",
+            "supporting:injured",
+            "supporting:confrontation",
+            "supporting:crowd"
+          ]
+        },
+        "entry_keywords": {
+          "found": 6,
+          "total": 8,
+          "matches": [
+            "one",
+            "injured",
+            "paramount",
+            "force",
+            "people",
+            "2"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-P004\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-P015",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "likely_valid",
+      "confidence": 69.0,
+      "reasoning": "Agency: 7 matches; Name: NOT FOUND; Location: found; Date: within 6 days; Critical keywords: 2; Supporting: 2; Entry keywords: 12/16",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "immigration and customs enforcement",
+            "border patrol",
+            "ero",
+            "immigration agent",
+            "federal immigration",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": false,
+          "method": null,
+          "matches": []
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": false,
+          "proximity": 6,
+          "matches": [
+            "june 9, 2025"
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 2,
+          "critical_required": 2,
+          "supporting_found": 2,
+          "matches": [
+            "critical:force",
+            "critical:assault",
+            "supporting:injured",
+            "supporting:violent"
+          ]
+        },
+        "entry_keywords": {
+          "found": 12,
+          "total": 16,
+          "matches": [
+            "injured",
+            "protest",
+            "part",
+            "2",
+            "enforcement",
+            "san francisco",
+            "california",
+            "against",
+            "protests",
+            "officer"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-P015\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-P019",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "verified",
+      "confidence": 95.0,
+      "reasoning": "Agency: 2 matches; Name: N/A; Location: found; Date: exact match; Critical keywords: 2; Supporting: 0; Entry keywords: 9/11",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "ero"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "not_applicable",
+          "matches": []
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": true,
+          "proximity": 1,
+          "matches": [
+            "june 11, 2025",
+            "june 11, 2025",
+            "jun 11, 2025",
+            "jun 10, 2025",
+            "jun 10, 2025"
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 2,
+          "critical_required": 2,
+          "supporting_found": 0,
+          "matches": [
+            "critical:force",
+            "critical:assault"
+          ]
+        },
+        "entry_keywords": {
+          "found": 9,
+          "total": 11,
+          "matches": [
+            "protest",
+            "arrested",
+            "86",
+            "peaceful",
+            "nypd",
+            "court",
+            "arrests",
+            "federal",
+            "immigration"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-P019\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-P030",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "verified",
+      "confidence": 92.0,
+      "reasoning": "Agency: 5 matches; Name: N/A; Location: found; Date: exact match; Critical keywords: partial (1); Supporting: 1; Entry keywords: 9/19",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "department of homeland security",
+            "ero",
+            "federal immigration",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "not_applicable",
+          "matches": []
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": true,
+          "proximity": 1,
+          "matches": [
+            "jan. 24, ",
+            "january 25, 2026",
+            "january 16, 2026"
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 1,
+          "critical_required": 2,
+          "supporting_found": 1,
+          "matches": [
+            "critical:force",
+            "supporting:violent"
+          ]
+        },
+        "entry_keywords": {
+          "found": 9,
+          "total": 19,
+          "matches": [
+            "state",
+            "000",
+            "capitol",
+            "peaceful",
+            "2",
+            "denver",
+            "force",
+            "protesters",
+            "state capitol"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-P030\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-P034",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "verified",
+      "confidence": 84.0,
+      "reasoning": "Agency: 5 matches; Name: fragment; Location: found; Date: within 5 days; Critical keywords: 2; Supporting: 8; Entry keywords: 15/21",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "immigration and customs enforcement",
+            "department of homeland security",
+            "federal immigration",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "fragment",
+          "matches": [
+            "rummler",
+            "kaden rummler",
+            "kaden"
+          ]
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": false,
+          "proximity": 5,
+          "matches": [
+            "january 14, 2026"
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 2,
+          "critical_required": 2,
+          "supporting_found": 8,
+          "matches": [
+            "critical:pepper ball",
+            "critical:force",
+            "supporting:protest",
+            "supporting:protester",
+            "supporting:demonstrator",
+            "supporting:injured",
+            "supporting:injury",
+            "supporting:hospital",
+            "supporting:confrontation",
+            "supporting:crowd"
+          ]
+        },
+        "entry_keywords": {
+          "found": 15,
+          "total": 21,
+          "matches": [
+            "year",
+            "struck",
+            "blinded",
+            "ball",
+            "santa ana",
+            "lost",
+            "protest",
+            "left",
+            "student",
+            "pepper"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-P034\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-P035",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "verified",
+      "confidence": 84.0,
+      "reasoning": "Agency: 6 matches; Name: fragment; Location: found; Date: within 1 days; Critical keywords: 3; Supporting: 5; Entry keywords: 16/24",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "dhs",
+            "department of homeland security",
+            "immigration agent",
+            "federal immigration",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "fragment",
+          "matches": [
+            "month",
+            "jackson"
+          ]
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": false,
+          "proximity": 1,
+          "matches": [
+            "jan 17, 2026",
+            "jan 17, 2026",
+            "jan 17, 2026",
+            "january 15"
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 3,
+          "critical_required": 2,
+          "supporting_found": 5,
+          "matches": [
+            "critical:tear gas",
+            "critical:flash bang",
+            "critical:force",
+            "supporting:protest",
+            "supporting:protester",
+            "supporting:demonstrator",
+            "supporting:hospital",
+            "supporting:crowd"
+          ]
+        },
+        "entry_keywords": {
+          "found": 16,
+          "total": 24,
+          "matches": [
+            "family",
+            "breathing",
+            "baby",
+            "infant",
+            "building",
+            "6",
+            "outside",
+            "stopped",
+            "tear",
+            "through"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T3-P035\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T3-P037",
+      "source_file": "tier3_incidents.json",
+      "sources_count": 3,
+      "verdict": "verified",
+      "confidence": 72.0,
+      "reasoning": "Agency: 4 matches; Name: fragment; Location: found; Date: NOT FOUND; Critical keywords: 3; Supporting: 5; Entry keywords: 6/15",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "dhs",
+            "department of homeland security",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "fragment",
+          "matches": [
+            "biss",
+            "daniel biss",
+            "daniel"
+          ]
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": false,
+          "exact": false,
+          "proximity": null,
+          "matches": []
+        },
+        "incident_keywords": {
+          "critical_found": 3,
+          "critical_required": 2,
+          "supporting_found": 5,
+          "matches": [
+            "critical:pepper spray",
+            "critical:tear gas",
+            "critical:force",
+            "supporting:protest",
+            "supporting:protester",
+            "supporting:demonstrator",
+            "supporting:injured",
+            "supporting:crowd"
+          ]
+        },
+        "entry_keywords": {
+          "found": 6,
+          "total": 15,
+          "matches": [
+            "protest",
+            "facility",
+            "mayor",
+            "broadview",
+            "evanston",
+            "tear"
+          ]
+        }
+      },
+      "source_used": "https://www.axios.com/local/chicago/2025/09/19/daniel-biss-protesters-tear-gas-ice-broadview-agents",
+      "fetch_method": "web_wayback"
+    },
+    {
+      "id": "T4-004",
+      "source_file": "tier4_incidents.json",
+      "sources_count": 4,
+      "verdict": "verified",
+      "confidence": 100.0,
+      "reasoning": "Agency: 3 matches; Name: N/A; Location: found; Date: exact match; Critical keywords: 4; Supporting: 6; Entry keywords: 17/25",
+      "checks": {
+        "agency": {
+          "found": true,
+          "matches": [
+            "ice",
+            "immigration and customs enforcement",
+            "federal agent"
+          ]
+        },
+        "name": {
+          "found": true,
+          "method": "not_applicable",
+          "matches": []
+        },
+        "location": {
+          "found": true,
+          "city": true,
+          "state": true
+        },
+        "date": {
+          "found": true,
+          "exact": true,
+          "proximity": null,
+          "matches": [
+            "september 24, 2025",
+            "september 24, 2025"
+          ]
+        },
+        "incident_keywords": {
+          "critical_found": 4,
+          "critical_required": 2,
+          "supporting_found": 6,
+          "matches": [
+            "critical:shot",
+            "critical:shooting",
+            "critical:fired",
+            "critical:attack",
+            "supporting:agent",
+            "supporting:facility",
+            "supporting:wounded",
+            "supporting:injured",
+            "supporting:suspect",
+            "supporting:shooter"
+          ]
+        },
+        "entry_keywords": {
+          "found": 17,
+          "total": 25,
+          "matches": [
+            "shooting",
+            "port",
+            "1",
+            "attack",
+            "detainees",
+            "self",
+            "scene",
+            "deaths",
+            "fired",
+            "6"
+          ]
+        }
+      },
+      "source_used": "C:\\Users\\kbass\\ice_arrests\\data\\sources\\T4-004\\article.txt",
+      "fetch_method": "local_archive"
+    },
+    {
+      "id": "T4-005",
+      "source_file": "tier4_incidents.json",
+      "sources_count": 4,
+      "verdict": "url_inaccessible",
+      "confidence": 0,
+      "reasoning": "All fetch methods failed",
+      "checks": {},
+      "source_used": null,
+      "fetch_method": null
+    }
+  ]
+}

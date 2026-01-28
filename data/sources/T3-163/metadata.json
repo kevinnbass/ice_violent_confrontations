@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-163",
+  "url": "https://nipnlg.org/news/press-releases/four-people-detained-louisiana-ice-processing-center-angolas-camp-j-continue",
+  "final_url": "https://nipnlg.org/news/press-releases/four-people-detained-louisiana-ice-processing-center-angolas-camp-j-continue",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "d1c059272880c161980dc5bc936642a2e5a038f887a1aefc1d83d042a351b979",
+  "title": "Four people detained at the Louisiana ICE Processing Center in Angola\u2019s Camp J continue on a ten-day hunger strike against inhumane conditions | NIPNLG",
+  "fetched_at": "2026-01-27T14:47:08.784868",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251129105845/https://nipnlg.org/news/press-releases/four-people-detained-louisiana-ice-processing-center-angolas-camp-j-continue",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://nipnlg.org/news/press-releases/four-people-detained-louisiana-ice-processing-center-angolas-camp-j-continue",
+      "final_url": "https://nipnlg.org/news/press-releases/four-people-detained-louisiana-ice-processing-center-angolas-camp-j-continue",
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 560,
+      "content_hash": "b3df4094e8aff55821994e847dbbb3c18d7e9cd7846080ea545693206748c2f0",
+      "title": "Four people detained at the Louisiana ICE Processing Center in Angola\u2019s Camp J continue on a ten-day hunger strike against inhumane conditions | NIPNLG",
+      "fetched_at": "2026-01-27T16:10:56.406859",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251129105845/https://nipnlg.org/news/press-releases/four-people-detained-louisiana-ice-processing-center-angolas-camp-j-continue",
+      "archive_path": "data\\sources\\T3-163\\article_wayback.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.wbrz.com/news/louisiana-prison-system-says-the-media-inspired-hunger-strike-among-ice-detainees-at-angola-camp",
+      "final_url": "https://www.wbrz.com/news/louisiana-prison-system-says-the-media-inspired-hunger-strike-among-ice-detainees-at-angola-camp",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 105581,
+      "content_hash": "08fcca6f042d0bdf95b1a94197690554504051236f16ea174b3436116b44ab5c",
+      "title": "Louisiana prison system says the media inspired hunger strike among ICE detainees at Angola camp",
+      "fetched_at": "2026-01-27T16:28:35.369734",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-163\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.theadvocate.com/baton_rouge/news/angola-ice-hunger-strike/article_ff4bf094-16d0-429b-8a7c-f1be2625edd3.html",
+      "final_url": "https://www.theadvocate.com/baton_rouge/news/angola-ice-hunger-strike/article_ff4bf094-16d0-429b-8a7c-f1be2625edd3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 370711,
+      "content_hash": "d3a33e179b2cf76bc51bd949c919f285cda9c842c0c339a30c14f2c69efd5636",
+      "title": "19 detainees at Angola ICE camp reportedly on hunger strike | News | theadvocate.com",
+      "fetched_at": "2026-01-27T16:29:06.236100",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-163\\article_2.txt"
+    }
+  ]
+}

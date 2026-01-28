@@ -1,0 +1,33 @@
+{
+  "entry_id": "T1-D-062",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ice.gov/news/releases/convicted-child-sex-offender-philippines-passes-away-harlingen-hospital",
+      "final_url": "https://www.ice.gov/news/releases/convicted-child-sex-offender-philippines-passes-away-harlingen-hospital",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 110583,
+      "content_hash": "7965fbc925b99269f40c3a321ff3af6600b5b88299352c13f8a80965e10d0023",
+      "title": "Convicted child sex offender from Philippines passes away at Harlingen hospital | ICE",
+      "fetched_at": "2026-01-27T16:28:10.908823",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-062\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.mytexasdaily.com/north-texas/philippines-citizen-dies-in-ice-custody-at-texas-medical-center/article_a97d2ecc-5186-541a-a8e0-df29ad4f03ba.html",
+      "final_url": "https://www.mytexasdaily.com/north-texas/philippines-citizen-dies-in-ice-custody-at-texas-medical-center/article_a97d2ecc-5186-541a-a8e0-df29ad4f03ba.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 250633,
+      "content_hash": "bbf372b5fa8c20e466d5fe117236c39f8364d5b0e71c7cc673d5a7bb5fce9bd8",
+      "title": "Philippines citizen dies in ICE custody at Texas medical center | North Texas | mytexasdaily.com",
+      "fetched_at": "2026-01-27T16:28:46.703204",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-062\\article_1.txt"
+    }
+  ]
+}

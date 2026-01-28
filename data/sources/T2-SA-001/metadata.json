@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-SA-001",
+  "url": "https://www.kut.org/crime-justice/2025-07-08/11-arrested-in-wake-of-officer-shooting-outside-texas-ice-facility",
+  "final_url": "https://www.kut.org/crime-justice/2025-07-08/11-arrested-in-wake-of-officer-shooting-outside-texas-ice-facility",
+  "status_code": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "content_length": 196786,
+  "content_hash": "2deaaf5e34fe16e4729b609fd03b8e22b1865c18168a8be50262c43f91d8040f",
+  "title": "11 arrested in wake of officer shooting outside Texas ICE facility | KUT Radio, Austin's NPR Station",
+  "fetched_at": "2026-01-27T14:45:48.076626",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.kut.org/crime-justice/2025-07-08/11-arrested-in-wake-of-officer-shooting-outside-texas-ice-facility",
+      "final_url": "https://www.kut.org/crime-justice/2025-07-08/11-arrested-in-wake-of-officer-shooting-outside-texas-ice-facility",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 197092,
+      "content_hash": "d3f2093177ba0d1f376e2cfc8077e847e60a3ad724c3ea909315de8d1c0909ad",
+      "title": "11 arrested in wake of officer shooting outside Texas ICE facility | KUT Radio, Austin's NPR Station",
+      "fetched_at": "2026-01-27T16:28:01.068074",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-SA-001\\article.txt"
+    }
+  ]
+}

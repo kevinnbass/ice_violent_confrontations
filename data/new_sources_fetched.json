@@ -1,0 +1,125 @@
+{
+  "success": [
+    {
+      "entry_id": "T1-D-006",
+      "url": "https://www.ice.gov/news/releases/vietnamese-national-ice-custody-dies-el-paso-long-term-acute-care-hospital",
+      "name": "ICE Official Press Release",
+      "tier": 1,
+      "archive_path": "data/sources/T1-D-006/article_2_direct.txt",
+      "chars": 4863
+    },
+    {
+      "entry_id": "T2-LL-002",
+      "url": "https://pressfreedomtracker.us/all-incidents/reporter-struck-in-head-with-munition-by-federal-officers-at-la-protest/",
+      "name": "U.S. Press Freedom Tracker",
+      "tier": 2,
+      "archive_path": "data/sources/T2-LL-002/article_6_direct.txt",
+      "chars": 9774
+    },
+    {
+      "entry_id": "T2-LL-008",
+      "url": "https://www.cnn.com/2025/10/10/us/illinois-judge-ruling-ice-protests-pastor-chicago-hnk",
+      "name": "CNN (Judge ruling on pastor shooting)",
+      "tier": 2,
+      "archive_path": "data/sources/T2-LL-008/article_2_direct.txt",
+      "chars": 5807
+    },
+    {
+      "entry_id": "T2-WD-003",
+      "url": "https://www.democracynow.org/2025/7/2/ice_abductions_masked_men_andrea_velez",
+      "name": "Democracy Now!",
+      "tier": 2,
+      "archive_path": "data/sources/T2-WD-003/article_3_direct.txt",
+      "chars": 12087
+    },
+    {
+      "entry_id": "T2-WD-005",
+      "url": "https://ktla.com/news/79-year-old-american-citizen-files-50-million-claim-after-car-wash-ice-raid/",
+      "name": "KTLA",
+      "tier": 2,
+      "archive_path": "data/sources/T2-WD-005/article_2_wayback.txt",
+      "chars": 6007
+    },
+    {
+      "entry_id": "T3-049",
+      "url": "https://baltimorebeat.com/indiscriminate-ice-arrests-have-left-baltimores-immigrant-communities-in-a-constant-state-of-fear-and-anxiety/",
+      "name": "Baltimore Beat",
+      "tier": 2,
+      "archive_path": "data/sources/T3-049/article_6_direct.txt",
+      "chars": 19748
+    },
+    {
+      "entry_id": "T3-051",
+      "url": "https://www.nbcnews.com/news/latino/immigration-raid-newark-new-jersey-mayor-angry-rcna189100",
+      "name": "NBC News",
+      "tier": 2,
+      "archive_path": "data/sources/T3-051/article_3_direct.txt",
+      "chars": 7412
+    },
+    {
+      "entry_id": "T3-111",
+      "url": "https://www.newhavenindependent.org/2025/07/08/immigration_officers_apprehend_woman_scheduled_for_court/",
+      "name": "New Haven Independent (July 8)",
+      "tier": 2,
+      "archive_path": "data/sources/T3-111/article_6_direct.txt",
+      "chars": 60280
+    },
+    {
+      "entry_id": "T3-189",
+      "url": "https://www.cbsnews.com/miami/news/krome-detention-center-sos-immigration-miami-dade/",
+      "name": "CBS Miami",
+      "tier": 2,
+      "archive_path": "data/sources/T3-189/article_2_direct.txt",
+      "chars": 4230
+    },
+    {
+      "entry_id": "T3-218",
+      "url": "https://www.kpbs.org/news/border-immigration/2025/05/01/man-arrested-in-ice-raid-near-el-cajon-is-back-with-his-family",
+      "name": "KPBS",
+      "tier": 2,
+      "archive_path": "data/sources/T3-218/article_2_direct.txt",
+      "chars": 7102
+    },
+    {
+      "entry_id": "T3-219",
+      "url": "https://www.ice.gov/news/releases/ice-laredo-federal-partners-arrest-31-illegal-aliens-during-1-day-targeted-worksite",
+      "name": "ICE Official Press Release",
+      "tier": 1,
+      "archive_path": "data/sources/T3-219/article_2_direct.txt",
+      "chars": 3470
+    },
+    {
+      "entry_id": "T3-P013",
+      "url": "https://lapublicpress.org/2025/06/ice-police-protest-lapd-lasd-tear-gas/",
+      "name": "LA Public Press",
+      "tier": 2,
+      "archive_path": "data/sources/T3-P013/article_2_wayback.txt",
+      "chars": 5474
+    },
+    {
+      "entry_id": "T3-P030",
+      "url": "https://www.denvervoice.org/archive/2026/1/25/they-shot-and-killed-someone-in-broad-daylight-protesters-line-broadway-after-ice-shootings-spark-national-outrage",
+      "name": "Denver Voice (Jan 25)",
+      "tier": 2,
+      "archive_path": "data/sources/T3-P030/article_5_direct.txt",
+      "chars": 7152
+    },
+    {
+      "entry_id": "T3-P031",
+      "url": "https://edition.cnn.com/us/live-news/minneapolis-ice-shooting-protests-01-15-26",
+      "name": "CNN Live (Jan 15)",
+      "tier": 2,
+      "archive_path": "data/sources/T3-P031/article_5_direct.txt",
+      "chars": 23254
+    },
+    {
+      "entry_id": "T4-014",
+      "url": "https://coloradosun.com/2025/09/30/jeanette-vizguerra-ice-detention-six-months/",
+      "name": "Colorado Sun",
+      "tier": 2,
+      "archive_path": "data/sources/T4-014/article_2_direct.txt",
+      "chars": 10913
+    }
+  ],
+  "failed": []
+}

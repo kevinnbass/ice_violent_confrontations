@@ -1,0 +1,114 @@
+[
+  {
+    "entry_id": "T1-D",
+    "source_name": "New Jersey Monitor",
+    "url": "https://newjerseymonitor.com/2025/12/19/ice-detainee-newark-jail-died/",
+    "archive_path": "data/sources/T1-D/article.txt",
+    "chars": 14157
+  },
+  {
+    "entry_id": "T2-SA",
+    "source_name": "Oregon Capital Chronicle",
+    "url": "https://oregoncapitalchronicle.com/2026/01/12/pair-shot-by-u-s-border-patrol-in-portland-charged-with-illegal-entry-assaulting-federal-officer/",
+    "archive_path": "data/sources/T2-SA/article.txt",
+    "chars": 23961
+  },
+  {
+    "entry_id": "T3-052",
+    "source_name": "New Jersey Monitor",
+    "url": "https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/",
+    "archive_path": "data/sources/T3-052/article_4.txt",
+    "chars": 16026
+  },
+  {
+    "entry_id": "T3-062",
+    "source_name": "SF Chronicle",
+    "url": "https://www.sfchronicle.com/california/article/ice-immigration-farm-central-valley-20374476.php",
+    "archive_path": "data/sources/T3-062/article_2.txt",
+    "chars": 9117
+  },
+  {
+    "entry_id": "T3-118",
+    "source_name": "National Catholic Reporter",
+    "url": "https://www.ncronline.org/news/ice-agents-detain-migrants-church-grounds-2-california-parishes-diocese-says",
+    "archive_path": "data/sources/T3-118/article_3.txt",
+    "chars": 9479
+  },
+  {
+    "entry_id": "T3-118",
+    "source_name": "Bring Me The News",
+    "url": "https://bringmethenews.com/minnesota-news/ice-detains-4-columbia-heights-students-including-5-and-10-year-olds-sent-to-texas",
+    "archive_path": "data/sources/T3-118/article_4.txt",
+    "chars": 8321
+  },
+  {
+    "entry_id": "T3-118",
+    "source_name": "LA Public Press",
+    "url": "https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+    "archive_path": "data/sources/T3-118/article_5.txt",
+    "chars": 13613
+  },
+  {
+    "entry_id": "T3-118",
+    "source_name": "WTTW Chicago",
+    "url": "https://news.wttw.com/2025/10/03/chicago-ald-jessie-fuentes-handcuffed-federal-agents-while-asking-about-patient-s-ice",
+    "archive_path": "data/sources/T3-118/article_6.txt",
+    "chars": 5814
+  },
+  {
+    "entry_id": "T3-118",
+    "source_name": "Louisiana Illuminator",
+    "url": "https://lailluminator.com/2025/10/21/ice-keeps-detaining-pregnant-immigrants-against-federal-policy/",
+    "archive_path": "data/sources/T3-118/article_7.txt",
+    "chars": 35745
+  },
+  {
+    "entry_id": "T3-P014",
+    "source_name": "SF Chronicle",
+    "url": "https://www.sfchronicle.com/bayarea/article/sf-ice-protests-against-trump-sending-troops-to-la-20367057.php",
+    "archive_path": "data/sources/T3-P014/article_2.txt",
+    "chars": 15493
+  },
+  {
+    "entry_id": "T3-P018",
+    "source_name": "Axios",
+    "url": "https://www.axios.com/2025/06/10/ice-protests-la-nationwide-trump-tower-arrests",
+    "archive_path": "data/sources/T3-P018/article_3.txt",
+    "chars": 3311
+  },
+  {
+    "entry_id": "T3-P024",
+    "source_name": "WABE",
+    "url": "https://www.wabe.org/buford-highway-plaza-fiesta-packed-with-protestors-supporting-atlanta-immigrants/",
+    "archive_path": "data/sources/T3-P024/article_2.txt",
+    "chars": 3072
+  },
+  {
+    "entry_id": "T3-P030",
+    "source_name": "Colorado Newsline",
+    "url": "https://coloradonewsline.com/2026/01/09/protestors-enver-fatal-ice-shooting/",
+    "archive_path": "data/sources/T3-P030/article_3.txt",
+    "chars": 9177
+  },
+  {
+    "entry_id": "T3-P031",
+    "source_name": "Bring Me The News",
+    "url": "https://bringmethenews.com/minnesota-news/residents-hit-with-tear-gas-and-flash-bangs-as-anger-grows-in-aftermath-of-latest-federal-shooting",
+    "archive_path": "data/sources/T3-P031/article_1.txt",
+    "chars": 8534
+  },
+  {
+    "entry_id": "T3-P033",
+    "source_name": "Bring Me The News",
+    "url": "https://bringmethenews.com/minnesota-news/police-arrest-clergy-members-staging-anti-ice-protest-at-msp-airport",
+    "archive_path": "data/sources/T3-P033/article_3.txt",
+    "chars": 6596
+  },
+  {
+    "entry_id": "T3-118",
+    "source_name": "Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2025/12/05/ice-raid-grijalva-arizona/",
+    "archive_path": "data/sources/T3-118/article_8.txt",
+    "chars": 3261
+  }
+]

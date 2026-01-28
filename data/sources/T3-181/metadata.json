@@ -1,0 +1,29 @@
+{
+  "entry_id": "T3-181",
+  "url": "https://www.supremecourt.gov/opinions/25pdf/25a443_new_b07d.pdf",
+  "final_url": "https://www.supremecourt.gov/opinions/25pdf/25a443_new_b07d.pdf",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "db277c83923c249eb3ae5925b9aa04cd4c9f7976d5131c355a712702f13c2cba",
+  "title": null,
+  "fetched_at": "2026-01-27T14:47:19.531035",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260125123158/https://www.supremecourt.gov/opinions/25pdf/25a443_new_b07d.pdf",
+  "sources": [
+    {
+      "source_index": 2,
+      "url": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
+      "final_url": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
+      "status_code": 403,
+      "content_type": "text/plain",
+      "content_length": 151,
+      "content_hash": "d2a12ebfdfdbb7e1160c8b2fb8b9b16c7d068dba43ada02b6cc4aae47dd7ad23",
+      "title": "June 2025 Los Angeles protests against mass deportation - Wikipedia",
+      "fetched_at": "2026-01-27T16:20:39.131144",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260120004243/https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
+      "archive_path": "data\\sources\\T3-181\\article_2_wayback.txt"
+    }
+  ]
+}

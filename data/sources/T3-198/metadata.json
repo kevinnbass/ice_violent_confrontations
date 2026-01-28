@@ -1,0 +1,19 @@
+{
+  "entry_id": "T3-198",
+  "url": "https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+  "final_url": "https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+  "status_code": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 6253,
+  "content_hash": "ce05be8271d20e6c7974e3d03a0c2dfb7f123633dccb98e92e755e4b6a684be9",
+  "title": "ICE agents camp out at Glendale hospital for 6 days waiting to re-apprehend patient",
+  "fetched_at": "2026-01-27T00:30:09.056183",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251002163554/https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+  "archive_fetch": {
+    "method": "google_cache",
+    "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Flapublicpress.org%2F2025%2F07%2Fice-agents-glendale-hospital-waiting-to-arrest-a-patient%2F",
+    "fetched_at": "2026-01-27T01:26:24.479922",
+    "content_length": 85058
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-P034",
+  "url": "https://abc7.com/post/protester-blind-left-eye-federal-agent-fired-projectile-during-santa-ana-protest-family-says/18399874/",
+  "final_url": "https://abc7.com/post/protester-blind-left-eye-federal-agent-fired-projectile-during-santa-ana-protest-family-says/18399874/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "63aa50376444796a7912522eecbb2bcd9215420c6341042b1b41bea125e63eef",
+  "title": "Protester blind in left eye after federal agent fired projectile during Santa Ana protest, family says - ABC7 Los Angeles",
+  "fetched_at": "2026-01-27T14:50:04.298797",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260122214143/https://abc7.com/post/protester-blind-left-eye-federal-agent-fired-projectile-during-santa-ana-protest-family-says/18399874/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://abc7.com/post/protester-blind-left-eye-federal-agent-fired-projectile-during-santa-ana-protest-family-says/18399874/",
+      "final_url": "https://abc7.com/post/protester-blind-left-eye-federal-agent-fired-projectile-during-santa-ana-protest-family-says/18399874/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 304003,
+      "content_hash": "f4b910f514329be22f56685389936e3f6239ce6e5dcc2654c15b92d3d282d5d4",
+      "title": "Protester blind in left eye after federal agent fired projectile during Santa Ana protest, family says - ABC7 Los Angeles",
+      "fetched_at": "2026-01-27T16:28:09.069362",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P034\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://ktla.com/news/local-news/anti-ice-demonstrator-blinded-by-federal-agent-in-santa-ana-protest-speaks-out/",
+      "final_url": "https://ktla.com/news/local-news/anti-ice-demonstrator-blinded-by-federal-agent-in-santa-ana-protest-speaks-out/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 947341,
+      "content_hash": "a73d46935fac142c6331f932b0b49dd1e279c8f0b5ec9b045ee747412fbfc643",
+      "title": "Anti-ICE demonstrator blinded by federal agent in Santa Ana speaks out | KTLA",
+      "fetched_at": "2026-01-27T16:28:40.135821",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P034\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.democracynow.org/2026/1/15/headlines/protester_in_santa_ana_is_left_permanently_blind_by_less_lethal_round_fired_by_federal_agent",
+      "final_url": "https://www.democracynow.org/2026/1/15/headlines/protester_in_santa_ana_is_left_permanently_blind_by_less_lethal_round_fired_by_federal_agent",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 108429,
+      "content_hash": "dc92c51a4f6bb369465962b0414b576a69707c523b9b27f41f3ada15c7cc50dc",
+      "title": "Protester in Santa Ana Is Left Permanently Blind by \u201cLess Lethal\u201d Round Fired by Federal Agent | Democracy Now!",
+      "fetched_at": "2026-01-27T16:29:40.947318",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P034\\article_2.txt"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "entry_id": "T4-084",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.pbs.org/newshour/nation/u-s-citizen-wrongfully-detained-twice-in-alabama-workplace-raids-sues-immigration-authorities",
+      "final_url": "https://www.pbs.org/newshour/nation/u-s-citizen-wrongfully-detained-twice-in-alabama-workplace-raids-sues-immigration-authorities",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 278149,
+      "content_hash": "79d9ac8a64f3843d1855fc264b9631c703059bcf2a5d2561288553a91d12be40",
+      "title": "U.S. citizen wrongfully detained twice in Alabama workplace raids sues immigration authorities | PBS News",
+      "fetched_at": "2026-01-27T16:28:00.343734",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-084\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://abcnews.go.com/US/us-born-citizen-sues-after-arrested-immigration-agents/story?id=126129734",
+      "final_url": "https://abcnews.go.com/US/us-born-citizen-sues-after-arrested-immigration-agents/story?id=126129734",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 208211,
+      "content_hash": "4502bf7dbf706404d00d4cfc0157957e30d6b5db3737e46ca18de8e82e860803",
+      "title": "US-born citizen sues after twice being arrested by immigration agents - ABC News",
+      "fetched_at": "2026-01-27T16:28:12.295031",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-084\\article_1.txt"
+    }
+  ]
+}

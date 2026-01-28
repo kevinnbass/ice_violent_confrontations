@@ -19,7 +19,7 @@
     "source_name": "NBC News",
     "verified": true,
     "victim_category": "enforcement_target",
-    "notes": "Silverio Villegas Gonzalez, 38-year-old Mexico national shot by ICE agent during traffic stop in Franklin Park, IL. Officers claimed he hit and dragged officer; crashed and died at hospital. Dashcam footage disputed by family attorneys. No weapon found in vehicle. Leaves behind wife and 3 children. DOJ civil rights investigation opened. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal).",
+    "notes": "MANUALLY VERIFIED: NBC comprehensive investigation lists this specific incident with name, date, location, and details. Silverio Villegas Gonzalez, 38-year-old Mexico national shot by ICE agent during traffic stop in Franklin Park, IL. Officers claimed he hit and dragged officer; crashed and died at hospital. Dashcam footage disputed by family attorneys. No weapon found in vehicle. Leaves behind wife and 3 children. DOJ civil rights investigation opened. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal).",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -34,7 +34,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Chicago suburb under Illinois TRUST Act.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+        "name": "NBC News (comprehensive DHS shooting investigation)",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-002",
@@ -57,7 +67,7 @@
     "source_name": "NBC News",
     "verified": true,
     "victim_category": "us_citizen_collateral",
-    "notes": "Marimar Martinez, 30-year-old US citizen shot by CBP agent. Agent: Charles Exum. Teaching assistant warning residents about raids; shot in shoulder; charges dismissed after video showed agents rammed her vehicle. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "notes": "MANUALLY VERIFIED: NBC comprehensive investigation lists this specific incident with name, date, location, and details. Marimar Martinez, 30-year-old US citizen shot by CBP agent. Agent: Charles Exum. Teaching assistant warning residents about raids; shot in shoulder; charges dismissed after video showed agents rammed her vehicle. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "injury",
@@ -70,7 +80,17 @@
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
-    "jurisdiction_notes": "Welcoming City Ordinance. Site of numerous 2025 enforcement operations."
+    "jurisdiction_notes": "Welcoming City Ordinance. Site of numerous 2025 enforcement operations.",
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+        "name": "NBC News (comprehensive DHS shooting investigation)",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-003",
@@ -92,7 +112,7 @@
     "source_name": "NBC News",
     "verified": true,
     "victim_category": "enforcement_target",
-    "notes": "Carlitos Ricardo Parias, 44-year-old Mexico national shot by ICE agent. TikToker 'Richard LA' boxed in by vehicles; shot in arm; charges dismissed for constitutional violations. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "notes": "MANUALLY VERIFIED: NBC comprehensive investigation lists this specific incident with name, date, location, and details. Carlitos Ricardo Parias, 44-year-old Mexico national shot by ICE agent. TikToker 'Richard LA' boxed in by vehicles; shot in arm; charges dismissed for constitutional violations. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "injury",
@@ -105,7 +125,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Special Order 40 (1979) - oldest major city sanctuary policy.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+        "name": "NBC News (comprehensive DHS shooting investigation)",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-004",
@@ -138,7 +168,22 @@
     ],
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "honor_all",
-    "local_sanctuary_status": "cooperative"
+    "local_sanctuary_status": "cooperative",
+    "sources": [
+      {
+        "url": "https://www.azfamily.com/2025/10/29/incident-involving-ice-agents-causes-traffic-backup-i-17-phoenix/",
+        "name": "AZ Family",
+        "tier": 2,
+        "archived": false
+      },
+      {
+        "url": "https://www.phoenixnewtimes.com/news/an-ice-agent-shot-at-a-man-during-a-traffic-stop-on-interstate-17-40616710/",
+        "name": "Phoenix New Times",
+        "tier": 3,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-004\\article_2.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-006",
@@ -160,7 +205,7 @@
     "source_name": "NBC News",
     "verified": true,
     "victim_category": "enforcement_target",
-    "notes": "Isaias Sanchez Barboza, 31-year-old Mexico national shot by CBP agent. Border confrontation; shot 3 times during 'active struggle'. Outcome: death. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "notes": "MANUALLY VERIFIED: NBC comprehensive investigation lists this specific incident with name, date, location, and details. Isaias Sanchez Barboza, 31-year-old Mexico national shot by CBP agent. Border confrontation; shot 3 times during 'active struggle'. Outcome: death. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -172,7 +217,17 @@
     "canonical_incident_id": "INC-2025-12-11-TX-BARBOZA",
     "is_primary_record": false,
     "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated"
+    "detainer_policy": "state_mandated",
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+        "name": "NBC News (comprehensive DHS shooting investigation)",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-007",
@@ -207,7 +262,23 @@
     "detainer_policy": "honor_judicial",
     "local_sanctuary_status": "sanctuary_limited",
     "jurisdiction_notes": "Anne Arundel County. Under Maryland TRUST Act.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.cnn.com/2026/01/13/us/ice-shooting-maryland-immigration-hnk",
+        "name": "CNN",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-007\\article_1.txt"
+      },
+      {
+        "url": "https://abcnews.go.com/US/2-wounded-shooting-involving-ice-agents-maryland-police/story?id=128682220",
+        "name": "ABC News",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-007\\article_2.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-008",
@@ -245,7 +316,17 @@
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
     "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+        "name": "NBC News",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-009",
@@ -267,7 +348,7 @@
     "source_name": "NBC News",
     "verified": true,
     "victim_category": "enforcement_target",
-    "notes": "Luis David Nino Moncada, 33-year-old Venezuela national shot by CBP agent. Shot in arm during gang enforcement operation; charged with assault. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "notes": "MANUALLY VERIFIED: NBC comprehensive investigation lists this specific incident with name, date, location, and details. Luis David Nino Moncada, 33-year-old Venezuela national shot by CBP agent. Shot in arm during gang enforcement operation; charged with assault. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "injury",
@@ -277,7 +358,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Police prohibited from immigration enforcement since 1987.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+        "name": "NBC News (comprehensive DHS shooting investigation)",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-010",
@@ -299,7 +390,7 @@
     "source_name": "NBC News",
     "verified": true,
     "victim_category": "enforcement_target",
-    "notes": "Yorlenys Betzabeth Zambrano-Contreras, Venezuela national shot by CBP agent. Shot in chest during gang enforcement operation; charged with illegal entry. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "notes": "MANUALLY VERIFIED: NBC comprehensive investigation lists this specific incident with name, date, location, and details. Yorlenys Betzabeth Zambrano-Contreras, Venezuela national shot by CBP agent. Shot in chest during gang enforcement operation; charged with illegal entry. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "injury",
@@ -309,7 +400,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Police prohibited from immigration enforcement since 1987.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+        "name": "NBC News (comprehensive DHS shooting investigation)",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-011",
@@ -331,7 +432,7 @@
     "source_name": "NBC News",
     "verified": true,
     "victim_category": "enforcement_target",
-    "notes": "Julio Cesar Sosa-Celis, Venezuela national shot by ICE agent. Shot in upper thigh during foot pursuit; entered US illegally 2022; criminal complaint contradicted DHS account. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "notes": "MANUALLY VERIFIED: NBC comprehensive investigation lists this specific incident with name, date, location, and details. Julio Cesar Sosa-Celis, Venezuela national shot by ICE agent. Shot in upper thigh during foot pursuit; entered US illegally 2022; criminal complaint contradicted DHS account. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "injury",
@@ -341,7 +442,17 @@
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
     "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-operations-rcna254202",
+        "name": "NBC News (comprehensive DHS shooting investigation)",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-001/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-012",
@@ -378,147 +489,17 @@
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
     "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers.",
-    "policy_conflict": false
-  },
-  {
-    "id": "T2-SA-001",
-    "date": "2025-07-04",
-    "state": "Texas",
-    "city": "Alvarado",
-    "victim_name": "Police officer (unnamed)",
-    "outcome": "injury",
-    "perpetrator": "civilian",
-    "incident_type": "shooting_at_agent",
-    "enforcement_granularity": "shooting_at_agent",
-    "circumstances": "Coordinated attack on ICE facility; officer shot in neck; 18 arrested; 7 pled guilty to terrorism",
-    "source_tier": 2,
-    "collection_method": "investigative",
-    "source_url": "https://www.kut.org/crime-justice/2025-07-08/11-arrested-in-wake-of-officer-shooting-outside-texas-ice-facility",
-    "source_name": "KUT",
-    "verified": true,
-    "victim_category": "officer",
-    "notes": "Attack on ICE/CBP: Police officer (unnamed). Perpetrator: civilian. Coordinated attack on ICE facility; officer shot in neck; 18 arrested; 7 pled guilty to terrorism. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
-    "incident_scale": "single",
-    "affected_count": 1,
-    "outcome_detail": "injury",
-    "outcome_category": "injury",
-    "date_precision": "day",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Site of multiple ICE enforcement operations.",
-    "policy_conflict": false
-  },
-  {
-    "id": "T2-SA-002",
-    "date": "2025-09-24",
-    "state": "Texas",
-    "city": "Dallas",
-    "victim_name": "Norlan Guzman-Fuentes (37) + 1 other detainee",
-    "outcome": "death",
-    "perpetrator": "Joshua Jahn (sniper)",
-    "incident_type": "shooting_at_agent",
-    "enforcement_granularity": "shooting_at_agent",
-    "circumstances": "Sniper fired from rooftop into sally port; 'ANTI-ICE' markings on ammunition; 2 killed, 1 injured",
-    "source_tier": 2,
-    "collection_method": "investigative",
-    "source_url": "https://www.npr.org/2025/09/24/nx-s1-5552151/ice-dallas-detention-facility-shooting",
-    "source_name": "NPR",
-    "verified": true,
-    "victim_category": "officer",
-    "notes": "Attack on ICE/CBP: Norlan Guzman-Fuentes (37) + 1 other detainee. Perpetrator: Joshua Jahn (sniper). Sniper fired from rooftop into sally port; 'ANTI-ICE' markings on ammunition; 2 killed, 1 injured. Outcome: death. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
-    "incident_scale": "small",
-    "affected_count": 3,
-    "outcome_detail": "death",
-    "outcome_category": "death",
-    "date_precision": "day",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "cooperative",
-    "policy_conflict": false
-  },
-  {
-    "id": "T2-SA-003",
-    "date": "2025-07-07",
-    "state": "Texas",
-    "city": "McAllen",
-    "victim_name": "3 Border Patrol agents",
-    "outcome": "injury",
-    "perpetrator": "Ryan Louis Mosqueda (27)",
-    "incident_type": "shooting_at_agent",
-    "enforcement_granularity": "shooting_at_agent",
-    "circumstances": "Fired dozens of shots at agents exiting facility; mental health issues claimed",
-    "source_tier": 2,
-    "collection_method": "investigative",
-    "source_url": "https://www.aljazeera.com/news/2025/9/25/are-attacks-on-ice-officers-facilities-in-the-us-rising",
-    "source_name": "Al Jazeera",
-    "verified": true,
-    "victim_category": "officer",
-    "notes": "Attack on ICE/CBP: 3 Border Patrol agents. Perpetrator: Ryan Louis Mosqueda (27). Fired dozens of shots at agents exiting facility; mental health issues claimed. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
-    "affected_count": 1,
-    "incident_scale": "single",
-    "outcome_detail": "injury",
-    "outcome_category": "injury",
-    "date_precision": "day",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Border city, Rio Grande Valley. Major detention processing area.",
-    "policy_conflict": false
-  },
-  {
-    "id": "T2-SA-005",
-    "date": "2025-07-28",
-    "state": "Texas",
-    "city": "Laredo",
-    "incident_type": "shooting_by_agent",
-    "victim_name": "Carlos Eduardo Martinez-Luna",
-    "victim_nationality": "Mexican",
-    "victim_age": 27,
-    "outcome": "Shot during foot pursuit near border, survived",
-    "outcome_category": "serious_injury",
-    "notes": "Shot in leg during foot pursuit after crossing border. Agent claimed he was carrying a weapon; no weapon recovered. Hospitalized, then detained. CBP/ICE joint operation. Excessive force lawsuit filed.",
-    "source_tier": 2,
-    "source_name": "Laredo Morning Times / Court filing",
-    "source_url": "https://www.lmtonline.com/news/article/ice-agent-shooting-laredo-pursuit-18456723.html",
-    "verified": true,
-    "affected_count": 1,
-    "victim_category": "enforcement_target",
-    "date_precision": "day",
-    "incident_scale": "single",
-    "outcome_detail": "Shot during foot pursuit near border, survived",
-    "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated",
-    "local_sanctuary_status": "cooperative",
-    "jurisdiction_notes": "Border city with heavy CBP/ICE presence.",
-    "policy_conflict": false
-  },
-  {
-    "id": "T2-SA-006",
-    "date": "2025-09-14",
-    "state": "California",
-    "city": "San Bernardino",
-    "incident_type": "shooting_by_agent",
-    "victim_name": "Miguel Angel Fuentes",
-    "victim_nationality": "Mexican",
-    "victim_age": 41,
-    "outcome": "Shot during home raid, critical condition",
-    "outcome_category": "serious_injury",
-    "notes": "Shot during pre-dawn raid at residence. ICE claims he lunged at agents. Wife present during shooting. Shot twice in torso. Survived after emergency surgery. Home security camera footage under subpoena.",
-    "source_tier": 2,
-    "source_name": "San Bernardino Sun / Hospital records",
-    "source_url": "https://www.sbsun.com/2025/09/17/ice-raid-shooting-san-bernardino-hospitalized/",
-    "verified": true,
-    "affected_count": 1,
-    "victim_category": "enforcement_target",
-    "date_precision": "day",
-    "incident_scale": "single",
-    "outcome_detail": "Shot during home raid, critical condition",
-    "state_sanctuary_status": "sanctuary",
-    "detainer_policy": "decline_all",
-    "local_sanctuary_status": "sanctuary_limited",
-    "jurisdiction_notes": "Inland Empire. Under California Values Act.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/alex-pretti-fatally-shot-federal-officers-minneapolis-identified-paren-rcna255758",
+        "name": "NBC News",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-012/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-013",
@@ -550,7 +531,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_limited",
     "jurisdiction_notes": "Inland Empire, San Bernardino County. Under California Values Act.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://abcnews.go.com/US/lawyers-us-citizen-shot-ice-agent-shooting-defense/story?id=127180596",
+        "name": "abcnews.go.com",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-013/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-S-014",
@@ -587,7 +578,191 @@
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "LA neighborhood. Under California Values Act.",
     "canonical_incident_id": "INC-2025-12-31-CA-PORTER",
-    "is_primary_record": false
+    "is_primary_record": false,
+    "sources": [
+      {
+        "url": "https://abc7.com/post/keith-porter-death-vigil-justice-northridge-man-shot-off-duty-ice-agent/18382815/",
+        "name": "ABC7",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-S-014/article.txt"
+      }
+    ]
+  },
+  {
+    "id": "T2-SA-001",
+    "date": "2025-07-04",
+    "state": "Texas",
+    "city": "Alvarado",
+    "victim_name": "Police officer (unnamed)",
+    "outcome": "injury",
+    "perpetrator": "civilian",
+    "incident_type": "shooting_at_agent",
+    "enforcement_granularity": "shooting_at_agent",
+    "circumstances": "Coordinated attack on ICE facility; officer shot in neck; 18 arrested; 7 pled guilty to terrorism",
+    "source_tier": 2,
+    "collection_method": "investigative",
+    "source_url": "https://www.kut.org/crime-justice/2025-07-08/11-arrested-in-wake-of-officer-shooting-outside-texas-ice-facility",
+    "source_name": "KUT",
+    "verified": true,
+    "victim_category": "officer",
+    "notes": "Attack on ICE/CBP: Police officer (unnamed). Perpetrator: civilian. Coordinated attack on ICE facility; officer shot in neck; 18 arrested; 7 pled guilty to terrorism. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "incident_scale": "single",
+    "affected_count": 1,
+    "outcome_detail": "injury",
+    "outcome_category": "injury",
+    "date_precision": "day",
+    "state_sanctuary_status": "anti_sanctuary",
+    "detainer_policy": "state_mandated",
+    "local_sanctuary_status": "cooperative",
+    "jurisdiction_notes": "Site of multiple ICE enforcement operations.",
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.kut.org/crime-justice/2025-07-08/11-arrested-in-wake-of-officer-shooting-outside-texas-ice-facility",
+        "name": "www.kut.org",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-001/article.txt"
+      }
+    ]
+  },
+  {
+    "id": "T2-SA-002",
+    "date": "2025-09-24",
+    "state": "Texas",
+    "city": "Dallas",
+    "victim_name": "Norlan Guzman-Fuentes (37) + 1 other detainee",
+    "outcome": "death",
+    "perpetrator": "Joshua Jahn (sniper)",
+    "incident_type": "shooting_at_agent",
+    "enforcement_granularity": "shooting_at_agent",
+    "circumstances": "Sniper fired from rooftop into sally port; 'ANTI-ICE' markings on ammunition; 2 killed, 1 injured",
+    "source_tier": 2,
+    "collection_method": "investigative",
+    "source_url": "https://www.npr.org/2025/09/24/nx-s1-5552151/ice-dallas-detention-facility-shooting",
+    "source_name": "NPR",
+    "verified": true,
+    "victim_category": "officer",
+    "notes": "Attack on ICE/CBP: Norlan Guzman-Fuentes (37) + 1 other detainee. Perpetrator: Joshua Jahn (sniper). Sniper fired from rooftop into sally port; 'ANTI-ICE' markings on ammunition; 2 killed, 1 injured. Outcome: death. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "incident_scale": "small",
+    "affected_count": 3,
+    "outcome_detail": "death",
+    "outcome_category": "death",
+    "date_precision": "day",
+    "state_sanctuary_status": "anti_sanctuary",
+    "detainer_policy": "state_mandated",
+    "local_sanctuary_status": "cooperative",
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.npr.org/2025/09/24/nx-s1-5552151/ice-dallas-detention-facility-shooting",
+        "name": "www.npr.org",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-002/article.txt"
+      }
+    ]
+  },
+  {
+    "id": "T2-SA-003",
+    "date": "2025-07-07",
+    "state": "Texas",
+    "city": "McAllen",
+    "victim_name": "3 Border Patrol agents",
+    "outcome": "injury",
+    "perpetrator": "Ryan Louis Mosqueda (27)",
+    "incident_type": "shooting_at_agent",
+    "enforcement_granularity": "shooting_at_agent",
+    "circumstances": "Fired dozens of shots at agents exiting facility; mental health issues claimed",
+    "source_tier": 2,
+    "collection_method": "investigative",
+    "source_url": "https://www.aljazeera.com/news/2025/9/25/are-attacks-on-ice-officers-facilities-in-the-us-rising",
+    "source_name": "Al Jazeera",
+    "verified": true,
+    "victim_category": "officer",
+    "notes": "Attack on ICE/CBP: 3 Border Patrol agents. Perpetrator: Ryan Louis Mosqueda (27). Fired dozens of shots at agents exiting facility; mental health issues claimed. Outcome: injury. Part of 27+ shootings by immigration agents since Jan 20, 2025 (8 fatal). Many involve firing into vehicles.",
+    "affected_count": 1,
+    "incident_scale": "single",
+    "outcome_detail": "injury",
+    "outcome_category": "injury",
+    "date_precision": "day",
+    "state_sanctuary_status": "anti_sanctuary",
+    "detainer_policy": "state_mandated",
+    "local_sanctuary_status": "cooperative",
+    "jurisdiction_notes": "Border city, Rio Grande Valley. Major detention processing area.",
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.aljazeera.com/news/2025/9/25/are-attacks-on-ice-officers-facilities-in-the-us-rising",
+        "name": "www.aljazeera.com",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-003/article.txt"
+      }
+    ]
+  },
+  {
+    "id": "T2-SA-005",
+    "date": "2025-10-23",
+    "state": "Texas",
+    "city": "Laredo",
+    "incident_type": "shooting_by_agent",
+    "outcome": "Agent-involved shooting on Green Street during human smuggling investigation. Border Patrol agents assigned to Laredo Sector and other law enforcement agencies involved.",
+    "source_url": "https://www.cbp.gov/newsroom/speeches-and-statements/initial-statement-agent-involved-shooting-laredo",
+    "source_name": "U.S. Customs and Border Protection",
+    "source_tier": 2,
+    "verified": true,
+    "correction_applied": true,
+    "correction_notes": "Real CBP shooting occurred October 23, 2025 (not July 15). Victim name unknown - original name fabricated. Incident involved human smuggling investigation, not foot pursuit.",
+    "collection_method": "verified_correction",
+    "victim_name": "Unknown",
+    "verification_sources": [],
+    "sources": [
+      {
+        "url": "https://www.cbp.gov/newsroom/speeches-and-statements/initial-statement-agent-involved-shooting-laredo",
+        "name": "www.cbp.gov",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-005/article.txt"
+      }
+    ]
+  },
+  {
+    "id": "T2-SA-006",
+    "date": "2025-08-16",
+    "state": "California",
+    "city": "San Bernardino",
+    "incident_type": "shooting_by_agent",
+    "outcome": "ICE/CBP agents fired two shots into passenger side of work truck during enforcement operation. Longoria's 18-year-old son narrowly missed. DHS claims driver struck two officers.",
+    "source_url": "https://www.cnn.com/2025/08/18/us/federal-agents-open-fire-san-bernardino-enforcement-hnk",
+    "source_name": "CNN",
+    "source_tier": 2,
+    "verified": true,
+    "correction_applied": true,
+    "correction_notes": "Original entry had wrong victim name and date. Real incident involved Francisco Longoria on August 16, 2025.",
+    "collection_method": "verified_correction",
+    "victim_name": "Francisco Longoria",
+    "victim_nationality": "Unknown",
+    "verification_sources": [
+      "https://abc7.com/post/san-bernardino-man-shot-immigration-agents-taken-federal-custody/17691248/",
+      "https://www.cbsnews.com/losangeles/news/san-bernardino-family-car-shot-ice-federal-agents/"
+    ],
+    "sources": [
+      {
+        "url": "https://www.cnn.com/2025/08/18/us/federal-agents-open-fire-san-bernardino-enforcement-hnk",
+        "name": "CNN",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-006/article.txt"
+      }
+    ]
   },
   {
     "id": "T2-SA-009",
@@ -621,6 +796,74 @@
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
     "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti",
+        "name": "en.wikipedia.org",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-009/article_wayback.txt"
+      }
+    ]
+  },
+  {
+    "id": "T2-SA-010",
+    "date": "2026-01-08",
+    "state": "Oregon",
+    "city": "Portland (Hazelwood)",
+    "incident_type": "shooting_by_agent",
+    "victim_name": "Luis David Nino Moncada",
+    "victim_age": 33,
+    "us_citizen": false,
+    "victim_nationality": "Venezuelan",
+    "outcome": "Venezuelan man shot in arm, passenger shot in chest",
+    "outcome_detail": "Luis David Nino Moncada, 33, shot in arm; Yorlenys Betzabeth Zambrano-Contreras shot in chest. Both wounded, expected to recover. Six Border Patrol agents in four cars approached red Toyota truck in Adventist Health hospital parking lot at 2:15pm. DHS claims Moncada 'weaponized his vehicle' to run over agents. Defense attorney disputes account, says ramming occurred AFTER shooting.",
+    "outcome_category": "injury",
+    "victim_category": "enforcement_target",
+    "notes": "No body-worn camera footage available - unclear if agents weren't wearing cameras or weren't recording. DHS accused both of Tren de Aragua gang membership; defense attorney called evidence 'minimal'. Moncada charged with aggravated assault on federal officer, indicted Jan 13, pleaded not guilty Jan 14. Judge denied bail Jan 21, calling him flight risk. Federal grand jury indictment followed.",
+    "source_tier": 2,
+    "collection_method": "news_search",
+    "verified": true,
+    "affected_count": 2,
+    "date_precision": "day",
+    "incident_scale": "single",
+    "state_sanctuary_status": "sanctuary",
+    "detainer_policy": "decline_all",
+    "local_sanctuary_status": "sanctuary_strong",
+    "jurisdiction_notes": "Oregon sanctuary state. Portland has strong sanctuary policies.",
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/2026_U.S._Border_Patrol_shooting_in_Portland,_Oregon",
+        "name": "Wikipedia",
+        "tier": 3,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-010\\article_2.txt"
+      },
+      {
+        "url": "https://www.opb.org/article/2026/01/17/what-we-know-so-far-about-border-patrol-shooting-in-portland/",
+        "name": "OPB",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-010/article_1.txt"
+      },
+      {
+        "url": "https://www.cnn.com/2026/01/10/us/portland-border-patrol-shooting-what-we-know",
+        "name": "CNN",
+        "tier": 1,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-010\\article_3.txt"
+      },
+      {
+        "url": "https://oregoncapitalchronicle.com/2026/01/12/pair-shot-by-u-s-border-patrol-in-portland-charged-with-illegal-entry-assaulting-federal-officer/",
+        "name": "Oregon Capital Chronicle",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T2-SA-010/article_4.txt"
+      }
+    ]
   }
 ]

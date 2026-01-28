@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-P030",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.denvervoice.org/archive/2026/1/25/they-shot-and-killed-someone-in-broad-daylight-protesters-line-broadway-after-ice-shootings-spark-national-outrage",
+      "final_url": "https://www.denvervoice.org/archive/2026/1/25/they-shot-and-killed-someone-in-broad-daylight-protesters-line-broadway-after-ice-shootings-spark-national-outrage",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 192235,
+      "content_hash": "9a50b5b70ab1cfcbf57819e35521cd03532c11fef8ca3a4b17e86a23ac3bbbc6",
+      "title": "\u2018They shot and killed someone in broad daylight!\u2019 Protesters line Broadway after ICE shootings spark national outrage \u2014 The Denver VOICE",
+      "fetched_at": "2026-01-27T16:27:59.912427",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P030\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://coloradonewsline.com/2026/01/09/protestors-enver-fatal-ice-shooting/",
+      "final_url": "https://coloradonewsline.com/2026/01/09/protestors-enver-fatal-ice-shooting/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7415,
+      "content_hash": "e4a1ae11d2ab89262c71f94acdf15409137a431257ccf48f3afe3339d0a76415",
+      "title": "Protesters march in downtown Denver to protest fatal ICE shooting | Colorado Newsline",
+      "fetched_at": "2026-01-27T15:50:07.103969",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260115212551/https://coloradonewsline.com/2026/01/09/protestors-enver-fatal-ice-shooting/",
+      "archive_path": "data\\sources\\T3-P030\\article_1_wayback.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.cpr.org/2026/01/09/minneapolis-ice-shooting-protests/",
+      "final_url": "https://www.cpr.org/2026/01/09/minneapolis-ice-shooting-protests/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 365448,
+      "content_hash": "edb3b2dc26f4fe200943fbb8f7a4aa998025d6ee1e5d0b2210d0eebbb7568a6f",
+      "title": "Groups gather against ICE fatal shooting across Colorado, more protests planned this weekend",
+      "fetched_at": "2026-01-27T16:30:34.017016",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P030\\article_2.txt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-S-013",
+  "url": "https://abcnews.go.com/US/lawyers-us-citizen-shot-ice-agent-shooting-defense/story?id=127180596",
+  "final_url": "https://abcnews.go.com/US/lawyers-us-citizen-shot-ice-agent-shooting-defense/story?id=127180596",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 177861,
+  "content_hash": "ca32a17ac4a9f902c9947775122e6a09985f979c2cd6e0953bf384a2486d1d02",
+  "title": "Lawyers for US citizen shot by ICE agent say shooting was not self-defense - ABC News",
+  "fetched_at": "2026-01-27T14:45:41.564779",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://abcnews.go.com/US/lawyers-us-citizen-shot-ice-agent-shooting-defense/story?id=127180596",
+      "final_url": "https://abcnews.go.com/US/lawyers-us-citizen-shot-ice-agent-shooting-defense/story?id=127180596",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 177539,
+      "content_hash": "e9f2ee2d11dba15d0a6f6bb0bd05f84fb50793d1a8b991964ec95aa90a60227f",
+      "title": "Lawyers for US citizen shot by ICE agent say shooting was not self-defense - ABC News",
+      "fetched_at": "2026-01-27T16:27:46.279400",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-S-013\\article.txt"
+    }
+  ]
+}

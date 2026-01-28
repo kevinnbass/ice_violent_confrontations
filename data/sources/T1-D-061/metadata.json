@@ -1,0 +1,57 @@
+{
+  "entry_id": "T1-D-061",
+  "url": "https://www.ice.gov/news/releases/illegal-alien-jordan-ice-custody-passes-away-miami-hospital",
+  "final_url": "https://www.ice.gov/news/releases/illegal-alien-jordan-ice-custody-passes-away-miami-hospital",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 111968,
+  "content_hash": "1865dc7a341bb6bf209dfbef2879dda03cdb75eed6af2c27d5f2c4b9257b2e90",
+  "title": "Illegal alien from Jordan in ICE custody passes away in Miami hospital | ICE",
+  "fetched_at": "2026-01-27T14:45:59.991628",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.wlrn.org/news-in-brief/2025-10-20/immigrant-dies-in-ice-custody-in-miami-the-17th-death-this-year",
+      "final_url": "https://www.wlrn.org/news-in-brief/2025-10-20/immigrant-dies-in-ice-custody-in-miami-the-17th-death-this-year",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 196027,
+      "content_hash": "7de4ea6714a7b5bc4e749622d997ac1a2a1ecb22fb3239eef3895ebbc1040cb5",
+      "title": "Immigrant dies in ICE custody in Miami, the 17th death this year | WLRN",
+      "fetched_at": "2026-01-27T16:28:01.194497",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-061\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.wusf.org/politics-issues/2025-10-20/jordanian-man-dies-in-ice-custody-in-miami-marking-the-17th-death-this-year",
+      "final_url": "https://www.wusf.org/politics-issues/2025-10-20/jordanian-man-dies-in-ice-custody-in-miami-marking-the-17th-death-this-year",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 204234,
+      "content_hash": "0f213bb10dd3871e7108dd247d58c4e9d21359bd12b38b96b48f6d3184b1a6fb",
+      "title": "Immigrant dies in ICE custody in Miami, the 17th death this year | WUSF",
+      "fetched_at": "2026-01-27T16:28:30.768647",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-061\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.newsweek.com/ice-third-custody-death-12-days-10887555",
+      "final_url": "https://www.newsweek.com/ice-third-custody-death-12-days-10887555",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 882438,
+      "content_hash": "ede7a842bb3835df69a4816e91c81532cdc9dd1f7be0627bdd8f581fabf36846",
+      "title": "ICE Confirms Third Custody Death in 12 Days - Newsweek",
+      "fetched_at": "2026-01-27T16:28:57.519538",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-061\\article_3.txt"
+    }
+  ]
+}

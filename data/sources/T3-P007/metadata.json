@@ -1,0 +1,43 @@
+{
+  "entry_id": "T3-P007",
+  "url": "https://www.cbsnews.com/news/david-huerta-seiu-charged-los-angeles-ice-protest-trump/",
+  "final_url": "https://www.cbsnews.com/news/david-huerta-seiu-charged-los-angeles-ice-protest-trump/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "c5ea1e2ec7cc01ef2e40f6aba40ef577c8b6b1712f91412da14e807b862d9100",
+  "title": "California union leader charged with felony conspiracy after being arrested during L.A. ICE protest - CBS News",
+  "fetched_at": "2026-01-27T14:50:03.492858",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260120215549/https://www.cbsnews.com/news/david-huerta-seiu-charged-los-angeles-ice-protest-trump/",
+  "sources": [
+    {
+      "source_index": 2,
+      "url": "https://seiuca.org/press-releases/2025/06/06/seiu-california-president-david-huerta-injured-detained-at-ice-raid-in-los-angeles/",
+      "final_url": "https://seiuca.org/press-releases/2025/06/06/seiu-california-president-david-huerta-injured-detained-at-ice-raid-in-los-angeles/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 149655,
+      "content_hash": "36dd7119b5e7d2f17d7087fe6e9bad066aa1c83a5f41e2329296fa058a1ab1ea",
+      "title": "SEIU California | SEIU California President David Huerta Injured, Detained at ICE Raid in Los Angeles",
+      "fetched_at": "2026-01-27T16:30:20.724811",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P007\\article_2.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.cnn.com/2025/06/10/us/david-huerta-seiu-union-leader",
+      "final_url": "https://www.cnn.com/2025/06/10/us/david-huerta-seiu-union-leader",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "af320e65037a2a2fc6d401a761e75a1711d5e3e95235364200c0656d8b5a38a2",
+      "title": "Who is David Huerta, the California labor leader who was arrested in Los Angeles? | CNN",
+      "fetched_at": "2026-01-27T16:29:58.077236",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251128113708/https://www.cnn.com/2025/06/10/us/david-huerta-seiu-union-leader",
+      "archive_path": "data\\sources\\T3-P007\\article_1_wayback.txt"
+    }
+  ]
+}

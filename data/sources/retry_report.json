@@ -1,0 +1,870 @@
+{
+  "generated_at": "2026-01-27T01:04:34.620813",
+  "total_retried": 55,
+  "succeeded": 27,
+  "still_failed": 28,
+  "success_by_method": {
+    "wayback": 19,
+    "stealth": 8
+  },
+  "succeeded_entries": [
+    {
+      "entry_id": "T1-D-044",
+      "url": "https://theappeal.org/ice-death-in-custody-jorge-avellaneda-delgado/",
+      "success": true,
+      "method": "wayback_20250711182657",
+      "final_url": "https://web.archive.org/web/20250711182657id_/https://theappeal.org/ice-death-in-custody-jorge-avellaneda-delgado/",
+      "content_length": 81807,
+      "title": "Family Seeks Answers After Grandfather Dies in ICE Custody - The Appeal",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T2-WD-018",
+      "url": "https://thedailyrecord.com/2025/12/26/maryland-born-woman-ice-deportation-citizenship-dispute/",
+      "success": true,
+      "method": "wayback_20251228024128",
+      "final_url": "https://web.archive.org/web/20251228024128id_/https://thedailyrecord.com/2025/12/26/maryland-born-woman-ice-deportation-citizenship-dispute/",
+      "content_length": 241021,
+      "title": "MD woman facing deportation is citizen, lawyer says; ICE disagrees",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T2-WD-022",
+      "url": "https://nipnlg.org/news/press-releases/ice-deports-man-claiming-us-citizenship-laos-despite-federal-court-order",
+      "success": true,
+      "method": "wayback_20251203144004",
+      "final_url": "https://web.archive.org/web/20251203144004id_/https://nipnlg.org/news/press-releases/ice-deports-man-claiming-us-citizenship-laos-despite-federal-court-order",
+      "content_length": 49680,
+      "title": "ICE Deports Man Claiming U.S. Citizenship to Laos Despite Federal Court Order | NIPNLG",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-P008",
+      "url": "https://phr.org/news/federal-immigration-agents-misused-dangerous-crowd-control-weapons-against-journalists-and-protestors-in-los-angeles-new-phr-amicus-brief/",
+      "success": true,
+      "method": "wayback_20260101031407",
+      "final_url": "https://web.archive.org/web/20260101031407id_/https://phr.org/news/federal-immigration-agents-misused-dangerous-crowd-control-weapons-against-journalists-and-protestors-in-los-angeles-new-phr-amicus-brief/",
+      "content_length": 331437,
+      "title": "Federal Immigration Agents Misused Dangerous Crowd-Control Weapons Against Journalists and Protestors in Los Angeles: New PHR Amicus Brief - PHR",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-046",
+      "url": "https://whyy.org/articles/philadelphia-ice-protest-arrests-raids/",
+      "success": true,
+      "method": "wayback_20250613144253",
+      "final_url": "https://web.archive.org/web/20250613144253id_/https://whyy.org/articles/philadelphia-ice-protest-arrests-raids/",
+      "content_length": 95513,
+      "title": "Philadelphia ICE protest: 15 arrested, several injured - WHYY",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-014",
+      "url": "https://www.vpm.org/news/2025-04-23/albemarle-courthouse-ice-raid-nicholas-reppucci-teodoro-dominguez-rodriguez",
+      "success": true,
+      "method": "wayback_20250426041316",
+      "final_url": "https://web.archive.org/web/20250426041316id_/https://www.vpm.org/news/2025-04-23/albemarle-courthouse-ice-raid-nicholas-reppucci-teodoro-dominguez-rodriguez",
+      "content_length": 215850,
+      "title": "2 men detained at Albemarle courthouse in alleged ICE raid",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-026",
+      "url": "https://washingtonstatestandard.com/2025/12/17/immigration-arrests-in-wa-surged-in-recent-months/",
+      "success": true,
+      "method": "wayback_20251219112553",
+      "final_url": "https://web.archive.org/web/20251219112553id_/https://washingtonstatestandard.com/2025/12/17/immigration-arrests-in-wa-surged-in-recent-months/",
+      "content_length": 144800,
+      "title": "Immigration arrests in WA surged in recent months \u2022 Washington State Standard",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-028",
+      "url": "https://www.kosu.org/local-news/2025-10-01/oklahoma-troopers-arrest-more-than-100-people-in-3-day-immigration-blitz",
+      "success": true,
+      "method": "wayback_20251005003301",
+      "final_url": "https://web.archive.org/web/20251005003301id_/https://www.kosu.org/local-news/2025-10-01/oklahoma-troopers-arrest-more-than-100-people-in-3-day-immigration-blitz",
+      "content_length": 207790,
+      "title": "Oklahoma troopers arrest more than 100 people in 3-day immigration blitz | KOSU",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-043",
+      "url": "https://azmirror.com/2025/06/10/protesters-clash-with-police-as-ice-raids-surge-across-phoenix-metro-area/",
+      "success": true,
+      "method": "wayback_20250804102006",
+      "final_url": "https://web.archive.org/web/20250804102006id_/https://azmirror.com/2025/06/10/protesters-clash-with-police-as-ice-raids-surge-across-phoenix-metro-area/",
+      "content_length": 146510,
+      "title": "Protesters clash with police as ICE raids surge across Phoenix metro area",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-P003",
+      "url": "https://lapublicpress.org/2025/06/ice-police-protest-lapd-lasd-tear-gas/",
+      "success": true,
+      "method": "wayback_20250626150139",
+      "final_url": "https://web.archive.org/web/20250626150139id_/https://lapublicpress.org/2025/06/ice-police-protest-lapd-lasd-tear-gas/",
+      "content_length": 114609,
+      "title": "LASD shot LAPD with rubber bullets and tear gas during No Kings protest",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-050",
+      "url": "https://marylandmatters.org/2025/06/12/ice-raids-baltimore-protest-casa/",
+      "success": true,
+      "method": "wayback_20250616100344",
+      "final_url": "https://web.archive.org/web/20250616100344id_/https://marylandmatters.org/2025/06/12/ice-raids-baltimore-protest-casa/",
+      "content_length": 172217,
+      "title": "'ICE out of Baltimore!': Recent immigration raids prompt Baltimore protest - Maryland Matters",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-051",
+      "url": "https://newjerseymonitor.com/2025/01/24/n-j-leaders-slam-ice-raid-in-newark-as-chilling-cruel/",
+      "success": true,
+      "method": "wayback_20250128012359",
+      "final_url": "https://web.archive.org/web/20250128012359id_/https://newjerseymonitor.com/2025/01/24/n-j-leaders-slam-ice-raid-in-newark-as-chilling-cruel/",
+      "content_length": 76443,
+      "title": "N.J. leaders slam ICE raid in Newark as 'chilling,' 'cruel' \u2022 New Jersey Monitor",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-034",
+      "url": "https://nevadacurrent.com/2025/06/24/broadacres-closure-shows-how-fear-of-ice-raids-is-actively-destabilizing-entire-communities/",
+      "success": true,
+      "method": "wayback_20250815053243",
+      "final_url": "https://web.archive.org/web/20250815053243id_/https://nevadacurrent.com/2025/06/24/broadacres-closure-shows-how-fear-of-ice-raids-is-actively-destabilizing-entire-communities/",
+      "content_length": 139506,
+      "title": "Broadacres closure shows how fear of ICE raids is \u2018actively destabilizing entire communities\u2019 \u2022 Nevada Current",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-123",
+      "url": "https://www.hrw.org/report/2025/11/12/you-have-arrived-in-hell/torture-and-other-abuses-against-venezuelans-in-el",
+      "success": true,
+      "method": "wayback_20251112181406",
+      "final_url": "https://web.archive.org/web/20251112181406id_/https://www.hrw.org/report/2025/11/12/you-have-arrived-in-hell/torture-and-other-abuses-against-venezuelans-in-el",
+      "content_length": 370391,
+      "title": "\u201cYou Have Arrived in Hell\u201d: Torture and Other Abuses Against Venezuelans in El Salvador\u2019s Mega Prison | HRW",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-174",
+      "url": "https://www.wbez.org/public-safety/2025/09/05/faq-national-guard-chicago-donald-trump-ice-deportation-campaign",
+      "success": true,
+      "method": "stealth",
+      "final_url": "https://www.wbez.org/public-safety/2025/09/05/faq-national-guard-chicago-donald-trump-ice-deportation-campaign",
+      "content_length": 722962,
+      "title": "What to know about immigration operations and National Guard deployments to Chicago - WBEZ Chicago",
+      "error": null,
+      "attempts": [
+        "stealth"
+      ]
+    },
+    {
+      "entry_id": "T4-022",
+      "url": "https://abc7chicago.com/post/village-broadview-il-protest-several-detained-outside-ice-facility-protesters-push-designated-area-live/18154986/",
+      "success": true,
+      "method": "stealth",
+      "final_url": "https://abc7chicago.com/post/village-broadview-il-protest-several-detained-outside-ice-facility-protesters-push-designated-area-live/18154986/",
+      "content_length": 347140,
+      "title": "Village of Broadview, IL protest: 21 arrested outside ICE facility as protesters clash with police; 4 officers injured - ABC7 Chicago",
+      "error": null,
+      "attempts": [
+        "stealth"
+      ]
+    },
+    {
+      "entry_id": "T4-017",
+      "url": "https://atlpresscollective.com/2025/04/23/ice-detention-field-office-protest/",
+      "success": true,
+      "method": "stealth",
+      "final_url": "https://atlpresscollective.com/2025/04/23/ice-detention-field-office-protest/",
+      "content_length": 225813,
+      "title": "Activists protest ICE detention outside Atlanta field office",
+      "error": null,
+      "attempts": [
+        "stealth"
+      ]
+    },
+    {
+      "entry_id": "T3-169",
+      "url": "https://prospect.org/2025/11/17/ice-airs-sloppy-dangerous-deportation-flights/",
+      "success": true,
+      "method": "wayback_20251117233551",
+      "final_url": "https://web.archive.org/web/20251117233551id_/https://prospect.org/2025/11/17/ice-airs-sloppy-dangerous-deportation-flights/",
+      "content_length": 226211,
+      "title": "ICE Air\u2019s Sloppy, Dangerous Deportation Flights - The American Prospect",
+      "error": null,
+      "attempts": [
+        "stealth (blocked/captcha)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-124",
+      "url": "https://www.hrw.org/news/2025/08/29/us-migrants-face-abuse-in-guantanamo",
+      "success": true,
+      "method": "wayback_20250903042535",
+      "final_url": "https://web.archive.org/web/20250903042535id_/https://www.hrw.org/news/2025/08/29/us-migrants-face-abuse-in-guantanamo",
+      "content_length": 204481,
+      "title": "US: Migrants Face Abuse in Guant\u00e1namo | Human Rights Watch",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-129",
+      "url": "https://www.euronews.com/2025/12/11/latest-us-deportations-to-russia-spark-fears-over-draft-notices-and-fsb-intimidation",
+      "success": true,
+      "method": "stealth",
+      "final_url": "https://www.euronews.com/2025/12/11/latest-us-deportations-to-russia-spark-fears-over-draft-notices-and-fsb-intimidation",
+      "content_length": 430615,
+      "title": "Latest US deportations to Russia spark fears over draft notices and FSB intimidation | Euronews",
+      "error": null,
+      "attempts": [
+        "stealth"
+      ]
+    },
+    {
+      "entry_id": "T3-158",
+      "url": "https://www.publicjustice.net/lawsuit-immigration-civil-fines-ice-homeland-security-department-of-justice/",
+      "success": true,
+      "method": "stealth",
+      "final_url": "https://www.publicjustice.net/lawsuit-immigration-civil-fines-ice-homeland-security-department-of-justice/",
+      "content_length": 202670,
+      "title": "New Lawsuit Challenges Federal Government\u2019s Unconstitutional Civil Penalty Scheme That Fines Immigrant Families Up to $1.8 Million | Public Justice",
+      "error": null,
+      "attempts": [
+        "stealth"
+      ]
+    },
+    {
+      "entry_id": "T4-029",
+      "url": "https://www.portland.gov/police/news/2026/1/9/ppb-monitors-protest-activity-near-ice-facility-six-arrests-made",
+      "success": true,
+      "method": "wayback_20260112030822",
+      "final_url": "https://web.archive.org/web/20260112030822id_/https://www.portland.gov/police/news/2026/1/9/ppb-monitors-protest-activity-near-ice-facility-six-arrests-made",
+      "content_length": 65871,
+      "title": "PPB Monitors Protest Activity Near ICE Facility; Six Arrests Made | Portland.gov",
+      "error": null,
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T3-116",
+      "url": "https://www.startribune.com/ice-agents-school-child-bait-parents-arrested/600348901/",
+      "success": true,
+      "method": "stealth",
+      "final_url": "https://www.startribune.com/michelin-star-minnesota-chef-tasting-dinner-demi-gavin-kaysen/600348901",
+      "content_length": 142325,
+      "title": "Michelin stars are finally coming to Minnesota \u2014 at Gavin Kaysen\u2019s $700 visiting chef series",
+      "error": null,
+      "attempts": [
+        "stealth"
+      ]
+    },
+    {
+      "entry_id": "T3-187",
+      "url": "https://www.justsecurity.org/114395/the-mounting-crisis-of-militarizing-immigration-enforcement/",
+      "success": true,
+      "method": "stealth",
+      "final_url": "https://www.justsecurity.org/114395/the-mounting-crisis-of-militarizing-immigration-enforcement/",
+      "content_length": 239294,
+      "title": "The Mounting Crisis of Militarizing Immigration Enforcement",
+      "error": null,
+      "attempts": [
+        "stealth"
+      ]
+    },
+    {
+      "entry_id": "T4-037",
+      "url": "https://civileats.com/2025/06/11/ice-raids-target-workers-on-farms-and-in-food-production-a-running-list/",
+      "success": true,
+      "method": "stealth",
+      "final_url": "https://civileats.com/2025/06/11/ice-raids-target-workers-on-farms-and-in-food-production-a-running-list/",
+      "content_length": 150926,
+      "title": "ICE Raids Target Workers on Farms and in Food Production: A Running List | Civil Eats",
+      "error": null,
+      "attempts": [
+        "stealth"
+      ]
+    },
+    {
+      "entry_id": "T4-033",
+      "url": "https://www.maldef.org/2025/07/maldef-takes-a-step-toward-civil-rights-lawsuit-on-behalf-of-u-s-citizen-detained-by-ice/",
+      "success": true,
+      "method": "wayback_20250704235646",
+      "final_url": "https://web.archive.org/web/20250704235646id_/https://www.maldef.org/2025/07/maldef-takes-a-step-toward-civil-rights-lawsuit-on-behalf-of-u-s-citizen-detained-by-ice/",
+      "content_length": 320062,
+      "title": "MALDEF TAKES A STEP TOWARD CIVIL RIGHTS LAWSUIT ON BEHALF OF U.S. CITIZEN DETAINED BY ICE - MALDEF",
+      "error": null,
+      "attempts": [
+        "stealth (blocked/captcha)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    },
+    {
+      "entry_id": "T1-D-059",
+      "url": "https://elpasomatters.org/2026/01/16/migrant-death-homicide-ice-el-paso-texas-fort-bliss-east-montana-detention-center/",
+      "success": true,
+      "method": "wayback_20260120230807",
+      "final_url": "https://web.archive.org/web/20260120230807id_/https://elpasomatters.org/2026/01/16/migrant-death-homicide-ice-el-paso-texas-fort-bliss-east-montana-detention-center/",
+      "content_length": 345071,
+      "title": "El Paso faith leaders, advocates decry ICE enforcement after detainee\u2019s death - El Paso Matters",
+      "error": null,
+      "attempts": [
+        "stealth (blocked/captcha)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx"
+      ]
+    }
+  ],
+  "failed_entries": [
+    {
+      "entry_id": "T1-D-051",
+      "url": "https://mississippitoday.org/2025/12/22/nicaraguan-dead-after-detention-in-mississippi-ice-facility/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T2-WD-010",
+      "url": "https://www.courthousenews.com/aclu-of-minnesota-sues-ice-dhs-over-constitutional-violations-against-observers/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (tried 2 snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-P037",
+      "url": "https://chicago.suntimes.com/immigration/2025/09/19/broadview-ice-protest-pepper-balls-tear-gas",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-111",
+      "url": "https://www.courant.com/2025/04/25/ice-courthouse-arrest-new-haven-domestic-violence/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-064",
+      "url": "https://www.houstonchronicle.com/news/houston-texas/crime/article/ice-shooting-fatal-houston",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (timeout)"
+      ]
+    },
+    {
+      "entry_id": "T3-061",
+      "url": "https://gothamist.com/news/ice-wrongfully-detained-us-citizen-monica-moreta-galarza",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-045",
+      "url": "https://news.wttw.com/2025/11/14/protesters-arrested-officers-injured-clash-outside-broadview-ice-facility",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (timeout)"
+      ]
+    },
+    {
+      "entry_id": "T3-P035",
+      "url": "https://www.startribune.com/minneapolis-ice-protest-tear-gas-infant/700298745/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-060",
+      "url": "https://omaha.com/news/local/ice-raid-glenn-valley-foods-workers-detained/article",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-P034",
+      "url": "https://www.latimes.com/california/story/2026-01-15/santa-ana-ice-protest-injury",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-120",
+      "url": "https://www.nydailynews.com/2025/09/02/ice-arrests-cancer-patient-chemotherapy-bronx-hospital/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-062",
+      "url": "https://www.bakersfield.com/news/ice-raids-central-valley-farms/article",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-P043",
+      "url": "https://gothamist.com/news/times-square-ice-protest-halloween-arrests",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-198",
+      "url": "https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (timeout)"
+      ]
+    },
+    {
+      "entry_id": "T3-063",
+      "url": "https://www.miamiherald.com/news/local/immigration/article",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (timeout)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-114",
+      "url": "https://www.ajc.com/news/ice-church-arrests-tucker-catholic-sunday-mass/A7F9XK2LFBERTPA5CR4VE6JOZI/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-155",
+      "url": "https://www.bostonglobe.com/2025/12/10/metro/ice-bond-hearings-massachusetts-ruling/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-113",
+      "url": "https://www.seattletimes.com/seattle-news/ice-courthouse-arrest-traffic-court-garage/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-117",
+      "url": "https://www.mprnews.org/story/2025/10/25/ice-hospital-arrest-hennepin-handcuffed-bed",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-119",
+      "url": "https://www.chicagotribune.com/news/breaking/ct-ice-arrest-school-parent-elementary-20251115-story.html",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-112",
+      "url": "https://www.mercurynews.com/2025/06/18/ice-courthouse-arrest-restraining-order-san-jose/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-121",
+      "url": "https://www.denverpost.com/2025/05/05/ice-arrest-uscis-office-green-card-interview/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-118",
+      "url": "https://www.expressnews.com/news/local/article/ice-hospital-emergency-room-arrests-18345678.html",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 403)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (timeout)"
+      ]
+    },
+    {
+      "entry_id": "T3-115",
+      "url": "https://www.latimes.com/california/story/2025-07-18/ice-arrests-pastor-family-montclair-church",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-P044",
+      "url": "https://www.latimes.com/california/story/2026-01-15/ice-protest-federal-building-mlk-day-arrests",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-106",
+      "url": "https://www.king5.com/article/news/local/protest-blocks-intersections-downtown-seattle-ice/281-5eb88df3-e1cf-4d92-811d-82a901b3cdab",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (timeout)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    },
+    {
+      "entry_id": "T3-157",
+      "url": "https://www.startribune.com/minneapolis-ice-racial-profiling-class-action/600356789/",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (timeout)"
+      ]
+    },
+    {
+      "entry_id": "T3-149",
+      "url": "https://www.ice.gov/news/releases/ice-announces-operation-tidal-wave-florida",
+      "success": false,
+      "method": null,
+      "final_url": null,
+      "content_length": 0,
+      "title": null,
+      "error": "All strategies failed",
+      "attempts": [
+        "stealth (HTTP 404)",
+        "multi_ua (tried 3 UAs)",
+        "variations (tried 3)",
+        "wayback_cdx (no snapshots)"
+      ]
+    }
+  ]
+}

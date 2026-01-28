@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-SA-005",
+  "url": "https://www.cbp.gov/newsroom/speeches-and-statements/initial-statement-agent-involved-shooting-laredo",
+  "final_url": "https://www.cbp.gov/newsroom/speeches-and-statements/initial-statement-agent-involved-shooting-laredo",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 103847,
+  "content_hash": "435bcf6f97ece5416930818951b654abacfd8e5c5851ecb90bdadede5c886600",
+  "title": "Initial Statement on an Agent-Involved Shooting in Laredo | U.S. Customs and Border Protection",
+  "fetched_at": "2026-01-27T14:45:44.877888",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.cbp.gov/newsroom/speeches-and-statements/initial-statement-agent-involved-shooting-laredo",
+      "final_url": "https://www.cbp.gov/newsroom/speeches-and-statements/initial-statement-agent-involved-shooting-laredo",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 103847,
+      "content_hash": "2e7bfe4bcaa9fdcda02094e73d24380afdd7655e2e07e7ceeacbd83295e07dd0",
+      "title": "Initial Statement on an Agent-Involved Shooting in Laredo | U.S. Customs and Border Protection",
+      "fetched_at": "2026-01-27T16:27:43.507271",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-SA-005\\article.txt"
+    }
+  ]
+}

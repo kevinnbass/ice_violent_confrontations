@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-S-014",
+  "url": "https://abc7.com/post/keith-porter-death-vigil-justice-northridge-man-shot-off-duty-ice-agent/18382815/",
+  "final_url": "https://abc7.com/post/keith-porter-death-vigil-justice-northridge-man-shot-off-duty-ice-agent/18382815/",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 0,
+  "content_hash": "ddb32caa6b6de9bec65410855f70b035218aa569f5738e5653cbb78307580dee",
+  "title": "Keith Porter death: Loved ones gather at vigil for man killed by off-duty ICE agent in Northridge - ABC7 Los Angeles",
+  "fetched_at": "2026-01-27T14:49:08.185869",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260116225552/https://abc7.com/post/keith-porter-death-vigil-justice-northridge-man-shot-off-duty-ice-agent/18382815/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://abc7.com/post/keith-porter-death-vigil-justice-northridge-man-shot-off-duty-ice-agent/18382815/",
+      "final_url": "https://abc7.com/post/keith-porter-death-vigil-justice-northridge-man-shot-off-duty-ice-agent/18382815/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 441317,
+      "content_hash": "e807acc247cf928be81ed2d6af3889fbe855c9252d248af5917245d3be395d52",
+      "title": "Keith Porter death: Loved ones gather at vigil for man killed by off-duty ICE agent in Northridge - ABC7 Los Angeles",
+      "fetched_at": "2026-01-27T16:27:43.721206",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-S-014\\article.txt"
+    }
+  ]
+}

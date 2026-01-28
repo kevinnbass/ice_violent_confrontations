@@ -1,0 +1,13 @@
+{
+  "entry_id": "T1-D-016",
+  "url": "https://www.ice.gov/news/releases/mexican-national-dies-ice-custody-after-being-referred-local-hospital-day-prior",
+  "final_url": "https://www.ice.gov/news/releases/mexican-national-dies-ice-custody-after-being-referred-local-hospital-day-prior",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 110729,
+  "content_hash": "a80efbd53fb7acdb8128647b3b430aebf57b6c869e08c871e0fd1630a69d2c64",
+  "title": "Mexican national dies in ICE custody after being referred to local hospital day prior | ICE",
+  "fetched_at": "2026-01-27T14:45:56.451096",
+  "from_wayback": false,
+  "wayback_url": null
+}

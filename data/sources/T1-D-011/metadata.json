@@ -1,0 +1,57 @@
+{
+  "entry_id": "T1-D-011",
+  "url": "https://www.ice.gov/doclib/foia/reports/ddrPEREZIsidro.pdf",
+  "final_url": "https://www.ice.gov/doclib/foia/reports/ddrPEREZIsidro.pdf",
+  "status_code": 200,
+  "content_type": "application/pdf",
+  "content_length": 336708,
+  "content_hash": "2ea48272cfd3f9af7a18e0192e62fdadd4b5521dbee4d709fe1c4c21299fd8d9",
+  "title": null,
+  "fetched_at": "2026-01-27T14:24:39.024259",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.ice.gov/news/releases/cuban-national-dies-ice-custody",
+      "final_url": "https://www.ice.gov/news/releases/cuban-national-dies-ice-custody",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109767,
+      "content_hash": "686bdacf4c398ad56329cdcfd710a324c21a1be886c8f55fd5a4ed64c4f51115",
+      "title": "Cuban national dies in ICE custody | ICE",
+      "fetched_at": "2026-01-27T16:28:08.826794",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-011\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.wlrn.org/immigration/2025-06-30/cuban-man-ice-death-krome-detention-center",
+      "final_url": "https://www.wlrn.org/immigration/2025-06-30/cuban-man-ice-death-krome-detention-center",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 206615,
+      "content_hash": "34ea07e144a525c7c4d9c99a83267b6527337e1197ed84b95467cf0fb2787e9d",
+      "title": "Cuban man, 75, dies under ICE custody at Miami-Dade's Krome Detention Center | WLRN",
+      "fetched_at": "2026-01-27T16:28:44.744109",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-011\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.democracynow.org/2025/7/3/headlines/elderly_cuban_immigrant_dies_in_ice_jail_the_13th_such_death_this_year",
+      "final_url": "https://www.democracynow.org/2025/7/3/headlines/elderly_cuban_immigrant_dies_in_ice_jail_the_13th_such_death_this_year",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 107478,
+      "content_hash": "532bdff461734ba9f73e18b0c405a5a9add4847929a4349e5f35b59789571dbc",
+      "title": "Elderly Cuban Immigrant Dies in ICE Jail, the 13th Such Death This Year | Democracy Now!",
+      "fetched_at": "2026-01-27T16:29:40.899458",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-011\\article_3.txt"
+    }
+  ]
+}

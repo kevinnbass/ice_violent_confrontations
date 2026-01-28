@@ -1,0 +1,57 @@
+{
+  "entry_id": "T2-WD-007",
+  "url": "https://lataco.com/us-citizen-arrested-walmart",
+  "final_url": "https://lataco.com/us-citizen-arrested-walmart",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 408761,
+  "content_hash": "43b0368a6ef7b6eb86d1958f3aa537a4b9a980dfecd92003d3e388deca5cc8f6",
+  "title": "20-Year-Old U.S. Citizen Arrested By Federal Police, Fired By Walmart After Release ~ L.A. TACO",
+  "fetched_at": "2026-01-27T14:45:41.465156",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.foxla.com/news/adrian-martinez-released-pico-rivera-walmart-ice",
+      "final_url": "https://www.foxla.com/news/adrian-martinez-released-pico-rivera-walmart-ice",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 183468,
+      "content_hash": "defd92383bce8126af8ca98ab5f581e72d21fd204cc9e10b64af4744070d14c5",
+      "title": "US citizen arrested by Border Patrol in Pico Rivera speaks out after violent arrest | FOX 11 Los Angeles",
+      "fetched_at": "2026-01-27T16:27:47.427321",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-WD-007\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.nbclosangeles.com/news/local/immigration-pico-rivera-citizen-walmart/3732611/",
+      "final_url": "https://www.nbclosangeles.com/news/local/immigration-pico-rivera-citizen-walmart/3732611/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 332663,
+      "content_hash": "ffe5e583d2972debf54b4c717fc9f6771c4084c840ebdf18f1d379538a8d8654",
+      "title": "U.S. citizen detained by federal agents in Pico Rivera speaks out \u2013 NBC Los Angeles",
+      "fetched_at": "2026-01-27T16:28:17.431614",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-WD-007\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://ktla.com/news/local-news/u-s-citizen-detained-after-violent-struggle-with-feds-in-l-a-speaks-out/",
+      "final_url": "https://ktla.com/news/local-news/u-s-citizen-detained-after-violent-struggle-with-feds-in-l-a-speaks-out/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 908631,
+      "content_hash": "5489b70eee7d82d1feafc5f0d810a8edb66ad9d6ec6a6df068dce73996d3b394",
+      "title": "U.S. citizen detained after violent struggle with feds in L.A. speaks out | KTLA",
+      "fetched_at": "2026-01-27T16:28:41.629856",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-WD-007\\article_3.txt"
+    }
+  ]
+}

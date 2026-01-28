@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-P014",
+  "url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+  "final_url": "https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "f25568a3382f195ab49d56afd96de60495436a006770fd2dcb5f55490757b675",
+  "title": "US: Nationwide unrest over ICE raids",
+  "fetched_at": "2026-01-27T14:47:32.389851",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20250714090727/https://organiser.org/2025/06/13/296869/world/us-nationwide-unrest-over-ice-raids-as-protests-spread-to-major-cities-sparking-clashes-and-arrests/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.cbsnews.com/sanfrancisco/news/ice-protests-san-francisco-vandalism-arrests/",
+      "final_url": "https://www.cbsnews.com/sanfrancisco/news/ice-protests-san-francisco-vandalism-arrests/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 640861,
+      "content_hash": "36f8b2eb65ea16683c1dd60427f798826e4c18f13c2f45ca9d86f2ff929e4f92",
+      "title": "Dozens arrested following ICE protests in San Francisco; 2 officers hurt, buildings vandalized - CBS San Francisco",
+      "fetched_at": "2026-01-27T16:28:04.408332",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P014\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.kqed.org/news/12043255/sf-protesters-denounce-ice-raids-and-trumps-national-guard-deployment-to-la",
+      "final_url": "https://www.kqed.org/news/12043255/sf-protesters-denounce-ice-raids-and-trumps-national-guard-deployment-to-la",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 220615,
+      "content_hash": "fb43ab072d18f1cea3fcfe3848281bbdae5621e2f37b046a9d95195160882b62",
+      "title": "Over 150 Arrested in SF Protest, Dozens More Than Police First Reported | KQED",
+      "fetched_at": "2026-01-27T16:28:30.098507",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P014\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.sfchronicle.com/bayarea/article/sf-ice-protests-against-trump-sending-troops-to-la-20367057.php",
+      "final_url": "https://www.sfchronicle.com/bayarea/article/sf-ice-protests-against-trump-sending-troops-to-la-20367057.php",
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": 4025,
+      "content_hash": "9e7a6f12ff789b730c42bd1915b5abad0ddbf0e9d86a4c6d445054c138cb3876",
+      "title": "150 arrested in SF after rally against ICE raids, National Guard",
+      "fetched_at": "2026-01-27T16:30:45.999304",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260126125636/https://www.sfchronicle.com/bayarea/article/sf-ice-protests-against-trump-sending-troops-to-la-20367057.php",
+      "archive_path": "data\\sources\\T3-P014\\article_2_wayback.txt"
+    }
+  ]
+}

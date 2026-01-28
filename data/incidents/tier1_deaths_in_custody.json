@@ -11,14 +11,11 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/detain/detainee-death-reporting",
-    "source_name": "ICE Detainee Death Reporting",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
-    "notes": "Maksym Chernyak, 44-year-old Ukraine national, died in ICE custody. Died at HCA Kendall Hospital, Miami. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "notes": "Maksym Chernyak, 44, Ukrainian parolee. Entered US Aug 2024. Arrested Jan 26 at Broward County Jail for battery. Transferred to Krome Feb 2. Hospitalized Feb 18 for vomiting/seizures. Died Feb 20 of brain hemorrhage at HCA Kendall Hospital. Third ICE death under Trump 2.0. Medical experts questioned delayed 911 response.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -28,7 +25,17 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "policy_conflict": false,
-    "city": "Miami"
+    "city": "Miami",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/ukrainian-national-ice-custody-passes-away-miami-area-hospital",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-003/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-004",
@@ -42,10 +49,7 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers",
-    "source_name": "AILA (compiled from ICE)",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -57,7 +61,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
-    "city": "San Juan"
+    "city": "San Juan",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/dominican-national-passes-away-centro-medico-hospital-san-juan-after-narcoticshuman",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-004/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-005",
@@ -71,10 +85,7 @@
     "cause_of_death": "found_unresponsive",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers",
-    "source_name": "AILA (compiled from ICE)",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -86,7 +97,24 @@
     "date_precision": "day",
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
-    "city": "Rolla"
+    "city": "Rolla",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/colombian-national-dies-after-being-found-unresponsive-ice-custody-phelps-county-jail",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-005/article.txt"
+      },
+      {
+        "url": "https://fox2now.com/news/missouri/man-found-unresponsive-dies-in-ice-custody-at-phelps-county-jail/",
+        "name": "FOX 2 St. Louis",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-005/article_1.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-006",
@@ -100,10 +128,7 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/detain/detainee-death-reporting",
-    "source_name": "ICE Detainee Death Reporting",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -117,7 +142,17 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "policy_conflict": false,
-    "city": "El Paso"
+    "city": "El Paso",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/vietnamese-national-ice-custody-dies-el-paso-long-term-acute-care-hospital",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-006/article_2_direct.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-007",
@@ -131,14 +166,11 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/detain/detainee-death-reporting",
-    "source_name": "ICE Detainee Death Reporting",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
-    "notes": "Marie Ange Blaise, 44-year-old Haiti national, died in ICE custody at Broward Transitional Center, Pompano Beach. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "notes": "Marie Ange Blaise, 44, Haitian woman. Apprehended Feb 12 at St. Croix airport attempting to board flight to Charlotte. Issued expedited removal. Transferred to Broward Transitional Center April 5. Complained of chest pains hours before death. Pronounced dead 8:35pm April 25. Congresswomen Wilson and Cherfilus-McCormick visited facility May 2, condemned 'inhumane' conditions - single doctor for hundreds of detainees.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -146,7 +178,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "state_mandated",
-    "city": "Pompano Beach"
+    "city": "Pompano Beach",
+    "sources": [
+      {
+        "url": "https://www.wlrn.org/immigration/2025-04-29/haitian-immigrant-dies-in-federal-custody-at-broward-transitional-center-report-ice-officials",
+        "name": "WLRN",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-007/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-008",
@@ -157,17 +199,14 @@
     "victim_name": "Abelardo Avelleneda-Delgado",
     "victim_age": 68,
     "victim_nationality": "Mexico",
-    "cause_of_death": "died_during_transport",
+    "cause_of_death": "under_investigation",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/doclib/foia/reports/ddrAbelardoAvellenedaDelgado.pdf",
-    "source_name": "ICE Detainee Death Report PDF",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
-    "notes": "Abelardo Avelleneda-Delgado, 68-year-old Mexico national, died in ICE custody at In transit from Lowndes County Jail to Stewart Detention Center. Cause: died_during_transport. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "notes": "Abelardo Avelleneda-Delgado, 68-year-old citizen of Mexico, became unresponsive during transport from Lowndes County Jail to Stewart Detention Center and was pronounced deceased on May 5, 2025. Cause of death is under investigation. ICE notified the Mexican Consulate and relevant oversight bodies.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -178,7 +217,41 @@
     ],
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "honor_all",
-    "city": "Valdosta"
+    "city": "Valdosta",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/doclib/foia/reports/ddrAbelardoAvellenedaDelgado.pdf",
+        "name": "ICE Detainee Death Report PDF",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-008/article.txt"
+      },
+      {
+        "url": "https://www.ice.gov/news/releases/mexican-national-ice-custody-passes-away",
+        "name": "ICE Official",
+        "tier": 1,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-008/article_1.txt"
+      },
+      {
+        "url": "https://theappeal.org/ice-death-in-custody-jorge-avellaneda-delgado/",
+        "name": "The Appeal",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-008\\article_4.txt"
+      },
+      {
+        "url": "https://www.fox5atlanta.com/news/ice-facility-deaths-2-die-georgia-ossoff-warnock-call-investigation",
+        "name": "FOX 5 Atlanta",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-008/article_3.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-009",
@@ -192,10 +265,7 @@
     "cause_of_death": "suicide",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/doclib/foia/reports/ddrJesusMolinaVeya.pdf",
-    "source_name": "ICE Detainee Death Report PDF",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -207,7 +277,41 @@
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "honor_all",
-    "city": "Lumpkin"
+    "city": "Lumpkin",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/doclib/foia/reports/ddrJesusMolinaVeya.pdf",
+        "name": "ICE Detainee Death Report PDF",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-009/article.txt"
+      },
+      {
+        "url": "https://www.detentionwatchnetwork.org/pressroom/releases/2025/third-death-suicide-georgias-ice-detention-center-advocates-call-immediate",
+        "name": "Detention Watch Network",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-009/article_1.txt"
+      },
+      {
+        "url": "https://www.ajc.com/news/2025/06/mexican-man-detained-in-georgia-ice-facility-dies-by-apparent-suicide/",
+        "name": "Atlanta Journal-Constitution",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-009/article_2.txt"
+      },
+      {
+        "url": "https://www.warnock.senate.gov/newsroom/press-releases/warnock-ossoff-press-trump-administration-over-deaths-in-ice-custody/",
+        "name": "Sen. Warnock Office",
+        "tier": 1,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-009/article_3.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-010",
@@ -221,10 +325,7 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers",
-    "source_name": "AILA (compiled from ICE)",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -238,7 +339,24 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "policy_conflict": false,
-    "city": "Miami"
+    "city": "Miami",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/canadian-national-ice-custody-passes-away",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-010/article.txt"
+      },
+      {
+        "url": "https://www.cnn.com/2025/06/26/us/johnny-noviello-ice-death-canada-florida",
+        "name": "CNN",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-010\\article_1.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-011",
@@ -249,17 +367,14 @@
     "victim_name": "Isidro Perez",
     "victim_age": 75,
     "victim_nationality": "Cuba",
-    "cause_of_death": "chest_pains",
+    "cause_of_death": "under_investigation",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/doclib/foia/reports/ddrPEREZIsidro.pdf",
-    "source_name": "ICE Detainee Death Report PDF",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
-    "notes": "Isidro Perez, 75-year-old Cuba national, died in ICE custody at Krome Service Processing Center. Died at HCA Kendall Florida Hospital, Miami. Cause: chest_pains. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "notes": "Isidro Perez, 75-year-old citizen of Cuba, died in ICE custody at Krome Service Processing Center. He was pronounced deceased at HCA Kendall Florida Hospital on June 26, 2025, at 8:42 p.m. after reporting chest pains. Cause of death is under investigation. He was arrested on June 5, 2025, and had pre-existing medical conditions.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -269,7 +384,41 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "policy_conflict": false,
-    "city": "Miami"
+    "city": "Miami",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/doclib/foia/reports/ddrPEREZIsidro.pdf",
+        "name": "ICE Detainee Death Report PDF",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-011/article.txt"
+      },
+      {
+        "url": "https://www.ice.gov/news/releases/cuban-national-dies-ice-custody",
+        "name": "ICE Official",
+        "tier": 1,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-011/article_1.txt"
+      },
+      {
+        "url": "https://www.wlrn.org/immigration/2025-06-30/cuban-man-ice-death-krome-detention-center",
+        "name": "WLRN",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-011/article_2.txt"
+      },
+      {
+        "url": "https://www.democracynow.org/2025/7/3/headlines/elderly_cuban_immigrant_dies_in_ice_jail_the_13th_such_death_this_year",
+        "name": "Democracy Now",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-011/article_3.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-012",
@@ -283,14 +432,11 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/detain/detainee-death-reporting",
-    "source_name": "ICE Detainee Death Reporting",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
-    "notes": "Tien Xuan Phan, 55-year-old Vietnam national, died in ICE custody at Karnes County Immigration Processing Center. Died at Methodist Hospital Northeast, Live Oak. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "notes": "Tien Xuan Phan, 55, Vietnamese national. Arrested June 2 by ERO. Had removal order from 2012. In custody 7 weeks at Karnes County. Hospitalized July 18 for seizures, vomiting, unresponsiveness at Otto Kaiser Memorial Hospital. Airlifted to Methodist Hospital Northeast. Died 5:48pm July 19. Second Vietnamese death in ICE custody in 2025. 10th overall death of the year.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -298,7 +444,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "state_mandated",
-    "city": "Karnes City"
+    "city": "Karnes City",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/vietnamese-national-dies-ice-custody",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-012/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-013",
@@ -312,10 +468,7 @@
     "cause_of_death": "suicide",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/doclib/foia/reports/ddrChaofengGe.pdf",
-    "source_name": "ICE Detainee Death Report PDF",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -330,7 +483,41 @@
     ],
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
-    "city": "Philipsburg"
+    "city": "Philipsburg",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/doclib/foia/reports/ddrChaofengGe.pdf",
+        "name": "ICE Detainee Death Report PDF",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-013/article.txt"
+      },
+      {
+        "url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-pennsylvanias-moshannon-valley-processing-center",
+        "name": "ICE Official",
+        "tier": 1,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-013/article_1.txt"
+      },
+      {
+        "url": "https://www.newsweek.com/ice-detainee-death-family-questions-hands-feet-tied-11066992",
+        "name": "Newsweek",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-013/article_2.txt"
+      },
+      {
+        "url": "https://www.wesa.fm/politics-government/2025-11-14/clearfield-county-immigration-customs-lawsuit",
+        "name": "WESA",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-013/article_3.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-014",
@@ -344,14 +531,11 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/detain/detainee-death-reporting",
-    "source_name": "ICE Detainee Death Reporting",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
-    "notes": "Lorenzo Antonio Batrez Vargas, 32-year-old Mexico national, died in ICE custody at Central Arizona Correctional Complex, Florence. Died at Mountain Vista Medical Center, Mesa. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "notes": "Lorenzo Antonio Batrez Vargas, 32, Mexican national known as 'Lenchito'. Arrested Aug 2 in Flagstaff for felony drug paraphernalia. Transferred to ICE custody. Pronounced dead Aug 31 at Mountain Vista Medical Center, Mesa. Cause unknown. Central Arizona facility exceeded capacity in 2025. 14th ICE death of the year.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -361,7 +545,17 @@
     "detainer_policy": "honor_all",
     "local_sanctuary_status": "cooperative",
     "policy_conflict": false,
-    "city": "Florence"
+    "city": "Florence",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/mexican-national-ice-custody-passes-away-central-arizona-correctional-complex",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-014/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-015",
@@ -375,10 +569,7 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers",
-    "source_name": "AILA (compiled from ICE)",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -393,25 +584,32 @@
     ],
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "honor_all",
-    "city": "Eloy"
+    "city": "Eloy",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-banner-desert-medical-center-arizona",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-015/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-016",
     "date": "2025-09-22",
     "state": "California",
-    "facility": "Unknown ICE facility",
+    "facility": "Adelanto ICE Processing Center",
     "hospital": "Victor Valley Global Medical Center, Victorville",
     "victim_name": "Ismael Ayala-Uribe",
     "victim_age": 39,
     "victim_nationality": "Mexico",
-    "cause_of_death": "medical",
-    "notes": "Ismael Ayala-Uribe, 39-year-old Mexico national, died in ICE custody at Unknown ICE facility. Died at Victor Valley Global Medical Center, Victorville. Cause: medical. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "cause_of_death": "sepsis",
+    "notes": "Ismael Ayala-Uribe, 39, former DACA recipient from Westminster, Orange County. Brought to US age 4. DACA denied renewal 2016. Arrested Aug 17 by CBP, transferred to Adelanto Aug 22. Reported severe abdominal pain, buttock abscess, fever for weeks - requests for care ignored. Referred to hospital Sept 21, died 2:32am Sept 22 of sepsis. Family sued GEO Group and Wellpath Jan 2026. First California ICE death of 2025.",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/detain/detainee-death-reporting",
-    "source_name": "ICE Detainee Death Reporting",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -422,7 +620,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
-    "city": "Victorville"
+    "city": "Victorville",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/mexican-national-dies-ice-custody-after-being-referred-local-hospital-day-prior",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-016/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-017",
@@ -437,10 +645,7 @@
     "notes": "Francisco Gaspar-Andres, 48-year-old Guatemala national, died in ICE custody at Camp East Montana. Died at local hospital. Cause: liver_kidney_failure. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://austinkocher.substack.com/p/ices-deadly-december-record-setting",
-    "source_name": "Austin Kocher / ICE reports",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -451,25 +656,32 @@
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "state_mandated",
-    "city": "El Paso"
+    "city": "El Paso",
+    "sources": [
+      {
+        "url": "https://austinkocher.substack.com/p/ices-deadly-december-record-setting",
+        "name": "Austin Kocher / ICE reports",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-017/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-018",
-    "date": "2025-12-04",
+    "date": "2025-12-14",
     "state": "Pennsylvania",
-    "facility": "Adams County Detention Center (or PA facility)",
+    "facility": "Pennsylvania detention center",
     "hospital": null,
     "victim_name": "Dalvin Francisco Rodriguez",
     "victim_age": 39,
     "victim_nationality": "Nicaragua",
     "cause_of_death": "unknown",
-    "notes": "Dalvin Francisco Rodriguez, 39-year-old Nicaragua national, died in ICE custody at Adams County Detention Center (or PA facility). Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "notes": "Dalvin Francisco Rodriguez from Nicaragua was found without a pulse at a Pennsylvania detention center on Dec. 4, 2025, and pronounced dead 10 days later (Dec. 14). His death was part of a deadly month in ICE custody.",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
-    "source_name": "NOTUS / ICE reports",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -480,7 +692,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
-    "city": "Gettysburg"
+    "city": "Gettysburg",
+    "sources": [
+      {
+        "url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
+        "name": "NOTUS / ICE reports",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-018/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-019",
@@ -494,10 +716,7 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
-    "source_name": "NOTUS / ICE reports",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -506,7 +725,17 @@
     "incident_scale": "single",
     "outcome_detail": "death",
     "outcome_category": "death",
-    "date_precision": "day"
+    "date_precision": "day",
+    "sources": [
+      {
+        "url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
+        "name": "NOTUS / ICE reports",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-019/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-020",
@@ -521,10 +750,7 @@
     "notes": "Nenko Stanev Gantchev, 56-year-old Bulgaria national, died in ICE custody at North Lake Processing Center, Baldwin. Cause: natural_causes_suspected. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
-    "source_name": "NOTUS / ICE reports",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -535,7 +761,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
-    "city": "Baldwin"
+    "city": "Baldwin",
+    "sources": [
+      {
+        "url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
+        "name": "NOTUS / ICE reports",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-020/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-021",
@@ -549,10 +785,7 @@
     "cause_of_death": "unknown",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
-    "source_name": "NOTUS / ICE reports",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -564,7 +797,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
-    "city": "Newark"
+    "city": "Newark",
+    "sources": [
+      {
+        "url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
+        "name": "NOTUS / ICE reports",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-021/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-022",
@@ -579,10 +822,7 @@
     "notes": "Fouad Saeed Abdulkadir, 46-year-old Eritrea national, died in ICE custody at processing center. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
-    "source_name": "NOTUS / ICE reports",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -593,7 +833,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
-    "city": "Philipsburg"
+    "city": "Philipsburg",
+    "sources": [
+      {
+        "url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
+        "name": "NOTUS / ICE reports",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-022/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-023",
@@ -608,10 +858,7 @@
     "notes": "Geraldo Lunas Campos, 55-year-old Cuba national, died in ICE custody at Camp East Montana, Fort Bliss. Cause: homicide_asphyxia. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.npr.org/2026/01/22/g-s1-106773/cuban-immigrant-ice-custody-died-homicide",
-    "source_name": "NPR / El Paso Medical Examiner",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -624,7 +871,17 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "policy_conflict": false,
-    "city": "El Paso"
+    "city": "El Paso",
+    "sources": [
+      {
+        "url": "https://www.npr.org/2026/01/22/g-s1-106773/cuban-immigrant-ice-custody-died-homicide",
+        "name": "NPR / El Paso Medical Examiner",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-023/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-024",
@@ -639,10 +896,7 @@
     "notes": "Victor Manuel Diaz, 36-year-old Nicaragua national, died in ICE custody at Camp East Montana, Fort Bliss. Cause: presumed_suicide. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://elpasomatters.org/2026/01/18/third-death-suicide-ice-custody-camp-east-montana-el-paso-texas-fort-bliss/",
-    "source_name": "El Paso Matters / ICE",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -655,33 +909,58 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "policy_conflict": false,
-    "city": "El Paso"
+    "city": "El Paso",
+    "sources": [
+      {
+        "url": "https://elpasomatters.org/2026/01/18/third-death-suicide-ice-custody-camp-east-montana-el-paso-texas-fort-bliss/",
+        "name": "El Paso Matters / ICE",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-024/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-025",
     "date": "2025-09-29",
-    "state": "Unknown",
-    "facility": "Unknown",
-    "hospital": null,
+    "state": "California",
+    "city": "Calexico",
+    "facility": "Imperial Regional Detention Facility",
+    "hospital": "El Centro Regional Medical Center",
     "victim_name": "Huabing Xie",
     "victim_age": null,
     "victim_nationality": "China",
     "cause_of_death": "seizure",
-    "notes": "Huabing Xie, None-year-old China national, died in ICE custody. Cause: seizure. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
+    "notes": "Huabing Xie, Chinese national. First arrested Dec 31, 2023 near Tecate, released on own recognizance. Rearrested Sept 12, 2025 in Indio. Experienced seizure at Imperial Regional Detention Facility at 2:13pm Sept 29, became unresponsive. CPR and AED administered. Transported to El Centro Regional Medical Center, pronounced dead 3:15pm. 23rd official ICE death of FY 2025. Fifth Asian detainee death. Imperial facility struggling to hire medical director.",
+    "verified": true,
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://austinkocher.substack.com/p/ices-deadly-december-record-setting",
-    "source_name": "Austin Kocher / ICE reports",
-    "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
     "outcome_category": "death",
-    "date_precision": "day"
+    "date_precision": "day",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/illegal-alien-china-passes-away-regional-medical-center-near-san-diego",
+        "name": "ICE Official Press Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-025/article.txt"
+      },
+      {
+        "url": "https://www.kpbs.org/news/border-immigration/2025/10/06/another-immigrant-dies-in-ice-custody-in-california-this-time-in-the-imperial-valley",
+        "name": "KPBS",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-025/article_1.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-026",
@@ -696,10 +975,7 @@
     "notes": "Luis Gustavo Nunez Caceres, 42-year-old Unknown national, died in ICE custody at Joe Corley Processing Center. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.detentionwatchnetwork.org/pressroom/releases/2026/4-ice-detention-deaths-just-10-days-new-year",
-    "source_name": "Detention Watch Network / ICE",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -710,7 +986,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "state_mandated",
-    "city": "Conroe"
+    "city": "Conroe",
+    "sources": [
+      {
+        "url": "https://www.detentionwatchnetwork.org/pressroom/releases/2026/4-ice-detention-deaths-just-10-days-new-year",
+        "name": "Detention Watch Network / ICE",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-026/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-027",
@@ -725,10 +1011,7 @@
     "notes": "Luis Beltran Yanez-Cruz, 68-year-old Unknown national, died in ICE custody at Imperial Regional Detention Center. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.detentionwatchnetwork.org/pressroom/releases/2026/4-ice-detention-deaths-just-10-days-new-year",
-    "source_name": "Detention Watch Network / ICE",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -739,7 +1022,17 @@
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
-    "city": "Calexico"
+    "city": "Calexico",
+    "sources": [
+      {
+        "url": "https://www.detentionwatchnetwork.org/pressroom/releases/2026/4-ice-detention-deaths-just-10-days-new-year",
+        "name": "Detention Watch Network / ICE",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-027/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-028",
@@ -754,10 +1047,7 @@
     "notes": "Parady La, 46-year-old Unknown national, died in ICE custody at Federal Detention Center (FDC) Philadelphia. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.detentionwatchnetwork.org/pressroom/releases/2026/4-ice-detention-deaths-just-10-days-new-year",
-    "source_name": "Detention Watch Network / ICE",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
@@ -770,7 +1060,17 @@
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_strong",
     "policy_conflict": false,
-    "city": "Philadelphia"
+    "city": "Philadelphia",
+    "sources": [
+      {
+        "url": "https://www.detentionwatchnetwork.org/pressroom/releases/2026/4-ice-detention-deaths-just-10-days-new-year",
+        "name": "Detention Watch Network / ICE",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-028/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-029",
@@ -785,10 +1085,7 @@
     "victim_category": "detainee",
     "notes": "Heber Sanchez Dominguez, unknown age-year-old Mexico national, died in ICE custody at Robert A. Deyton Detention Center. Cause: found hanging unresponsive. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "incident_type": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-georgias-robert-deyton-detention-center",
-    "source_name": "ICE Official Release",
     "verified": true,
     "outcome": "death",
     "affected_count": 1,
@@ -800,7 +1097,17 @@
     "detainer_policy": "honor_all",
     "local_sanctuary_status": "cooperative",
     "jurisdiction_notes": "Location of Robert A. Deyton Detention Center (Clayton County).",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-georgias-robert-deyton-detention-center",
+        "name": "ICE Official Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-029/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-S-001",
@@ -816,10 +1123,7 @@
     "agency": "ICE",
     "incident_type": "shooting_by_agent",
     "notes": "Renee Nicole Good, 37-year-old unknown nationality national, died in ICE custody at unknown facility. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good",
-    "source_name": "Multiple sources / Official",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -835,7 +1139,41 @@
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
     "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Ren%C3%A9e_Good",
+        "name": "Multiple sources / Official",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-001/article.txt"
+      },
+      {
+        "url": "https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation",
+        "name": "MPR News",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-001/article_1.txt"
+      },
+      {
+        "url": "https://www.cnn.com/2026/01/08/us/renee-nicole-good-minneapolis-ice-shooting-hnk",
+        "name": "CNN",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-001\\article_2_wayback.txt"
+      },
+      {
+        "url": "https://www.nbcnews.com/news/us-news/renee-nicole-good-minneapolis-ice-shooting-victim-caring-neighbor-rcna252901",
+        "name": "NBC News",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-001/article_3.txt"
+      }
+    ]
   },
   {
     "id": "T1-S-002",
@@ -851,11 +1189,8 @@
     "victim_category": "detainee",
     "agency": "Border Patrol",
     "incident_type": "shooting_by_agent",
-    "notes": "Alex Pretti, 37-year-old unknown nationality national, died in ICE custody at unknown facility. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
-    "source_tier": 1,
+    "notes": "MANUALLY VERIFIED: NBC comprehensive investigation lists this specific incident with name, date, location, and details. Alex Pretti, 37-year-old unknown nationality national, died in ICE custody at unknown facility. Part of 2025 being deadliest year in ICE custody since 2004 (31+ deaths). 95% of ICE detention deaths could have been prevented with adequate medical care (PHR report).",
     "collection_method": "official_report",
-    "source_url": "https://www.nbcnews.com/news/us-news/live-blog/minneapolis-immigration-shooting-rcna255737",
-    "source_name": "NBC News / Official",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -871,7 +1206,17 @@
     "state_sanctuary_status": "neutral",
     "detainer_policy": "case_by_case",
     "local_sanctuary_status": "sanctuary_partial",
-    "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers."
+    "jurisdiction_notes": "DOJ investigation opened Jan 2026 into Mayor Frey. Site of Operation Tidal Wave with 2000+ federal officers.",
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immigration-rcna192313",
+        "name": "NBC News (comprehensive DHS shooting investigation)",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-002/article_nbc_comprehensive.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-030",
@@ -891,14 +1236,21 @@
     "affected_count": 1,
     "incident_scale": "single",
     "notes": "Genry Donaldo Ruiz-Guillen, 29-year-old Honduran national, died at Larkin Community Hospital after being detained at Krome. Suffered from rhabdomyolysis (muscle breakdown leading to kidney failure). Had been hospitalized since Dec 9, 2024. Mother said he complained of fainting spells in his last call. Part of pattern of deaths at Krome facility.",
-    "source_tier": 1,
-    "source_url": "https://www.ice.gov/news/releases/honduran-national-ice-custody-passes-away-miami-area-hospital",
-    "source_name": "ICE Official Release",
     "verified": true,
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "state_mandated",
-    "city": "Miami"
+    "city": "Miami",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/honduran-national-ice-custody-passes-away-miami-area-hospital",
+        "name": "ICE Official Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-030/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-031",
@@ -918,16 +1270,23 @@
     "affected_count": 1,
     "incident_scale": "single",
     "notes": "Serawit Gezahegn Dejene, 45-year-old Ethiopian national, died at Banner University Medical Center. Death related to untreated HIV - experts said routine blood tests would have immediately shown HIV and death was 'entirely preventable'. Hospitalized since Dec 23, 2024. Eloy Detention Center has at least 16 reported deaths including 5 suicides.",
-    "source_tier": 1,
-    "source_url": "https://www.ice.gov/news/releases/ethiopian-national-ice-custody-passes-away-phoenix-area-hospital",
-    "source_name": "ICE Official Release",
     "verified": true,
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "honor_all",
     "local_sanctuary_status": "cooperative",
     "policy_conflict": false,
-    "city": "Eloy"
+    "city": "Eloy",
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/ethiopian-national-ice-custody-passes-away-phoenix-area-hospital",
+        "name": "ICE Official Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-031/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-045",
@@ -946,14 +1305,21 @@
     "affected_count": 1,
     "incident_scale": "single",
     "notes": "Dead within 18 hours of being placed in detention. Medical professionals said it would be 'highly unusual' for someone with liver failure not to show symptoms 18 hours before death. NY Attorney General investigating.",
-    "source_tier": 1,
-    "source_url": "https://www.longislandpress.com/2025/09/30/nassau-ice-death-liver-failure/",
-    "source_name": "Long Island Press",
     "verified": true,
     "date_precision": "day",
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
-    "city": "East Meadow"
+    "city": "East Meadow",
+    "sources": [
+      {
+        "url": "https://www.longislandpress.com/2025/09/30/nassau-ice-death-liver-failure/",
+        "name": "Long Island Press",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-045/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-051",
@@ -973,14 +1339,45 @@
     "affected_count": 1,
     "incident_scale": "single",
     "notes": "Scheduled for deportation on December 13, the day before his death was officially pronounced. Found without pulse on December 4.",
-    "source_tier": 1,
-    "source_url": "https://mississippitoday.org/2025/12/22/nicaraguan-dead-after-detention-in-mississippi-ice-facility/",
-    "source_name": "Mississippi Today",
     "verified": true,
     "date_precision": "day",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "honor_all",
-    "city": "Natchez"
+    "city": "Natchez",
+    "sources": [
+      {
+        "url": "https://mississippitoday.org/2025/12/22/nicaraguan-dead-after-detention-in-mississippi-ice-facility/",
+        "name": "Mississippi Today",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-051/article.txt"
+      },
+      {
+        "url": "https://www.ice.gov/news/releases/illegal-alien-nicaragua-passes-away-hospital-natchez",
+        "name": "ICE Official",
+        "tier": 1,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-051/article_1.txt"
+      },
+      {
+        "url": "https://www.mississippifreepress.org/nicaraguan-man-in-ice-custody-dies-in-mississippi-hospital/",
+        "name": "Mississippi Free Press",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-051/article_2.txt"
+      },
+      {
+        "url": "https://www.newsweek.com/ice-detention-centers-four-deaths-four-days-11246138",
+        "name": "Newsweek",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-051/article_3.txt"
+      }
+    ]
   },
   {
     "id": "T1-S-003",
@@ -997,9 +1394,6 @@
     "agency": "ICE ERO",
     "incident_type": "shooting_by_agent",
     "notes": "Shot at close range after dropping children off at school. Bullet traveled through back of neck to chest. Cook County Medical Examiner ruled homicide. Single father of two boys (ages 6 and 3). No criminal history - only traffic violations. Bodycam footage contradicts DHS claims he dragged agents. Mexican President called for investigation. Body repatriated to Michoacan.",
-    "source_tier": 1,
-    "source_url": "https://www.nbcnews.com/news/latino/immigrant-shot-dead-chicago-ice-villegas-gonzalez-family-answers-rcna231952",
-    "source_name": "NBC News",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -1015,7 +1409,17 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Chicago suburb under Illinois TRUST Act.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/news/latino/immigrant-shot-dead-chicago-ice-villegas-gonzalez-family-answers-rcna231952",
+        "name": "NBC News",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-003/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-S-004",
@@ -1032,9 +1436,6 @@
     "agency": "Border Patrol",
     "incident_type": "shooting_by_agent",
     "notes": "Border Patrol agents spotted several people in camouflage walking north from border. During apprehension, physical altercation ensued. Agent reported being in fight and needing help. Three gunshot wounds inflicted. Occurred during suspected narcotics smuggling operation. Texas Rangers investigating.",
-    "source_tier": 1,
-    "source_url": "https://www.cbp.gov/newsroom/national-media-release/summary-incident-border-patrol-agent-defends-himself-deadly",
-    "source_name": "CBP Official Release",
     "verified": true,
     "affected_count": 1,
     "incident_scale": "single",
@@ -1047,7 +1448,17 @@
     "canonical_incident_id": "INC-2025-12-11-TX-BARBOZA",
     "is_primary_record": true,
     "state_sanctuary_status": "anti_sanctuary",
-    "detainer_policy": "state_mandated"
+    "detainer_policy": "state_mandated",
+    "sources": [
+      {
+        "url": "https://www.cbp.gov/newsroom/national-media-release/summary-incident-border-patrol-agent-defends-himself-deadly",
+        "name": "CBP Official Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-004/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-044",
@@ -1067,9 +1478,6 @@
     "outcome_category": "death",
     "victim_category": "detainee",
     "notes": "EXHAUSTIVE: Major discrepancies: TransCor told 911 'medical department cleared him for travel, no noticeable medical conditions.' Yet EMS records showed stroke-level blood pressure. Acting ICE director Todd Lyons said 'We have nothing to hide' but official death report omits cause of death or medical detail. Family said he had no prior health conditions. Senators Warnock and Ossoff demanded answers. Arrested April 9, 2025 by Echols County Sheriff for probation violation.",
-    "source_tier": 1,
-    "source_url": "https://theappeal.org/ice-death-in-custody-jorge-avellaneda-delgado/",
-    "source_name": "The Appeal / Senator Ossoff Investigation",
     "verified": true,
     "affected_count": 1,
     "date_precision": "day",
@@ -1080,7 +1488,17 @@
     "superseded_by": "T1-D-008",
     "state_sanctuary_status": "anti_sanctuary",
     "detainer_policy": "honor_all",
-    "city": "Lumpkin"
+    "city": "Lumpkin",
+    "sources": [
+      {
+        "url": "https://theappeal.org/ice-death-in-custody-jorge-avellaneda-delgado/",
+        "name": "The Appeal / Senator Ossoff Investigation",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-044/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-049",
@@ -1100,16 +1518,23 @@
     "outcome_category": "death",
     "victim_category": "detainee",
     "notes": "EXHAUSTIVE: Second Adelanto death in 2025 (after Ayala-Uribe). ICE missed deadline to release death report. ICE stopped paying outside medical providers since October 3, 2025 - 'no mechanism to provide prescribed medication' or 'pay for medically necessary off-site care.' No dialysis, prenatal care, oncology, chemotherapy. Population ballooned from <40,000 in January to 73,000+.",
-    "source_tier": 1,
-    "source_url": "https://www.kvcrnews.org/local-news/2025-11-06/federal-lawmakers-demand-answers-after-gabriel-garcia-aviles-dies-in-custody-at-adelanto-ice-processing-center",
-    "source_name": "KVCR News / LA Taco / CBS Los Angeles",
     "verified": true,
     "affected_count": 1,
     "date_precision": "day",
     "incident_scale": "single",
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "decline_all",
-    "city": "Adelanto"
+    "city": "Adelanto",
+    "sources": [
+      {
+        "url": "https://www.kvcrnews.org/local-news/2025-11-06/federal-lawmakers-demand-answers-after-gabriel-garcia-aviles-dies-in-custody-at-adelanto-ice-processing-center",
+        "name": "KVCR News / LA Taco / CBS Los Angeles",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-049/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-052",
@@ -1123,10 +1548,7 @@
     "cause_of_death": "struck by vehicle while fleeing",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_fleeing_enforcement",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.pbs.org/newshour/nation/man-struck-dead-by-vehicle-on-virginia-highway-after-trying-to-flee-immigration-agents",
-    "source_name": "PBS NewsHour / Pilot Online",
     "verified": true,
     "victim_category": "enforcement_target",
     "outcome": "death",
@@ -1146,7 +1568,17 @@
     "jurisdiction_notes": "Virginia has no statewide policy. Norfolk generally cooperative.",
     "canonical_incident_id": "INC-2025-10-23-VA-RIVERA",
     "is_primary_record": true,
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.pbs.org/newshour/nation/man-struck-dead-by-vehicle-on-virginia-highway-after-trying-to-flee-immigration-agents",
+        "name": "PBS NewsHour / Pilot Online",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-052/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-053",
@@ -1160,10 +1592,7 @@
     "cause_of_death": "fall from roof while fleeing",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_fleeing_enforcement",
-    "source_tier": 1,
     "collection_method": "investigative",
-    "source_url": "https://www.cnn.com/2025/07/13/us/farmworker-dies-california-immigration-raids-hnk",
-    "source_name": "CNN / Al Jazeera",
     "verified": true,
     "victim_category": "enforcement_target",
     "outcome": "death",
@@ -1183,7 +1612,17 @@
     "jurisdiction_notes": "Ventura County. Site of ICE detention facility deaths.",
     "canonical_incident_id": "INC-2025-07-12-CA-GARCIA",
     "is_primary_record": true,
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.cnn.com/2025/07/13/us/farmworker-dies-california-immigration-raids-hnk",
+        "name": "CNN / Al Jazeera",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-053/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-S-005",
@@ -1196,10 +1635,7 @@
     "agency": "CBP Border Patrol",
     "incident_type": "shooting_by_agent",
     "enforcement_granularity": "shooting_fatal",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.cbp.gov/newsroom/national-media-release/summary-incident-border-patrol-agent-and-subject-killed-during",
-    "source_name": "CBP Official / Vermont Public",
     "verified": true,
     "victim_category": "enforcement_target",
     "outcome": "death",
@@ -1212,7 +1648,17 @@
     "state_sanctuary_status": "sanctuary",
     "detainer_policy": "honor_judicial",
     "local_sanctuary_status": "sanctuary_limited",
-    "jurisdiction_notes": "Under Vermont Act 69. Rural area near Canadian border."
+    "jurisdiction_notes": "Under Vermont Act 69. Rural area near Canadian border.",
+    "sources": [
+      {
+        "url": "https://www.cbp.gov/newsroom/national-media-release/summary-incident-border-patrol-agent-and-subject-killed-during",
+        "name": "CBP Official / Vermont Public",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-005/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-S-006",
@@ -1226,10 +1672,7 @@
     "agency": "ICE (off-duty agent Brian Palacios)",
     "incident_type": "shooting_by_agent",
     "enforcement_granularity": "shooting_fatal_off_duty",
-    "source_tier": 1,
     "collection_method": "investigative",
-    "source_url": "https://abc7.com/post/keith-porter-court-documents-appear-identify-off-duty-ice-agent-fatal-northridge-shooting/18432321/",
-    "source_name": "ABC7 Los Angeles / Capital & Main",
     "verified": true,
     "victim_category": "us_citizen_collateral",
     "outcome": "death",
@@ -1247,7 +1690,17 @@
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "LA neighborhood. Under California Values Act.",
     "canonical_incident_id": "INC-2025-12-31-CA-PORTER",
-    "is_primary_record": true
+    "is_primary_record": true,
+    "sources": [
+      {
+        "url": "https://abc7.com/post/keith-porter-court-documents-appear-identify-off-duty-ice-agent-fatal-northridge-shooting/18432321/",
+        "name": "ABC7 Los Angeles / Capital & Main",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-S-006/article.txt"
+      }
+    ]
   },
   {
     "id": "T1-D-054",
@@ -1255,20 +1708,17 @@
     "state": "Florida",
     "city": "Miami",
     "facility": "Krome Service Processing Center",
-    "victim_name": "Hasan Ali Mohd Saleh",
+    "victim_name": "Hasan Ali Moh'D Saleh",
     "victim_nationality": "Unknown",
     "legal_status": "Lawful Permanent Resident",
-    "cause_of_death": "fever complications",
+    "cause_of_death": "cardiac arrest",
     "incident_type": "death_in_custody",
     "enforcement_granularity": "death_in_custody",
-    "source_tier": 1,
     "collection_method": "official_report",
-    "source_url": "https://www.aila.org/library/deaths-at-adult-detention-centers",
-    "source_name": "AILA Deaths Database",
     "verified": true,
     "victim_category": "detainee",
     "outcome": "death",
-    "notes": "Lawful Permanent Resident. Hospitalized for fever, died the next day. Krome facility had 5 medical violations and 14 total violations including overcrowding with people sleeping on floors.",
+    "notes": "Hasan Ali Moh'D Saleh, 67, Jordanian national. Lived in US since 1994 but lost permanent residency after fraud convictions. Deportation ordered 2020. Detained Sept 2025 in Pompano Beach, transferred to Krome. Had history of heart disease. Died Oct 11, 2025 from cardiac arrest. 17th ICE custody death in 2025.",
     "affected_count": 1,
     "incident_scale": "single",
     "outcome_detail": "death",
@@ -1279,7 +1729,18 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "jurisdiction_notes": "Ended sanctuary policy 2017 after state law.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.wusf.org/politics-issues/2025-10-20/jordanian-man-dies-in-ice-custody-in-miami-marking-the-17th-death-this-year",
+        "name": "WUSF Public Media",
+        "tier": 2,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-054/article.txt"
+      }
+    ],
+    "victim_age": 67
   },
   {
     "date": "2026-01-15",
@@ -1295,11 +1756,8 @@
     "outcome": "death",
     "outcome_detail": "Died from drug withdrawal in ICE detention; family accused ICE of medical neglect, saying he was begging for help in final hours",
     "outcome_category": "death",
-    "source_url": "https://en.wikipedia.org/wiki/Deportation_in_the_second_Trump_administration",
-    "source_name": "Wikipedia/News reports",
     "notes": "January 2026: Parady La, 46-year-old Cambodian refugee, died from drug withdrawal in ICE detention in Philadelphia. La's family accused ICE of medical neglect, saying they were told he was begging for help in the final hours of his life.",
     "id": "T1-D-055",
-    "source_tier": 1,
     "collection_method": "web_search",
     "verified": true,
     "victim_category": "detainee",
@@ -1309,7 +1767,33 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "City policy in neutral state. Executive Order 2016.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://whyy.org/articles/parady-la-upper-day-ice-custody-death/",
+        "name": "WHYY",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-055\\article_4.txt"
+      },
+      {
+        "url": "https://www.ice.gov/news/releases/career-criminal-illegal-alien-ice-custody-passes-away-local-hospital",
+        "name": "ICE Official",
+        "tier": 1,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-055/article_2.txt"
+      },
+      {
+        "url": "https://www.nbcphiladelphia.com/news/local/parady-la-dies-in-ice-custody-philadelphia-detention-center/4333143/",
+        "name": "NBC Philadelphia",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-055/article_3.txt"
+      }
+    ]
   },
   {
     "date": "2026-01-03",
@@ -1319,16 +1803,13 @@
     "name": "Cuban man (unnamed)",
     "age": 55,
     "nationality": "Cuban",
-    "cause_of_death": "Homicide (ruled by medical examiner)",
+    "cause_of_death": "homicide (asphyxia due to neck/torso compression)",
     "incident_type": "death_in_custody",
     "outcome": "death",
     "outcome_detail": "ICE initially reported suicide; witness said he was choked by guard; medical examiner ruled homicide",
     "outcome_category": "death",
-    "source_url": "https://en.wikipedia.org/wiki/Deportation_in_the_second_Trump_administration",
-    "source_name": "Wikipedia/News reports",
-    "notes": "January 3, 2026: 55-year-old Cuban man died in ICE detention at Camp East Montana. ICE initially said his death was a suicide, but a witness stated he was choked by a guard. Subsequently, the medical examiner ruled the death a homicide.",
+    "notes": "Geraldo Lunas Campos, 55, Cuban national, died Jan 3, 2026 at Camp East Montana following altercation with guards. Autopsy ruled homicide due to asphyxia from neck and torso compression while being physically restrained. Witnesses saw him become unresponsive while restrained by at least 5 guards.",
     "id": "T1-D-056",
-    "source_tier": 1,
     "collection_method": "web_search",
     "verified": true,
     "victim_category": "detainee",
@@ -1336,7 +1817,19 @@
     "incident_scale": "single",
     "date_precision": "day",
     "state_sanctuary_status": "neutral",
-    "detainer_policy": "case_by_case"
+    "detainer_policy": "case_by_case",
+    "sources": [
+      {
+        "url": "https://www.pbs.org/newshour/nation/cuban-immigrant-in-ice-custody-died-of-homicide-due-to-asphyxia-autopsy-finds",
+        "name": "PBS NewsHour",
+        "tier": 2,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-056\\article_1.txt"
+      }
+    ],
+    "victim_name": "Geraldo Lunas Campos",
+    "victim_age": 55,
+    "victim_nationality": "Cuba"
   },
   {
     "date": "2026-01-03",
@@ -1351,11 +1844,8 @@
     "outcome": "death",
     "outcome_detail": "Preliminary cause: asphyxia due to neck and chest compression, suggesting homicide. Occurred at military base detention facility.",
     "outcome_category": "death",
-    "source_url": "https://thenationaldesk.com/news/americas-news-now/report-migrants-death-at-fort-bliss-detention-center-likely-ruled-homicide",
-    "source_name": "The National Desk",
     "notes": "January 3, 2026: Geraldo Lunas Campos, 55-year-old Cuban migrant, died at Camp East Montana on Fort Bliss military base. Preliminary cause of death reported as 'asphyxia due to neck and chest compression,' suggesting homicide ruling pending toxicology results.",
     "id": "T1-D-057",
-    "source_tier": 1,
     "collection_method": "web_search",
     "verified": true,
     "victim_category": "detainee",
@@ -1366,7 +1856,17 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "jurisdiction_notes": "Military base used for migrant detention. Federal jurisdiction on base.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://thenationaldesk.com/news/americas-news-now/report-migrants-death-at-fort-bliss-detention-center-likely-ruled-homicide",
+        "name": "The National Desk",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-057/article.txt"
+      }
+    ]
   },
   {
     "date": "2026-01-14",
@@ -1381,11 +1881,8 @@
     "outcome": "death",
     "outcome_detail": "Died of 'presumed suicide' at Camp East Montana tent complex. At least third death at the facility.",
     "outcome_category": "death",
-    "source_url": "https://abcnews.go.com/US/ice-detainee-dies-presumed-suicide-texas-detention-facility/story?id=129364093",
-    "source_name": "ABC News",
     "notes": "January 14, 2026: Victor Manuel Diaz, 36-year-old Nicaraguan national, died of 'presumed suicide' at Camp East Montana tent complex at Fort Bliss. This was at least the third death reported at the facility.",
     "id": "T1-D-058",
-    "source_tier": 1,
     "collection_method": "web_search",
     "verified": true,
     "victim_category": "detainee",
@@ -1396,7 +1893,17 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "jurisdiction_notes": "Military base used for migrant detention. Federal jurisdiction on base.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://abcnews.go.com/US/ice-detainee-dies-presumed-suicide-texas-detention-facility/story?id=129364093",
+        "name": "ABC News",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-058/article.txt"
+      }
+    ]
   },
   {
     "date": "2025-12-03",
@@ -1406,16 +1913,13 @@
     "name": "Francisco Gaspar-Andres",
     "age": 48,
     "nationality": "Guatemalan",
-    "cause_of_death": "Liver and kidney failure",
+    "cause_of_death": "liver and kidney failure",
     "incident_type": "death_in_custody",
     "outcome": "death",
     "outcome_detail": "First death at Camp East Montana. Died from liver and kidney failure. Facility documented to have violated 60+ federal standards in first 50 days.",
     "outcome_category": "death",
-    "source_url": "https://elpasomatters.org/2026/01/16/migrant-death-homicide-ice-el-paso-texas-fort-bliss-east-montana-detention-center/",
-    "source_name": "El Paso Matters",
-    "notes": "December 3, 2025: Francisco Gaspar-Andres, 48-year-old Guatemalan man, was the first death at Camp East Montana (opened August 2025). ICE reported cause as liver and kidney failure. Facility violated at least 60 federal standards during its first 50 days of operation.",
+    "notes": "Francisco Gaspar-Andres, 48, Guatemalan national. Arrested Sept 1 in FL, transferred to Camp East Montana Sept 19. Treated for various ailments Sept-Nov. Hospitalized Nov 16 for low sodium, intubated Nov 21, placed on liver transplant list and dialysis. Died Dec 3, 2025. First death at Camp East Montana facility.",
     "id": "T1-D-059",
-    "source_tier": 1,
     "collection_method": "web_search",
     "verified": true,
     "victim_category": "detainee",
@@ -1426,7 +1930,20 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "jurisdiction_notes": "Military base used for migrant detention. Federal jurisdiction on base.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://elpasomatters.org/2025/12/09/ice-detainee-death-immigrant-camp-east-montana-fort-bliss-el-paso-texas/",
+        "name": "El Paso Matters",
+        "tier": 3,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-059/article.txt"
+      }
+    ],
+    "victim_name": "Francisco Gaspar-Andres",
+    "victim_age": 48,
+    "victim_nationality": "Guatemala"
   },
   {
     "date": "2025-12-12",
@@ -1441,11 +1958,8 @@
     "outcome": "death",
     "outcome_detail": "Died at University Hospital Newark following medical emergency at detention facility. Had entered ICE custody only the day before after arrest for criminal mischief.",
     "outcome_category": "death",
-    "source_url": "https://stevens.house.gov/sites/evo-subsites/stevens.house.gov/files/evo-media-document/2025-1223-ltr-to-dhs-and-ice-re-north-lake-detainee-death-signed.pdf",
-    "source_name": "Congressional Letter to DHS",
     "notes": "December 12, 2025: Jean Wilson Brutus, 41-year-old Haitian man, died at University Hospital Newark following medical emergency at Delaney Hall Detention Facility. He had entered ICE custody only the day before, on December 11, 2025, after being arrested for criminal mischief.",
     "id": "T1-D-060",
-    "source_tier": 1,
     "collection_method": "web_search",
     "verified": true,
     "victim_category": "detainee",
@@ -1456,7 +1970,41 @@
     "detainer_policy": "decline_all",
     "local_sanctuary_status": "sanctuary_strong",
     "jurisdiction_notes": "Mayor Ras Baraka publicly defied ICE Jan 2025.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://stevens.house.gov/sites/evo-subsites/stevens.house.gov/files/evo-media-document/2025-1223-ltr-to-dhs-and-ice-re-north-lake-detainee-death-signed.pdf",
+        "name": "Congressional Letter to DHS",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-060/article.txt"
+      },
+      {
+        "url": "https://www.ice.gov/news/releases/criminal-illegal-alien-passes-away-university-hospital-following-medical-emergency",
+        "name": "ICE Official",
+        "tier": 1,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-060/article_1.txt"
+      },
+      {
+        "url": "https://newjerseymonitor.com/2025/12/19/ice-detainee-newark-jail-died/",
+        "name": "New Jersey Monitor",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-060/article_4.txt"
+      },
+      {
+        "url": "https://gothamist.com/news/man-dies-after-1-day-in-ice-custody-at-newark-facility-ice-says",
+        "name": "Gothamist",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-060/article_3.txt"
+      }
+    ]
   },
   {
     "date": "2025-10-11",
@@ -1464,19 +2012,16 @@
     "city": "Miami",
     "facility": "Krome Detention Center",
     "name": "Hasan Ali Moh'D Saleh",
-    "age": null,
-    "nationality": "Unknown",
-    "legal_status": "Lawful permanent resident",
-    "cause_of_death": "Medical emergency following fever",
+    "age": 67,
+    "nationality": "Jordanian",
+    "legal_status": "Former lawful permanent resident (lost status after fraud convictions)",
+    "cause_of_death": "Cardiac arrest",
     "incident_type": "death_in_custody",
     "outcome": "death",
-    "outcome_detail": "Lawful permanent resident transferred to Krome September 14. Transported to Larkin Community Hospital due to fever on October 10; died the next day.",
+    "outcome_detail": "67-year-old Jordanian man arrested Sept 14 in Pompano Beach, transferred to Krome. Transported to Larkin Community Hospital Oct 10 due to fever. Found unresponsive Oct 11 at 6:32pm, CPR initiated. Died at 7:13pm. 17th ICE custody death in 2025.",
     "outcome_category": "death",
-    "source_url": "https://www.aclu.org/news/immigrants-rights/inside-an-ice-detention-center-detained-people-describe-severe-medical-neglect-harrowing-conditions",
-    "source_name": "ACLU",
-    "notes": "October 11, 2025: Hasan Ali Moh'D Saleh, a lawful permanent resident, died after being transferred to Krome on September 14, 2025. On October 10, he was transported to Larkin Community Hospital due to fever; the next day he was dead.",
+    "notes": "Hasan Ali Moh'D Saleh had significant medical history including hypertension, heart disease, renal disease and diabetes. Had been US LPR since 1994, lost status after 2018 fraud convictions. Deportation order issued 2020. 911 calls from Krome doubled in 2025 vs prior year.",
     "id": "T1-D-061",
-    "source_tier": 1,
     "collection_method": "web_search",
     "verified": true,
     "victim_category": "detainee",
@@ -1487,6 +2032,76 @@
     "detainer_policy": "state_mandated",
     "local_sanctuary_status": "cooperative",
     "jurisdiction_notes": "Ended sanctuary policy 2017 after state law.",
-    "policy_conflict": false
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/illegal-alien-jordan-ice-custody-passes-away-miami-hospital",
+        "name": "ICE Official Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-061/article.txt"
+      },
+      {
+        "url": "https://www.wlrn.org/news-in-brief/2025-10-20/immigrant-dies-in-ice-custody-in-miami-the-17th-death-this-year",
+        "name": "WLRN",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-061/article_1.txt"
+      },
+      {
+        "url": "https://www.wusf.org/politics-issues/2025-10-20/jordanian-man-dies-in-ice-custody-in-miami-marking-the-17th-death-this-year",
+        "name": "WUSF",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-061/article_2.txt"
+      },
+      {
+        "url": "https://www.newsweek.com/ice-third-custody-death-12-days-10887555",
+        "name": "Newsweek",
+        "tier": 2,
+        "primary": false,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-061/article_3.txt"
+      }
+    ]
+  },
+  {
+    "id": "T1-D-062",
+    "date": "2025-12-05",
+    "state": "Texas",
+    "city": "Harlingen",
+    "facility": "Montgomery Processing Center / Valley Baptist Medical Center",
+    "victim_name": "Pete Sumalo Montejo",
+    "victim_age": 72,
+    "victim_nationality": "Filipino",
+    "cause_of_death": "medical_complications",
+    "outcome": "death",
+    "outcome_detail": "72-year-old Filipino man died at Valley Baptist Medical Center after multiple hospitalizations. Entered US as LPR in 1962. Arrested Feb 25, 2025. Hospitalized multiple times Jul-Nov for anemia, septic shock, pneumonia.",
+    "outcome_category": "death",
+    "notes": "Pete Sumalo Montejo had criminal history including 1992 child sexual assault conviction. Detained at Montgomery Processing Center from Feb 25. Hospitalized May 2 for shortness of breath, discharged Jun 30. Multiple hospitalizations Jul-Nov for various conditions including anemia and septic shock from pneumonia. ICE notified OIG, OPR and Philippines consulate per policy.",
+    "collection_method": "news_search",
+    "verified": true,
+    "victim_category": "detainee",
+    "affected_count": 1,
+    "incident_scale": "single",
+    "date_precision": "day",
+    "state_sanctuary_status": "anti_sanctuary",
+    "detainer_policy": "honor_all",
+    "local_sanctuary_status": "cooperative",
+    "jurisdiction_notes": "Texas - strong cooperation with federal immigration enforcement.",
+    "policy_conflict": false,
+    "sources": [
+      {
+        "url": "https://www.ice.gov/news/releases/convicted-child-sex-offender-philippines-passes-away-harlingen-hospital",
+        "name": "ICE Official Release",
+        "tier": 1,
+        "primary": true,
+        "archived": true,
+        "archive_path": "data/sources/T1-D-062/article.txt"
+      }
+    ]
   }
 ]

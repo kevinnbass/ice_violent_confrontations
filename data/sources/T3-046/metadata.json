@@ -1,0 +1,43 @@
+{
+  "entry_id": "T3-046",
+  "url": "https://whyy.org/articles/philadelphia-ice-protest-arrests-raids/",
+  "final_url": "https://whyy.org/articles/philadelphia-ice-protest-arrests-raids/",
+  "status_code": 403,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 560,
+  "content_hash": "9343fa99b06fb0a004bf5d952b2abdc64066122ea35e05b5d7f2d4800e057c09",
+  "title": "Philadelphia ICE protest: 15 arrested, several injured - WHYY",
+  "fetched_at": "2026-01-27T14:45:57.903238",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260123171611/https://whyy.org/articles/philadelphia-ice-protest-arrests-raids/",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.cbsnews.com/philadelphia/news/ice-protest-philadelphia-donald-trump/",
+      "final_url": "https://www.cbsnews.com/philadelphia/news/ice-protest-philadelphia-donald-trump/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 644907,
+      "content_hash": "78e7e3a7e79a636518b70b80af9dc30105897646f67a4dd573b935718a37ca2b",
+      "title": "Anti-ICE protest in Philadelphia leads to 15 arrests, 2 officers injured, police say - CBS Philadelphia",
+      "fetched_at": "2026-01-27T16:27:46.226275",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-046\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.inquirer.com/news/philadelphia/center-city-ice-protest-arrests-20250610.html",
+      "final_url": "https://www.inquirer.com/news/philadelphia/center-city-ice-protest-arrests-20250610.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 259009,
+      "content_hash": "0aa400b4f3c9482766bfa164db7250784e1d5a72d725682ff0cfdf0703be6534",
+      "title": "2 police officer injured, 15 anti-ICE protesters arrested during clash in Center City",
+      "fetched_at": "2026-01-27T16:28:20.598172",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-046\\article_2.txt"
+    }
+  ]
+}

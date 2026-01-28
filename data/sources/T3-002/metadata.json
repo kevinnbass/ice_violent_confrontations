@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-002",
+  "url": "https://www.latintimes.com/four-journalists-injured-law-enforcement-during-la-anti-ice-protest-584644",
+  "final_url": "https://www.latintimes.com/four-journalists-injured-law-enforcement-during-la-anti-ice-protest-584644",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 427384,
+  "content_hash": "ff232ecb1ddb1da97f0cd5ba482bb49de740f88031826dcdb03ad715a5a30ed9",
+  "title": "Four Journalists Injured By Law Enforcement During LA Anti-ICE Protest",
+  "fetched_at": "2026-01-27T14:45:47.850800",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.latintimes.com/four-journalists-injured-law-enforcement-during-la-anti-ice-protest-584644",
+      "final_url": "https://www.latintimes.com/four-journalists-injured-law-enforcement-during-la-anti-ice-protest-584644",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 427172,
+      "content_hash": "a61b846c4a2f904a20b91d8959ae05c35e9d14d5215937ce4a7bd9d8c497dcc6",
+      "title": "Four Journalists Injured By Law Enforcement During LA Anti-ICE Protest",
+      "fetched_at": "2026-01-27T16:28:03.418481",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-002\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
+      "final_url": "https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
+      "status_code": 403,
+      "content_type": "text/plain",
+      "content_length": 151,
+      "content_hash": "d2a12ebfdfdbb7e1160c8b2fb8b9b16c7d068dba43ada02b6cc4aae47dd7ad23",
+      "title": "June 2025 Los Angeles protests against mass deportation - Wikipedia",
+      "fetched_at": "2026-01-27T16:20:02.132507",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260120004243/https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deportation",
+      "archive_path": "data\\sources\\T3-002\\article_1_wayback.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/",
+      "final_url": "https://www.cbsnews.com/news/los-angeles-ice-protests-timeline/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 667926,
+      "content_hash": "69463ca3ee3409f91bd930aa18053844d6fc39ff6ec50e3b0bfc366bb6ca2dc2",
+      "title": "Maps and photos show how the Los Angeles ICE protests unfolded - CBS News",
+      "fetched_at": "2026-01-27T16:30:20.922258",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-002\\article_2.txt"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-044",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.dhs.gov/news/2025/09/08/ice-launches-operation-midway-blitz-honor-katie-abraham-target-criminal-illegal",
+      "final_url": "https://www.dhs.gov/news/2025/09/08/ice-launches-operation-midway-blitz-honor-katie-abraham-target-criminal-illegal",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 309726,
+      "content_hash": "1d970a6183e63cf1363200f80484c19f277fccf41bc1575f9e60ce05e83dc389",
+      "title": "ICE Launches Operation Midway Blitz in Honor of Katie Abraham to Target Criminal Illegal Aliens Terrorizing Americans in Sanctuary Illinois | Homeland Security",
+      "fetched_at": "2026-01-27T16:27:46.538216",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-044\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://blockclubchicago.org/2025/09/08/ice-launches-operation-midway-blitz-with-immigration-raids-in-chicago/",
+      "final_url": "https://blockclubchicago.org/2025/09/08/ice-launches-operation-midway-blitz-with-immigration-raids-in-chicago/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 390294,
+      "content_hash": "13e86f4e3b5ed1387ad5a9064f4501d98546a73606046cc75b27d216dea44095",
+      "title": "ICE Launches \u2018Operation Midway Blitz\u2019 With Immigration Raids In Chicago",
+      "fetched_at": "2026-01-27T16:28:18.923612",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-044\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.themarshallproject.org/2025/12/18/ice-chicago-immigration-blitz-data",
+      "final_url": "https://www.themarshallproject.org/2025/12/18/ice-chicago-immigration-blitz-data",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 105336,
+      "content_hash": "5c6a2b671ee25220a708167d1c8be17e9da422862e2d05960a5a494c79d58a22",
+      "title": "New ICE Midway Blitz Data Shows What Happened to Arrestees | The Marshall Project",
+      "fetched_at": "2026-01-27T16:28:52.910170",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-044\\article_3.txt"
+    }
+  ]
+}

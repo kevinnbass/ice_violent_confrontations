@@ -1,0 +1,33 @@
+{
+  "entry_id": "T3-214",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.newsweek.com/ice-pepper-spray-video-viral-homeland-security-chicago-illinois-immigration-11020112",
+      "final_url": "https://www.newsweek.com/ice-pepper-spray-video-viral-homeland-security-chicago-illinois-immigration-11020112",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 889495,
+      "content_hash": "ec44a08b9e073bce09da12455e21c45fd0b9062648759846e107efe4962be652",
+      "title": "ICE Throws Pepper Spray Into Car With Toddler Inside, Video Appears To Show - Newsweek",
+      "fetched_at": "2026-01-27T16:28:02.614475",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-214\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.cbsnews.com/news/former-federal-agent-ice-use-of-force-against-protesters/",
+      "final_url": "https://www.cbsnews.com/news/former-federal-agent-ice-use-of-force-against-protesters/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 649651,
+      "content_hash": "0f5c1f81ff737079121d3f6f548e32614b3bbbc88d26f9714d31ebcd2fa8640e",
+      "title": "We asked a former federal agent to review videos showing use of force against protesters. Here's what he found. - CBS News",
+      "fetched_at": "2026-01-27T16:28:19.093723",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-214\\article_1.txt"
+    }
+  ]
+}

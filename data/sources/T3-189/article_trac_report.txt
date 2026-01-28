@@ -1,0 +1,1349 @@
+ICE Contractual Capacity and Number Detained: Overcapacity vs. Overcrowding
+TRAC
+Immigration
+Home
+>
+Immigration
+>
+Reports
+ICE Contractual Capacity and Number Detained: Overcapacity vs. Overcrowding
+Published Jul 8, 2025
+According to the agency’s own report, Immigration and Customs Enforcement (ICE) is detaining more and more
+individuals
+[1]
+.
+Numerous reports
+show that ICE, after arresting individuals and booking them into one facility, quickly move them to a
+different detention facility usually far from their home. Was there not capacity at a detention facility
+closer to where they lived? Or might ICE be moving detainees to locations where judges impose fewer
+procedural requirements so the agency can deport individuals more quickly?
+Answering these questions isn’t always straightforward. Facilities book in and book out individuals on a
+daily basis and contractual arrangements can change. For this reason, the public needs to know the
+contractual capacity – the number of beds each facility has contracted with ICE to provide – along with
+the actual number of individuals ICE has detained at that facility
+on the same day
+.
+Unfortunately, ICE has been withholding vital information needed to answer these questions. After a
+concerted FOIA campaign, TRAC has pried loose the contractual capacity of each facility along with the
+exact number of individuals detained on April 13, 2025. ICE has also released the maximum number of
+individuals it had held on a single day at each facility during FY 2025.
+TRAC is currently seeking to obtain a regularly updated series. However, this one release allows TRAC to
+do an exact facility-by-facility comparison at a time when well-documented reports had already emerged on
+serious overcrowding
+[2]
+.
+As of April 14, 2025, detention data reveal that ICE’s contractual capacity nationally was 62,913
+[3]
+while ICE held 48,056 the previous night. This means that nationally its utilization of beds was just 3
+out of 4 (76%) of available beds it held contracts for across these 181 authorized detention facilities.
+Of course, depending on where ICE detainees are held, some facilities can be under- utilized while others
+are over their contractual capacity. On the previous night of April 13, 2025,
+45 out of 181
+facilities exceeded their contractual capacity: 8 of these facilities
+exceeded their contractual capacity by at least 100 detainees, another 24 exceeded the contract by between
+10 and 100 detainees, and the remaining 13 facilities exceeded the contractual capacity by less than 10
+people.
+Out of the 45 facilities with population counts exceeding capacity on April 13, a total of 30 (or 66.7%)
+were county jails. These facilities have many beds but only contracted a few they guaranteed ICE could
+use. ICE was authorized to pay for additional beds if needed when the county agreed to provide them
+[4]
+. Among the 8 facilities that exceeded contractual capacity by at least 100 on April 13, only 1 was a
+county facility (Clay County, Indiana).
+A total of 13 (28.9%) of facilities that exceeded their contract on April 13 were operated by private
+contractors. These detention centers—managed by CoreCivic, LaSalle Corrections, and Geo Group, among
+others—accounted for 7 out of 8 facilities where usage on the evening of April 13 exceeded contractual
+capacity by at least 100 beds.
+The remaining two facilities (4.4%) with populations exceeding capacity on April 13 were operated by
+Federal agencies.
+The map below in Figure 1 shows the contractual capacity and the number detained at each detention
+facility on April 14, 2025 (as of midnight April 13). The facilities labeled in the map were selected
+based on the facilities mentioned and discussed in this report.
+Figure 1. Contractual Capacity and Number Detained at Detention Facilities as of Mid-April 2025
+Comparing ICE Detention Facilities That Were Over Contractual Capacity.
+According to ICE documentation, contractual capacity is: “The number of beds at a facility allocated for
+ICE to use as stipulated in the contract or agreement.” The data obtained by TRAC allow additional ways to
+compare facility populations against contractual capacity beyond the specific single day of April 13,
+2025. These give a more comprehensive picture of the extent which facilities exceeded their contractual
+capacity during FY 2025.
+Maximum One-Day Population Count
+A total of 84 out of the 181 detention facilities exceeded their contractual capacity on at least one day
+during October 2024 through mid-April 2025. Table 1 shows the twenty facilities that had the largest
+differences. For at least one night, Krome North Service Processing Center in Miami, Florida, held nearly
+1,200 more people than its contractual capacity. Pine Prairie, Texas, held more than 400 people above its
+contracted specification. Many of the facilities that have exceeded their contractual capacity are
+operated by county jails. These include Clay County, which detained 248 more people than the contractual
+max, and Tulsa County, Oklahoma, which held 164 more people than the ceiling.
+Table 1. Largest Facility Maximum Over-Contractual Capacity Counts in FY 2025
+Facility
+City
+State
+Facility Operator
+Contractual Capacity
+FY25 Max Population Count
+Over Contractual Capacity
+KROME NORTH SERVICE PROCESSING CENTER
+Miami
+FL
+Akima Global Services
+611
+1806
+1195
+PINE PRAIRIE ICE PROCESSING CENTER
+Pine Prairie
+LA
+GEOGroup
+500
+923
+423
+KARNES COUNTY IMMIGRATION PROCESSING CENTER
+Karnes City
+TX
+GEOGroup
+928
+1311
+383
+STEWART DETENTION CENTER
+Lumpkin
+GA
+CoreCivic
+1966
+2312
+346
+PRAIRIELAND DETENTION CENTER
+Alvarado
+TX
+LaSalle Corrections
+707
+1030
+323
+SAN LUIS REGIONAL DETENTION CENTER
+San Luis
+AZ
+LaSalle Corrections
+150
+401
+251
+CLAY COUNTY JUSTICE CENTER
+Brazil
+IN
+County (Sheriff)
+100
+348
+248
+NEVADA SOUTHERN DETENTION CENTER
+Pahrump
+NV
+CoreCivic
+250
+462
+212
+BLUEBONNET DETENTION FACILITY
+Anson
+TX
+Management and Training Corporation
+1000
+1206
+206
+TULSA COUNTY JAIL (DAVID L. MOSS JUSTICE CTR)
+Tulsa
+OK
+County (Sheriff)
+10
+174
+164
+CIBOLA COUNTY CORRECTIONAL CENTER
+Milan
+NM
+CoreCivic
+300
+444
+144
+EAST HIDALGO DETENTION CENTER
+La Villa
+TX
+GEOGroup
+10
+149
+139
+COASTAL BEND DETENTION FACILITY
+Robstown
+TX
+GEOGroup
+10
+131
+121
+CCA, FLORENCE CORRECTIONAL CENTER
+Florence
+AZ
+CoreCivic
+400
+503
+103
+OTAY MESA DETENTION CENTER
+San Diego
+CA
+CoreCivic
+1358
+1461
+103
+PORT ISABEL SPC
+Los Fresnos
+TX
+Akima Global Services
+1175
+1278
+103
+WINN CORRECTIONAL CENTER
+Winnfield
+LA
+LaSalle Corrections
+1576
+1672
+96
+GRAYSON COUNTY JAIL
+Leitchfield
+KY
+County (Jailer)
+5
+98
+93
+ORANGE COUNTY JAIL (NY)
+Goshen
+NY
+County (Corrections)
+79
+169
+90
+OLDHAM COUNTY JAIL
+La Grange
+KY
+County (Jailer)
+7
+96
+89
+The entire list of facilities exceeding their contractual capacity for at least one night during FY 2025
+up until mid-April can be found in Table 3 which appears in the Appendix at the conclusion of this report.
+Average Daily Population—Consistently Above Contractual Capacity
+Comparing the contractual capacity to the average daily population during FY 2025 provides another way to
+see which facilities consistently surpass the contractual ceiling of their contract with ICE in a given
+year as the average daily population is the average number of people detained at a facility over every day
+in the fiscal year. A total of 25 out of the 181 authorized ICE facilities met this criterion
+[5]
+.
+It is conceivable, if unlikely, that the facilities listed in Table 1 experienced just one night exceeding
+the maximum contractual limit. Some facilities often exceed their contractual capacity. Table 2 shows
+twenty facilities that have held
+on average
+more people than their contracted capacity.
+(Table 3 includes the full list and is found in the Appendix at the end of this report.) These include
+privately operated centers like Pine Prairie and Krome North, county facilities like Clay County, and
+federal facilities that have no set contractual capacity but are authorized to house ICE detainees,
+including Honolulu Federal, Hawaii and Guaynabo MDC in San Juan, Puerto Rico. Many facilities can be found
+in both tables, meaning that the maximum count was not a one-day spike in population, but was part of a
+longer tendency to hold more people than the set contracted number of beds.
+Table 2. Facilities with Average Daily Populations Over Contractual Capacity Counts in FY 2025
+Facility
+City
+State
+Facility Operator
+Contractual Capacity
+FY25 ADP
+Over Contractual Capacity
+PINE PRAIRIE ICE PROCESSING CENTER
+Pine Prairie
+LA
+GEO Group
+500
+689
+189
+KROME NORTH SERVICE PROCESSING CENTER
+Miami
+FL
+Akima Global Services
+611
+769
+158
+CLAY COUNTY JUSTICE CENTER
+Brazil
+IN
+County (Sheriff)
+100
+242
+142
+KANDIYOHI COUNTY JAIL
+Willmar
+MN
+County (Sheriff)
+85
+144
+59
+NEVADA SOUTHERN DETENTION CENTER
+Pahrump
+NV
+CoreCivic
+250
+293
+43
+HONOLULU FEDERAL DETENTION CENTER
+Honolulu
+HI
+Bureau of Prisons
+0
+29
+29
+MONROE COUNTY DETENTION-DORM
+Monroe
+MI
+County (Sheriff)
+63
+91
+28
+ORANGE COUNTY JAIL (NY)
+Goshen
+NY
+County (Corrections)
+79
+98
+19
+GRAYSON COUNTY JAIL
+Leitchfield
+KY
+County (Jailer)
+5
+23
+18
+TULSA COUNTY JAIL (DAVID L. MOSS JUSTICE CTR)
+Tulsa
+OK
+County (Sheriff)
+10
+27
+17
+FREEBORN COUNTY ADULT DETENTION CENTER
+Albert Lea
+MN
+County
+60
+76
+16
+PICKENS COUNTY DET CTR
+Carrollton
+AL
+County
+28
+40
+12
+OLDHAM COUNTY JAIL
+La Grange
+KY
+County (Jailer)
+7
+18
+11
+PHELPS COUNTY JAIL (NE)
+Holdrege
+NE
+County (Sheriff)
+20
+30
+10
+CHIPPEWA COUNTY SSM
+Sault Saint Marie
+MI
+County (Sheriff)
+21
+28
+7
+GUAYNABO MDC (SAN JUAN)
+San Juan
+PR
+Bureau of Prisons
+0
+5
+5
+PINELLAS COUNTY JAIL
+Clearwater
+FL
+County (Sheriff)
+5
+8
+3
+SOUTH CENTRAL REGIONAL JAIL
+Charleston
+WV
+County (Corrections)
+5
+8
+3
+ORANGE COUNTY JAIL (FL)
+Orlando
+FL
+County
+5
+8
+3
+WOODBURY COUNTY JAIL
+Sioux City
+IA
+County
+1
+3
+2
+STRAFFORD COUNTY CORRECTIONS
+Dover
+NH
+County (Corrections)
+94
+95
+1
+LA PAZ COUNTY ADULT DETENTION FACILITY
+Parker
+AZ
+County (Sheriff)
+0
+1
+1
+DEPARTMENT OF CORRECTIONS HAGATNA
+Hagatna
+GU
+Federal
+5
+6
+1
+ERIE COUNTY JAIL
+Erie
+PA
+County (Corrections)
+5
+6
+1
+GEAUGA COUNTY JAIL
+Chardon
+OH
+County (Sheriff)
+45
+46
+1
+Contractual Capacity vs. Physical Capacity.
+Depending on the detention center, exceeding “contractual capacity” can mean overcrowded facility
+conditions. For example, Krome had triple its capacity limit for at least one night in fiscal year 2025: a
+total of 1,806 detainees at a facility designated for a maximum of 611 people. Reporting corroborates the
+overcrowded conditions that existed at Krome
+[6]
+. ICE has recently erected a soft-sided structure and stated it will begin moving 400 detainees into this
+facility on June 24
+[7]
+. This will immediately increase its contractual capacity by 400. Krome claims it no longer exceeds its
+contractual capacity.
+Thus, Krome illustrates that contractual capacity can change and population held vs. existing capacity
+on the same day
+are needed to determine if overcrowding at this facility continues to
+exist.
+Other facilities are not overcrowded but simply over their set contractual ceiling. County officials can
+choose to house more detainees when the facility has more beds available than the number listed in its
+contract with ICE. Thus, assessing whether ICE has overcrowding depends on the detention facility’s
+physical capacity
+to house detainees, not its
+contractual capacity
+.
+These two figures can be quite different. Many county jails set up to hold large numbers of their own
+detainees also contract to provide a small number of beds for immigration enforcement detainees. Of the 45
+facilities exceeding their contractual capacity on April 14, 2025, many had plenty of beds so there was no
+overcrowding. As noted earlier, two-thirds of these were county facilities.
+For example, Grayson County Jail in Leitchfield, Kentucky listed in Appendix Table 3 provided beds for 92
+individuals on April 14, but had a contractual ceiling of just 5 detainees. However, the jail’s website
+shows a
+substantial jail
+building and
+indicates its physical capacity is
+much larger
+than 5. Another facility, Tulsa County Jail in Oklahoma, held 174 people in a space with a contractual
+capacity of only 19. However,
+its website
+reports: “The Tulsa County Jail has a capacity of over 2,000 beds.”
+Even when a county or private facility has physical capacity to hold more detainees than its contractual
+capacity, public scrutiny is still needed. Paying county facilities above the contractual ceiling can
+impact federal appropriations.
+The House Appropriations Committee report
+[8]
+released on June 24 noted that ICE had made it an annual habit to underestimate its appropriation needs,
+forcing the agency to go back to Congress for additional supplemental appropriations as well as transfer
+funds from other components within DHS to cover its actual detention costs. It cited the GAO which had
+found that: “ICE consistently underestimated the cost to house detained noncitizens due to inaccuracies in
+the [cost-per-bed] model it used to project these costs.”
+[9]
+The Congressional Committee report found: “Actions already taken in fiscal year 2025 are especially
+egregious” and “presuppose that other missions within DHS are less important, …[and it] also sets the
+precedent that the Department can shift funding away from congressional priorities within other components
+to compensate for ICE’s budgetary mismanagement.”
+The bill finally signed by President Trump on July 4, 2025 after passage by both the House and Senate
+funds a huge expansion in dollars funding detention and removal
+[10]
+. It remains to be seen whether ICE projections on the money it needs will continue to underestimate
+actual costs as the agency accelerates administration efforts to achieve mass deportation.
+Conclusion
+ICE’s national contractual detention capacity does not tell the whole story. How it is managed in deciding
+which facility to book in a new person ICE has arrested, and whether to then transfer the individual to
+another facility are critical to understand. The agency needs to regularly release updated figures on the
+actual number of individuals held at each facility on a given day along with the matching current
+contractual capacity at that facility to understand whether overcrowding occurs as the agency rapidly
+increases the number of individuals it is detaining.
+Finally, now that ICE has decided that the federal Freedom of Information Act requires the release of
+these basic facts, it has no legal justification to hide the existence of these numbers and not make this
+updated information
+promptly
+publicly available on an ongoing basis. ICE certainly has the
+funding for it now.
+Table 3. Overcapacity Detention Facilities Through April 14, 2025.
+Facility
+City
+State
+Facility Operator
+Contractual Capacity
+FY25 ADP
+ADP Diff
+FY25 Max Population Count
+Max Difference
+PINE PRAIRIE ICE PROCESSING CENTER
+Pine Prairie
+LA
+GEOGroup
+500
+689
+189
+923
+423
+KROME NORTH SERVICE PROCESSING CENTER
+Miami
+FL
+Akima Global Services
+611
+769
+158
+1806
+1195
+CLAY COUNTY JUSTICE CENTER
+Brazil
+IN
+County (Sheriff)
+100
+242
+142
+348
+248
+KANDIYOHI COUNTY JAIL
+Willmar
+MN
+County (Sheriff)
+85
+144
+59
+163
+78
+NEVADA SOUTHERN DETENTION CENTER
+Pahrump
+NV
+CoreCivic
+250
+293
+43
+462
+212
+HONOLULU FEDERAL DETENTION CENTER
+Honolulu
+HI
+Bureau of Prisons
+0
+29
+29
+59
+59
+MONROE COUNTY DETENTION-DORM
+Monroe
+MI
+County (Sheriff)
+63
+91
+28
+149
+86
+ORANGE COUNTY JAIL (NY)
+Goshen
+NY
+County (Corrections)
+79
+98
+19
+169
+90
+GRAYSON COUNTY JAIL
+Leitchfield
+KY
+County (Jailer)
+5
+23
+18
+98
+93
+TULSA COUNTY JAIL (DAVID L. MOSS JUSTICE CTR)
+Tulsa
+OK
+County (Sheriff)
+10
+27
+17
+174
+164
+FREEBORN COUNTY ADULT DETENTION CENTER
+Albert Lea
+MN
+County
+60
+76
+16
+96
+36
+PICKENS COUNTY DET CTR
+Carrollton
+AL
+County
+28
+40
+12
+78
+50
+OLDHAM COUNTY JAIL
+La Grange
+KY
+County (Jailer)
+7
+18
+11
+96
+89
+PHELPS COUNTY JAIL (NE)
+Holdrege
+NE
+County (Sheriff)
+20
+30
+10
+44
+24
+CHIPPEWA COUNTY SSM
+Sault Saint Marie
+MI
+County (Sheriff)
+21
+28
+7
+46
+25
+GUAYNABO MDC (SAN JUAN)
+San Juan
+PR
+Bureau of Prisons
+0
+5
+5
+16
+16
+PINELLAS COUNTY JAIL
+Clearwater
+FL
+County (Sheriff)
+5
+8
+3
+51
+46
+SOUTH CENTRAL REGIONAL JAIL
+Charleston
+WV
+County (Corrections)
+5
+8
+3
+28
+23
+ORANGE COUNTY JAIL (FL)
+Orlando
+FL
+County
+5
+8
+3
+26
+21
+WOODBURY COUNTY JAIL
+Sioux City
+IA
+County
+1
+3
+2
+30
+29
+STRAFFORD COUNTY CORRECTIONS
+Dover
+NH
+County (Corrections)
+94
+95
+1
+137
+43
+LA PAZ COUNTY ADULT DETENTION FACILITY
+Parker
+AZ
+County (Sheriff)
+0
+1
+1
+9
+9
+DEPARTMENT OF CORRECTIONS HAGATNA
+Hagatna
+GU
+Federal
+5
+6
+1
+15
+10
+ERIE COUNTY JAIL
+Erie
+PA
+County (Corrections)
+5
+6
+1
+35
+30
+GEAUGA COUNTY JAIL
+Chardon
+OH
+County (Sheriff)
+45
+46
+1
+72
+27
+COASTAL BEND DETENTION FACILITY
+Robstown
+TX
+GEOGroup
+10
+10
+0
+131
+121
+SAIPAN DEPARTMENT OF CORRECTIONS (SUSUPE)
+Saipan
+MP
+State
+5
+5
+0
+11
+6
+DALE G. HAILE DETENTION CENTER
+Caldwell
+ID
+County (Sheriff)
+0
+0
+0
+2
+2
+SENECA COUNTY JAIL
+Tiffin
+OH
+County (Sheriff)
+62
+62
+0
+73
+11
+NATRONA COUNTY JAIL
+Casper
+WY
+County (Sheriff)
+1
+1
+0
+5
+4
+WASHINGTON COUNTY DETENTION CENTER
+Fayetteville
+AR
+County (Sheriff)
+5
+4
+-1
+30
+25
+PRAIRIELAND DETENTION CENTER
+Alvarado
+TX
+LaSalle Corrections
+707
+706
+-1
+1030
+323
+EAST HIDALGO DETENTION CENTER
+La Villa
+TX
+GEOGroup
+10
+9
+-1
+149
+139
+GRAND FORKS COUNTY CORRECTIONAL FACILITY
+Grand Forks
+ND
+County (Sheriff)
+5
+4
+-1
+20
+15
+COLLIER COUNTY NAPLES JAIL CENTER
+Naples
+FL
+County (Sheriff)
+14
+13
+-1
+37
+23
+POLK COUNTY JAIL
+Des Moines
+IA
+County (Sheriff)
+40
+38
+-2
+65
+25
+DORCHESTER CO DET CTR
+Summerville
+SC
+County
+2
+0
+-2
+6
+4
+FAYETTE COUNTY DETENTION CENTER
+Lexington
+KY
+County
+5
+1
+-4
+8
+3
+FINNEY COUNTY JAIL
+Garden City
+KS
+County
+5
+1
+-4
+9
+4
+SALT LAKE COUNTY METRO JAIL
+Salt Lake City
+UT
+County (Sheriff)
+10
+6
+-4
+17
+7
+CHAVEZ DETENTION CENTER
+Roswell
+NM
+County
+5
+1
+-4
+10
+5
+MINNEHAHA COUNTY JAIL
+Sioux Falls
+SD
+County
+5
+0
+-5
+8
+3
+GARVIN COUNTY DETENTION CENTER
+Pauls Valley
+OK
+County (Sheriff)
+5
+0
+-5
+6
+1
+OTAY MESA DETENTION CENTER
+San Diego
+CA
+CoreCivic
+1358
+1352
+-6
+1461
+103
+BAKER COUNTY SHERIFF DEPT.
+Macclenny
+FL
+County
+250
+244
+-6
+293
+43
+DAKOTA COUNTY JAIL
+Dakota City
+NE
+County (Sheriff)
+20
+13
+-7
+45
+25
+ALLEGANY COUNTY JAIL
+Belmont
+NY
+County (Sheriff)
+10
+2
+-8
+17
+7
+CLINTON COUNTY JAIL
+Plattsburgh
+NY
+County (Sheriff)
+13
+5
+-8
+14
+1
+CHITTENDEN REGIONAL CORRECTIONAL FACILITY
+South Burlington
+VT
+County (Corrections)
+10
+2
+-8
+12
+2
+BROOME COUNTY JAIL
+Binghampton
+NY
+County
+10
+2
+-8
+54
+44
+BALDWIN COUNTY CORRECTIONAL CENTER
+Bay Minette
+AL
+County (Sheriff)
+10
+2
+-8
+25
+15
+WYATT DETENTION CENTER
+Central Falls
+RI
+Central Falls Detention Facility Corporation
+122
+112
+-10
+124
+2
+HANCOCK COUNTY PUBLIC SAFETY COMPLEX
+Bay St. Louis
+MS
+Not Listed
+30
+20
+-10
+75
+45
+CCA, FLORENCE CORRECTIONAL CENTER
+Florence
+AZ
+CoreCivic
+400
+390
+-10
+503
+103
+SWEETWATER COUNTY JAIL
+Rock Springs
+WY
+County (Sheriff)
+12
+1
+-11
+14
+2
+DALLAS COUNTY JAIL - LEW STERRETT JUSTICE CENTER
+Dallas
+TX
+County
+18
+7
+-11
+29
+11
+ELIZABETH CONTRACT DETENTION FACILITY
+Elizabeth
+NJ
+CoreCivic
+300
+285
+-15
+376
+76
+SAN JUAN STAGING
+Guaynabo
+PR
+Not Listed
+22
+7
+-15
+44
+22
+POTTAWATTAMIE COUNTY JAIL
+Council Bluffs
+IA
+County (Sheriff)
+50
+35
+-15
+56
+6
+CALHOUN COUNTY CORRECTIONAL CENTER
+Battle Creek
+MI
+County (Sheriff)
+154
+139
+-15
+176
+22
+DODGE COUNTY JAIL
+Juneau
+WI
+County (Sheriff)
+135
+113
+-22
+139
+4
+NASSAU COUNTY CORRECTIONAL CENTER
+East Meadow
+NY
+County
+30
+7
+-23
+90
+60
+PIKE COUNTY JAIL
+Lords Valley
+PA
+County (Sheriff)
+210
+183
+-27
+212
+2
+BOONE COUNTY JAIL
+Burlington
+KY
+County (Jailer)
+175
+146
+-29
+206
+31
+ALAMANCE COUNTY DETENTION FACILITY
+Graham
+NC
+County
+50
+20
+-30
+53
+3
+KNOX COUNTY DETENTION FACILITY
+Knoxville
+TN
+County
+50
+16
+-34
+77
+27
+IMPERIAL REGIONAL DETENTION FACILITY
+Calexico
+CA
+Management and Training Corporation
+704
+666
+-38
+717
+13
+CAROLINE DETENTION FACILITY
+Bowling Green
+VA
+County
+336
+291
+-45
+368
+32
+SHERBURNE COUNTY JAIL
+Elk River
+MN
+County (Sheriff)
+80
+33
+-47
+112
+32
+LAUREL COUNTY SHERIFFS JAIL
+London
+KY
+County
+50
+1
+-49
+52
+2
+WINN CORRECTIONAL CENTER
+Winnfield
+LA
+LaSalle Corrections
+1576
+1522
+-54
+1672
+96
+BROWARD TRANSITIONAL CENTER
+Pompano Beach
+FL
+GEOGroup
+702
+646
+-56
+714
+12
+SAN LUIS REGIONAL DETENTION CENTER
+San Luis
+AZ
+LaSalle Corrections
+150
+91
+-59
+401
+251
+BUFFALO SERVICE PROCESSING CENTER
+Batavia
+NY
+Akima Global Services
+650
+577
+-73
+688
+38
+MONTGOMERY ICE PROCESSING CENTER
+Conroe
+TX
+GEOGroup
+1314
+1218
+-96
+1361
+47
+CIBOLA COUNTY CORRECTIONAL CENTER
+Milan
+NM
+CoreCivic
+300
+202
+-98
+444
+144
+EL PASO SERVICE PROCESSING CENTER
+El Paso
+TX
+GPS-ASSET
+840
+729
+-111
+906
+66
+KARNES COUNTY IMMIGRATION PROCESSING CENTER
+Karnes City
+TX
+GEOGroup
+928
+814
+-114
+1311
+383
+BLUEBONNET DETENTION FACILITY
+Anson
+TX
+Management and Training Corporation
+1000
+866
+-134
+1206
+206
+PORT ISABEL SPC
+Los Fresnos
+TX
+Akima Global Services
+1175
+1028
+-147
+1278
+103
+WEBB COUNTY DETENTION CENTER (CCA)
+Laredo
+TX
+CoreCivic
+499
+337
+-162
+512
+13
+BUTLER COUNTY JAIL
+Hamilton
+OH
+County (Sheriff)
+192
+29
+-163
+241
+49
+RICHWOOD CORRECTIONAL CENTER
+Monroe
+LA
+LaSalle Corrections
+1000
+830
+-170
+1027
+27
+STEWART DETENTION CENTER
+Lumpkin
+GA
+CoreCivic
+1966
+1717
+-249
+2312
+346
+Footnotes
+[1]
+^
+For ICE reports every two weeks on the number it has
+currently detained, see
+Detention Quick Facts
+on TRAC Reports. This series does not provide numbers for each detention facility. Instead, only the
+average daily population for all of FY 2015 starting back in October 2024 when President Biden was still
+in office is given.
+[2]
+^
+See, for example,
+reporting of overcrowding
+by the Washington Post and links provided there.
+[3]
+^
+This number (62,913 funded beds) is significantly
+larger than the numbers usually given. Clearly the release of contractual capacity at each facility is
+needed to prevent Congress and the public from continually being misled. See, for example,
+NPR’s reporting on June 4, 2025
+, that detaining 48,000 is already thousands beyond what ICE is funded for when it is actually much
+lower.
+[4]
+^
+ICE’s list of these 181 facilities is limited to: “A
+facility, which is under contract and has an active, funded task order and has successfully completed an
+official ICE OPR inspection without two consecutive failures or submits a completed ORSA, as verified by
+CMD. Authorization requirements do not apply to Bureau of Prisons facilities.” Two facilities on the
+list which weren’t Bureau of Prisons facilities listed their contractual capacity as 0, but ICE used
+their beds. The La Paz County Adult Detention facility showed an average stay of two nights at a charge
+of $60/bed. The Dale G. Haile Detention Center showed an average stay of 3 nights at a charge of
+$54/bed.
+[5]
+^
+Comparing against the average daily population is
+still imperfect. It misidentifies facilities that never held more detainees than their contractual
+capacity and misses others which did exceed that capacity on at least one day. The average daily
+population (ADP) is a cumulative average that starts at the beginning of the U.S. fiscal year on October
+1 and continues until September 30 of the following year. To explain, if a facility detained 4 people on
+day one and 6 people on day two, the ADP of that facility on day 2 would be 5 (4 + 6 detainees/ 2 days).
+[6]
+^
+See, for example,
+NPR June 6, 2025 repor
+t and Washington Post articles cited in earlier footnote 2 to this report.
+[7]
+^
+“Giant tent rises in Florida to house hundreds of
+detained immigrants” in
+April 24, 2025 Washington Post
+coverage reporting: “An Immigration and Customs Enforcement facility in Miami plans to move up to 400
+immigrant detainees into a large tent that was erected in recent weeks…”.
+[8]
+^
+The link to House Appropriation Committee’s report can
+be found at the bottom of the press release found
+here
+. See also
+GAO-24-106550
+findings relied on in the House Appropriation Committee’s report.
+[9]
+^
+The GAO report also found: “From fiscal years (FY)
+2014 to 2023, U.S. Immigration and Customs Enforcement (ICE) received about $71 billion through annual
+appropriations to carry out its mission of enforcing immigration laws and combatting transnational
+crime. During that time, ICE has frequently relied on additional funding to meet its mission. That
+funding has often totaled hundreds of millions of dollars per year and has largely come from
+supplemental appropriations and from funds transferred from other agencies within the Department of
+Homeland Security (DHS), of which ICE is a part. We have included financial management within DHS on our
+High-Risk List since 2003.” Also “other DHS components, such as the Federal Emergency Management Agency,
+the Transportation Security Administration, and the U.S. Coast Guard” funding was used. “ICE used the
+funds for a variety of other purposes, such as increasing detention capacity and paying for additional
+flights to remove noncitizens from the country…”
+[10]
+^
+While the July 4, 2025 new appropriations provide ICE
+a huge increase in dollars for immigration enforcement, comparisons as to how much more this represents
+are marred by the misleading use of the amounts previously provided ICE in its
+original
+annual
+appropriations. These numbers, as GAO has found, bear little resemblance to ICE’s actual funding levels
+because they exclude supplemental appropriations and funds transferred from other agency budgets.
+TRAC is a nonpartisan, nonprofit data research project founded in 1989. Its public website has moved from
+trac.
+syr.edu to tracreports.org. For more information, contact
+info@tracreports.org
+.

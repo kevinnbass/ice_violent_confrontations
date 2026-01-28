@@ -1,0 +1,288 @@
+state,county,unauthorized_population,share_of_national
+California,"Los Angeles County, California",1101000.0,0.08017632567541653
+Texas,"Harris County, Texas",610000.0,0.04438703381662134
+Illinois,"Cook County, Illinois",369000.0,0.02688539628164459
+Florida,"Miami-Dade-Monroe Counties, Florida",356000.0,0.02590302451809412
+Texas,"Dallas County, Texas",319000.0,0.02321069391047356
+Massachusetts,"Boston-Cambridge-Newton MSA,++ Massachusetts-New Hampshire",301000.0,0.021875989622703276
+California,"Orange County, California",229000.0,0.016650596131155514
+Arizona,"Maricopa County, Arizona",227000.0,0.01655221118812812
+New York,"Queens County, New York",222000.0,0.01614183475034657
+Florida,"Broward County, Florida",180000.0,0.013092338265282595
+Nevada,"Clark County, Nevada",167000.0,0.012187205524406268
+California,"San Diego County, California",159000.0,0.011570261469487145
+California,"Riverside County, California",152000.0,0.011082325726588928
+California,"San Bernardino County, California",149000.0,0.010831464503479049
+New York,"Kings County, New York",148000.0,0.010765762927882332
+Maryland,"Prince George's County, Maryland",144000.0,0.010489082572416862
+Florida,"Palm Beach County, Florida",130000.0,0.00947551238730562
+Texas,"Tarrant County, Texas",127000.0,0.00921196361198379
+Washington,"King County, Washington",124000.0,0.008995372610224385
+Georgia,"Gwinnett County, Georgia",121000.0,0.008803057561779298
+California,"Santa Clara County, California",119000.0,0.008649081777534071
+Maryland,"Montgomery County, Maryland",119000.0,0.008636408783614961
+New York,"Bronx County, New York",119000.0,0.008667155898097629
+Texas,"Hidalgo County, Texas",109000.0,0.007952875097235749
+Connecticut,"Fairfield County, Connecticut",105000.0,0.007668711779249403
+Florida,"Orange County, Florida",105000.0,0.007628297958319535
+California,"Alameda County, California",103000.0,0.007497877491892941
+Colorado,"Suburban Denver Counties,+ Colorado",102000.0,0.0074371621315946655
+Virginia,"Fairfax County-Fairfax City-Falls Church City, Virginia",102000.0,0.0074256174053708235
+Texas,"Bexar County, Texas",101000.0,0.007338289485757058
+North Carolina,"Mecklenburg County, North Carolina",100000.0,0.007306617919678913
+Texas,"Travis County, Texas",85000.0,0.006186371843766662
+Utah,"Salt Lake County, Utah",78000.0,0.00568614890170965
+Pennsylvania,"Philadelphia County, Pennsylvania",76000.0,0.005522309874063852
+California,"Kern County, California",74000.0,0.005363973881112395
+New Jersey,"Hudson County, New Jersey",72000.0,0.005224701972637762
+California,"Fresno County, California",70000.0,0.005081841444977532
+Florida,"Hillsborough County, Florida",70000.0,0.005115827779617582
+California,"Contra Costa County, California",68000.0,0.004964392417473314
+New Jersey,"Essex County, New Jersey",68000.0,0.004983813180124771
+New Jersey,"Union County, New Jersey",68000.0,0.004948516599128927
+New York,"New York County, New York",67000.0,0.004900146671160812
+California,"Monterey-San Benito Counties, California",66000.0,0.004769879066809061
+New York,"Suffolk County, New York",66000.0,0.00479936688896088
+California,"Sacramento County, California",60000.0,0.004344245538128915
+North Carolina,"Wake County, North Carolina",60000.0,0.004341501299928166
+Virginia,"Prince William County-Manassas City-Manassas Park City, Virginia",59000.0,0.004291893917068466
+California,"Ventura County, California",58000.0,0.004225500822561744
+California,"San Joaquin County, California",56000.0,0.004061872890162157
+California,"San Mateo County, California",56000.0,0.004048006116229989
+New York,"Nassau County, New York",56000.0,0.004109995327151955
+New York,"Westchester County, New York",56000.0,0.004070163837935774
+Georgia,"Cobb County, Georgia",55000.0,0.00399216778403384
+Rhode Island,"Providence County, Rhode Island",54000.0,0.003910182757893152
+Texas,"El Paso County, Texas",53000.0,0.0038515346751784637
+Colorado,"Denver County, Colorado",50000.0,0.003608054506539567
+Indiana,"Marion County, Indiana",48000.0,0.003475792416068439
+Tennessee,"Davidson County, Tennessee",48000.0,0.0035194017822771637
+Georgia,"DeKalb County, Georgia",47000.0,0.0034000383392642003
+Illinois,"Lake County, Illinois",47000.0,0.0034006061126850445
+Connecticut,"New Haven County, Connecticut",46000.0,0.0033807267638090595
+Louisiana,"Orleans-Jefferson-Plaquemines-St. Bernard Parishes, Louisiana",46000.0,0.0033714968061471224
+New Jersey,"Passaic County, New Jersey",46000.0,0.003335188423798747
+Oklahoma,"Oklahoma County, Oklahoma",46000.0,0.003315221725165709
+California,"Santa Barbara County, California",45000.0,0.0032444611428063346
+Florida,"Lee County, Florida",45000.0,0.0032649228233960063
+New Jersey,"Middlesex County, New Jersey",44000.0,0.003199505134509709
+California,"Tulare County, California",43000.0,0.0031174327586119674
+Texas,"Collin County, Texas",43000.0,0.003131270415958451
+California,"San Francisco County, California",42000.0,0.0030503554243416623
+Illinois,"DuPage County, Illinois",42000.0,0.0030385850445787664
+Illinois,"Kane County, Illinois",41000.0,0.0029779060800125957
+New Jersey,"Bergen County, New Jersey",40000.0,0.002927912902392579
+Texas,"Cameron County, Texas",40000.0,0.002891226004430307
+Texas,"Montgomery County, Texas",40000.0,0.002892427063589786
+Washington,"Snohomish County, Washington",39000.0,0.0028305688773033995
+California,"Stanislaus County, California",38000.0,0.002740358415706884
+Florida,"Osceola County, Florida",38000.0,0.0027371847078672905
+Texas,"Fort Bend County, Texas",37000.0,0.0027258001228647123
+Massachusetts,"Worcester MSA,++ Massachusetts-Connecticut",36000.0,0.0026201942665876007
+Florida,"Collier County, Florida",35000.0,0.0025465001882205287
+Georgia,"Fulton County, Georgia",35000.0,0.0025383621025217547
+Texas,"Denton County, Texas",35000.0,0.002548414603729274
+Minnesota,"Hennepin County, Minnesota",34000.0,0.0024526647117063126
+Tennessee,"Shelby County, Tennessee",34000.0,0.0025071127269360336
+Arizona,"Pima County, Arizona",33000.0,0.0024081818479270577
+Oregon,"Multnomah County, Oregon",33000.0,0.0023990246817293314
+Washington,"Yakima County, Washington",33000.0,0.0024342484712609655
+Florida,"Polk County, Florida",32000.0,0.0023337307383321927
+Ohio,"Franklin County, Ohio",32000.0,0.0023466803398153042
+Oklahoma,"Tulsa County, Oklahoma",32000.0,0.0023066668719385957
+Oregon,"Washington County, Oregon",32000.0,0.002332486004294187
+Texas,"Webb County, Texas",31000.0,0.0022414529991520884
+Hawaii,"Honolulu County, Hawaii",30000.0,0.002163842740010472
+North Carolina,"Durham County, North Carolina",30000.0,0.0021848721940209894
+Oregon,"Marion County, Oregon",30000.0,0.002208012600493621
+South Carolina,"Greenville-Laurens-Newberry-Union Counties, South Carolina",30000.0,0.002184042371328985
+Washington,"Benton-Franklin-Walla Walla Counties, Washington",30000.0,0.002159213202886662
+California,"Sonoma County, California",29000.0,0.002092667246305096
+Massachusetts,"Providence-Warwick MSA,++ Rhode Island-Massachusetts",29000.0,0.002102428581655772
+New Mexico,"Bernalillo-Valencia-Santa Fe Counties, New Mexico",29000.0,0.0020990437785699673
+California,"Merced County, California",28000.0,0.0020235663093297294
+Connecticut,"Hartford County, Connecticut",28000.0,0.002051816676589963
+New Jersey,"Mercer County, New Jersey",28000.0,0.0020622258559721157
+Florida,"Duval County, Florida",27000.0,0.0019354886376345918
+Georgia,"Hall County, Georgia",27000.0,0.0019461889828735878
+Illinois,"Will County, Illinois",26000.0,0.001867414060304598
+Nebraska,"Douglas County, Nebraska",26000.0,0.0019087814494156282
+Washington,"Pierce County, Washington",26000.0,0.0019260621430192857
+Maryland,"Baltimore County, Maryland",25000.0,0.0018203179829601732
+South Carolina,"Charleston-Berkeley-Dorchester Counties, South Carolina",25000.0,0.001812645762632349
+Wisconsin,"Milwaukee County, Wisconsin",25000.0,0.0018317389636948568
+California,"Solano County, California",24000.0,0.0017260384785142708
+Nevada,"Washoe County, Nevada",24000.0,0.001770783391564685
+Utah,"Utah County, Utah",24000.0,0.0017611312434103253
+Virginia,"Loudoun County, Virginia",24000.0,0.0017317598876012443
+Kansas,"Sedgwick-Butler-Harvey Counties, Kansas",21000.0,0.0015556191025038117
+New York,"Rockland County, New York",21000.0,0.0014970874861318611
+Pennsylvania,"Lehigh-Carbon Counties-Northampton, Pennsylvania",21000.0,0.0015565217166600262
+Kansas,"Wyandotte County, Kansas",20000.0,0.0014373184148683263
+North Carolina,"Guilford County, North Carolina",20000.0,0.0014485501377960615
+Pennsylvania,"Montgomery County, Pennsylvania",20000.0,0.001468371253500678
+Delaware,"New Castle County, Delaware",19000.0,0.0013533680191939446
+Florida,"Pinellas County, Florida",19000.0,0.0013547437778675296
+Idaho,"Ada-Canyon-Gem-Owyhee-Payette-Washington Counties, Idaho",19000.0,0.0013913214886334855
+Kentucky,"Jefferson County, Kentucky",19000.0,0.0013471880238824427
+Maryland,"Anne Arundel County, Maryland",19000.0,0.00136708193105127
+North Carolina,"Forsyth County, North Carolina",19000.0,0.0013871796543198879
+Texas,"Williamson County, Texas",19000.0,0.0013724903368421365
+Washington,"Clark County, Washington",19000.0,0.0013665141576304253
+Florida,"Manatee County, Florida",18000.0,0.0013083246611402658
+New Jersey,"Morris County, New Jersey",18000.0,0.0012744183971108486
+Virginia,"Alexandria City, Virginia",18000.0,0.0012861451019952179
+Arkansas,"Washington County, Arkansas",17000.0,0.0012613304918457364
+Georgia,"Clayton County, Georgia",17000.0,0.001250855800145794
+Michigan,"Wayne County, Michigan",17000.0,0.0012527338199224342
+Missouri,"Jackson County, Missouri",17000.0,0.0012538912042033867
+New Jersey,"Monmouth County, New Jersey",17000.0,0.001205870675263484
+North Carolina,"Johnston County, North Carolina",17000.0,0.001241167256259329
+Virginia,"Chesterfield County, Virginia",17000.0,0.0012668335265400771
+California,"Imperial County, California",16000.0,0.0011500905762387042
+California,"Marin County, California",16000.0,0.0011730562831972296
+California,"Santa Cruz County, California",16000.0,0.0012002293367871426
+Florida,"Seminole County, Florida",16000.0,0.0011372719993911723
+Georgia,"Cherokee County, Georgia",16000.0,0.00115066562880597
+Iowa,"Polk County, Iowa",16000.0,0.0011328972323920996
+Kansas,"Johnson County, Kansas",16000.0,0.001195417821002805
+Minnesota,"Ramsey County, Minnesota",16000.0,0.0011470842887667957
+Tennessee,"Rutherford County, Tennessee",16000.0,0.001192520720727213
+Virginia,"Arlington County, Virginia",16000.0,0.0011339599877695783
+Arizona,"Pinal County, Arizona",15000.0,0.0010570412475379653
+Arizona,"Yuma County, Arizona",15000.0,0.0010837702731961922
+Arkansas,"Benton County, Arkansas",15000.0,0.0010818412993946044
+Colorado,"El Paso-Teller Counties, Colorado",15000.0,0.0011058042494128185
+Florida,"St Lucie County, Florida",15000.0,0.001109240006523571
+Maryland,"Baltimore city, Maryland",15000.0,0.001116373570016235
+New Jersey,"Camden County, New Jersey",15000.0,0.0010912168399849628
+New Jersey,"Somerset County, New Jersey",15000.0,0.0010864781156648359
+New York,"Richmond County, New York",15000.0,0.0010918210091379128
+Pennsylvania,"Delaware County, Pennsylvania",15000.0,0.0010562842163101722
+Texas,"Jefferson County, Texas",15000.0,0.0010816229250019717
+California,"Madera County, California",14000.0,0.0010235280574152864
+Georgia,"Whitfield County, Georgia",14000.0,0.0009998635524003368
+Louisiana,"East Baton Rouge Parish, Louisiana",14000.0,0.001051247046986781
+Michigan,"Kent County, Michigan",14000.0,0.0009965369824859005
+Michigan,"Oakland County, Michigan",14000.0,0.0010249183743817139
+Pennsylvania,"Bucks County, Pennsylvania",14000.0,0.0010489031618391915
+Tennessee,"Knox-Anderson Counties, Tennessee",14000.0,0.0010099815659256458
+Texas,"Galveston County, Texas",14000.0,0.0009897964928999752
+Virginia,"Richmond City, Virginia",14000.0,0.0009884935256906009
+New York,"Orange County, New York",13000.0,0.0009320073494629755
+North Carolina,"Buncombe County, North Carolina",13000.0,0.0009192761223724965
+Pennsylvania,"Berks County, Pennsylvania",13000.0,0.0009714457647724181
+Pennsylvania,"Chester County, Pennsylvania",13000.0,0.0009561741155809801
+Tennessee,"Hamilton County, Tennessee",13000.0,0.0009464418968159886
+Alabama,"Jefferson County, Alabama",12000.0,0.0008630301579767672
+Alabama,"Madison-Limestone-Marshall Counties, Alabama",12000.0,0.0008714448512395422
+California,"Kings County, California",12000.0,0.0008607954600254937
+Delaware,"Sussex County, Delaware",12000.0,0.000848260769888384
+Florida,"Pasco County, Florida",12000.0,0.0009011874435160984
+Georgia,"Forsyth County, Georgia",12000.0,0.0008476929964675394
+Indiana,"Lake County, Indiana",12000.0,0.0008723547445421779
+Kentucky,"Fayette County, Kentucky",12000.0,0.0008530431690870374
+Maryland,"Howard County, Maryland",12000.0,0.0008841469617443368
+Missouri,"St. Louis County, Missouri",12000.0,0.0008682201893750012
+New Hampshire,"Hillsborough-Cheshire Counties, New Hampshire",12000.0,0.0008997534516711447
+New Jersey,"Atlantic-Cape May Counties, New Jersey",12000.0,0.0008791097924209455
+Ohio,"Hamilton County, Ohio",12000.0,0.0008798959402344227
+Pennsylvania,"Allegheny County, Pennsylvania",12000.0,0.0008374366791602297
+South Carolina,"Beaufort-Jasper Counties, South Carolina",12000.0,0.0008776976380152549
+South Carolina,"Horry-Marion Counties, South Carolina",12000.0,0.000886709221284559
+South Carolina,"Richland-Kershaw Counties, South Carolina",12000.0,0.000848930451359124
+South Carolina,"Spartanburg County, South Carolina",12000.0,0.0008505537010110261
+Texas,"Brazoria County, Texas",12000.0,0.0008846419437009707
+Texas,"Nueces County, Texas",12000.0,0.0008570321413257924
+Virginia,"Henrico County, Virginia",12000.0,0.0008971911921309225
+Washington,"Grant-Kittitas Counties, Washington",12000.0,0.0008944032790516467
+Arkansas,"Pulaski County, Arkansas",11000.0,0.0008033557156167061
+Florida,"Lake-Sumter Counties, Florida",11000.0,0.0007742536882252055
+Florida,"Sarasota County, Florida",11000.0,0.0008196464453070961
+Illinois,"McHenry County, Illinois",11000.0,0.0007928227907453952
+Illinois,"Winnebago-Boone Counties, Illinois",11000.0,0.000766748888265066
+Maryland,"Frederick County, Maryland",11000.0,0.0008043602378228161
+Massachusetts,"Springfield MSA,++ Massachusetts",11000.0,0.0007786502926635412
+New Mexico,"Doña Ana County, New Mexico",11000.0,0.0007747632284746815
+North Carolina,"Union-Anson Counties, North Carolina",11000.0,0.0008039089307447087
+Oregon,"Clackamas County, Oregon",11000.0,0.0007802953797547066
+Texas,"Bell County, Texas",11000.0,0.0007748651365245766
+Florida,"Brevard County, Florida",10000.0,0.000735586862436398
+Indiana,"Elkhart County, Indiana",10000.0,0.0007159113296602033
+New Jersey,"Ocean County, New Jersey",10000.0,0.0007270047488059379
+New York,"Dutchess-Putnam Counties, New York",10000.0,0.0007376541400199863
+Pennsylvania,"Luzerne-Columbia Counties, Pennsylvania",10000.0,0.0007301056651813205
+South Carolina,"Lexington County, South Carolina",10000.0,0.0007215381098437025
+Texas,"Brazos County, Texas",10000.0,0.0007449987987588619
+Texas,"Liberty-Chambers Counties, Texas",10000.0,0.0007451298233944414
+Texas,"McLennan County, Texas",10000.0,0.0007550585791128023
+Wisconsin,"Dane County, Wisconsin",10000.0,0.000705611337474367
+California,"Yolo County, California",9000.0,0.0006608664244239529
+Minnesota,"Dakota County, Minnesota",9000.0,0.0006446703236370372
+New Jersey,"Cumberland-Salem Counties, New Jersey",9000.0,0.0006253296315962124
+Ohio,"Cuyahoga County, Ohio",9000.0,0.0006821652068520498
+Texas,"Ector County, Texas",9000.0,0.0006689317186585159
+Texas,"Hays County, Texas",9000.0,0.0006695431669578872
+Utah,"Weber County, Utah",9000.0,0.0006488995077076879
+California,"Napa County, California",8000.0,0.0006096066753266673
+California,"Placer County, California",8000.0,0.0005811306545273798
+California,"San Luis Obispo County, California",8000.0,0.0005929155925831175
+Connecticut,"New London County, Connecticut",8000.0,0.0005645633172729886
+Florida,"Volusia County, Florida",8000.0,0.0005856728418941373
+Georgia,"Chatham County, Georgia",8000.0,0.0005809559550132737
+Hawaii,"Maui-Kalawao-Kauai Counties, Hawaii",8000.0,0.000559242261239175
+Indiana,"Allen County, Indiana",8000.0,0.0006021382710986332
+Indiana,"Hamilton-Boone Counties, Indiana",8000.0,0.000565014624351096
+Massachusetts,"Barnstable Town MSA,++ Massachusetts",8000.0,0.0006016068934098939
+North Carolina,"Cabarrus-Stanly Counties, North Carolina",8000.0,0.0005616953335830808
+Oregon,"Lane County, Oregon",8000.0,0.0005506819850479781
+Texas,"Smith County, Texas",8000.0,0.0006067969248081281
+Texas,"Starr-Duval-Zapata Counties, Texas",8000.0,0.0005897418847435242
+California,"Sutter-Yuba Counties, California",7000.0,0.0005051582033305079
+Florida,"Marion County, Florida",7000.0,0.0005320109744778932
+Indiana,"St. Joseph County, Indiana",7000.0,0.0005020136120765989
+Minnesota,"Anoka County, Minnesota",7000.0,0.00047428734335868333
+New Jersey,"Burlington County, New Jersey",7000.0,0.00048326253089588203
+New Mexico,"Lea-Eddy Counties, New Mexico",7000.0,0.0004884234457084318
+Pennsylvania,"Lancaster County, Pennsylvania",7000.0,0.00048660365910316034
+Texas,"Ellis County, Texas",7000.0,0.0005414374690931993
+Texas,"Midland County, Texas",7000.0,0.0004827675489392482
+Virginia,"Virginia Beach City, Virginia",7000.0,0.0004776794255909093
+Washington,"Thurston County, Washington",7000.0,0.0005261221450232349
+Alaska,"Anchorage Municipality, Alaska",6000.0,0.00040718817164911496
+Indiana,"Tippecanoe County, Indiana",6000.0,0.00040164146207624765
+Michigan,"Macomb County, Michigan",6000.0,0.00040528103528679054
+Nebraska,"Lancaster County, Nebraska",6000.0,0.00045778551842208195
+Ohio,"Butler County, Ohio",6000.0,0.00043912178699841815
+Texas,"Lubbock County, Texas",6000.0,0.0004091753786220714
+Washington,"Spokane County, Washington",6000.0,0.00040271877574656837
+Washington,"Whatcom County, Washington",6000.0,0.000419926677886015
+California,"Butte County, California",5000.0,0.000332817132664882
+Colorado,"Larimer County, Colorado",5000.0,0.0003875927094835522
+Florida,"Alachua County, Florida",5000.0,0.0003530313222762371
+Hawaii,"Hawaii County, Hawaii",5000.0,0.0003594952042981613
+Michigan,"Washtenaw County, Michigan",5000.0,0.0003750725776392847
+Missouri,"St. Louis City, Missouri",5000.0,0.00034479132852756805
+New York,"Erie County, New York",5000.0,0.0003336032804783593
+New York,"Monroe County, New York",5000.0,0.00034798687380642473
+New York,"Ulster-Sullivan Counties, New York",5000.0,0.00035828686599226106
+North Carolina,"Orange County, North Carolina",5000.0,0.0003468076520862088
+Ohio,"Montgomery County, Ohio",5000.0,0.0003826428899172139
+Pennsylvania,"Dauphin County, Pennsylvania",5000.0,0.000379505577809726
+South Carolina,"York-Cherokee Counties, South Carolina",5000.0,0.00038614415934575615
+Tennessee,"Williamson County, Tennessee",5000.0,0.0003303786186138183
+Texas,"Gregg County, Texas",5000.0,0.0003765138486306597
+Texas,"Guadalupe County, Texas",5000.0,0.0003592622716126865
+Texas,"Kaufman County, Texas",5000.0,0.0003865226749596526
+Texas,"Potter County, Texas",5000.0,0.0003815874136861565
+Florida,"Leon County, Florida",4000.0,0.0002769278464437858
+Illinois,"Champaign County, Illinois",4000.0,0.0003267099288175911
+New York,"Albany County, New York",4000.0,0.0002918573757534326
+New York,"Onondaga-Cayuga Counties, New York",4000.0,0.0002720653766345005
+Texas,"Johnson County, Texas",4000.0,0.0003080753139796116
+Iowa,"Johnson County, Iowa",3000.0,0.00020460952675029897
+Michigan,"Ingham County, Michigan",3000.0,0.0001960201339734178
+Ohio,"Summit County, Ohio",3000.0,0.00018799123547096023
+Texas,"Wichita County, Texas",3000.0,0.0001828521580976737
+Ohio,"Warren County, Ohio",2000.0,0.00012089206376139191
+New York,"Tompkins County, New York",1000.0,0.0001086558186275468

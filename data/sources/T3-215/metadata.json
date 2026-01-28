@@ -1,0 +1,19 @@
+{
+  "entry_id": "T3-215",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://missionlocal.org/2025/08/ice-agents-pepper-spray-protesters-arrest-one-in-downtown-s-f/",
+      "final_url": "https://missionlocal.org/2025/08/ice-agents-pepper-spray-protesters-arrest-one-in-downtown-s-f/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 334182,
+      "content_hash": "e456ef26b56eedf16463608f51eb660ca8bf265cec7afd464094409305ec41a5",
+      "title": "ICE pepper sprays protesters and press at S.F. immigration court",
+      "fetched_at": "2026-01-27T16:27:59.590863",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-215\\article.txt"
+    }
+  ]
+}

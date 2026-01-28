@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-LL-005",
+  "url": "https://pressfreedomtracker.us/all-incidents/journalist-shot-in-head-face-with-pepper-balls-at-illinois-immigration-facility/",
+  "final_url": "https://pressfreedomtracker.us/all-incidents/journalist-shot-in-head-face-with-pepper-balls-at-illinois-immigration-facility/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "15c1cb0904cd8ba7e532d9980b9dc6813207e23cee7260ecc1302339c18b77a8",
+  "title": "Journalist shot in head, face with pepper balls at Illinois immigration facility\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t- U.S. Press Freedom Tracker",
+  "fetched_at": "2026-01-27T14:47:58.308730",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260122090116/https://pressfreedomtracker.us/all-incidents/journalist-shot-in-head-face-with-pepper-balls-at-illinois-immigration-facility/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://pressfreedomtracker.us/all-incidents/journalist-shot-in-head-face-with-pepper-balls-at-illinois-immigration-facility/",
+      "final_url": "https://pressfreedomtracker.us/all-incidents/journalist-shot-in-head-face-with-pepper-balls-at-illinois-immigration-facility/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 35658,
+      "content_hash": "1516c1fc3b39e41bd43c1c17b059a538104bb4cd3fa4ee47418b3e07c1363074",
+      "title": "Journalist shot in head, face with pepper balls at Illinois immigration facility\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t- U.S. Press Freedom Tracker",
+      "fetched_at": "2026-01-27T16:27:42.820774",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-LL-005\\article.txt"
+    }
+  ]
+}

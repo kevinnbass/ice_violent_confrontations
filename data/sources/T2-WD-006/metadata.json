@@ -1,0 +1,57 @@
+{
+  "entry_id": "T2-WD-006",
+  "url": "https://www.cnn.com/2025/10/14/us/wgn-employee-detained-debbie-brockman",
+  "final_url": "https://www.cnn.com/2025/10/14/us/wgn-employee-detained-debbie-brockman",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "7b62e9bb3771052b22aab1093d5c7762e43b54e47f8daa5fb803ebe54a934f73",
+  "title": "WGN employee detained: Chicago TV station staffer Debbie Brockman disputes DHS account she threw objects at Border Patrol car before being detained by federal agents | CNN",
+  "fetched_at": "2026-01-27T14:48:37.219091",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251103123746/https://www.cnn.com/2025/10/14/us/wgn-employee-detained-debbie-brockman",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://wgntv.com/news/chicago-news/wgn-employee-debbie-brockman-detained-by-border-patrol-agents-issues-statement/",
+      "final_url": "https://wgntv.com/news/chicago-news/wgn-employee-debbie-brockman-detained-by-border-patrol-agents-issues-statement/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 1009329,
+      "content_hash": "7ef604fe6ffe23bcac375b839e0259e21d60c1e19aef6e2acb177c240d2d1d3a",
+      "title": "WGN employee Debbie Brockman, detained by Border Patrol agents, issues statement",
+      "fetched_at": "2026-01-27T16:27:57.786733",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-WD-006\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://blockclubchicago.org/2025/10/10/wgn-staffer-detained-by-border-patrol-agents-in-lincoln-square-neighbors-say/",
+      "final_url": "https://blockclubchicago.org/2025/10/10/wgn-staffer-detained-by-border-patrol-agents-in-lincoln-square-neighbors-say/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 370893,
+      "content_hash": "20051e0534a455d880202083c3266e417943c7fd1a068eedbb247172a67c6d83",
+      "title": "WGN Staffer Detained, Later Released By Border Patrol Agents In Lincoln Square",
+      "fetched_at": "2026-01-27T16:28:11.722453",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-WD-006\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://abc7chicago.com/post/ice-chicago-news-debbie-brockman-wgn-employee-detained-federal-agents-lincoln-square-says-she-did-nothing-wrong/18007191/",
+      "final_url": "https://abc7chicago.com/post/ice-chicago-news-debbie-brockman-wgn-employee-detained-federal-agents-lincoln-square-says-she-did-nothing-wrong/18007191/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 309665,
+      "content_hash": "3a1f01337366157be3587b0b66f44b44d3c7c503932fcfb0d14f05f896dd3e39",
+      "title": "ICE Chicago news: Debbie Brockman, WGN employee detained by federal agents in Lincoln Square, says she did nothing wrong - ABC7 Chicago",
+      "fetched_at": "2026-01-27T16:28:35.088355",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-WD-006\\article_3.txt"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "entry_id": "T4-083",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.8newsnow.com/news/local-news/immigration-advocacy-group-says-ice-agents-stepping-up-enforcement-in-las-vegas/",
+      "final_url": "https://www.8newsnow.com/news/local-news/immigration-advocacy-group-says-ice-agents-stepping-up-enforcement-in-las-vegas/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 834339,
+      "content_hash": "786f3b84feee78b6ec5302a8c1b0b407c9e52f533964d0cf04ba563ecf486285",
+      "title": "Immigration advocacy group says ICE agents stepping up enforcement in Las Vegas",
+      "fetched_at": "2026-01-27T16:28:02.904134",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-083\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://thenevadaindependent.com/article/nevada-immigrant-advocates-warn-of-increased-ice-activity-but-few-details-available",
+      "final_url": "https://thenevadaindependent.com/article/nevada-immigrant-advocates-warn-of-increased-ice-activity-but-few-details-available",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 181515,
+      "content_hash": "6d6a67444a4997d524ff73830a261c3f30477c6f2e119e118c7630f1c0237ed7",
+      "title": "Nevada immigrant advocates warn of increased ICE activity, but few details available\u00a0 - The Nevada Independent",
+      "fetched_at": "2026-01-27T16:28:31.071506",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-083\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://lasvegassun.com/news/2025/apr/15/immigrant-advocates-warn-of-ice-activity-in-las-ve/",
+      "final_url": "https://lasvegassun.com/news/2025/apr/15/immigrant-advocates-warn-of-ice-activity-in-las-ve/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 51376,
+      "content_hash": "410d3a82c46055e58bcf658140b0a65f670b4953b4c03845707ff0626230ac41",
+      "title": "Immigrant advocates warn of ICE activity in Las Vegas area -\nLas Vegas Sun News",
+      "fetched_at": "2026-01-27T16:28:57.645251",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-083\\article_2.txt"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "archive_fetch": {
+    "method": "google_cache",
+    "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.expressnews.com%2Fnews%2Flocal%2Farticle%2Fice-hospital-emergency-room-arrests-18345678.html",
+    "fetched_at": "2026-01-27T01:27:15.000300",
+    "content_length": 84821
+  },
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://news.wttw.com/2025/10/03/chicago-ald-jessie-fuentes-handcuffed-federal-agents-while-asking-about-patient-s-ice",
+      "final_url": "https://news.wttw.com/2025/10/03/chicago-ald-jessie-fuentes-handcuffed-federal-agents-while-asking-about-patient-s-ice",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 8118,
+      "content_hash": "5672ea7cab272f298c615153530be54dbf541b0dc3da19115277366a8fab0fac",
+      "title": "Chicago Ald. Jessie Fuentes Handcuffed by Federal Agents While Asking About Patient\u2019s ICE Warrant at Hospital | Chicago News | WTTW",
+      "fetched_at": "2026-01-27T16:30:46.915468",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251114212033/https://news.wttw.com/2025/10/03/chicago-ald-jessie-fuentes-handcuffed-federal-agents-while-asking-about-patient-s-ice",
+      "archive_path": "data\\sources\\T3-118\\article_1_wayback.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://kffhealthnews.org/news/article/ice-immigrants-hospitals-detained-california-privacy-rights/",
+      "final_url": "https://kffhealthnews.org/news/article/ice-immigrants-hospitals-detained-california-privacy-rights/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 114460,
+      "content_hash": "97b0dcb18d2af7d2a0909c267a32bf6873e11822ca4c54cdd438af283581097a",
+      "title": "Once a Patient\u2019s in Custody, ICE Can Be at Hospital Bedsides \u2014 But Detainees Have Rights - KFF Health News",
+      "fetched_at": "2026-01-27T16:30:47.338350",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-118\\article_2.txt"
+    },
+    {
+      "source_index": 0,
+      "url": "https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+      "final_url": "https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 6253,
+      "content_hash": "b27af32aea7b0dc31e2b1b39cad9710dc7b5f063fa46d8ea6740fcaf64bb1f6e",
+      "title": "ICE agents camp out at Glendale hospital for 6 days waiting to re-apprehend patient",
+      "fetched_at": "2026-01-27T16:28:37.336197",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251002163554/https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+      "archive_path": "data\\sources\\T3-118\\article_wayback.txt"
+    }
+  ]
+}

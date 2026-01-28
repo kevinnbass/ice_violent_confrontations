@@ -1,0 +1,33 @@
+{
+  "entry_id": "T3-154",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.americanimmigrationcouncil.org/press-release/court-blocks-ice-unlawful-detention-immigrant-teens-turn-18/",
+      "final_url": "https://www.americanimmigrationcouncil.org/press-release/court-blocks-ice-unlawful-detention-immigrant-teens-turn-18/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 202994,
+      "content_hash": "d367699d826cb2fb9b9e8dd74201bbb03ab0df950fd1b17efe3d006b25686306",
+      "title": "Court Blocks ICE\u2019s Unlawful Detention of Teens Turning 18",
+      "fetched_at": "2026-01-27T16:29:41.592905",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-154\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://immigrantjustice.org/press-release/federal-court-orders-ice-to-end-unlawful-detention-of-immigrant-youth-who-turn-18-in-federal-custody/",
+      "final_url": "https://immigrantjustice.org/press-release/federal-court-orders-ice-to-end-unlawful-detention-of-immigrant-youth-who-turn-18-in-federal-custody/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 437823,
+      "content_hash": "e378f0e9f8c1f27ef789c43f7f928dc01a2c50d370caf1b53eb6a6c201cffe88",
+      "title": "Federal Court Orders ICE to End Unlawful Detention of Immigrant Youth Who Turn 18 in Federal Custody - National Immigrant Justice Center",
+      "fetched_at": "2026-01-27T16:30:21.029650",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-154\\article_2.txt"
+    }
+  ]
+}

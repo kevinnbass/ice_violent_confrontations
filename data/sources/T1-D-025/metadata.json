@@ -1,0 +1,43 @@
+{
+  "entry_id": "T1-D-025",
+  "url": "https://www.ice.gov/news/releases/illegal-alien-china-passes-away-regional-medical-center-near-san-diego",
+  "final_url": "https://www.ice.gov/news/releases/illegal-alien-china-passes-away-regional-medical-center-near-san-diego",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 109664,
+  "content_hash": "88cf79cf36a4d6c80d69204c93001c9be9c427259cce531afdd2a1ee7e9665d7",
+  "title": "Illegal alien from China passes away at Regional Medical Center near San Diego | ICE",
+  "fetched_at": "2026-01-27T14:45:57.843045",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ice.gov/news/releases/illegal-alien-china-passes-away-regional-medical-center-near-san-diego",
+      "final_url": "https://www.ice.gov/news/releases/illegal-alien-china-passes-away-regional-medical-center-near-san-diego",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109664,
+      "content_hash": "a5b0ec5f1593bf4cd8e44f125b8b4aa07dc54dc709991909b254128c66df0bac",
+      "title": "Illegal alien from China passes away at Regional Medical Center near San Diego | ICE",
+      "fetched_at": "2026-01-27T16:28:09.832550",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-025\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.kpbs.org/news/border-immigration/2025/10/06/another-immigrant-dies-in-ice-custody-in-california-this-time-in-the-imperial-valley",
+      "final_url": "https://www.kpbs.org/news/border-immigration/2025/10/06/another-immigrant-dies-in-ice-custody-in-california-this-time-in-the-imperial-valley",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 258827,
+      "content_hash": "ed2d4ecb609d3f11cb4f7b9d7d3b9a3675533f78e9b17d3d7690ac408a5d4ecc",
+      "title": "Another immigrant dies in ICE custody in California, this time in the Imperial Valley | KPBS Public Media",
+      "fetched_at": "2026-01-27T16:28:47.077299",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-025\\article_1.txt"
+    }
+  ]
+}

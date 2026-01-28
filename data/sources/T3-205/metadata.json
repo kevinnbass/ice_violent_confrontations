@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-205",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.kiro7.com/news/local/family-sues-ice-after-man-dies-tacoma-immigration-center-during-withdrawal/6RRKV2J36ZBVVPL3DIR2THZLLU/",
+      "final_url": "https://www.kiro7.com/news/local/family-sues-ice-after-man-dies-tacoma-immigration-center-during-withdrawal/6RRKV2J36ZBVVPL3DIR2THZLLU/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 201954,
+      "content_hash": "12a9dcc8d623eb32abbd8ab0289daccd329b78c5621445a08252ff7f55e8e57b",
+      "title": "Family sues ICE after man dies in Tacoma immigration center during withdrawal \u2013 KIRO 7 News Seattle",
+      "fetched_at": "2026-01-27T15:47:06.657157",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-205\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.knkx.org/social-justice/2024-06-25/ice-detention-center-in-tacoma-among-those-with-highest-number-of-deaths-aclu",
+      "final_url": "https://www.knkx.org/social-justice/2024-06-25/ice-detention-center-in-tacoma-among-those-with-highest-number-of-deaths-aclu",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 184521,
+      "content_hash": "13b32c979d97b39d44df1b5d0c6873ddb9398ea6c13ff4dad1c4ef52af126500",
+      "title": "ICE detention center in Tacoma among those with the highest number of deaths | KNKX Public Radio",
+      "fetched_at": "2026-01-27T15:47:31.002717",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-205\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.opb.org/article/2025/12/29/think-out-loud-ice-detention-tacoma-washington/",
+      "final_url": "https://www.opb.org/article/2025/12/29/think-out-loud-ice-detention-tacoma-washington/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 311287,
+      "content_hash": "ef2756fb014007f1496f754ee553e185e06596dddfe649809e57440daef76628",
+      "title": "Inside ICE Detention in Tacoma - OPB",
+      "fetched_at": "2026-01-27T15:47:58.405228",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-205\\article_2.txt"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-113",
+  "url": "https://www.axios.com/local/seattle/2025/05/23/ice-arrests-hit-seattle-immigration-courts",
+  "final_url": "https://www.axios.com/local/seattle/2025/05/23/ice-arrests-hit-seattle-immigration-courts",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "85e316a74611f6779d9222390f85be79ef63a6ca557681929f4052f4c7368b8b",
+  "title": "ICE arrests hit Seattle immigration courts - Axios Seattle",
+  "fetched_at": "2026-01-27T14:46:24.745324",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20250703165947/https://www.axios.com/local/seattle/2025/05/23/ice-arrests-hit-seattle-immigration-courts",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.axios.com/local/seattle/2025/05/23/ice-arrests-hit-seattle-immigration-courts",
+      "final_url": "https://www.axios.com/local/seattle/2025/05/23/ice-arrests-hit-seattle-immigration-courts",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7471,
+      "content_hash": "59b6018dc5c05fb3d90592d9714a3aaed2f6d1c7b43c88ee6fac4747eabe1edb",
+      "title": "ICE arrests hit Seattle immigration courts - Axios Seattle",
+      "fetched_at": "2026-01-27T16:28:39.315864",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20250703165947/https://www.axios.com/local/seattle/2025/05/23/ice-arrests-hit-seattle-immigration-courts",
+      "archive_path": "data\\sources\\T3-113\\article_wayback.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.king5.com/article/news/local/immigration-officers-intensify-arrests-deportation/281-7500778a-efc8-4a45-897d-065b3bd4f1b7",
+      "final_url": "https://www.king5.com/article/news/local/immigration-officers-intensify-arrests-deportation/281-7500778a-efc8-4a45-897d-065b3bd4f1b7",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 251205,
+      "content_hash": "f6bb5d6e13a67a14ad170cc9712a7dd5a061329deafab210fff332d0128cf59e",
+      "title": "ICE arrests outside Seattle courtrooms raise alarm | king5.com",
+      "fetched_at": "2026-01-27T16:29:41.674314",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-113\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.kuow.org/stories/judge-rules-ice-unlawfully-detained-a-seattle-man-he-s-not-alone",
+      "final_url": "https://www.kuow.org/stories/judge-rules-ice-unlawfully-detained-a-seattle-man-he-s-not-alone",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 59788,
+      "content_hash": "3e3c7cd9087f331bb66af06146e7ad793a1dd1338649f6c7aaab5d5b37b27e68",
+      "title": "KUOW - Judge rules ICE unlawfully detained a Seattle man. He's not alone",
+      "fetched_at": "2026-01-27T16:30:21.924672",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-113\\article_2.txt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "entry_id": "T3-191",
+  "url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_incident",
+  "final_url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_incident",
+  "status_code": 403,
+  "content_type": "text/plain",
+  "content_length": 151,
+  "content_hash": "ce7ffc80ca5f627dcc5117986afd9f52795fe013f9e3f84cc4d307a000dd8ddb",
+  "title": "2025 Alvarado ICE facility incident - Wikipedia",
+  "fetched_at": "2026-01-27T14:49:56.668608",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260125013900/https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_incident",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_incident",
+      "final_url": "https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_incident",
+      "status_code": 403,
+      "content_type": "text/plain",
+      "content_length": 151,
+      "content_hash": "1101b805c74558dcf40ce9fe7dc888b390d1486994deaf35ce53b8388c04912f",
+      "title": "2025 Alvarado ICE facility incident - Wikipedia",
+      "fetched_at": "2026-01-27T16:30:17.467061",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260125013900/https://en.wikipedia.org/wiki/2025_Alvarado_ICE_facility_incident",
+      "archive_path": "data\\sources\\T3-191\\article_wayback.txt"
+    }
+  ]
+}

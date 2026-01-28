@@ -1,0 +1,29 @@
+{
+  "entry_id": "T1-D-004",
+  "url": "https://www.ice.gov/news/releases/dominican-national-passes-away-centro-medico-hospital-san-juan-after-narcoticshuman",
+  "final_url": "https://www.ice.gov/news/releases/dominican-national-passes-away-centro-medico-hospital-san-juan-after-narcoticshuman",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "885511a7538967e6fd91a6bbe6a2f6c5df43d1ebaa2cbe0479dcdc0c5d915f1c",
+  "title": "Dominican national passes away at Centro Medico Hospital in San Juan after narcotics/human smuggling interdiction | ICE",
+  "fetched_at": "2026-01-27T14:47:29.056416",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260125005129/https://www.ice.gov/news/releases/dominican-national-passes-away-centro-medico-hospital-san-juan-after-narcoticshuman",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ice.gov/news/releases/dominican-national-passes-away-centro-medico-hospital-san-juan-after-narcoticshuman",
+      "final_url": "https://www.ice.gov/news/releases/dominican-national-passes-away-centro-medico-hospital-san-juan-after-narcoticshuman",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109991,
+      "content_hash": "f56b7b8357e91b3ba40788070af1efb9cf0d793f012827c3c1fbc68372e0199c",
+      "title": "Dominican national passes away at Centro Medico Hospital in San Juan after narcotics/human smuggling interdiction | ICE",
+      "fetched_at": "2026-01-27T16:27:43.302312",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-004\\article.txt"
+    }
+  ]
+}

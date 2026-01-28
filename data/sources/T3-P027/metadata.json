@@ -1,0 +1,61 @@
+{
+  "entry_id": "T3-P027",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.krem.com/article/news/local/protests/spokane-police-reports-reveal-new-details-from-june-ice-protest/293-c81a6728-e348-47dc-9239-9f72acbff8af",
+      "final_url": "https://www.krem.com/article/news/local/protests/spokane-police-reports-reveal-new-details-from-june-ice-protest/293-c81a6728-e348-47dc-9239-9f72acbff8af",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 236514,
+      "content_hash": "223efb6797e117574ef05fcc77b4baadf76baf42ad6b6de05f96c1528aa6cb5f",
+      "title": "Spokane protest against ICE leads to 30 arrests, reports reveal | krem.com",
+      "fetched_at": "2026-01-27T16:28:03.206805",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P027\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.spokesman.com/stories/2025/jun/11/protesters-including-former-city-council-president/",
+      "final_url": "https://www.spokesman.com/stories/2025/jun/11/protesters-including-former-city-council-president/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 165285,
+      "content_hash": "76b70111a80a3a4a84ebd55fb34e4bc0d1d1f81360dc7e9fc0483765023cca5c",
+      "title": "More than 30 arrested at immigration protest in Spokane sparked by arrest of 2 immigrants",
+      "fetched_at": "2026-01-27T16:28:30.307608",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P027\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.kxly.com/news/more-than-30-arrested-in-ice-protest-in-downtown-spokane-mayor-and-police-chief-say/article_178007d0-f68d-4838-8c27-3ef9459bfca9.html",
+      "final_url": "https://www.kxly.com/news/more-than-30-arrested-in-ice-protest-in-downtown-spokane-mayor-and-police-chief-say/article_178007d0-f68d-4838-8c27-3ef9459bfca9.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 437389,
+      "content_hash": "85d2ce272b842869267aecdb43e3255e56f35c7a50301b5d359ef864f8f969d2",
+      "title": "More than 30 arrested in ICE protest in downtown Spokane, mayor and police chief say it was 'mostly peaceful' | News | kxly.com",
+      "fetched_at": "2026-01-27T16:28:55.395056",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P027\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://rangemedia.co/everything-we-know-about-the-spokane-ice-protests/",
+      "final_url": "https://rangemedia.co/everything-we-know-about-the-spokane-ice-protests/",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "bda055996effa128f391eaaaa4c057e52fcc0d2d66bcd1f284b36c90f3adb1b7",
+      "title": "Everything we know about the Spokane ICE protests \u2013 RANGE Media",
+      "fetched_at": "2026-01-27T16:31:04.340011",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251106195454/https://rangemedia.co/everything-we-know-about-the-spokane-ice-protests/",
+      "archive_path": "data\\sources\\T3-P027\\article_3_wayback.txt"
+    }
+  ]
+}

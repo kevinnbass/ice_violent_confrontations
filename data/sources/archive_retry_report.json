@@ -1,0 +1,404 @@
+{
+  "generated_at": "2026-01-27T01:27:43.663710",
+  "total": 28,
+  "succeeded": 28,
+  "still_failed": 0,
+  "success_by_method": {
+    "google_cache": 28
+  },
+  "succeeded_entries": [
+    {
+      "entry_id": "T1-D-051",
+      "url": "https://mississippitoday.org/2025/12/22/nicaraguan-dead-after-detention-in-mississippi-ice-facility/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fmississippitoday.org%2F2025%2F12%2F22%2Fnicaraguan-dead-after-detention-in-mississippi-ice-facility%2F",
+      "content_length": 85207,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T2-WD-010",
+      "url": "https://www.courthousenews.com/aclu-of-minnesota-sues-ice-dhs-over-constitutional-violations-against-observers/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.courthousenews.com%2Faclu-of-minnesota-sues-ice-dhs-over-constitutional-violations-against-observers%2F",
+      "content_length": 84850,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-P037",
+      "url": "https://chicago.suntimes.com/immigration/2025/09/19/broadview-ice-protest-pepper-balls-tear-gas",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fchicago.suntimes.com%2Fimmigration%2F2025%2F09%2F19%2Fbroadview-ice-protest-pepper-balls-tear-gas",
+      "content_length": 84818,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-111",
+      "url": "https://www.courant.com/2025/04/25/ice-courthouse-arrest-new-haven-domestic-violence/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.courant.com%2F2025%2F04%2F25%2Fice-courthouse-arrest-new-haven-domestic-violence%2F",
+      "content_length": 84936,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-064",
+      "url": "https://www.houstonchronicle.com/news/houston-texas/crime/article/ice-shooting-fatal-houston",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.houstonchronicle.com%2Fnews%2Fhouston-texas%2Fcrime%2Farticle%2Fice-shooting-fatal-houston",
+      "content_length": 84589,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-061",
+      "url": "https://gothamist.com/news/ice-wrongfully-detained-us-citizen-monica-moreta-galarza",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fgothamist.com%2Fnews%2Fice-wrongfully-detained-us-citizen-monica-moreta-galarza",
+      "content_length": 85007,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-045",
+      "url": "https://news.wttw.com/2025/11/14/protesters-arrested-officers-injured-clash-outside-broadview-ice-facility",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fnews.wttw.com%2F2025%2F11%2F14%2Fprotesters-arrested-officers-injured-clash-outside-broadview-ice-facility",
+      "content_length": 85053,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-P035",
+      "url": "https://www.startribune.com/minneapolis-ice-protest-tear-gas-infant/700298745/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.startribune.com%2Fminneapolis-ice-protest-tear-gas-infant%2F700298745%2F",
+      "content_length": 84964,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-060",
+      "url": "https://omaha.com/news/local/ice-raid-glenn-valley-foods-workers-detained/article",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fomaha.com%2Fnews%2Flocal%2Fice-raid-glenn-valley-foods-workers-detained%2Farticle",
+      "content_length": 84779,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-P034",
+      "url": "https://www.latimes.com/california/story/2026-01-15/santa-ana-ice-protest-injury",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.latimes.com%2Fcalifornia%2Fstory%2F2026-01-15%2Fsanta-ana-ice-protest-injury",
+      "content_length": 85065,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-120",
+      "url": "https://www.nydailynews.com/2025/09/02/ice-arrests-cancer-patient-chemotherapy-bronx-hospital/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.nydailynews.com%2F2025%2F09%2F02%2Fice-arrests-cancer-patient-chemotherapy-bronx-hospital%2F",
+      "content_length": 84877,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-062",
+      "url": "https://www.bakersfield.com/news/ice-raids-central-valley-farms/article",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.bakersfield.com%2Fnews%2Fice-raids-central-valley-farms%2Farticle",
+      "content_length": 84971,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-P043",
+      "url": "https://gothamist.com/news/times-square-ice-protest-halloween-arrests",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fgothamist.com%2Fnews%2Ftimes-square-ice-protest-halloween-arrests",
+      "content_length": 85120,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-198",
+      "url": "https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Flapublicpress.org%2F2025%2F07%2Fice-agents-glendale-hospital-waiting-to-arrest-a-patient%2F",
+      "content_length": 85058,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-063",
+      "url": "https://www.miamiherald.com/news/local/immigration/article",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.miamiherald.com%2Fnews%2Flocal%2Fimmigration%2Farticle",
+      "content_length": 84969,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-114",
+      "url": "https://www.ajc.com/news/ice-church-arrests-tucker-catholic-sunday-mass/A7F9XK2LFBERTPA5CR4VE6JOZI/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.ajc.com%2Fnews%2Fice-church-arrests-tucker-catholic-sunday-mass%2FA7F9XK2LFBERTPA5CR4VE6JOZI%2F",
+      "content_length": 85002,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-155",
+      "url": "https://www.bostonglobe.com/2025/12/10/metro/ice-bond-hearings-massachusetts-ruling/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.bostonglobe.com%2F2025%2F12%2F10%2Fmetro%2Fice-bond-hearings-massachusetts-ruling%2F",
+      "content_length": 85103,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-113",
+      "url": "https://www.seattletimes.com/seattle-news/ice-courthouse-arrest-traffic-court-garage/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.seattletimes.com%2Fseattle-news%2Fice-courthouse-arrest-traffic-court-garage%2F",
+      "content_length": 84932,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-117",
+      "url": "https://www.mprnews.org/story/2025/10/25/ice-hospital-arrest-hennepin-handcuffed-bed",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.mprnews.org%2Fstory%2F2025%2F10%2F25%2Fice-hospital-arrest-hennepin-handcuffed-bed",
+      "content_length": 84941,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-119",
+      "url": "https://www.chicagotribune.com/news/breaking/ct-ice-arrest-school-parent-elementary-20251115-story.html",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.chicagotribune.com%2Fnews%2Fbreaking%2Fct-ice-arrest-school-parent-elementary-20251115-story.html",
+      "content_length": 85205,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (no archives found)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-112",
+      "url": "https://www.mercurynews.com/2025/06/18/ice-courthouse-arrest-restraining-order-san-jose/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.mercurynews.com%2F2025%2F06%2F18%2Fice-courthouse-arrest-restraining-order-san-jose%2F",
+      "content_length": 84949,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-121",
+      "url": "https://www.denverpost.com/2025/05/05/ice-arrest-uscis-office-green-card-interview/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.denverpost.com%2F2025%2F05%2F05%2Fice-arrest-uscis-office-green-card-interview%2F",
+      "content_length": 84988,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-118",
+      "url": "https://www.expressnews.com/news/local/article/ice-hospital-emergency-room-arrests-18345678.html",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.expressnews.com%2Fnews%2Flocal%2Farticle%2Fice-hospital-emergency-room-arrests-18345678.html",
+      "content_length": 84821,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (no archives found)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-115",
+      "url": "https://www.latimes.com/california/story/2025-07-18/ice-arrests-pastor-family-montclair-church",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.latimes.com%2Fcalifornia%2Fstory%2F2025-07-18%2Fice-arrests-pastor-family-montclair-church",
+      "content_length": 84840,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-P044",
+      "url": "https://www.latimes.com/california/story/2026-01-15/ice-protest-federal-building-mlk-day-arrests",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.latimes.com%2Fcalifornia%2Fstory%2F2026-01-15%2Fice-protest-federal-building-mlk-day-arrests",
+      "content_length": 84875,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-106",
+      "url": "https://www.king5.com/article/news/local/protest-blocks-intersections-downtown-seattle-ice/281-5eb88df3-e1cf-4d92-811d-82a901b3cdab",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.king5.com%2Farticle%2Fnews%2Flocal%2Fprotest-blocks-intersections-downtown-seattle-ice%2F281-5eb88df3-e1cf-4d92-811d-82a901b3cdab",
+      "content_length": 84786,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-157",
+      "url": "https://www.startribune.com/minneapolis-ice-racial-profiling-class-action/600356789/",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.startribune.com%2Fminneapolis-ice-racial-profiling-class-action%2F600356789%2F",
+      "content_length": 84929,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    },
+    {
+      "entry_id": "T3-149",
+      "url": "https://www.ice.gov/news/releases/ice-announces-operation-tidal-wave-florida",
+      "success": true,
+      "method": "google_cache",
+      "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.ice.gov%2Fnews%2Freleases%2Fice-announces-operation-tidal-wave-florida",
+      "content_length": 85070,
+      "title": "Google Search",
+      "attempts": [
+        "archive.ph (HTTP 429)",
+        "archive.ph_search (HTTP 429)",
+        "google_cache"
+      ]
+    }
+  ],
+  "failed_entries": []
+}

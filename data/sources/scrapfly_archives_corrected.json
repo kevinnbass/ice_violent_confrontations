@@ -1,0 +1,98 @@
+[
+  {
+    "archive_path": "data/sources/T1-D-060/article_4.txt",
+    "entry_id": "T1-D-060",
+    "url": "https://newjerseymonitor.com/2025/12/19/ice-detainee-newark-jail-died/",
+    "source_name": "New Jersey Monitor"
+  },
+  {
+    "archive_path": "data/sources/T2-SA-010/article_4.txt",
+    "entry_id": "T2-SA-010",
+    "url": "https://oregoncapitalchronicle.com/2026/01/12/pair-shot-by-u-s-border-patrol-in-portland-charged-with-illegal-entry-assaulting-federal-officer/",
+    "source_name": "Oregon Capital Chronicle"
+  },
+  {
+    "archive_path": "data/sources/T3-115/article_3.txt",
+    "entry_id": "T3-115",
+    "url": "https://www.ncronline.org/news/ice-agents-detain-migrants-church-grounds-2-california-parishes-diocese-says",
+    "source_name": "National Catholic Reporter"
+  },
+  {
+    "archive_path": "data/sources/T3-116/article_3.txt",
+    "entry_id": "T3-116",
+    "url": "https://bringmethenews.com/minnesota-news/ice-detains-4-columbia-heights-students-including-5-and-10-year-olds-sent-to-texas",
+    "source_name": "Bring Me The News"
+  },
+  {
+    "archive_path": "data/sources/T3-122/article_2.txt",
+    "entry_id": "T3-122",
+    "url": "https://lailluminator.com/2025/10/21/ice-keeps-detaining-pregnant-immigrants-against-federal-policy/",
+    "source_name": "Louisiana Illuminator"
+  },
+  {
+    "archive_path": "data/sources/T3-213/article_3.txt",
+    "entry_id": "T3-213",
+    "url": "https://www.washingtonpost.com/politics/2025/12/05/ice-raid-grijalva-arizona/",
+    "source_name": "Washington Post"
+  },
+  {
+    "archive_path": "data/sources/T3-052/article_4.txt",
+    "entry_id": "T3-052",
+    "url": "https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/",
+    "source_name": "New Jersey Monitor"
+  },
+  {
+    "archive_path": "data/sources/T3-062/article_2.txt",
+    "entry_id": "T3-062",
+    "url": "https://www.sfchronicle.com/california/article/ice-immigration-farm-central-valley-20374476.php",
+    "source_name": "SF Chronicle"
+  },
+  {
+    "archive_path": "data/sources/T3-118/article_5.txt",
+    "entry_id": "T3-118",
+    "url": "https://lapublicpress.org/2025/07/ice-agents-glendale-hospital-waiting-to-arrest-a-patient/",
+    "source_name": "LA Public Press"
+  },
+  {
+    "archive_path": "data/sources/T3-118/article_6.txt",
+    "entry_id": "T3-118",
+    "url": "https://news.wttw.com/2025/10/03/chicago-ald-jessie-fuentes-handcuffed-federal-agents-while-asking-about-patient-s-ice",
+    "source_name": "WTTW Chicago"
+  },
+  {
+    "archive_path": "data/sources/T3-P014/article_2.txt",
+    "entry_id": "T3-P014",
+    "url": "https://www.sfchronicle.com/bayarea/article/sf-ice-protests-against-trump-sending-troops-to-la-20367057.php",
+    "source_name": "SF Chronicle"
+  },
+  {
+    "archive_path": "data/sources/T3-P018/article_3.txt",
+    "entry_id": "T3-P018",
+    "url": "https://www.axios.com/2025/06/10/ice-protests-la-nationwide-trump-tower-arrests",
+    "source_name": "Axios"
+  },
+  {
+    "archive_path": "data/sources/T3-P024/article_2.txt",
+    "entry_id": "T3-P024",
+    "url": "https://www.wabe.org/buford-highway-plaza-fiesta-packed-with-protestors-supporting-atlanta-immigrants/",
+    "source_name": "WABE"
+  },
+  {
+    "archive_path": "data/sources/T3-P030/article_3.txt",
+    "entry_id": "T3-P030",
+    "url": "https://coloradonewsline.com/2026/01/09/protestors-enver-fatal-ice-shooting/",
+    "source_name": "Colorado Newsline"
+  },
+  {
+    "archive_path": "data/sources/T3-P031/article_1.txt",
+    "entry_id": "T3-P031",
+    "url": "https://bringmethenews.com/minnesota-news/residents-hit-with-tear-gas-and-flash-bangs-as-anger-grows-in-aftermath-of-latest-federal-shooting",
+    "source_name": "Bring Me The News"
+  },
+  {
+    "archive_path": "data/sources/T3-P033/article_3.txt",
+    "entry_id": "T3-P033",
+    "url": "https://bringmethenews.com/minnesota-news/police-arrest-clergy-members-staging-anti-ice-protest-at-msp-airport",
+    "source_name": "Bring Me The News"
+  }
+]

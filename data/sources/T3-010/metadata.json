@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-010",
+  "url": "https://www.aljazeera.com/news/2025/11/15/us-immigration-crackdown-arrests-under-way-in-charlotte-north-carolina",
+  "final_url": "https://www.aljazeera.com/news/2025/11/15/us-immigration-crackdown-arrests-under-way-in-charlotte-north-carolina",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 202284,
+  "content_hash": "12bd705af5965fceba167a9cbba5093ce0080df0452efbc02cb455d137102e3f",
+  "title": "US immigration crackdown, arrests under way in Charlotte, North Carolina | Donald Trump News | Al Jazeera",
+  "fetched_at": "2026-01-27T14:45:51.054386",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.aljazeera.com/news/2025/11/15/us-immigration-crackdown-arrests-under-way-in-charlotte-north-carolina",
+      "final_url": "https://www.aljazeera.com/news/2025/11/15/us-immigration-crackdown-arrests-under-way-in-charlotte-north-carolina",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 202245,
+      "content_hash": "01b22a630c6f0607770eb9f8f31b6a375a8170cf9a9df56ee40752cee97a2b20",
+      "title": "US immigration crackdown, arrests under way in Charlotte, North Carolina | Donald Trump News | Al Jazeera",
+      "fetched_at": "2026-01-27T16:27:46.340812",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-010\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.inquisitr.com/video-shows-ice-agents-smash-truck-windows-of-a-u-s-citizen-and-assault-him-despite-repeated-pleas-to-check-his-id",
+      "final_url": "https://www.inquisitr.com/video-shows-ice-agents-smash-truck-windows-of-a-u-s-citizen-and-assault-him-despite-repeated-pleas-to-check-his-id",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 189061,
+      "content_hash": "a58409434747c253a225f22f6366d62e131ee46f1bf8feb31346b4bf4139ba35",
+      "title": "Video Shows ICE Agents Smash Truck Windows of a U.S. Citizen and Assault Him Despite Repeated Pleas to Check His ID",
+      "fetched_at": "2026-01-27T16:28:20.139148",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-010\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://abcnews.go.com/US/federal-agents-deployed-charlotte-immigration-enforcement-despite-rejections/story?id=127558136",
+      "final_url": "https://abcnews.go.com/US/federal-agents-deployed-charlotte-immigration-enforcement-despite-rejections/story?id=127558136",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 200531,
+      "content_hash": "39db6840c61fac0a7a46f5eba953c012a34d355189ca8479f3d96310a316e51c",
+      "title": "Federal agents deployed to Charlotte for immigration enforcement, despite rejections from local leaders - ABC News",
+      "fetched_at": "2026-01-27T16:28:55.449832",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-010\\article_2.txt"
+    }
+  ]
+}

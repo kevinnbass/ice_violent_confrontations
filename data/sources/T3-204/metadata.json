@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-204",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://fresnoland.org/2025/01/15/fresno-area-immigration-groups-scramble-to-respond-to-recent-central-valley-raids-do-you-know-your-rights/",
+      "final_url": "https://fresnoland.org/2025/01/15/fresno-area-immigration-groups-scramble-to-respond-to-recent-central-valley-raids-do-you-know-your-rights/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 492477,
+      "content_hash": "9dad0129d204ba4431f6b1df701180635b2260a1ebcdfc82b1ee4ad0b286f1e1",
+      "title": "Fresno-area immigration groups scramble to respond to recent Central Valley raids. Do you know your rights? - Fresnoland",
+      "fetched_at": "2026-01-27T15:46:59.412855",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-204\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://fresnoland.org/2025/01/16/immigration-sweep/",
+      "final_url": "https://fresnoland.org/2025/01/16/immigration-sweep/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 449778,
+      "content_hash": "421c4545d0677b48c9a0cfc53a7497d5a5b86cae9fa810047f9fd38575099911",
+      "title": "Immigration sweep spark fear and uncertainty in Fresno County",
+      "fetched_at": "2026-01-27T15:47:27.774220",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-204\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://civileats.com/2025/06/11/ice-raids-target-workers-on-farms-and-in-food-production-a-running-list/",
+      "final_url": "https://civileats.com/2025/06/11/ice-raids-target-workers-on-farms-and-in-food-production-a-running-list/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 150912,
+      "content_hash": "470b315a7cf66d050fe3c8ce254d53517b6e5cdfd48798e5527ed58601a49d8e",
+      "title": "ICE Raids Target Workers on Farms and in Food Production: A Running List | Civil Eats",
+      "fetched_at": "2026-01-27T15:43:23.049940",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-204\\article_2.txt"
+    }
+  ]
+}

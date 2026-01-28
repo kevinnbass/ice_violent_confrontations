@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-207",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://truthout.org/articles/sweeping-ice-raid-shakes-small-new-york-town-as-dozens-remain-disappeared/",
+      "final_url": "https://truthout.org/articles/sweeping-ice-raid-shakes-small-new-york-town-as-dozens-remain-disappeared/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 397516,
+      "content_hash": "f68abaa11aa507f350d66ee4191431a8ddd7520dc79d58e7d25a1d91df95749e",
+      "title": "Sweeping ICE Raid Shakes Small New York Town as Dozens Remain \u201cDisappeared\u201d | Truthout",
+      "fetched_at": "2026-01-27T16:19:58.045147",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-207\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.fingerlakes1.com/2025/12/19/judge-tosses-evidence-from-cato-ice-raid/",
+      "final_url": "https://www.fingerlakes1.com/2025/12/19/judge-tosses-evidence-from-cato-ice-raid/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 233821,
+      "content_hash": "bdc2472751ab3f218ed3e2cb654f617b7b4567a631b5a4133907493789f0cf34",
+      "title": "Judge tosses evidence from Cato ICE raid",
+      "fetched_at": "2026-01-27T16:31:10.147020",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-207\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://spectrumlocalnews.com/nys/central-ny/news/2025/11/20/body-camera-footage-shows-what-happened-inside-cato-ice-raid--",
+      "final_url": "https://spectrumlocalnews.com/nys/central-ny/news/2025/11/20/body-camera-footage-shows-what-happened-inside-cato-ice-raid--",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 96369,
+      "content_hash": "11982f028a7f0cb50b73a5b1d0cde196ab43c64ef03834273924ad8b311f3834",
+      "title": "Body camera footage inside Cato ICE raid",
+      "fetched_at": "2026-01-27T16:31:10.962923",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-207\\article_3.txt"
+    }
+  ]
+}

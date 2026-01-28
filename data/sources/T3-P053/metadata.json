@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-P053",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.thecity.nyc/2025/06/10/ice-protests-arrests-nypd-trump-immigration/",
+      "final_url": "https://www.thecity.nyc/2025/06/10/ice-protests-arrests-nypd-trump-immigration/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 273815,
+      "content_hash": "b59716e3b43758f97e55c40c23fbb499ca9fd4f6a559742afbb14ea0193bec3a",
+      "title": "NYPD Arrests Dozens as Thousands of New Yorkers Join LA in Protesting ICE Raids | THE CITY \u2014 NYC News",
+      "fetched_at": "2026-01-27T15:46:56.307593",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P053\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.cbsnews.com/newyork/news/nyc-ice-raid-protests/",
+      "final_url": "https://www.cbsnews.com/newyork/news/nyc-ice-raid-protests/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 659755,
+      "content_hash": "5ad15bbf915095ebccc4618c14af2e72388e0d6db04da385bc8e09967f1325d3",
+      "title": "Protests against ICE in NYC turn violent, end with dozens of arrests - CBS New York",
+      "fetched_at": "2026-01-27T15:47:11.416042",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P053\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.fox5ny.com/news/nyc-protests-trump-nypd-los-angeles-ice",
+      "final_url": "https://www.fox5ny.com/news/nyc-protests-trump-nypd-los-angeles-ice",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 156904,
+      "content_hash": "0dbea529ba99bc2807b94e871109593ef48067de99df744078e24f2332ddb0c4",
+      "title": "NYC protests latest: Could the National Guard be deployed? | FOX 5 New York",
+      "fetched_at": "2026-01-27T15:47:41.475495",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P053\\article_2.txt"
+    }
+  ]
+}

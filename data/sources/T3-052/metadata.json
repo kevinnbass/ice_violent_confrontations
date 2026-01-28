@@ -1,0 +1,33 @@
+{
+  "entry_id": "T3-052",
+  "sources": [
+    {
+      "source_index": 2,
+      "url": "https://abcnews.go.com/Politics/newark-mayor-arrested-ice-facility-joining-democrats-conduct/story?id=121652689",
+      "final_url": "https://abcnews.go.com/Politics/newark-mayor-arrested-ice-facility-joining-democrats-conduct/story?id=121652689",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 246779,
+      "content_hash": "b497711dfc449dadeea76423a56fa98dcfd01eeb84c58f1fcd09586e8ed20b57",
+      "title": "Newark Mayor Ras Baraka arrested at ICE facility while joining Democrats to conduct 'oversight' - ABC News",
+      "fetched_at": "2026-01-27T16:28:10.828344",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-052\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/",
+      "final_url": "https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7551,
+      "content_hash": "c0270ac1f55e34d8e9ac105b1a5863056a81c49882130f339223d4c7ae227239",
+      "title": "Newark mayor detained by federal agents during protest at ICE jail \u2022 New Jersey Monitor",
+      "fetched_at": "2026-01-27T16:30:37.397555",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251205225131/https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/",
+      "archive_path": "data\\sources\\T3-052\\article_3_wayback.txt"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "entry_id": "T4-020",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://abc7ny.com/post/protest-held-reopening-ice-immigration-detention-center-newark-new-jersey/16007493/",
+      "final_url": "https://abc7ny.com/post/protest-held-reopening-ice-immigration-detention-center-newark-new-jersey/16007493/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 257821,
+      "content_hash": "7fdef6659feb6d30b4fae629393fc71756a4e15afd6a3e5bb7d368ced0f0d290",
+      "title": "Protest held against reopening ICE immigration detention center in Newark, New Jersey - ABC7 New York",
+      "fetched_at": "2026-01-27T16:28:00.162859",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-020\\article.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/",
+      "final_url": "https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7551,
+      "content_hash": "c0270ac1f55e34d8e9ac105b1a5863056a81c49882130f339223d4c7ae227239",
+      "title": "Newark mayor detained by federal agents during protest at ICE jail \u2022 New Jersey Monitor",
+      "fetched_at": "2026-01-27T16:31:10.599230",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251205225131/https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/",
+      "archive_path": "data\\sources\\T4-020\\article_2_wayback.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://whyy.org/articles/newark-nj-immigration-detention-center-delaney-hall/",
+      "final_url": "https://whyy.org/articles/newark-nj-immigration-detention-center-delaney-hall/",
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 560,
+      "content_hash": "0e593770c72ed922eb6c5226cb01f1e9ae870ecf74aa5a03bd839378cb093e88",
+      "title": "What to know about the newly opened immigration detention center in Newark, NJ - WHYY",
+      "fetched_at": "2026-01-27T16:30:29.161603",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251114232555/https://whyy.org/articles/newark-nj-immigration-detention-center-delaney-hall/",
+      "archive_path": "data\\sources\\T4-020\\article_1_wayback.txt"
+    }
+  ]
+}

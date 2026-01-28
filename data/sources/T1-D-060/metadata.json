@@ -1,0 +1,57 @@
+{
+  "entry_id": "T1-D-060",
+  "url": "https://stevens.house.gov/sites/evo-subsites/stevens.house.gov/files/evo-media-document/2025-1223-ltr-to-dhs-and-ice-re-north-lake-detainee-death-signed.pdf",
+  "final_url": "https://stevens.house.gov/sites/evo-subsites/stevens.house.gov/files/evo-media-document/2025-1223-ltr-to-dhs-and-ice-re-north-lake-detainee-death-signed.pdf",
+  "status_code": 200,
+  "content_type": "application/pdf",
+  "content_length": 230636,
+  "content_hash": "d0fddaf82af79740bb5a51687ee104e4eb6cd7df2ec332bcebd5df5be61a90c6",
+  "title": null,
+  "fetched_at": "2026-01-27T14:45:01.205117",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.ice.gov/news/releases/criminal-illegal-alien-passes-away-university-hospital-following-medical-emergency",
+      "final_url": "https://www.ice.gov/news/releases/criminal-illegal-alien-passes-away-university-hospital-following-medical-emergency",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 110805,
+      "content_hash": "2ef2e3454bf1c877e1624c44e8ad85c36ea95307aea22b7e01112a1a331d066a",
+      "title": "Criminal illegal alien passes away at University Hospital following medical emergency at Delaney Hall Detention Facility | ICE",
+      "fetched_at": "2026-01-27T16:28:10.763811",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-060\\article_1.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://gothamist.com/news/man-dies-after-1-day-in-ice-custody-at-newark-facility-ice-says",
+      "final_url": "https://gothamist.com/news/man-dies-after-1-day-in-ice-custody-at-newark-facility-ice-says",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 698291,
+      "content_hash": "8a251599df620eaa45cb71165caabc3377d84654cac0332aafefc0596f63b536",
+      "title": "Man dies after 1 day in ICE custody at Newark facility, ICE says - Gothamist",
+      "fetched_at": "2026-01-27T16:30:41.430573",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-060\\article_3.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://newjerseymonitor.com/2025/12/19/ice-detainee-newark-jail-died/",
+      "final_url": "https://newjerseymonitor.com/2025/12/19/ice-detainee-newark-jail-died/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7397,
+      "content_hash": "cd2472e5bc4b9cf835e5dcd63af638448a8b206243f72d7db98b5a8ee884509a",
+      "title": "41-year-old detainee at Newark migrant jail died in custody, ICE says \u2022 New Jersey Monitor",
+      "fetched_at": "2026-01-27T16:30:40.623002",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251231131653/https://newjerseymonitor.com/2025/12/19/ice-detainee-newark-jail-died/",
+      "archive_path": "data\\sources\\T1-D-060\\article_2_wayback.txt"
+    }
+  ]
+}

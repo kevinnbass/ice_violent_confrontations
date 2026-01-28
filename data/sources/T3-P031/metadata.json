@@ -1,0 +1,43 @@
+{
+  "entry_id": "T3-P031",
+  "url": "https://www.democracynow.org/2026/1/13/headlines/ice_agents_in_minneapolis_fire_tear_gas_pepper_spray_at_protests_over_immigration_raids",
+  "final_url": "https://www.democracynow.org/2026/1/13/headlines/ice_agents_in_minneapolis_fire_tear_gas_pepper_spray_at_protests_over_immigration_raids",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 106981,
+  "content_hash": "9041473c0f2aedb0a88a4e5c7a80f69af5b52a275419df7dabd11b555b81ab99",
+  "title": "ICE Agents in Minneapolis Fire Tear Gas, Pepper Spray at Protests over Immigration Raids | Democracy Now!",
+  "fetched_at": "2026-01-27T00:29:26.827680",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://bringmethenews.com/minnesota-news/residents-hit-with-tear-gas-and-flash-bangs-as-anger-grows-in-aftermath-of-latest-federal-shooting",
+      "final_url": "https://bringmethenews.com/minnesota-news/residents-hit-with-tear-gas-and-flash-bangs-as-anger-grows-in-aftermath-of-latest-federal-shooting",
+      "status_code": 403,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 778,
+      "content_hash": "1c1b6a4ed9395068b3e265dcf95d711dbf646d35ac72b32336fbcd42202dbbf5",
+      "title": "Residents hit with tear gas and flash bangs as anger grows in aftermath of latest federal shooting - Bring Me The News",
+      "fetched_at": "2026-01-27T16:31:03.237676",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260126032255/https://bringmethenews.com/minnesota-news/residents-hit-with-tear-gas-and-flash-bangs-as-anger-grows-in-aftermath-of-latest-federal-shooting",
+      "archive_path": "data\\sources\\T3-P031\\article_1_wayback.txt"
+    },
+    {
+      "source_index": 0,
+      "url": "https://www.cnn.com/us/live-news/minneapolis-ice-shooting-protests-01-15-26",
+      "final_url": "https://www.cnn.com/us/live-news/minneapolis-ice-shooting-protests-01-15-26",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "b0f32dc8f393c38051130477a350090fc52e857800afbf7518fd05165efb4a27",
+      "title": "January 15, 2026 - Minneapolis shootings and protests | CNN",
+      "fetched_at": "2026-01-27T15:50:00.540592",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260124133525/https://www.cnn.com/us/live-news/minneapolis-ice-shooting-protests-01-15-26",
+      "archive_path": "data\\sources\\T3-P031\\article_wayback.txt"
+    }
+  ]
+}

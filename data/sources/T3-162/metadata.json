@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-162",
+  "url": "https://www.democracynow.org/2025/9/22/headlines/ice_detainees_in_louisiana_on_hunger_strike_to_protest_conditions_at_angola_prison",
+  "final_url": "https://www.democracynow.org/2025/9/22/headlines/ice_detainees_in_louisiana_on_hunger_strike_to_protest_conditions_at_angola_prison",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "197506891276b8d41bfba3598bea83ec7251d39e9780257a2ebeece98db9805b",
+  "title": "ICE Detainees in Louisiana on Hunger Strike to Protest Conditions at Angola Prison | Democracy Now!",
+  "fetched_at": "2026-01-27T14:47:13.428163",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251118080745/https://www.democracynow.org/2025/9/22/headlines/ice_detainees_in_louisiana_on_hunger_strike_to_protest_conditions_at_angola_prison",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.democracynow.org/2025/9/22/headlines/ice_detainees_in_louisiana_on_hunger_strike_to_protest_conditions_at_angola_prison",
+      "final_url": "https://www.democracynow.org/2025/9/22/headlines/ice_detainees_in_louisiana_on_hunger_strike_to_protest_conditions_at_angola_prison",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 106763,
+      "content_hash": "759822e4e7fdf4b17b3a3200475765c1ac02fc13d22d9c2287dc5ad582a07529",
+      "title": "ICE Detainees in Louisiana on Hunger Strike to Protest Conditions at Angola Prison | Democracy Now!",
+      "fetched_at": "2026-01-27T16:28:03.337959",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-162\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.nola.com/news/angola-ice-hunger-strike/article_395e3df1-aa92-54f3-b3aa-1ee006623370.html",
+      "final_url": "https://www.nola.com/news/angola-ice-hunger-strike/article_395e3df1-aa92-54f3-b3aa-1ee006623370.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 368097,
+      "content_hash": "2fcca334e61a5307ec7a1afe44bf0ed6456c8c6991a36ba21bcfd3a22ce3c30c",
+      "title": "19 detainees at Angola ICE camp reportedly on hunger strike | News | nola.com",
+      "fetched_at": "2026-01-27T16:28:34.944269",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-162\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://bigeasymagazine.com/2025/09/21/19-people-detained-at-the-louisiana-ice-processing-center-in-angolas-camp-j-launch-hunger-strike-against-inhumane-conditions/",
+      "final_url": "https://bigeasymagazine.com/2025/09/21/19-people-detained-at-the-louisiana-ice-processing-center-in-angolas-camp-j-launch-hunger-strike-against-inhumane-conditions/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 262179,
+      "content_hash": "bb8b88e14b4c6f444aad09acedfc7a98cb1a3e571307acbb11c2076ab0aad49b",
+      "title": "19 Detainees Launch Hunger Strike at Angola ICE Camp J Over Inhumane Conditions",
+      "fetched_at": "2026-01-27T16:28:57.600904",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-162\\article_2.txt"
+    }
+  ]
+}

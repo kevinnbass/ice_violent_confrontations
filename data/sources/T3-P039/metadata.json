@@ -1,0 +1,29 @@
+{
+  "entry_id": "T3-P039",
+  "url": "https://www.chicagotribune.com/2025/09/25/broadview-ice-political-candidates/",
+  "final_url": "https://www.chicagotribune.com/2025/09/25/broadview-ice-political-candidates/",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 185373,
+  "content_hash": "5e0c0d1aefa21cfda1048f0f80e07c859f7a372bf03899ea080a9130ce18dd57",
+  "title": "Broadview ICE facility a backdrop for politicians, fundraising",
+  "fetched_at": "2026-01-27T14:45:44.657567",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://chicago.suntimes.com/immigration/2025/09/22/protesters-demonstrate-at-broadview-ice-facility-in-spite-of-more-pepper-balls-rubber-rounds",
+      "final_url": "https://chicago.suntimes.com/immigration/2025/09/22/protesters-demonstrate-at-broadview-ice-facility-in-spite-of-more-pepper-balls-rubber-rounds",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 644636,
+      "content_hash": "98e9ec9e97e89a6f533d5b87cecdd080e1ebbfacede268607d226328bde464ec",
+      "title": "Protesters demonstrate at Broadview ICE facility in spite of more pepper balls, rubber rounds - Chicago Sun-Times",
+      "fetched_at": "2026-01-27T16:28:01.478978",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P039\\article_1.txt"
+    }
+  ]
+}

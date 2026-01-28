@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-P010",
+  "url": "https://pressfreedomtracker.us/all-incidents/munition-strikes-photojournalist-at-la-protest-shrapnel-surgically-removed/",
+  "final_url": "https://pressfreedomtracker.us/all-incidents/munition-strikes-photojournalist-at-la-protest-shrapnel-surgically-removed/",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 35926,
+  "content_hash": "c762ca19581b2833a040afb728229436ab605488c69ba905a68c84d022346b6c",
+  "title": "Munition strikes photojournalist at LA protest, shrapnel surgically removed\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t- U.S. Press Freedom Tracker",
+  "fetched_at": "2026-01-27T14:45:44.430952",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://pressfreedomtracker.us/all-incidents/munition-strikes-photojournalist-at-la-protest-shrapnel-surgically-removed/",
+      "final_url": "https://pressfreedomtracker.us/all-incidents/munition-strikes-photojournalist-at-la-protest-shrapnel-surgically-removed/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 35926,
+      "content_hash": "5e2d6155262dad57ced66013a722bed1fb69e3b91aa1b4217d6847c5f628f7c6",
+      "title": "Munition strikes photojournalist at LA protest, shrapnel surgically removed\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t- U.S. Press Freedom Tracker",
+      "fetched_at": "2026-01-27T16:28:01.240356",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P010\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests/",
+      "final_url": "https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 231150,
+      "content_hash": "ca443e52016de67a5dbec464dea538670951f186504d96a03840425a570c659f",
+      "title": "Law enforcement injure multiple journalists, others assaulted while covering Los Angeles protests - Committee to Protect Journalists",
+      "fetched_at": "2026-01-27T16:28:30.221018",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P010\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.lbc.co.uk/world-news/los-angeles-protest-photographer-surgery/",
+      "final_url": "https://www.lbc.co.uk/article/los-angeles-protest-photographer-surgery-rpX5D_2/",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 92127,
+      "content_hash": "6307a6f3c776ac8e4c2398ecc46284abe2de3b96cddfcbca63a78fafb2816bcf",
+      "title": "British photographer undergoes surgery after being shot with 'sponge' bullets during LA protests | LBC",
+      "fetched_at": "2026-01-27T16:28:57.418749",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P010\\article_2.txt"
+    }
+  ]
+}

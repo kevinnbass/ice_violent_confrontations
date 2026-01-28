@@ -1,0 +1,29 @@
+{
+  "entry_id": "T2-SA-003",
+  "url": "https://www.aljazeera.com/news/2025/9/25/are-attacks-on-ice-officers-facilities-in-the-us-rising",
+  "final_url": "https://www.aljazeera.com/news/2025/9/25/are-attacks-on-ice-officers-facilities-in-the-us-rising",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 231203,
+  "content_hash": "0b70b5b878a83a5cc26e36e86a5b9116b1b3f412b6105ab4622912784ab03001",
+  "title": "Are attacks on ICE officers, facilities in the US rising? | Civil Rights News | Al Jazeera",
+  "fetched_at": "2026-01-27T14:45:37.346551",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.aljazeera.com/news/2025/9/25/are-attacks-on-ice-officers-facilities-in-the-us-rising",
+      "final_url": "https://www.aljazeera.com/news/2025/9/25/are-attacks-on-ice-officers-facilities-in-the-us-rising",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 231168,
+      "content_hash": "1c08e3fe0355bbe90b6b9e515302c6fabb1e7a367615e6630ab0c31c2f3f0ba8",
+      "title": "Are attacks on ICE officers, facilities in the US rising? | Civil Rights News | Al Jazeera",
+      "fetched_at": "2026-01-27T16:27:43.648276",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-SA-003\\article.txt"
+    }
+  ]
+}

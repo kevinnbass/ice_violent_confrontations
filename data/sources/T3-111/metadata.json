@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-111",
+  "url": "https://www.newhavenindependent.org/2025/11/13/ice-makes-another-courthouse-arrest/",
+  "final_url": "https://www.newhavenindependent.org/2025/11/13/ice-makes-another-courthouse-arrest/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "9d8824efe5c4ee9e5837dcb0dcc160f2d7a32a5ad8b47d35dfd0b3e15405805f",
+  "title": "ICE Makes Another Courthouse Arrest - New Haven Independent",
+  "fetched_at": "2026-01-27T14:46:27.121516",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260119113933/https://www.newhavenindependent.org/2025/11/13/ice-makes-another-courthouse-arrest/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.newhavenindependent.org/2025/11/13/ice-makes-another-courthouse-arrest/",
+      "final_url": "https://www.newhavenindependent.org/2025/11/13/ice-makes-another-courthouse-arrest/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 298258,
+      "content_hash": "089d3681c123aa914ba5e5586509a6648f401f760488980728b7fe9c8bdc1940",
+      "title": "ICE Makes Another Courthouse Arrest - New Haven Independent",
+      "fetched_at": "2026-01-27T16:27:59.736683",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-111\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://ctmirror.org/2025/09/04/ct-ice-arrests-courthouse/",
+      "final_url": "https://ctmirror.org/2025/09/04/ct-ice-arrests-courthouse/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 237040,
+      "content_hash": "07497dd1e6eee9149f927ee3f65e8a09891498633e672702cc7de4397c753a6e",
+      "title": "CT Senate Dems ask Chief Justice to ban ICE arrests at courts",
+      "fetched_at": "2026-01-27T16:28:25.417308",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-111\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://yaledailynews.com/blog/2025/11/17/state-curbs-ice-activity-around-courts-on-day-of-another-local-arrest/",
+      "final_url": "https://yaledailynews.com/articles/state-curbs-ice-activity-around-courts-on-day-of-another-local-arrest",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 100059,
+      "content_hash": "dbdaea690072b1d7f1b5f35564b0f79ef5a1aaf076f5a5c25940f568cc814127",
+      "title": "State curbs ICE activity around courts on day of another local arrest | Yale Daily News",
+      "fetched_at": "2026-01-27T16:28:56.039495",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-111\\article_2.txt"
+    }
+  ]
+}

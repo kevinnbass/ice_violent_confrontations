@@ -1,0 +1,43 @@
+{
+  "entry_id": "T2-LL-004",
+  "url": "https://pressfreedomtracker.us/all-incidents/journalist-shot-in-the-face-with-pepper-ball-at-illinois-ice-facility-protest/",
+  "final_url": "https://pressfreedomtracker.us/all-incidents/journalist-shot-in-the-face-with-pepper-ball-at-illinois-ice-facility-protest/",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 52017,
+  "content_hash": "4f4652f912e4f9d8d094f2706cfafed59053a59a728809655519fa2c4f648169",
+  "title": "Journalist shot in the face with pepper ball at Illinois ICE facility protest\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t- U.S. Press Freedom Tracker",
+  "fetched_at": "2026-01-27T14:45:31.432990",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://pressfreedomtracker.us/all-incidents/journalist-shot-in-the-face-with-pepper-ball-at-illinois-ice-facility-protest/",
+      "final_url": "https://pressfreedomtracker.us/all-incidents/journalist-shot-in-the-face-with-pepper-ball-at-illinois-ice-facility-protest/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 52017,
+      "content_hash": "70cae178cba1a078fc5908d05d11878a34c10fe55768b0cade585970918896d4",
+      "title": "Journalist shot in the face with pepper ball at Illinois ICE facility protest\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t- U.S. Press Freedom Tracker",
+      "fetched_at": "2026-01-27T16:27:41.904308",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-LL-004\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://blockclubchicago.org/2025/09/28/ice-escalates-violence-against-protesters-in-broadview-journalist-arrested/",
+      "final_url": "https://blockclubchicago.org/2025/09/28/ice-escalates-violence-against-protesters-in-broadview-journalist-arrested/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 362984,
+      "content_hash": "f6c39d59d68a64f9502ba47f75f0cc02ce10c14ffff79e7fbc79445750a08ece",
+      "title": "ICE Escalates Violence Against Protesters In Broadview; Journalist Arrested",
+      "fetched_at": "2026-01-27T16:28:07.837761",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-LL-004\\article_1.txt"
+    }
+  ]
+}

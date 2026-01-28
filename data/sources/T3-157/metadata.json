@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-157",
+  "url": "https://www.aclu.org/cases/hussen-v-noem",
+  "final_url": "https://www.aclu.org/cases/hussen-v-noem",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 53534,
+  "content_hash": "bfb271501f122242f21bb25426dedf0cfbfc0c6c2cd3922523d00d99202263b2",
+  "title": "HUSSEN v. NOEM | American Civil Liberties Union",
+  "fetched_at": "2026-01-27T14:45:44.318437",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.aclu.org/cases/hussen-v-noem",
+      "final_url": "https://www.aclu.org/cases/hussen-v-noem",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 53534,
+      "content_hash": "bfb271501f122242f21bb25426dedf0cfbfc0c6c2cd3922523d00d99202263b2",
+      "title": "HUSSEN v. NOEM | American Civil Liberties Union",
+      "fetched_at": "2026-01-27T16:27:47.871071",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-157\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans",
+      "final_url": "https://www.aclu.org/press-releases/aclu-sues-federal-government-to-end-ice-cbps-practice-of-suspicionless-stops-warrantless-arrests-and-racial-profiling-of-minnesotans",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 70949,
+      "content_hash": "cb49b753b7603bc0ec5ea430f9887cf0b549db651047e0eb1d07a777329b6cce",
+      "title": "ACLU Sues Federal Government to End ICE, CBP\u2019s Practice of Suspicionless Stops, Warrantless Arrests, and Racial Profiling of Minnesotans\u00a0 | American Civil Liberties Union",
+      "fetched_at": "2026-01-27T16:28:14.483263",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-157\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://signalscv.com/2026/01/aclu-sues-dhs-over-minnesota-ice-operations/",
+      "final_url": "https://signalscv.com/2026/01/aclu-sues-dhs-over-minnesota-ice-operations/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 379064,
+      "content_hash": "25413416b838df0a4a72eeb7040290982661477f05570ac6b72e314fd121941c",
+      "title": "ACLU sues DHS over Minnesota ICE operations",
+      "fetched_at": "2026-01-27T16:28:49.628261",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-157\\article_2.txt"
+    }
+  ]
+}

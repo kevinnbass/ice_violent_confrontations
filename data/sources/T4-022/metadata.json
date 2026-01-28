@@ -1,0 +1,8 @@
+{
+  "retry_fetch": {
+    "method": "stealth",
+    "fetched_at": "2026-01-27T00:57:16.555654",
+    "content_length": 347140,
+    "content_hash": "12e2b426e775c4b443721bb2e5a8ddeb5d96ed64a18a2162976002dd2fbfe994"
+  }
+}

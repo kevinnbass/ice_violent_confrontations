@@ -1,0 +1,11 @@
+{
+  "entry_id": "T4-086",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will",
+      "status_code": 200,
+      "archive_path": "data\\sources\\T4-086\\article.txt"
+    }
+  ]
+}

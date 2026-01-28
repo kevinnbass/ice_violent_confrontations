@@ -1,0 +1,52 @@
+{
+  "archive_fetch": {
+    "method": "google_cache",
+    "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fwww.chicagotribune.com%2Fnews%2Fbreaking%2Fct-ice-arrest-school-parent-elementary-20251115-story.html",
+    "fetched_at": "2026-01-27T01:26:57.793932",
+    "content_length": 85205
+  },
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.cbsnews.com/chicago/news/federal-agents-chicago-daycare-preschool-teacher-detained/",
+      "final_url": "https://www.cbsnews.com/chicago/news/federal-agents-chicago-daycare-preschool-teacher-detained/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 659337,
+      "content_hash": "8f71b6240830dd466769f1ad4b933b8b58f767f3699b5ab696445c8fc42f4913",
+      "title": "ICE agents detain teacher at Chicago daycare Rayito del Sol in North Center - CBS Chicago",
+      "fetched_at": "2026-01-27T16:30:21.780570",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-119\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.democracynow.org/2025/11/11/ice_arrest_of_chicago_daycare_teacher",
+      "final_url": "https://www.democracynow.org/2025/11/11/ice_arrest_of_chicago_daycare_teacher",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 136807,
+      "content_hash": "4c5835cdfbf2540f93cc6ca1a6e485d44b452a5bef407e8a97ca6d4849e00f60",
+      "title": "Chicago Parents Denounce ICE for Violently Detaining Beloved Daycare Teacher in Front of Toddlers | Democracy Now!",
+      "fetched_at": "2026-01-27T16:30:22.776285",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-119\\article_2.txt"
+    },
+    {
+      "source_index": 0,
+      "url": "https://www.washingtonpost.com/immigration/2025/11/05/chicago-preschool-ice-arrest/",
+      "final_url": "https://www.washingtonpost.com/immigration/2025/11/05/chicago-preschool-ice-arrest/",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "8cb97ab09e0ae1c6aa30fa0833a8a58a31a0cff49de540e38e70d2ead312dee7",
+      "title": "Armed ICE officers chase teacher into preschool in Chicago - The Washington Post",
+      "fetched_at": "2026-01-27T16:29:41.530171",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251106193238/https://www.washingtonpost.com/immigration/2025/11/05/chicago-preschool-ice-arrest/",
+      "archive_path": "data\\sources\\T3-119\\article_wayback.txt"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+================================================================================
+ICE INCIDENTS DATABASE - VERIFICATION ANALYSIS
+================================================================================
+
+Total entries: 400
+Passed: 359 (89.8%)
+Failed (no valid sources): 23
+Failed (partial issues): 6
+Errors (parse): 6
+Errors (API): 5
+Errors (no sources): 1
+
+Unrelated sources flagged: 66
+
+================================================================================
+SECTION 1: ENTRIES NEEDING NEW SOURCES (score=0)
+These entries have NO valid archived sources. Need to find new sources or archive.
+================================================================================
+
+T1-D-006:
+  Title: N/A
+  Date: 2025-04-16
+  Location: El Paso
+  Sources in DB: 1
+    - ICE Detainee Death Reporting: ARCHIVED
+      URL: https://www.ice.gov/detain/detainee-death-reporting
+  LLM Issue: No source article provided is about the specific incident; the only source is a generic ICE policy p
+
+T1-S-002:
+  Title: N/A
+  Date: 2026-01-24
+  Location: Minneapolis (26th & Nicollet)
+  Sources in DB: 1
+    - NBC News / Official: ARCHIVED
+      URL: https://www.nbcnews.com/news/us-news/live-blog/minneapolis-immigration-shooting-
+  LLM Issue: No source article provided describes the incident in the database entry.
+
+T2-LL-002:
+  Title: N/A
+  Date: 2025-06-07
+  Location: Paramount
+  Sources in DB: 2
+    - ABC7 Los Angeles: ARCHIVED
+      URL: https://abc7.com/post/reporter-hit-rubber-bullet-covering-ice-protests-los-angel
+    - NPR: ARCHIVED
+      URL: https://www.npr.org/2025/06/16/nx-s1-5434279/lapd-immigration-protests-journalis
+  LLM Issue: No source article supports the specific incident described in the database entry.
+
+T2-LL-008:
+  Title: N/A
+  Date: 2025-09-26
+  Location: Broadview
+  Sources in DB: 1
+    - Chicago Sun-Times: ARCHIVED
+      URL: https://chicago.suntimes.com/graphics/immigration/2025/ice-less-lethal-weapons-e
+  LLM Issue: No source article provided describes the specific incident; the only source is a general explainer a
+
+T2-S-001:
+  Title: N/A
+  Date: 2025-09-12
+  Location: Franklin Park
+  Sources in DB: 1
+    - NBC News: ARCHIVED
+      URL: https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immi
+  LLM Issue: No source article provided is relevant to the specific database entry; the provided article discusse
+
+T2-S-002:
+  Title: N/A
+  Date: 2025-10-04
+  Location: Chicago (Brighton Park)
+  Sources in DB: 1
+    - NBC News: ARCHIVED
+      URL: https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immi
+  LLM Issue: No source provided is about the specific incident described in the database entry.
+
+T2-S-003:
+  Title: N/A
+  Date: 2025-10-21
+  Location: Los Angeles
+  Sources in DB: 1
+    - NBC News: ARCHIVED
+      URL: https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immi
+  LLM Issue: No source article provided describes the specific incident detailed in the database entry.
+
+T2-S-006:
+  Title: N/A
+  Date: 2025-12-11
+  Location: Rio Grande City (Starr County)
+  Sources in DB: 1
+    - NBC News: ARCHIVED
+      URL: https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immi
+  LLM Issue: No source article provided is about the specific incident described in the database entry.
+
+T2-S-009:
+  Title: N/A
+  Date: 2026-01-08
+  Location: Portland
+  Sources in DB: 1
+    - NBC News: ARCHIVED
+      URL: https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immi
+  LLM Issue: No source article provided is about the specific incident described in the database entry.
+
+T2-S-010:
+  Title: N/A
+  Date: 2026-01-08
+  Location: Portland
+  Sources in DB: 1
+    - NBC News: ARCHIVED
+      URL: https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immi
+  LLM Issue: No source article provided is about the specific incident described in the database entry.
+
+T2-S-011:
+  Title: N/A
+  Date: 2026-01-14
+  Location: Minneapolis
+  Sources in DB: 1
+    - NBC News: ARCHIVED
+      URL: https://www.nbcnews.com/news/us-news/ice-shootings-list-border-patrol-trump-immi
+  LLM Issue: No source article provided is about the specific incident described in the database entry.
+
+T2-WD-003:
+  Title: N/A
+  Date: 2025-06-24
+  Location: Los Angeles (downtown)
+  Sources in DB: 1
+    - ProPublica: ARCHIVED
+      URL: https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-de
+  LLM Issue: No source article mentions the specific incident, victim, date, or location described in the databas
+
+T2-WD-005:
+  Title: N/A
+  Date: 2025-09-09
+  Location: Van Nuys
+  Sources in DB: 1
+    - ProPublica: ARCHIVED
+      URL: https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-de
+  LLM Issue: No source provided is about the specific incident described in the database entry.
+
+T3-049:
+  Title: N/A
+  Date: 2025-06-08
+  Location: Baltimore (Highlandtown)
+  Sources in DB: 3
+    - Maryland Matters: ARCHIVED
+      URL: https://marylandmatters.org/2025/06/12/ice-raids-baltimore-protest-casa/
+    - WBAL-TV: ARCHIVED
+      URL: https://www.wbaltv.com/article/hundreds-protest-baltimore-frustrations-ice/65038
+    - WYPR: ARCHIVED
+      URL: https://www.wypr.org/wypr-news/2025-06-11/highlandtown-protests-show-support-for
+  LLM Issue: None of the provided source articles mention the specific incident described in the database entry: 
+
+T3-051:
+  Title: N/A
+  Date: 2025-01-23
+  Location: Newark (Ironbound)
+  Sources in DB: 1
+    - ABC7 / NBC / CBS: ARCHIVED
+      URL: https://abc7ny.com/post/newark-ice-raid-15-people-taken-custody-ocean-seafood-de
+  LLM Issue: The provided source article is about a completely different event (November 2025 raid).
+
+T3-111:
+  Title: N/A
+  Date: 2025-07-07
+  Location: New Haven
+  Sources in DB: 3
+    - New Haven Independent: ARCHIVED
+      URL: https://www.newhavenindependent.org/2025/11/13/ice-makes-another-courthouse-arre
+    - CT Mirror: ARCHIVED
+      URL: https://ctmirror.org/2025/09/04/ct-ice-arrests-courthouse/
+    - Yale Daily News: ARCHIVED
+      URL: https://yaledailynews.com/blog/2025/11/17/state-curbs-ice-activity-around-courts
+  LLM Issue: No source article provided is about the specific incident described in the database entry.
+
+T3-189:
+  Title: N/A
+  Date: 2025-10-01
+  Location: Krome Detention Center
+  Sources in DB: 1
+    - POGO: ARCHIVED
+      URL: https://www.pogo.org/investigates/ice-inspections-plummeted-as-detentions-soared
+  LLM Issue: No source provided supports the specific database entry about the Krome detention center incident in
+
+T3-218:
+  Title: N/A
+  Date: 2025-03-27
+  Location: San Diego
+  Sources in DB: 1
+    - Immigration Policy Tracking Project: ARCHIVED
+      URL: https://immpolicytracking.org/policies/reported-ice-has-resumed-worksite-raids/
+  LLM Issue: No source article provided matches the specific incident described in the database entry.
+
+T3-219:
+  Title: N/A
+  Date: 2025-05-20
+  Location: Laredo
+  Sources in DB: 1
+    - Immigration Policy Tracking Project: ARCHIVED
+      URL: https://immpolicytracking.org/policies/reported-ice-has-resumed-worksite-raids/
+  LLM Issue: No source article provided matches the specific incident described in the database entry (May 20, 20
+
+T3-P013:
+  Title: N/A
+  Date: 2025-06-14
+  Location: Los Angeles (Grand Park)
+  Sources in DB: 2
+    - Wikipedia: ARCHIVED
+      URL: https://en.wikipedia.org/wiki/June_2025_Los_Angeles_protests_against_mass_deport
+    - KTLA: ARCHIVED
+      URL: https://ktla.com/news/local-news/no-kings-protestors-ordered-to-disperse-tear-ga
+  LLM Issue: No source provided contains information about the friendly fire incident on LAPD officers.
+
+T3-P030:
+  Title: N/A
+  Date: 2026-01-24
+  Location: Denver
+  Sources in DB: 3
+    - Denver Voice: ARCHIVED
+      URL: https://www.denvervoice.org/archive/2026/1/25/they-shot-and-killed-someone-in-br
+    - Colorado Newsline: ARCHIVED
+      URL: https://coloradonewsline.com/2026/01/09/protestors-enver-fatal-ice-shooting/
+    - Colorado Public Radio: ARCHIVED
+      URL: https://www.cpr.org/2026/01/09/minneapolis-ice-shooting-protests/
+  LLM Issue: All provided sources are about a protest on January 9, 2026, not January 24, 2026.
+
+T3-P031:
+  Title: N/A
+  Date: 2026-01-15
+  Location: Minneapolis (Federal Building)
+  Sources in DB: 2
+    - CNN Live Updates: ARCHIVED
+      URL: https://www.cnn.com/us/live-news/minneapolis-ice-shooting-protests-01-15-26
+    - Bring Me The News: ARCHIVED
+      URL: https://bringmethenews.com/minnesota-news/residents-hit-with-tear-gas-and-flash-
+  LLM Issue: No source provided matches the date (Jan 14-15, 2026) or the precipitating event (Renee Good shootin
+
+T4-014:
+  Title: N/A
+  Date: 2025-03-17
+  Location: Aurora
+  Sources in DB: 1
+    - CNN: ARCHIVED
+      URL: https://www.cnn.com/2025/03/18/us/jeanette-vizguerra-detained-ice-colorado/index
+  LLM Issue: No source provided supports the specific incident described in the database entry.
+
+================================================================================
+SECTION 2: ENTRIES WITH PARTIAL ISSUES (score > 0 but < 70)
+These entries have some support but need corrections or additional sources.
+================================================================================
+
+T3-018 (score=60):
+  Title: N/A
+  Issue: Article date (Oct 3, 2025) is before entry date (Oct 15, 2025).
+  Correction: date: '2025-10-15' -> '?'
+  Correction: victim_count: '800' -> '?'
+  Correction: incident_type: 'mass_raid' -> '?'
+  Correction: notes: '800 arrests statewide in Octob' -> '?'
+
+T3-P011 (score=60):
+  Title: N/A
+  Issue: Victim name 'Ryanne Mena' is not mentioned in either source article.
+  Correction: victim_name: 'Ryanne Mena' -> '?'
+  Correction: notes: 'VERIFIED per Wikipedia/LA Publ' -> '?'
+  Correction: agency_mentioned: 'Implied ICE' -> '?'
+
+T1-D-021 (score=50):
+  Title: N/A
+  Issue: The specific victim's name is not found in the provided source text.
+  Correction: victim_name: 'Jean Wilson Brutus' -> '?'
+  Correction: date: '2025-12-12' -> '?'
+
+T2-LL-010 (score=50):
+  Title: N/A
+  Issue: Victim name 'Joselyn Walsh' not found in the provided article excerpt.
+  Correction: victim_name: 'Joselyn Walsh' -> '?'
+  Correction: circumstances: 'Federally charged in October w' -> '?'
+  Correction: notes: 'Joselyn Walsh, injured by less' -> '?'
+
+T3-P039 (score=40):
+  Title: N/A
+  Issue: No source explicitly mentions Rossana Rodriguez-Sanchez or confirms she was struck by pepper balls o
+  Correction: victim_name: 'Rossana Rodriguez-Sanchez' -> '?'
+  Correction: notes: 'VERIFIED per Tribune/Sun-Times' -> '?'
+
+T4-051 (score=40):
+  Title: N/A
+  Issue: Article describes raid on an Italian restaurant, not a taco restaurant.
+  Correction: incident_type: 'less_lethal' -> '?'
+  Correction: weapon_used: 'smoke_device' -> '?'
+  Correction: outcome: 'smoke device used to disperse ' -> '?'
+  Correction: outcome_detail: 'smoke device used to disperse ' -> '?'
+  Correction: notes: 'ICE agents used smoke device t' -> '?'
+
+================================================================================
+SECTION 3: ENTRIES NEEDING RE-VERIFICATION (errors)
+================================================================================
+  T2-S-007: parse_error
+  T3-002: parse_error
+  T3-062: parse_error
+  T3-060: parse_error
+  T3-061: parse_error
+  T4-081: parse_error
+  T3-139: api_error
+  T3-121: api_error
+  T3-133: api_error
+  T3-184: api_error
+  T3-197: api_error
+
+No sources attached:
+  T3-P040
+
+================================================================================
+SECTION 4: UNRELATED SOURCES (consider removing)
+These sources don't support their entries but entries may have other valid sources.
+================================================================================
+
+Generic/Overview articles attached to specific incidents: 32
+  T1-D-006: ICE Detainee Death Reporting
+  T1-D-056: NPR
+  T2-S-002: NBC News
+  T2-S-001: NBC News
+  T1-D-055: Wikipedia/News reports
+  T2-S-011: NBC News
+  T2-S-009: NBC News
+  T2-S-003: NBC News
+  T2-S-010: NBC News
+  T2-LL-002: NPR
+  ... and 22 more
+
+Wrong incident/date: 17
+  T1-D-062: MyTexasDaily
+    Reason: This article is about a different incident; it reports on a Philippines citizen who died in ICE cust
+  T2-LL-002: ABC7 Los Angeles
+    Reason: This article describes a different incident where reporter Lauren Tomasi was hit in the leg in downt
+  T3-051: ABC7 / NBC / CBS
+    Reason: This article describes a raid on November 19, 2025, which is a different, second raid at the same lo
+  T3-111: New Haven Independent
+    Reason: This article describes a different ICE arrest at the New Haven courthouse on November 13, 2025, not 
+  T3-114: Christianity Today
+    Reason: Describes a different ICE arrest at a church in Atlanta (Norcross) on January 26, 2025, which is not
+  T3-108: CNN
+    Reason: This article is about a different ICE incident (preschooler taken, church protest, FBI agent resigna
+  T3-115: Christian Post
+    Reason: Primarily about a different incident at Downey Memorial Church in Downey, CA, with only a brief, non
+  T3-112: Mercury News (Dec)
+    Reason: Article is about a different incident (Jorge Willy Valera Chuquillanqui) and a later, broader policy
+  T3-120: Salon
+    Reason: Article is about a different incident involving a 6-year-old leukemia patient from Honduras detained
+  T3-118: WTTW Chicago
+    Reason: Reports on a different incident involving Ald. Jessie Fuentes in Chicago on Oct 3, 2025, which is on
+
+================================================================================
+SECTION 5: SHOOTING ENTRIES (T2-S-xxx) ANALYSIS
+Many shooting entries only have generic NBC overview - need incident-specific sources
+================================================================================
+
+Shooting entries with no valid source: 7
+
+  T2-S-002: Marimar Martinez
+    Date: 2025-10-04, Location: Chicago (Brighton Park), Illinois
+
+  T2-S-001: Silverio Villegas Gonzalez
+    Date: 2025-09-12, Location: Franklin Park, Illinois
+
+  T2-S-006: Isaias Sanchez Barboza
+    Date: 2025-12-11, Location: Rio Grande City (Starr County), Texas
+
+  T2-S-011: Julio Cesar Sosa-Celis
+    Date: 2026-01-14, Location: Minneapolis, Minnesota
+
+  T2-S-009: Luis David Nino Moncada
+    Date: 2026-01-08, Location: Portland, Oregon
+
+  T2-S-003: Carlitos Ricardo Parias
+    Date: 2025-10-21, Location: Los Angeles, California
+
+  T2-S-010: Yorlenys Betzabeth Zambrano-Contreras
+    Date: 2026-01-08, Location: Portland, Oregon

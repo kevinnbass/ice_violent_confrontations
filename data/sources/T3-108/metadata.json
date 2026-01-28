@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-108",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.fox10tv.com/2026/01/18/6-month-old-revived-with-cpr-after-tear-gas-floods-familys-suv-amid-ice-protests/",
+      "final_url": "https://www.fox10tv.com/2026/01/18/6-month-old-revived-with-cpr-after-tear-gas-floods-familys-suv-amid-ice-protests/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 185868,
+      "content_hash": "ee11b4970381fe98075d2d86e1fe5e95c9a7cd071bfdc3d02efb65570b51e0ac",
+      "title": "6-month-old revived with CPR after tear gas floods family\u2019s SUV amid ICE protests",
+      "fetched_at": "2026-01-27T16:30:20.185409",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-108\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.wsws.org/en/articles/2026/01/16/mrug-j16.html",
+      "final_url": "https://www.wsws.org/en/articles/2026/01/16/mrug-j16.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 200414,
+      "content_hash": "17c29beee18623f1e4a0913cc977c1130ebffcbccb8c3f161e2d957619dde96f",
+      "title": "Federal agents in Minneapolis tear gas family, sending 2 children and a baby to hospital - World Socialist Web Site",
+      "fetched_at": "2026-01-27T16:30:22.480668",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-108\\article_2.txt"
+    },
+    {
+      "source_index": 0,
+      "url": "https://www.cnn.com/2026/01/17/us/minneapolis-family-tear-gassed-ice",
+      "final_url": "https://www.cnn.com/2026/01/17/us/minneapolis-family-tear-gassed-ice",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "4de5209e6a1061e6990188f0d92535a5b4596c8bcace5672c39f3e3a17cc1b8b",
+      "title": "Minneapolis family, six children tear gassed after they were caught in clash between ICE and protesters | CNN",
+      "fetched_at": "2026-01-27T16:30:16.963336",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260122182226/https://www.cnn.com/2026/01/17/us/minneapolis-family-tear-gassed-ice",
+      "archive_path": "data\\sources\\T3-108\\article_wayback.txt"
+    }
+  ]
+}

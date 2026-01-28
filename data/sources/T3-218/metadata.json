@@ -1,0 +1,19 @@
+{
+  "entry_id": "T3-218",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://immpolicytracking.org/policies/reported-ice-has-resumed-worksite-raids/",
+      "final_url": "https://immpolicytracking.org/policies/reported-ice-has-resumed-worksite-raids/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 105447,
+      "content_hash": "be6a8d867b1d0d329411d50c844a1935517aac56c247f4a20db940797b3ea377",
+      "title": "ICE resumes worksite raids | Immigration Policy Tracking Project",
+      "fetched_at": "2026-01-27T16:28:01.306544",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-218\\article.txt"
+    }
+  ]
+}

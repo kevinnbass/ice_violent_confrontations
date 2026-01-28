@@ -1,0 +1,43 @@
+{
+  "entry_id": "T2-LL-002",
+  "url": "https://abc7.com/post/reporter-hit-rubber-bullet-covering-ice-protests-los-angeles-video/16706142/",
+  "final_url": "https://abc7.com/post/reporter-hit-rubber-bullet-covering-ice-protests-los-angeles-video/16706142/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "af30e67658a4af3ef89eb9f407efe7edb740b31c5b85a11f92e103ba786d08ab",
+  "title": "Reporter hit by rubber bullet while covering ICE protests in Los Angeles - VIDEO - ABC7 Los Angeles",
+  "fetched_at": "2026-01-27T14:47:34.937969",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251118224157/https://abc7.com/post/reporter-hit-rubber-bullet-covering-ice-protests-los-angeles-video/16706142/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://abc7.com/post/reporter-hit-rubber-bullet-covering-ice-protests-los-angeles-video/16706142/",
+      "final_url": "https://abc7.com/post/reporter-hit-rubber-bullet-covering-ice-protests-los-angeles-video/16706142/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 291205,
+      "content_hash": "4a74489119bc3469a1ad6207d9fb1d9000fae7dce8e6afc9bd06c03eb39a9469",
+      "title": "Reporter hit by rubber bullet while covering ICE protests in Los Angeles - VIDEO - ABC7 Los Angeles",
+      "fetched_at": "2026-01-27T16:27:47.351621",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-LL-002\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.npr.org/2025/06/16/nx-s1-5434279/lapd-immigration-protests-journalists-rubber-bullets",
+      "final_url": "https://www.npr.org/2025/06/16/nx-s1-5434279/lapd-immigration-protests-journalists-rubber-bullets",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 104439,
+      "content_hash": "6c8c2372981e6c9b995eaa9d836bfd26c7200878a30ee3d955d32d33b2ec3a0e",
+      "title": "L.A. sued over attacks on journalists at immigration protests : NPR",
+      "fetched_at": "2026-01-27T16:28:23.365833",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-LL-002\\article_1.txt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "entry_id": "T1-D-015",
+  "url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-banner-desert-medical-center-arizona",
+  "final_url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-banner-desert-medical-center-arizona",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 111411,
+  "content_hash": "1bb85ed2d9b8c640f409c65b7ad2999e9cdeddfa7df3fdaad7d965e40b14f132",
+  "title": "ICE detainee passes away at Banner Desert Medical Center in Arizona | ICE",
+  "fetched_at": "2026-01-27T14:45:58.445795",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-banner-desert-medical-center-arizona",
+      "final_url": "https://www.ice.gov/news/releases/ice-detainee-passes-away-banner-desert-medical-center-arizona",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 111411,
+      "content_hash": "8c56421a583c3cfba097eb1ceb8acec179dcbb71d2aae1dff1e1da3fadc0371d",
+      "title": "ICE detainee passes away at Banner Desert Medical Center in Arizona | ICE",
+      "fetched_at": "2026-01-27T16:28:09.137472",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-015\\article.txt"
+    }
+  ]
+}

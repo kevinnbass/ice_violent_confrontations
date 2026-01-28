@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-P019",
+  "url": "https://www.nbcnewyork.com/new-york-city/nyc-ice-protests-today-locations-foley-square-federal-plaza/6298404/",
+  "final_url": "https://www.nbcnewyork.com/new-york-city/nyc-ice-protests-today-locations-foley-square-federal-plaza/6298404/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "a45916a03442ed234ccd32ec21a181e48349ee13da25baf7f1e825cfbff7d96e",
+  "title": "NYC ICE protest in Foley Square yields arrests; more expected \u2013 NBC New York",
+  "fetched_at": "2026-01-27T14:47:57.659495",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20250721193915/https://www.nbcnewyork.com/new-york-city/nyc-ice-protests-today-locations-foley-square-federal-plaza/6298404/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.nbcnewyork.com/new-york-city/nyc-ice-protests-today-locations-foley-square-federal-plaza/6298404/",
+      "final_url": "https://www.nbcnewyork.com/new-york-city/nyc-ice-protests-today-locations-foley-square-federal-plaza/6298404/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 359863,
+      "content_hash": "53a6bcdf27c07b5af53e413c05c5402db008d734b4f713ad125d61a7faeedfa8",
+      "title": "NYC ICE protest in Foley Square yields arrests; more expected \u2013 NBC New York",
+      "fetched_at": "2026-01-27T16:27:59.819176",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P019\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.thecity.nyc/2025/06/10/ice-protests-arrests-nypd-trump-immigration/",
+      "final_url": "https://www.thecity.nyc/2025/06/10/ice-protests-arrests-nypd-trump-immigration/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 274295,
+      "content_hash": "9753f1c056535c99bb0d6cc935a79201ea505fb2af8fb0930ba7fe32b5fc9590",
+      "title": "NYPD Arrests Dozens as Thousands of New Yorkers Join LA in Protesting ICE Raids | THE CITY \u2014 NYC News",
+      "fetched_at": "2026-01-27T16:28:24.338409",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P019\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.fox5ny.com/news/nyc-protests-trump-nypd-los-angeles-ice",
+      "final_url": "https://www.fox5ny.com/news/nyc-protests-trump-nypd-los-angeles-ice",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 156898,
+      "content_hash": "e571121b90ed6cbe9d71d376c327ce81752eb51c295da340359ce0644b1cb973",
+      "title": "NYC protests latest: Could the National Guard be deployed? | FOX 5 New York",
+      "fetched_at": "2026-01-27T16:28:54.142177",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P019\\article_2.txt"
+    }
+  ]
+}

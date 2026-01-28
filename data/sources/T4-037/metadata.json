@@ -1,0 +1,29 @@
+{
+  "entry_id": "T4-037",
+  "url": "https://www.opb.org/article/2025/08/08/immigration-immigrants-woodburn-oregon-deportation-blueberry-farm/",
+  "final_url": "https://www.opb.org/article/2025/08/08/immigration-immigrants-woodburn-oregon-deportation-blueberry-farm/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "660af5af2fbbb326e096f8115b453f9922b2236474ba8abe8491213104aa6387",
+  "title": "Woodburn area farmworkers targeted by ICE, advocates say - OPB",
+  "fetched_at": "2026-01-27T14:47:31.950810",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251219072658/https://www.opb.org/article/2025/08/08/immigration-immigrants-woodburn-oregon-deportation-blueberry-farm/",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.salemreporter.com/2025/08/11/immigration-arrest-of-farmworkers-sends-chilling-effect-through-marion-county/",
+      "final_url": "https://www.salemreporter.com/2025/08/11/immigration-arrest-of-farmworkers-sends-chilling-effect-through-marion-county/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 176287,
+      "content_hash": "5754dbcb042779cf98042b2e1fc99095a9bd97bbd22adbe73ee74961b080dcce",
+      "title": "Immigration arrest of farmworkers sends 'chilling effect' through Marion County - Salem Reporter",
+      "fetched_at": "2026-01-27T16:28:00.229638",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-037\\article_1.txt"
+    }
+  ]
+}

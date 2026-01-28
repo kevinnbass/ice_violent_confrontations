@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-115",
+  "url": "https://www.ncronline.org/news/ice-agents-detain-migrants-church-grounds-2-california-parishes-diocese-says",
+  "final_url": "https://www.ncronline.org/news/ice-agents-detain-migrants-church-grounds-2-california-parishes-diocese-says",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "defef9d5e3e72142ac1449bab2f66a2588aeb9b82b855b4537ddc567f775c45c",
+  "title": "ICE agents detain migrants on church grounds at 2 California parishes, diocese says | National Catholic Reporter",
+  "fetched_at": "2026-01-27T14:46:40.341896",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251120013834/https://www.ncronline.org/news/ice-agents-detain-migrants-church-grounds-2-california-parishes-diocese-says",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ncronline.org/news/ice-agents-detain-migrants-church-grounds-2-california-parishes-diocese-says",
+      "final_url": "https://www.ncronline.org/news/ice-agents-detain-migrants-church-grounds-2-california-parishes-diocese-says",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7548,
+      "content_hash": "99731e7095ae179132961edb740d6d00d2b42db3a697aa41208d2f41793a545b",
+      "title": "ICE agents detain migrants on church grounds at 2 California parishes, diocese says | National Catholic Reporter",
+      "fetched_at": "2026-01-27T16:28:41.720059",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251120013834/https://www.ncronline.org/news/ice-agents-detain-migrants-church-grounds-2-california-parishes-diocese-says",
+      "archive_path": "data\\sources\\T3-115\\article_wayback.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://calmatters.org/california-divide/2025/07/ice-targets-immigrants-church-grounds/",
+      "final_url": "https://calmatters.org/california-divide/2025/07/ice-targets-immigrants-church-grounds/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 240614,
+      "content_hash": "768f33c8714809004936105c3decad0ee89d27a605458e51faa3afaab1ae49ad",
+      "title": "ICE targets men on Inland Empire church grounds - CalMatters",
+      "fetched_at": "2026-01-27T16:29:41.145786",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-115\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.christianpost.com/news/california-pastor-defiant-after-ice-arrest-at-her-church.html",
+      "final_url": "https://www.christianpost.com/news/california-pastor-defiant-after-ice-arrest-at-her-church.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 69811,
+      "content_hash": "3221f400db9c1ba51cecf60ab6583283296c3c1b0e0115a7376c70d0150fc086",
+      "title": "California pastor defiant after ICE arrest at her church | Politics",
+      "fetched_at": "2026-01-27T16:30:20.790662",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-115\\article_2.txt"
+    }
+  ]
+}

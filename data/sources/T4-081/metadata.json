@@ -1,0 +1,29 @@
+{
+  "entry_id": "T4-081",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.charlottealertsnews.com/news/ice-immigration-raid-in-uptown-charlotte-on-north-tryon-st-at-construction-site/",
+      "status_code": 200,
+      "archive_path": "data\\sources\\T4-081\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.cnn.com/2025/11/19/us/north-carolina-charlotte-ice-raids-what-we-know/",
+      "status_code": 200,
+      "archive_path": "data\\sources\\T4-081\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.france24.com/en/americas/20251128-north-carolina-immigration-crackdown-charlotte-fear-workers",
+      "status_code": 200,
+      "archive_path": "data\\sources\\T4-081\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.theassemblync.com/news/politics/immigration/immigration-arrests-economy-charlotte/",
+      "status_code": 200,
+      "archive_path": "data\\sources\\T4-081\\article_3.txt"
+    }
+  ]
+}

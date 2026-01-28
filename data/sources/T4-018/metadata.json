@@ -1,0 +1,43 @@
+{
+  "entry_id": "T4-018",
+  "url": "https://www.npr.org/2025/04/28/nx-s1-5377356/hannah-dugan-judge-fbi-arrested",
+  "final_url": "https://www.npr.org/2025/04/28/nx-s1-5377356/hannah-dugan-judge-fbi-arrested",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "fcff5409dd183b2b297767118196ce8605d88b4a02e0e24934ac96443f2b4b0a",
+  "title": "Hannah Dugan's arrest meant to scare, Wisconsin lawmaker says : NPR",
+  "fetched_at": "2026-01-27T14:50:51.465339",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251224071012/https://www.npr.org/2025/04/28/nx-s1-5377356/hannah-dugan-judge-fbi-arrested",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.cbsnews.com/news/fbi-arrests-wisconsin-judge-obstruction-immigration-case/",
+      "final_url": "https://www.cbsnews.com/news/fbi-arrests-wisconsin-judge-obstruction-immigration-case/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 634921,
+      "content_hash": "1f2d5b2f10435c79facebcb6a33bf1ecf9834a4026b8e1848c25fe6c83bb063f",
+      "title": "FBI arrests Wisconsin Judge Hannah Dugan for obstruction in immigration case - CBS News",
+      "fetched_at": "2026-01-27T16:28:10.060572",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-018\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.fox6now.com/news/milwaukee-county-judge-dugan-arrested-protests-outside-fbi",
+      "final_url": "https://www.fox6now.com/news/milwaukee-county-judge-dugan-arrested-protests-outside-fbi",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 152377,
+      "content_hash": "8cbdcaeec5033d495c4fd0125355a1ba2513283036484328bcfa6059cc76f216",
+      "title": "Milwaukee County Judge Dugan arrested; protests outside FBI | FOX6 Milwaukee",
+      "fetched_at": "2026-01-27T16:28:44.612444",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T4-018\\article_2.txt"
+    }
+  ]
+}

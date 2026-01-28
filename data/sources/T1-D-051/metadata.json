@@ -1,0 +1,52 @@
+{
+  "archive_fetch": {
+    "method": "google_cache",
+    "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fmississippitoday.org%2F2025%2F12%2F22%2Fnicaraguan-dead-after-detention-in-mississippi-ice-facility%2F",
+    "fetched_at": "2026-01-27T01:25:14.530190",
+    "content_length": 85207
+  },
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.ice.gov/news/releases/illegal-alien-nicaragua-passes-away-hospital-natchez",
+      "final_url": "https://www.ice.gov/news/releases/illegal-alien-nicaragua-passes-away-hospital-natchez",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109812,
+      "content_hash": "8d1a34fecca197630b670c02783022bd0f4fe6a03d815f8fc22836b533f55d27",
+      "title": "Illegal alien from Nicaragua passes away at a hospital in Natchez | ICE",
+      "fetched_at": "2026-01-27T16:28:08.897858",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-051\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.mississippifreepress.org/nicaraguan-man-in-ice-custody-dies-in-mississippi-hospital/",
+      "final_url": "https://www.mississippifreepress.org/nicaraguan-man-in-ice-custody-dies-in-mississippi-hospital/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 255625,
+      "content_hash": "3b7c38e9e7ed3b8a182f1c69c669c0695d70989adafdce4140291354acc66df8",
+      "title": "Nicaraguan Man in ICE Custody Dies in Mississippi Hospital",
+      "fetched_at": "2026-01-27T16:28:44.100847",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-051\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.newsweek.com/ice-detention-centers-four-deaths-four-days-11246138",
+      "final_url": "https://www.newsweek.com/ice-detention-centers-four-deaths-four-days-11246138",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 890887,
+      "content_hash": "6ecd9ccb07011cf079d02568f86f69bc6c2e7e0994b0560327636586b2b8278d",
+      "title": "ICE detention centers see four deaths in four days - Newsweek",
+      "fetched_at": "2026-01-27T16:29:23.753891",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-051\\article_3.txt"
+    }
+  ]
+}

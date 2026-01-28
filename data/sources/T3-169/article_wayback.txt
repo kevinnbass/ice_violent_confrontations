@@ -1,0 +1,99 @@
+Title: ICE Air’s Sloppy, Dangerous Deportation Flights
+Authors: Gillian Brockell, More Gillian Brockell, Maureen Tkacik, David Dayen, Harold Meyerson, Ryan Cooper
+Published: 2025-11-17 00:00:00
+
+In a memo to staff on October 30, Avelo Airlines’ head of flight operations Scott Hall painted a rosy, if defensive, picture of the company’s future. Avelo’s financial strategy was working, he said. The company had a big contract from Immigration and Customs Enforcement (ICE) to do charter deportation flights, and despite some bumps, the future was bright. They had just hired more pilots and couldn’t buy aircraft fast enough to keep pace with demand.
+
+Sure, shutting down their entire West Coast operation looked bad, but it was good, actually, a long-planned move toward efficiency that had nothing to do with the “outrage mob” boycotting Avelo for its association with ICE. In any case, Hall said, the boycott movement was fading.
+
+Related: Homeland Security tightens rule on anti-ICE activities
+
+The truth is much more bleak: Avelo’s ICE flights appear to be a fiasco, defined by the poor planning, cruel treatment, and serious safety lapses endemic to “ICE Air,” the network of charter carriers and military planes that transport shackled migrants to detention facilities and out of the country. Just this past week, a mid-flight emergency loss of cabin pressure left six people injured.
+
+Plus, according to Hall himself, the longest government shutdown in history was hindering the very thing Avelo went to ICE for in the first place—cash flow.
+
+This story is based on public statements, flight data, internal messages, and interviews with activists and current and former Avelo employees. Media representatives for Avelo, ICE, and the Department of Homeland Security (DHS) did not respond to a detailed list of questions about the incidents described below.
+
+Pressured by ICE to Cut Corners
+
+A pile of drawstringed plastic bags sits on the tarmac in front of a charter plane, awaiting inspection before going into the cargo hold. Each one belongs to a migrant in ICE custody and carries the few personal belongings they’re allowed to bring with them when they’re deported, or when, as is more often the case, they’re shuffled from one detention center to another.
+
+To the activists who monitor ICE flights, it’s a familiar sight, taking place 40 to 50 times a day at airports across the country. To the Avelo crew at San Diego’s Miramar airport on July 3, it was probably still pretty new. Avelo began flying for ICE in May.
+
+On this particular morning, according to an email sent to Avelo’s director of safety, an Avelo employee spotted what appeared to be a lithium-ion battery pack in one of these plastic bags, as it was being loaded into the cargo hold by a GEO Group security guard. Lithium-ion batteries are banned from checked bags by the Federal Aviation Administration, because of the risk of intense fire that the crew cannot reach.
+
+According to the email, the Avelo employee “immediately froze the scene,” and contacted a supervisor. “The agreed action to take was to check all cargo for additional hazmat.” But when the employee informed ICE’s flight officer in charge, the officer “refused to assist and attempted to pressure the crew into departing.”
+
+The ICE officer and the guard claimed to have already checked all the bags for hazmat, the email said, and later, the ICE agent claimed that “he needed a warrant to search the cargo.”
+
+The employee searched the bags by himself, ultimately finding more than two dozen hazardous devices. A photo attached to the email shows half of them, one clearly labeled “WORKPRO LITHIUM-ION 20v 1.5Ah,” which is a battery pack used for power tools, suggesting its owner had been grabbed from a job site and held onto it. And that is a sizable battery—holding about ten times as much energy as an average cellphone.
+
+ICE’s Air Operations Handbook makes no mention of needing a warrant to search migrants’ bags, and passenger bags on commercial aircraft are subject to warrantless inspections every day.
+
+Public flight data matches the call sign, aircraft registration number, and destination city—Villahermosa, Mexico—described in the email. Villahermosa is a common removal destination for third-country nationals from Central and South America.
+
+Though the Avelo employee described in the July email resisted pressure from the ICE officer, this does not appear to be an isolated incident. In September, Sara Nelson, the head of the Association of Flight Attendants union, which represents 225 Avelo employees, sent a letter to CEO Andrew Levy. She wrote that “based upon reports we are receiving from our members,” she had “grave concerns” about Avelo’s ICE flights, and that flight attendants had been “discouraged or prohibited” from performing required safety checks.
+
+“How should flight attendants ensure that FAA safety requirements are met if passengers (including ICE Staff) refuse to comply?” she added. “We need to understand how you are ensuring written policies are followed, and what you are doing to ensure the cooperation of ICE staff.”
+
+The letter echoes accounts from flight attendants for another ICE charter, GlobalX, who told ProPublica in April that ICE officers and contracted guards treated them like “maids,” refused to comply with their safety instructions, and even reported them to supervisors for making safety-related requests.
+
+Levy has yet to respond to the union letter—not unusual for him, considering Avelo’s flight attendants unionized more than three years ago and are still trying to get management to negotiate their first contract.
+
+Prevented From Protecting Passengers
+
+Despite lingering sexist stereotypes (“Coffee, tea or me?”), a flight attendant’s primary purpose is to ensure the safety of passengers on a commercial aircraft. That means memorizing dozens of federal aviation regulations, constantly performing safety checks, and training (and retraining) in first aid, firefighting and, most importantly, evacuating an aircraft in the event of an emergency. Most of the instructions flight attendants give passengers—bringing up your seat back and tray table, putting carry-on items underneath the seat in front of you, opening window shades during landing—are designed to assist flight attendants in evacuating an aircraft in 90 or seconds or less.
+
+But flight attendants for ICE charters say this is unlikely on ICE flights, because all adult migrants (and some minors) are shackled with handcuffs and leg irons attached to a chain around their waists—regardless of gender, age, disability, criminal background, or lack thereof. Seventy-one percent of migrants in ICE custody in September had no criminal convictions.
+
+Migrants deemed unruly can also be wrapped in a restraint device similar to a straitjacket and/or have a hood placed over their head, making evacuation all but impossible.
+
+In July, activists watching a livestream at Seattle’s Boeing Field recorded ICE guards forcefully pushing a shackled and hooded migrant toward an Avelo plane. The migrant, unable to see, appeared to trip and fall forward, hitting his head on the ground.
+
+In 2021, Capital & Main obtained internal reports showing ICE flights had to be evacuated six times between 2014 and 2019. One took seven minutes to evacuate; another took two and a half minutes. Needless to say, even 30 seconds might be the difference between life and death in a crisis. The evacuation times of the other four are unknown.
+
+Avelo flight attendants have received inadequate guidance on how to evacuate “shackled or otherwise restrained passengers,” the union letter said. GlobalX flight attendants told ProPublica they had also received inadequate guidance on evacuations, with some saying they had been told to save themselves.
+
+Flight attendants have also long questioned how migrants can reach for oxygen masks, since their handcuffs are attached to a waist chain. And on November 13, an Avelo ICE flight declared an emergency when the cabin lost pressure, according to air traffic control transmissions. The plane made a rapid descent and landed safely. Of 88 people on board, six were injured, an emergency notification message said, experiencing nosebleeds. The notification does not say how many of the six were migrants, guards, or crew members.
+
+Long and Cruel Delays
+
+On the afternoon of October 26, an activist who goes by “JJ in DC” was tracking one of Avelo’s dedicated ICE planes—which have all been painted white to remove company branding—as it flew a scheduled ICE route from Mesa, Arizona, to Denver and then Las Vegas. It was supposed to continue on to the ICE detention hub of El Paso, but hours later, public flight databases showed it still on the ground in Las Vegas, indicating a mechanical issue.
+
+After four hours, another Avelo ICE plane was dispatched to Las Vegas, but upon arrival, it also just sat there in a back corner of the airport primarily used for loading cargo. Could the second plane also be having a mechanical issue? he wondered.
+
+The planning for Avelo’s ICE flights has been a disorganized mess, according to an Avelo employee who agreed to speak to me on condition of anonymity. Many of the flights have been delayed for maintenance or other logistical reasons, leaving shackled migrants stuck on board for hours, sometimes soiling themselves, the employee said. (Migrants have reported soiling themselves on ICE flights for years, because they say some ICE officers and contract guards won’t let them stand up to use the lavatory.)
+
+Flight attendants also get stuck in these long delays, since FAA rules prohibit them from leaving an aircraft if there are passengers on board. And because they are only paid when the boarding door is closed, long delays can also be unpaid.
+
+The employee declined to describe specific delays for fear it would make them identifiable to Avelo management, but added, “Everyone has heard of at least one incident of this by now.”
+
+“That’s the saddest part in this,” the employee said, “how quickly you get desensitized.”
+
+Neither Avelo nor ICE responded to questions about how long migrants and crew were stuck on a plane in Las Vegas. Flight databases show a third Avelo ICE plane arriving in Las Vegas on the evening of October 27, nearly 30 hours after the first one landed.
+
+Less Profitable Than Expected
+
+For all the grief Avelo has gotten—and, more importantly, caused—with its ICE flights, the leaked memo indicates they have not been as profitable as management had hoped. In pockets between Hall’s optimistic predictions for market dominance and a strong economy, he appears anxious to cut costs, no matter how small the savings (finding cheaper layover hotels, reviewing all fuel receipts for potential errors, etc.), suggesting razor-thin margins keeping the company aloft. The fourth quarter will be important “to really bank cash before we head into the weaker first quarter,” he said.
+
+On page 27 comes an admission: The government shutdown “has slowed things” for ICE’s charter carriers. Worse, Avelo has to keep setting aside five of its 22 planes for ICE duty, even though flight data for those planes show them spending more and more time sitting on the ground as the month of October progresses.
+
+Because ICE flights are scheduled through a flight broker, charter carriers have continued to be paid throughout the shutdown. But the broker, CSI Aviation, appears to have maxed out its current contract award, and ICE may not have been able to raise the ceiling until the government reopened.
+
+A plane that sits on the ground is a money pit.
+
+“This business is important to us financially,” Hall warned, “but it must meet our expectations with the commitment we made when we entered this business.”
+
+The “Outrage Mob”
+
+Throughout the memo, Hall’s positive take on the airline industry and the economy in general (“bouncing along”) borders on the delusional. Airlines were going to use AI “to help set fares, markets and other tasks within finance,” he said, leading to a reduction in “head count” that would be good for them. So would record highs in credit card interest rates and consumer debt, because it would drive people to low-cost carriers.
+
+When he got to the anti-Avelo backlash and the network of activists trying to drive Avelo out of their local airports, he couldn’t keep up the corporate happy face, openly mocking protesters at a recent demonstration at Baltimore-Washington International Thurgood Marshall Airport as fitting “a common demographic.” Of Maryland state Sen. Clarence Lam, who is trying to cancel Avelo’s BWI contract, he griped, “Hmmm here is a thought, don’t fly us if it doesn’t meet your values, but you shouldn’t be able to take something away from the customers that depend on us.”
+
+“The outrage mob is still walking around in circles shouting at the sky or whomever will listen,” he said, but no matter, the movement was small and “continues to subside.” He didn’t mention that a few days earlier, Rachel Maddow had blasted the company in a long segment on MSNBC.
+
+Hall is right on one point: The focus on Avelo isn’t entirely fair, or at least, it isn’t proportional to its participation in President Trump’s deportation machine. GlobalX flies way more ICE flights than any other carrier, and ICE’s removals of third-country nationals to African prisons—arguably its cruelest missions to date—are being done by other charters that have largely flown under the radar.
+
+But here’s the thing: Until recently, Avelo was the only scheduled passenger service carrier to sign with ICE, making it uniquely vulnerable to public opinion. And as the number of appalling stories of immigrants being abused by ICE continues to grow, so too does the public’s desire to express their entirely legitimate, yes, outrage.
+
+“I think it’s ironic that Mr. Hall says that customers shouldn’t fly with Avelo if they don’t meet their values,” Lam, the state senator, told me. “The state of Maryland can and should ensure that those who have contracts share our values and adhere to our health and safety requirements—and if Avelo doesn’t want to, they should take their tiny airline to go fly somewhere else. We don’t need their business.”

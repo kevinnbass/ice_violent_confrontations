@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-048",
+  "url": "https://www.post-gazette.com/local/north/2025/06/26/ice-tepache-mexican-restaurant/stories/202506260091",
+  "final_url": "https://www.post-gazette.com/local/north/2025/06/26/ice-tepache-mexican-restaurant/stories/202506260091",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 77449,
+  "content_hash": "9ae58459fcf251487e318305ef5bca5ffc30ff74181aa6ad0f2a0e7a9c43bfff",
+  "title": "Tepache Mexican Kitchen and Bar in Marshall Township raided by ICE, 14 arrested | Pittsburgh Post-Gazette",
+  "fetched_at": "2026-01-27T14:45:46.265021",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.wtae.com/article/tepache-ice-arrests-allegheny-county-pittsburgh-area/65204809",
+      "final_url": "https://www.wtae.com/article/tepache-ice-arrests-allegheny-county-pittsburgh-area/65204809",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 330262,
+      "content_hash": "536f02d4e4469b845bcc06b12237555823b223fe8df4d404d3519b7141fbc8ed",
+      "title": "ICE detained 14 people at Tepache's Pittsburgh-area location",
+      "fetched_at": "2026-01-27T16:28:00.778445",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-048\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.cbsnews.com/pittsburgh/news/ice-immigration-raid-tepache-mexican-kitchen-and-bar/",
+      "final_url": "https://www.cbsnews.com/pittsburgh/news/ice-immigration-raid-tepache-mexican-kitchen-and-bar/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 638479,
+      "content_hash": "8ea615ab7b07ab8541ad2c5523588c719f215155175047d47a4a719747c42ca9",
+      "title": "ICE agents arrest 14 people during immigration raid at Pittsburgh-area restaurant - CBS Pittsburgh",
+      "fetched_at": "2026-01-27T16:28:14.608984",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-048\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.wpxi.com/news/local/pittsburgh-area-mexican-restaurant-says-it-was-raided-by-ice-agents/3GQPYV3PINHNRG76BLTH6XNX4M/",
+      "final_url": "https://www.wpxi.com/news/local/pittsburgh-area-mexican-restaurant-says-it-was-raided-by-ice-agents/3GQPYV3PINHNRG76BLTH6XNX4M/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 197148,
+      "content_hash": "2ded4cd5ecd51ae6762f939a6076cd26687f17162db0a81690a2d24cd5e4f950",
+      "title": "14 arrested during immigration enforcement at Pittsburgh-area Mexican restaurant, officials say \u2013 WPXI",
+      "fetched_at": "2026-01-27T16:28:50.606962",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-048\\article_3.txt"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "archive_fetch": {
+    "method": "google_cache",
+    "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fgothamist.com%2Fnews%2Fice-wrongfully-detained-us-citizen-monica-moreta-galarza",
+    "fetched_at": "2026-01-27T01:25:41.472305",
+    "content_length": 85007
+  },
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.cnn.com/2025/09/26/us/new-york-federal-agent-woman-confrontation-ice-hnk",
+      "final_url": "https://www.cnn.com/2025/09/26/us/new-york-federal-agent-woman-confrontation-ice-hnk",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "af1cd5a432666812087d1aa5989f4120c0dbe6549fff80500d93425c6c5e82d1",
+      "title": "ICE officer who shoved a mother to the floor at an immigration courthouse is \u201a\u00c4\u00f2relieved of his current duties,\u201a\u00c4\u00f4 agency says | CNN",
+      "fetched_at": "2026-01-27T15:38:32.919014",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251225234339/https://www.cnn.com/2025/09/26/us/new-york-federal-agent-woman-confrontation-ice-hnk",
+      "archive_path": "data\\sources\\T3-061\\article_1_wayback.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.cbsnews.com/newyork/news/ice-agent-shoves-woman-monica-elizabeth-moreta-galarza/",
+      "final_url": "https://www.cbsnews.com/newyork/news/ice-agent-shoves-woman-monica-elizabeth-moreta-galarza/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 647848,
+      "content_hash": "700f1ebb9a84ef5dbfa8e4af91b56b7b8015b729ef3fabfb59569ebb73a4955f",
+      "title": "ICE agent seen on viral video shoving woman had no \"compassion,\" victim says - CBS New York",
+      "fetched_at": "2026-01-27T16:29:00.791418",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-061\\article_2.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://www.propublica.org/article/ice-officer-shoves-woman-till-eckert",
+      "final_url": "https://www.propublica.org/article/ice-officer-shoves-woman-till-eckert",
+      "status_code": null,
+      "content_type": null,
+      "content_length": 0,
+      "content_hash": "6de1456568c381f8b644ac0a670524ffdb18e499f5fbb38608b8ace8de1d936d",
+      "title": "I Filmed the ICE Officer Who Shoved a Woman \u2014 ProPublica",
+      "fetched_at": "2026-01-27T16:31:04.089986",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20260126073522/https://www.propublica.org/article/ice-officer-shoves-woman-till-eckert",
+      "archive_path": "data\\sources\\T3-061\\article_3_wayback.txt"
+    }
+  ]
+}

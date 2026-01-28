@@ -1,0 +1,43 @@
+{
+  "entry_id": "T1-D-005",
+  "url": "https://www.ice.gov/news/releases/colombian-national-dies-after-being-found-unresponsive-ice-custody-phelps-county-jail",
+  "final_url": "https://www.ice.gov/news/releases/colombian-national-dies-after-being-found-unresponsive-ice-custody-phelps-county-jail",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 109440,
+  "content_hash": "3356683e1c9524cde3fb1b8d4bf6aba3c9c19726f0295b59ba05ed582d8945e2",
+  "title": "Colombian national dies after being found unresponsive in ICE custody at Phelps County Jail | ICE",
+  "fetched_at": "2026-01-27T14:45:43.264924",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.ice.gov/news/releases/colombian-national-dies-after-being-found-unresponsive-ice-custody-phelps-county-jail",
+      "final_url": "https://www.ice.gov/news/releases/colombian-national-dies-after-being-found-unresponsive-ice-custody-phelps-county-jail",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109440,
+      "content_hash": "fd855f3e3d543a9c7c0bdef3e3a98be1895fe55c88abe6cd96d024a6de926003",
+      "title": "Colombian national dies after being found unresponsive in ICE custody at Phelps County Jail | ICE",
+      "fetched_at": "2026-01-27T16:27:43.584418",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-005\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://fox2now.com/news/missouri/man-found-unresponsive-dies-in-ice-custody-at-phelps-county-jail/",
+      "final_url": "https://fox2now.com/news/missouri/man-found-unresponsive-dies-in-ice-custody-at-phelps-county-jail/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 952468,
+      "content_hash": "5305c2c93fb29f7d97362fc3539b7f8ee522d3582f076921c2683a69ea3ed0b0",
+      "title": "Man found unresponsive, dies in ICE custody at Phelps County Jail | FOX 2",
+      "fetched_at": "2026-01-27T16:28:20.066949",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-005\\article_1.txt"
+    }
+  ]
+}

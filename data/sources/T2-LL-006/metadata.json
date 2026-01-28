@@ -1,0 +1,33 @@
+{
+  "entry_id": "T2-LL-006",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.loevy.com/wp-content/uploads/2025/10/Broadview-Complaint-10.06.25.pdf",
+      "final_url": "https://www.loevy.com/wp-content/uploads/2025/10/Broadview-Complaint-10.06.25.pdf",
+      "status_code": 200,
+      "content_type": "application/pdf",
+      "content_length": 561876,
+      "content_hash": "4bfd3678a648d99f095b96d220c8e9b477091174f2c1f86f823a32240c510459",
+      "title": null,
+      "fetched_at": "2026-01-27T16:27:47.091786",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-LL-006\\document.pdf"
+    },
+    {
+      "source_index": 1,
+      "url": "https://abc7chicago.com/post/lawsuit-excessive-use-force-protesters-press-dhs-midway-blitz-dropped-feds-leave/18241654/",
+      "final_url": "https://abc7chicago.com/post/lawsuit-excessive-use-force-protesters-press-dhs-midway-blitz-dropped-feds-leave/18241654/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 315202,
+      "content_hash": "fe15c1de188a9e78d1586560631e61ee17ccf299bc3775762188ac9b72c2e210",
+      "title": "Lawsuit over excessive use of force against protesters, press by DHS under 'Midway Blitz' dropped after feds leave - ABC7 Chicago",
+      "fetched_at": "2026-01-27T16:28:24.251481",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T2-LL-006\\article_1.txt"
+    }
+  ]
+}

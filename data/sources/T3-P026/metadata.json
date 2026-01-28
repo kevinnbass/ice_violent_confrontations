@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-P026",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.kuow.org/stories/seattle-immigration-protests-block-ice-vans-from-leaving-federal-building",
+      "final_url": "https://www.kuow.org/stories/seattle-immigration-protests-block-ice-vans-from-leaving-federal-building",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 64356,
+      "content_hash": "71bfb9c3b4fc05eb0c3341b0a66f627157b9cf28bada286fc006da801f07fb37",
+      "title": "KUOW - Seattle protesters block ICE vans from leaving immigration court",
+      "fetched_at": "2026-01-27T16:28:03.744966",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P026\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://southseattleemerald.org/news/2025/06/12/hundreds-protest-against-ice-at-seattle-federal-building",
+      "final_url": "https://southseattleemerald.org/news/2025/06/12/hundreds-protest-against-ice-at-seattle-federal-building",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 472764,
+      "content_hash": "55d155ffbfdc08e61e5fb993e40a7314fe38d1b98b041b1ea2b160e44ab1d66e",
+      "title": "Hundreds Protest Against ICE at Seattle Federal Building",
+      "fetched_at": "2026-01-27T16:28:31.858983",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P026\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.realchangenews.org/news/2025/06/20/seattle-rocked-wave-ice-protests-amid-federal-crackdown",
+      "final_url": "https://www.realchangenews.org/news/2025/06/20/seattle-rocked-wave-ice-protests-amid-federal-crackdown",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 40653,
+      "content_hash": "d3faa6036aa004174f89454bac43917cf8def12425f30022deb77d4f321d1764",
+      "title": "Seattle rocked by wave of ICE protests amid federal crackdown | June 18-24, 2025 | Real Change",
+      "fetched_at": "2026-01-27T16:29:02.049109",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P026\\article_2.txt"
+    }
+  ]
+}

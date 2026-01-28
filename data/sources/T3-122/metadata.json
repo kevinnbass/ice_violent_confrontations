@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-122",
+  "url": "https://19thnews.org/2025/12/postpartum-immigrant-detention-ice/",
+  "final_url": "https://19thnews.org/2025/12/postpartum-immigrant-detention-ice/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "fe26c1930908284e5176126397f7f975692a79d091bc15cff4f4dced6ee3ea5b",
+  "title": "Nayra Guzm\u00e1n detained by ICE 15 days after giving birth",
+  "fetched_at": "2026-01-27T14:46:47.188602",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20260122090127/https://19thnews.org/2025/12/postpartum-immigrant-detention-ice/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://19thnews.org/2025/12/postpartum-immigrant-detention-ice/",
+      "final_url": "https://19thnews.org/2025/12/postpartum-immigrant-detention-ice/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 220361,
+      "content_hash": "1b4079b041eee68be6757c2641652cdbb0654aa37682ef09ce499eb073c196cf",
+      "title": "Nayra Guzm\u00e1n detained by ICE 15 days after giving birth",
+      "fetched_at": "2026-01-27T16:27:46.627427",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-122\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://rewirenewsgroup.com/2025/12/03/her-baby-was-in-the-nicu-she-was-in-ice-detention/",
+      "final_url": "https://rewirenewsgroup.com/2025/12/03/her-baby-was-in-the-nicu-she-was-in-ice-detention/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 115198,
+      "content_hash": "f6c8686ddd5a52088d63366a6d687cfe707832d9216b94b64cc7f304790f80b8",
+      "title": "Her Baby Was In The NICU. She Was In ICE Detention",
+      "fetched_at": "2026-01-27T16:28:18.981367",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-122\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://lailluminator.com/2025/10/21/ice-keeps-detaining-pregnant-immigrants-against-federal-policy/",
+      "final_url": "https://lailluminator.com/2025/10/21/ice-keeps-detaining-pregnant-immigrants-against-federal-policy/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7515,
+      "content_hash": "18635833740872780621686860ac151aa522f1601e07fdc53dcc961d9c56e3f2",
+      "title": "ICE keeps detaining pregnant immigrants \u2014 against federal policy \u2022 Louisiana Illuminator",
+      "fetched_at": "2026-01-27T16:30:42.181639",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251125072117/https://lailluminator.com/2025/10/21/ice-keeps-detaining-pregnant-immigrants-against-federal-policy/",
+      "archive_path": "data\\sources\\T3-122\\article_2_wayback.txt"
+    }
+  ]
+}

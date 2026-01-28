@@ -1,0 +1,47 @@
+{
+  "entry_id": "T3-212",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.foxnews.com/us/ice-nabs-7-illegal-immigrants-during-philadelphia-car-wash-raid",
+      "final_url": "https://www.foxnews.com/us/ice-nabs-7-illegal-immigrants-during-philadelphia-car-wash-raid",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 422329,
+      "content_hash": "d1edf0ba5fbdae07dd5729e1259fb86dce035dda48b4592e17b71a97253d3f5f",
+      "title": "ICE Philadelphia arrests 7 illegal immigrants in car wash raid | Fox News",
+      "fetched_at": "2026-01-27T16:27:58.383970",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-212\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.inquirer.com/news/philadelphia/ice-raid-car-wash-immigration-deportation-20250202.html",
+      "final_url": "https://www.inquirer.com/news/philadelphia/ice-raid-car-wash-immigration-deportation-20250202.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 286784,
+      "content_hash": "16e803af3071f739446a32d72ed69ea3e398590d818262967bf32d9570bd4418",
+      "title": "ICE raid at Complete Autowash Philly unsettled neighbors and officials",
+      "fetched_at": "2026-01-27T16:28:24.689898",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-212\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.cbsnews.com/philadelphia/news/ice-raid-car-wash-juniata-park-north-philadelphia/",
+      "final_url": "https://www.cbsnews.com/philadelphia/news/ice-raid-car-wash-juniata-park-north-philadelphia/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 655538,
+      "content_hash": "bfbb3121db4cdfd08a684d0f1c5c4049bf429544a397e29a4fda77246096c54b",
+      "title": "Surveillance video shows apparent ICE raid at North Philadelphia car wash - CBS Philadelphia",
+      "fetched_at": "2026-01-27T16:28:54.250893",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-212\\article_2.txt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "entry_id": "T1-D-054",
+  "url": "https://www.wusf.org/politics-issues/2025-10-20/jordanian-man-dies-in-ice-custody-in-miami-marking-the-17th-death-this-year",
+  "final_url": "https://www.wusf.org/politics-issues/2025-10-20/jordanian-man-dies-in-ice-custody-in-miami-marking-the-17th-death-this-year",
+  "status_code": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "content_length": 204118,
+  "content_hash": "4a2b8c65930bc3c9bbca1c2c7c89d099408886ed0b2125e65906728cd12b2dd9",
+  "title": "Immigrant dies in ICE custody in Miami, the 17th death this year | WUSF",
+  "fetched_at": "2026-01-27T14:45:46.736970",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.wusf.org/politics-issues/2025-10-20/jordanian-man-dies-in-ice-custody-in-miami-marking-the-17th-death-this-year",
+      "final_url": "https://www.wusf.org/politics-issues/2025-10-20/jordanian-man-dies-in-ice-custody-in-miami-marking-the-17th-death-this-year",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 204234,
+      "content_hash": "0f213bb10dd3871e7108dd247d58c4e9d21359bd12b38b96b48f6d3184b1a6fb",
+      "title": "Immigrant dies in ICE custody in Miami, the 17th death this year | WUSF",
+      "fetched_at": "2026-01-27T16:28:00.932698",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T1-D-054\\article.txt"
+    }
+  ]
+}

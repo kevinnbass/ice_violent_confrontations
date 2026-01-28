@@ -1,0 +1,19 @@
+{
+  "entry_id": "T3-124",
+  "url": "https://www.hrw.org/news/2025/08/29/us-migrants-face-abuse-in-guantanamo",
+  "final_url": "https://www.hrw.org/news/2025/08/29/us-migrants-face-abuse-in-guantanamo",
+  "status_code": 403,
+  "content_type": "text/html; charset=utf-8",
+  "content_length": 560,
+  "content_hash": "5a850b02964737bf440c2c7775d9d2b01823ae764b35d273e6d83da8c2bc4de5",
+  "title": "US: Migrants Face Abuse in Guant\u00e1namo | Human Rights Watch",
+  "fetched_at": "2026-01-27T00:30:37.523386",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251218231631/https://www.hrw.org/news/2025/08/29/us-migrants-face-abuse-in-guantanamo",
+  "retry_fetch": {
+    "method": "wayback_20250903042535",
+    "fetched_at": "2026-01-27T00:59:06.047085",
+    "content_length": 204481,
+    "content_hash": "a23de036f5b46065b71b72ea1a5cbac451a83adcaf9e62334640e59bd1483862"
+  }
+}

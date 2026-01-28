@@ -1,0 +1,444 @@
+{
+  "stats": {
+    "total": 400,
+    "passed": 359,
+    "failed_no_sources": 23,
+    "failed_partial": 6,
+    "errors": 12,
+    "unrelated_sources": 66
+  },
+  "entries_needing_new_sources": [
+    "T1-D-006",
+    "T1-S-002",
+    "T2-S-002",
+    "T2-S-001",
+    "T2-S-006",
+    "T2-S-011",
+    "T2-S-009",
+    "T2-S-003",
+    "T2-S-010",
+    "T2-LL-002",
+    "T2-WD-003",
+    "T2-LL-008",
+    "T2-WD-005",
+    "T3-049",
+    "T3-051",
+    "T3-111",
+    "T3-189",
+    "T3-P013",
+    "T3-P031",
+    "T3-219",
+    "T3-P030",
+    "T3-218",
+    "T4-014"
+  ],
+  "entries_with_partial_issues": [
+    {
+      "id": "T1-D-021",
+      "score": 50,
+      "issues": [
+        "The specific victim's name is not found in the provided source text.",
+        "The exact date of death (2025-12-12) is not confirmed.",
+        "Cause of death and victim details are not provided."
+      ]
+    },
+    {
+      "id": "T2-LL-010",
+      "score": 50,
+      "issues": [
+        "Victim name 'Joselyn Walsh' not found in the provided article excerpt.",
+        "Specific injury detail (projectile penetrating guitar and striking leg) not found.",
+        "Circumstances about federal charges in October not mentioned in the excerpt.",
+        "The article describes general protests and use of less-lethal weapons but not this specific individual's incident."
+      ]
+    },
+    {
+      "id": "T3-018",
+      "score": 60,
+      "issues": [
+        "Article date (Oct 3, 2025) is before entry date (Oct 15, 2025).",
+        "Article reports 400 arrests in first 7 months of year, not 800 in October.",
+        "Article discusses ongoing daily arrests, not a single 'mass raid' event.",
+        "Article does not mention statewide arrests or the West Tennessee Detention Facility reopening."
+      ]
+    },
+    {
+      "id": "T3-P011",
+      "score": 60,
+      "issues": [
+        "Victim name 'Ryanne Mena' is not mentioned in either source article.",
+        "The specific injury detail (concussion, hit 1 inch above right ear) is not provided in the articles.",
+        "The articles do not mention ICE as the agency involved; they describe LAPD and LASD actions.",
+        "The broader pattern of 35 attacks on journalists cited in the entry's notes is not mentioned in the provided articles."
+      ]
+    },
+    {
+      "id": "T3-P039",
+      "score": 40,
+      "issues": [
+        "No source explicitly mentions Rossana Rodriguez-Sanchez or confirms she was struck by pepper balls on Sept 19.",
+        "The Tribune article mentions Lt. Gov. Stratton and protests but not the specific incident.",
+        "The Sun-Times article is about a different date (Sept 22)."
+      ]
+    },
+    {
+      "id": "T4-051",
+      "score": 40,
+      "issues": [
+        "Article describes raid on an Italian restaurant, not a taco restaurant.",
+        "Article mentions use of flash-bangs, not a smoke device.",
+        "Article date (2025-06-06) is a news report date, not the incident date; incident date not specified.",
+        "Article mentions San Diego but not the specific restaurant name 'Buona Forchetta'.",
+        "The 'taco restaurant' confusion appears to be conflated with a separate Minneapolis incident mentioned later in the article."
+      ]
+    }
+  ],
+  "entries_needing_reverification": [
+    "T2-S-007",
+    "T3-002",
+    "T3-062",
+    "T3-060",
+    "T3-061",
+    "T4-081",
+    "T3-139",
+    "T3-121",
+    "T3-133",
+    "T3-184",
+    "T3-197"
+  ],
+  "entries_without_sources": [
+    "T3-P040"
+  ],
+  "unrelated_sources": [
+    {
+      "entry_id": "T1-D-006",
+      "source_name": "ICE Detainee Death Reporting",
+      "reason": "This is a generic ICE policy page about detainee death reporting procedures, not a report on the specific incident involving Nhon Ngoc Nguyen."
+    },
+    {
+      "entry_id": "T1-S-002",
+      "source_name": "NBC News / Official",
+      "reason": "The article discusses a lawsuit about Operation Metro Surge and a scheduled hearing, with no mention of a shooting, death in custody, or a victim named Alex Pretti."
+    },
+    {
+      "entry_id": "T1-D-056",
+      "source_name": "NPR",
+      "reason": "The article is a Wikipedia entry about general Trump administration deportation policy, not about the specific death of Geraldo Lunas Campos."
+    },
+    {
+      "entry_id": "T1-D-062",
+      "source_name": "MyTexasDaily",
+      "reason": "This article is about a different incident; it reports on a Philippines citizen who died in ICE custody at a Texas medical center but does not mention Pete Sumalo Montejo, Harlingen, or the December 5, 2025 date."
+    },
+    {
+      "entry_id": "T2-S-002",
+      "source_name": "NBC News",
+      "reason": "This article provides a general overview of ICE/CBP shootings since September 2025 but does not mention the specific incident involving Marimar Martinez in Chicago."
+    },
+    {
+      "entry_id": "T2-S-001",
+      "source_name": "NBC News",
+      "reason": "This article is a general report on ICE shootings since September 2025 and does not mention the specific incident involving Silverio Villegas Gonzalez in Franklin Park, IL."
+    },
+    {
+      "entry_id": "T1-D-055",
+      "source_name": "Wikipedia/News reports",
+      "reason": "This is a general policy article about Trump-era deportations and does not mention Parady La or the specific incident."
+    },
+    {
+      "entry_id": "T2-S-006",
+      "source_name": "NBC News",
+      "reason": "This article discusses a series of ICE/CBP shootings since September 2025, but does not mention the specific incident involving Isaias Sanchez Barboza on 2025-12-11 in Rio Grande City."
+    },
+    {
+      "entry_id": "T2-S-011",
+      "source_name": "NBC News",
+      "reason": "This article provides a general overview of ICE shootings since September 2025, but does not mention the specific incident involving Julio Cesar Sosa-Celis on January 14, 2026."
+    },
+    {
+      "entry_id": "T2-S-009",
+      "source_name": "NBC News",
+      "reason": "This article is a general report on ICE/CBP shootings since September 2025 and does not mention the specific incident involving Luis David Nino Moncada in Portland on 2026-01-08."
+    },
+    {
+      "entry_id": "T2-S-003",
+      "source_name": "NBC News",
+      "reason": "This article provides a general overview of ICE shootings since September 2025 but does not mention the specific incident involving Carlitos Ricardo Parias in Los Angeles on October 21, 2025."
+    },
+    {
+      "entry_id": "T2-S-010",
+      "source_name": "NBC News",
+      "reason": "This article provides a general overview of ICE/CBP shootings since September 2025 but does not mention the specific incident involving Yorlenys Betzabeth Zambrano-Contreras in Portland on 2026-01-08."
+    },
+    {
+      "entry_id": "T2-LL-002",
+      "source_name": "ABC7 Los Angeles",
+      "reason": "This article describes a different incident where reporter Lauren Tomasi was hit in the leg in downtown Los Angeles on June 8, 2025, not Ryanne Mena in Paramount on June 7."
+    },
+    {
+      "entry_id": "T2-LL-002",
+      "source_name": "NPR",
+      "reason": "This article is a general report about lawsuits and multiple incidents involving journalists at ICE protests in Los Angeles, with no mention of Ryanne Mena or a specific incident in Paramount on June 7."
+    },
+    {
+      "entry_id": "T2-WD-003",
+      "source_name": "ProPublica",
+      "reason": "This article is a general investigative report about U.S. citizens detained by immigration agents, but it does not mention the specific incident involving Andrea Velez in Los Angeles on June 24, 2025."
+    },
+    {
+      "entry_id": "T2-LL-008",
+      "source_name": "Chicago Sun-Times",
+      "reason": "This is a general explainer article about ICE's use of less-lethal weapons, not a report on the specific September 26, 2025 incident involving Brian Rivera in Broadview."
+    },
+    {
+      "entry_id": "T2-WD-005",
+      "source_name": "ProPublica",
+      "reason": "This article is a general investigative report about U.S. citizens detained by immigration agents, but it does not mention the specific incident involving Rafie Ollah Shouhed in Van Nuys on 2025-09-09."
+    },
+    {
+      "entry_id": "T2-S-004",
+      "source_name": "FOX News",
+      "reason": "Article discusses multiple ICE shootings in Minneapolis and nationwide, with no mention of the specific Phoenix incident on October 29, 2025."
+    },
+    {
+      "entry_id": "T2-WD-006",
+      "source_name": "CNN",
+      "reason": "This is a general fact-check article about US citizen detentions in 2025, not about the specific Debbie Brockman incident."
+    },
+    {
+      "entry_id": "T3-049",
+      "source_name": "Maryland Matters",
+      "reason": "Article is about general ICE activity and protests in Baltimore, but does not mention the specific incident of a child being struck during a father's confrontation."
+    },
+    {
+      "entry_id": "T3-049",
+      "source_name": "WBAL-TV",
+      "reason": "Article discusses a spike in ICE activity in Highlandtown and a protest, but does not mention the specific incident of a child being assaulted."
+    },
+    {
+      "entry_id": "T3-049",
+      "source_name": "WYPR",
+      "reason": "Article covers increased ICE enforcement and a protest in Highlandtown, but does not contain any details about a child being struck or the specific June 8 grocery store incident."
+    },
+    {
+      "entry_id": "T3-051",
+      "source_name": "ABC7 / NBC / CBS",
+      "reason": "This article describes a raid on November 19, 2025, which is a different, second raid at the same location, not the January 23, 2025 incident described in the database entry."
+    },
+    {
+      "entry_id": "T3-063",
+      "source_name": "Civil Eats",
+      "reason": "Article is a running list of ICE raids from June 2025 and earlier, with no mention of the November 2025 Florida incident."
+    },
+    {
+      "entry_id": "T3-111",
+      "source_name": "New Haven Independent",
+      "reason": "This article describes a different ICE arrest at the New Haven courthouse on November 13, 2025, not the July 7, 2025 incident involving Gladys Samanta Tentes-Pitiur."
+    },
+    {
+      "entry_id": "T3-111",
+      "source_name": "CT Mirror",
+      "reason": "This article discusses a September 2025 letter from CT Senate Democrats and general concerns about ICE courthouse arrests, but does not mention the specific July 7, 2025 incident or Gladys Samanta Tentes-Pitiur."
+    },
+    {
+      "entry_id": "T3-111",
+      "source_name": "Yale Daily News",
+      "reason": "This article reports on a November 2025 arrest and new state legislation, referencing a prior arrest on the New Haven Green, but does not mention the specific July 7, 2025 incident or the victim named in the database entry."
+    },
+    {
+      "entry_id": "T3-114",
+      "source_name": "Religion News Service",
+      "reason": "Discusses ICE incidents at churches in general and mentions multiple states, but does not describe the specific June 8, 2025, incident in Tucker/Brookhaven, Georgia."
+    },
+    {
+      "entry_id": "T3-114",
+      "source_name": "Christianity Today",
+      "reason": "Describes a different ICE arrest at a church in Atlanta (Norcross) on January 26, 2025, which is not the incident in the database entry."
+    },
+    {
+      "entry_id": "T3-108",
+      "source_name": "CNN",
+      "reason": "This article is about a different ICE incident (preschooler taken, church protest, FBI agent resignation) and does not mention the Jackson family tear gas incident."
+    },
+    {
+      "entry_id": "T3-115",
+      "source_name": "Christian Post",
+      "reason": "Primarily about a different incident at Downey Memorial Church in Downey, CA, with only a brief, non-detailed mention of the San Bernardino incidents."
+    },
+    {
+      "entry_id": "T3-116",
+      "source_name": "MPR News",
+      "reason": "Article is about Michelin-starred chefs coming to Minnesota, completely unrelated to ICE incidents."
+    },
+    {
+      "entry_id": "T3-122",
+      "source_name": "Louisiana Illuminator",
+      "reason": "This article discusses ICE detaining pregnant/postpartum immigrants in general but does not mention Nayra Guzm\u00e1n or the specific incident."
+    },
+    {
+      "entry_id": "T3-113",
+      "source_name": "KUOW",
+      "reason": "Focuses on a different, individual unlawful detention case from July 2025, not the May 22-23 courthouse arrests of multiple people."
+    },
+    {
+      "entry_id": "T3-112",
+      "source_name": "Mercury News (Dec)",
+      "reason": "Article is about a different incident (Jorge Willy Valera Chuquillanqui) and a later, broader policy ruling by Judge Casey Pitts."
+    },
+    {
+      "entry_id": "T3-120",
+      "source_name": "Salon",
+      "reason": "Article is about a different incident involving a 6-year-old leukemia patient from Honduras detained in May-July 2025."
+    },
+    {
+      "entry_id": "T3-118",
+      "source_name": "WTTW Chicago",
+      "reason": "Reports on a different incident involving Ald. Jessie Fuentes in Chicago on Oct 3, 2025, which is only mentioned in the database entry's notes but is not the primary incident."
+    },
+    {
+      "entry_id": "T3-149",
+      "source_name": "FL Governor Office",
+      "reason": "Describes a milestone from January 2026, reporting over 10,000 total arrests for Operation Tidal Wave, not the specific April 2025 event."
+    },
+    {
+      "entry_id": "T3-189",
+      "source_name": "POGO",
+      "reason": "Article discusses a general decline in ICE inspections and record detention numbers in 2025, but does not mention the specific October 2025 overcrowding incident at the Krome detention center in Miami, Florida."
+    },
+    {
+      "entry_id": "T3-163",
+      "source_name": "NIPNLG Press Release",
+      "reason": "This article is about a 2020 hunger strike at the LaSalle Detention Facility (GEO Group-operated), not the 2025 incident at Camp J (Angola State Penitentiary)."
+    },
+    {
+      "entry_id": "T3-181",
+      "source_name": "Wikipedia",
+      "reason": "Article is about June 2025 protests in Los Angeles, California, not about an October 2025 incident in Chicago, Illinois."
+    },
+    {
+      "entry_id": "T3-176",
+      "source_name": "Military.com",
+      "reason": "Article from January 2025 details an initial wave of 1,600 troops, which is a different, earlier deployment phase than the July 2025 situation described in the database entry."
+    },
+    {
+      "entry_id": "T3-188",
+      "source_name": "DNyuz / NYT",
+      "reason": "The provided snippet contains no content related to the January 24 deportation flight or ICE incidents; it appears to be a generic news aggregator page."
+    },
+    {
+      "entry_id": "T3-P005",
+      "source_name": "KTLA",
+      "reason": "Article is about protests on June 10-11, 2025, the day(s) after the incident described in the database entry."
+    },
+    {
+      "entry_id": "T3-P013",
+      "source_name": "Wikipedia",
+      "reason": "The provided text is a truncated article about the protests but does not contain the specific friendly fire incident involving LAPD officers."
+    },
+    {
+      "entry_id": "T3-P013",
+      "source_name": "KTLA",
+      "reason": "The provided text describes the protest and dispersal but does not mention the friendly fire incident where LASD hit LAPD officers."
+    },
+    {
+      "entry_id": "T3-P017",
+      "source_name": "CBS San Francisco",
+      "reason": "This article is dated July 14, 2025, and discusses nationwide unrest, not the specific June 8, 2025, San Francisco protest described in the database entry."
+    },
+    {
+      "entry_id": "T3-P032",
+      "source_name": "Democracy Now! Article",
+      "reason": "Article is dated Jan 13, 2026 and discusses general ICE protests and incidents in Minneapolis, but does not mention the specific CNN crew incident at the Bishop Henry Whipple Federal Building."
+    },
+    {
+      "entry_id": "T3-P031",
+      "source_name": "CNN Live Updates",
+      "reason": "Article is dated Jan 13, 2026 and discusses general ICE protests and raids in Minneapolis, not the specific Jan 14-15, 2026 protest at the Bishop Henry Whipple Federal Building following the Renee Good shooting."
+    },
+    {
+      "entry_id": "T3-P031",
+      "source_name": "Bring Me The News",
+      "reason": "Article is dated Jan 27, 2026 and focuses on protests following the Alex Pretti shooting, not the Jan 14-15, 2026 protests at the Bishop Henry Whipple Federal Building following the Renee Good shooting."
+    },
+    {
+      "entry_id": "T3-206",
+      "source_name": "KING 5",
+      "reason": "Article is dated October 2025 and discusses general conditions at the facility, with no mention of Charles Leo Daniel or the March 2024 death incident."
+    },
+    {
+      "entry_id": "T3-219",
+      "source_name": "Immigration Policy Tracking Project",
+      "reason": "This source is a timeline of multiple ICE worksite raids from January to June 2025, but none mention the specific May 20, 2025 raid in Laredo, Texas described in the database entry."
+    },
+    {
+      "entry_id": "T3-P026",
+      "source_name": "South Seattle Emerald",
+      "reason": "Article is about ICE protests generally but does not provide specific details about the June 10 incident with blockades and arrests."
+    },
+    {
+      "entry_id": "T3-P030",
+      "source_name": "Denver Voice",
+      "reason": "This article describes a protest on Broadway in Denver on January 25, 2026, which is a different event from the January 24, 2026 Capitol protest in the database entry."
+    },
+    {
+      "entry_id": "T3-P030",
+      "source_name": "Colorado Newsline",
+      "reason": "This article describes a protest on January 9, 2026, at the Colorado Capitol, which is a different event from the January 24, 2026 protest in the database entry."
+    },
+    {
+      "entry_id": "T3-P030",
+      "source_name": "Colorado Public Radio",
+      "reason": "This article describes a protest on January 9, 2026, at the Colorado State Capitol, which is a different event from the January 24, 2026 protest in the database entry."
+    },
+    {
+      "entry_id": "T3-218",
+      "source_name": "Immigration Policy Tracking Project",
+      "reason": "This source is a policy tracker summarizing multiple unrelated ICE raids and actions across the U.S. in 2025, none of which match the specific San Diego incident on March 27, 2025."
+    },
+    {
+      "entry_id": "T3-205",
+      "source_name": "KNKX Public Radio",
+      "reason": "Published in June 2024, it is a general report on facility deaths and does not mention the specific October 2024 incident or Jose Manuel Sanchez-Castro."
+    },
+    {
+      "entry_id": "T3-205",
+      "source_name": "OPB",
+      "reason": "Published in December 2025, it is a documentary about general conditions and a different case, not the specific death in October 2024."
+    },
+    {
+      "entry_id": "T3-P039",
+      "source_name": "Chicago Sun-Times",
+      "reason": "Article describes protests on Monday, Sept 22, 2025, which is a different date and event from the Sept 19 incident in the database entry."
+    },
+    {
+      "entry_id": "T4-014",
+      "source_name": "CNN",
+      "reason": "The article is about a vigil at the GEO ICE detention center in February 2025 and does not mention Jeanette Vizguerra's arrest in March 2025."
+    },
+    {
+      "entry_id": "T3-214",
+      "source_name": "CBS News",
+      "reason": "Article is a general analysis of ICE use-of-force tactics and videos, not specifically about the Sam's Club toddler incident."
+    },
+    {
+      "entry_id": "T3-216",
+      "source_name": "CBS News",
+      "reason": "Article is a general analysis of ICE use-of-force tactics against protesters in multiple cities, not about the specific Beverly Hills arrest incident."
+    },
+    {
+      "entry_id": "T3-204",
+      "source_name": "Civil Eats",
+      "reason": "Article is a June 2025 running list of ICE raids, not about the specific January 2025 Central Valley operation."
+    },
+    {
+      "entry_id": "T4-020",
+      "source_name": "WHYY",
+      "reason": "Provides background on Delaney Hall and mentions protests, but focuses on the facility's May 1 opening and subsequent events, not the specific March 11 coalition protest."
+    },
+    {
+      "entry_id": "T4-020",
+      "source_name": "New Jersey Monitor",
+      "reason": "Reports on Mayor Baraka's arrest on May 9, 2025, which is a separate, later event mentioned in the database entry's notes but not the primary incident being verified."
+    }
+  ]
+}

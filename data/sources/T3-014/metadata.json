@@ -1,0 +1,19 @@
+{
+  "entry_id": "T3-014",
+  "url": "https://www.vpm.org/news/2025-04-23/albemarle-courthouse-ice-raid-nicholas-reppucci-teodoro-dominguez-rodriguez",
+  "final_url": "https://www.vpm.org/news/2025-04-23/albemarle-courthouse-ice-raid-nicholas-reppucci-teodoro-dominguez-rodriguez",
+  "status_code": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 8056,
+  "content_hash": "2be04c3a8f287a6fcc472233847587b964f030440b7fb614ddda4021fd920e49",
+  "title": "2 men detained at Albemarle courthouse in alleged ICE raid",
+  "fetched_at": "2026-01-27T00:29:54.523675",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251226064530/https://www.vpm.org/news/2025-04-23/albemarle-courthouse-ice-raid-nicholas-reppucci-teodoro-dominguez-rodriguez",
+  "retry_fetch": {
+    "method": "wayback_20250426041316",
+    "fetched_at": "2026-01-27T00:46:36.772070",
+    "content_length": 215850,
+    "content_hash": "c64fffe809546c3872e6cc03d40ae77ec410c51f62cb3e2c37992b487462cb6b"
+  }
+}

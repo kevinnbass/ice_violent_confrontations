@@ -1,0 +1,29 @@
+{
+  "entry_id": "T3-P038",
+  "url": "https://chicago.suntimes.com/news/2025/09/19/ice-broadview-protest-write-thru",
+  "final_url": "https://chicago.suntimes.com/news/2025/09/19/ice-broadview-protest-write-thru",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "36e64bddd69538e84389637a41750c736f3dadfc64ef5154da7e3e05fa9ee0df",
+  "title": "Congressional candidate thrown to ground, protesters tear-gassed in clashes at Broadview ICE facility - Chicago Sun-Times",
+  "fetched_at": "2026-01-27T14:47:38.903596",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251115215801/https://chicago.suntimes.com/news/2025/09/19/ice-broadview-protest-write-thru",
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.chicagotribune.com/2025/09/19/tear-gas-protesters-broadview-ice/",
+      "final_url": "https://www.chicagotribune.com/2025/09/19/tear-gas-protesters-broadview-ice/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 251766,
+      "content_hash": "07dadffda565fbe1833d8529b9c6ca1a8376a2ec8be379badfecdae4e66c915d",
+      "title": "Tear gas used against protesters at Broadview ICE facility",
+      "fetched_at": "2026-01-27T16:27:49.599563",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P038\\article_1.txt"
+    }
+  ]
+}

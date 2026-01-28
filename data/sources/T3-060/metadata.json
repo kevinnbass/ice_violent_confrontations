@@ -1,0 +1,52 @@
+{
+  "archive_fetch": {
+    "method": "google_cache",
+    "archive_url": "https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Fomaha.com%2Fnews%2Flocal%2Fice-raid-glenn-valley-foods-workers-detained%2Farticle",
+    "fetched_at": "2026-01-27T01:25:57.523850",
+    "content_length": 84779
+  },
+  "sources": [
+    {
+      "source_index": 1,
+      "url": "https://www.nbcnews.com/news/us-news/omaha-immigration-workplace-raid-aftermath-rcna212931",
+      "final_url": "https://www.nbcnews.com/news/us-news/omaha-immigration-workplace-raid-aftermath-rcna212931",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 327928,
+      "content_hash": "781d694b0452be2b7561916d84cc668c5925ed34ed2ff22776b2d08b4e032826",
+      "title": "After Omaha, Nebraska largest worksite immigration raid, a community works to recover",
+      "fetched_at": "2026-01-27T16:28:04.172084",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-060\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://flatwaterfreepress.org/ice-raids-hit-omaha-meatpacking-plants/",
+      "final_url": "https://flatwaterfreepress.org/ice-raids-hit-omaha-meatpacking-plants/",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7448,
+      "content_hash": "0b7c4637da9ea8eeaafc5e42d54863d70ab5659ddef072264b5040ea0e11bdf0",
+      "title": "Immigration raid rocks Nebraska meatpacking plant; protesters and law enforcement clash - Flatwater Free Press",
+      "fetched_at": "2026-01-27T16:20:41.818787",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251016192814/https://flatwaterfreepress.org/ice-raids-hit-omaha-meatpacking-plants/",
+      "archive_path": "data\\sources\\T3-060\\article_2_wayback.txt"
+    },
+    {
+      "source_index": 3,
+      "url": "https://nebraskapublicmedia.org/en/news/news-articles/many-remain-detained-following-omaha-ice-raid/",
+      "final_url": "https://nebraskapublicmedia.org/en/news/news-articles/many-remain-detained-following-omaha-ice-raid/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 121726,
+      "content_hash": "94a9183546c4174dbda784afd986d806e4583e7c3bd57ad144b1f2221b00d554",
+      "title": "Many remain detained following Omaha ICE raid | Nebraska Public Media",
+      "fetched_at": "2026-01-27T16:30:37.858679",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-060\\article_3.txt"
+    }
+  ]
+}

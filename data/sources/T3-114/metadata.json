@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-114",
+  "url": "https://www.decaturish.com/news/brookhaven/report-ice-makes-arrests-in-dekalb-pastor-says-agents-arrested-parishioner/article_d8bd478a-3fb2-5c8c-8744-cb50f740cd86.html",
+  "final_url": "https://www.decaturish.com/news/brookhaven/report-ice-makes-arrests-in-dekalb-pastor-says-agents-arrested-parishioner/article_d8bd478a-3fb2-5c8c-8744-cb50f740cd86.html",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 255246,
+  "content_hash": "df05b8c2ffe2e11a68b84b61f92ebbfe740e41a28549759356489b30201d0a79",
+  "title": "Report: ICE makes arrests in DeKalb; Pastor says agents arrested parishioner | Brookhaven | decaturish.com",
+  "fetched_at": "2026-01-27T14:45:49.152529",
+  "from_wayback": false,
+  "wayback_url": null,
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.decaturish.com/news/brookhaven/report-ice-makes-arrests-in-dekalb-pastor-says-agents-arrested-parishioner/article_d8bd478a-3fb2-5c8c-8744-cb50f740cd86.html",
+      "final_url": "https://www.decaturish.com/news/brookhaven/report-ice-makes-arrests-in-dekalb-pastor-says-agents-arrested-parishioner/article_d8bd478a-3fb2-5c8c-8744-cb50f740cd86.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 254943,
+      "content_hash": "d2cb457c118744453c675ab558185618794ab4f3c74bc33df9b6943c59c4c356",
+      "title": "Report: ICE makes arrests in DeKalb; Pastor says agents arrested parishioner | Brookhaven | decaturish.com",
+      "fetched_at": "2026-01-27T16:27:56.291376",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-114\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://religionnews.com/2025/08/04/when-ice-detains-people-on-church-grounds-pastors-say-congregations-suffer/",
+      "final_url": "https://religionnews.com/2025/08/04/when-ice-detains-people-on-church-grounds-pastors-say-congregations-suffer/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 296269,
+      "content_hash": "e1348821b14cc098ae382f82fd6e91838be4734c2a69b228d089b7c057292765",
+      "title": "'This is domestic terror': Shaken by ICE raids, pastors rethink ministries",
+      "fetched_at": "2026-01-27T16:28:22.113092",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-114\\article_1.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.christianitytoday.com/2025/01/should-churches-fear-ice-raids-atlanta/",
+      "final_url": "https://www.christianitytoday.com/2025/01/should-churches-fear-ice-raids-atlanta/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 277274,
+      "content_hash": "15a3f27d3601a6a0466454c0b6fbf13a2b695caacfb063de8f8eec5a090f9945",
+      "title": "When ICE Comes to Church - Christianity Today",
+      "fetched_at": "2026-01-27T16:29:01.576712",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-114\\article_2.txt"
+    }
+  ]
+}

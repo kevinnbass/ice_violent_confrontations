@@ -1,0 +1,57 @@
+{
+  "entry_id": "T3-P018",
+  "url": "https://www.cbsnews.com/newyork/news/nyc-officials-arrested-ice-protest/",
+  "final_url": "https://www.cbsnews.com/newyork/news/nyc-officials-arrested-ice-protest/",
+  "status_code": null,
+  "content_type": null,
+  "content_length": 0,
+  "content_hash": "a0284e19008aa89aaae8f0ddf9e2a3b2b63e6444ae794d8fba40e4dd2c3ffe5e",
+  "title": "New York officials among dozens arrested at anti-ICE demonstration - CBS New York",
+  "fetched_at": "2026-01-27T14:50:11.778070",
+  "from_wayback": true,
+  "wayback_url": "http://web.archive.org/web/20251102012940/https://www.cbsnews.com/newyork/news/nyc-officials-arrested-ice-protest/",
+  "sources": [
+    {
+      "source_index": 0,
+      "url": "https://www.foxnews.com/us/police-swiftly-remove-anti-ice-protesters-who-invaded-trump-tower-nationwide-demonstrations-intensify",
+      "final_url": "https://www.foxnews.com/us/police-swiftly-remove-anti-ice-protesters-who-invaded-trump-tower-nationwide-demonstrations-intensify",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 422880,
+      "content_hash": "39f469fdf4b205bbd9608ecf543d2c8722a4d7760353a5b9d10bec69bc2de3a3",
+      "title": "NYPD arrests anti-ICE protesters occupying Trump Tower lobby in Manhattan | Fox News",
+      "fetched_at": "2026-01-27T16:27:56.438272",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P018\\article.txt"
+    },
+    {
+      "source_index": 1,
+      "url": "https://www.axios.com/2025/06/10/ice-protests-la-nationwide-trump-tower-arrests",
+      "final_url": "https://www.axios.com/2025/06/10/ice-protests-la-nationwide-trump-tower-arrests",
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 7648,
+      "content_hash": "e9fe95f32146885f9a848abd7e75b235c9391e4e784637ef16dc5be12c733fec",
+      "title": "ICE protests spread across U.S.: Over 20 arrested at Trump Tower demonstration",
+      "fetched_at": "2026-01-27T16:12:35.417132",
+      "from_wayback": true,
+      "wayback_url": "http://web.archive.org/web/20251223170141/https://www.axios.com/2025/06/10/ice-protests-la-nationwide-trump-tower-arrests",
+      "archive_path": "data\\sources\\T3-P018\\article_1_wayback.txt"
+    },
+    {
+      "source_index": 2,
+      "url": "https://www.amny.com/new-york/ice-raid-unrest-protest-trump-tower-immigrants-06092025/",
+      "final_url": "https://www.amny.com/new-york/ice-raid-unrest-protest-trump-tower-immigrants-06092025/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 133457,
+      "content_hash": "79e5ef3f10bdee8de04ec970a40966d056225f340bb369efe3cc662fb0f2ce7b",
+      "title": "ICE raid unrest: Protesters arrested for occupying Trump Tower, demanding release of detained immigrants \u2013 amNewYork",
+      "fetched_at": "2026-01-27T16:30:29.885551",
+      "from_wayback": false,
+      "wayback_url": null,
+      "archive_path": "data\\sources\\T3-P018\\article_2.txt"
+    }
+  ]
+}
